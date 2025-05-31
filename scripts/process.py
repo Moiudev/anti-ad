@@ -74,6 +74,10 @@ def classify_rule(rule_str):
     if rule.startswith(".") and is_valid_domain(rule[1:]):
         return ("suffix", rule.lower())
 
+    if '.' in rule and ' ' not in rule and not any(c in rule for c in ['/', ':', '!', '#']):
+        if is_valid_domain(rule):
+            return ("exact", rule.lower())
+
     return None
 
 
@@ -108,7 +112,10 @@ def process_rules():
         except Exception as e:
             print(f"处理文件 {file.name} 时出错: {str(e)}")
 
-    return {"exact": sorted(exact_rules), "suffix": sorted(suffix_rules)}
+    return {
+        "exact": sorted(exact_rules),
+        "suffix": sorted(suffix_rules)
+    }
 
 
 def main():

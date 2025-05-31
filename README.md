@@ -26,12 +26,12 @@
 | --------------------- | ------------------------------------------------ |
 | 1Hosts Pro            | https://github.com/badmojr/1Hosts                |
 | Adblock-Plus-Rule     | https://github.com/xinggsf/Adblock-Plus-Rule     |
+| AdGuard DNS filter    | https://github.com/AdguardTeam/AdguardSDNSFilter |
+| AdGuardFilters        | https://github.com/AdguardTeam/AdGuardFilters    |
 | AWAvenue Ads Rule     | https://github.com/TG-Twilight/AWAvenue-Ads-Rule |
 | BanAD                 | https://github.com/damengzhu/banad               |
 | CJX Annoyance List    | https://github.com/cjx82630/cjxlist              |
-| EasyList              | https://github.com/easylist/easylist             |
 | EasyList China        | https://github.com/easylist/easylistchina        |
-| EasyPrivacy           | https://github.com/easylist/easylist             |
 | hagezi DNS Blocklists | https://github.com/hagezi/dns-blocklists         |
 
 

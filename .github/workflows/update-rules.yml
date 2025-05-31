@@ -1,0 +1,57 @@
+name: Update Rules
+
+on:
+  schedule:
+    - cron: "0 */2 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+        token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: "3.13"
+
+    - name: Install dependencies
+      run: |
+        pip install --upgrade pip
+        pip install -r scripts/requirements.txt
+
+    - name: Install jq
+      run: sudo apt-get install -y jq
+
+    - name: Run processing script
+      run: python scripts/process.py
+
+    - name: Download sing-box
+      run: |
+        LATEST_VERSION=$(curl -sL "https://api.github.com/repos/SagerNet/sing-box/releases/latest" | jq -r '.tag_name' | sed 's/v//')
+        wget "https://github.com/SagerNet/sing-box/releases/download/v${LATEST_VERSION}/sing-box-${LATEST_VERSION}-linux-amd64.tar.gz"
+        tar -xzf sing-box-${LATEST_VERSION}-linux-amd64.tar.gz
+        mv sing-box-${LATEST_VERSION}-linux-amd64/sing-box .
+        rm -r sing-box-${LATEST_VERSION}-linux-amd64*
+
+    - name: Compile rule set
+      run: |
+        chmod +x sing-box
+        ./sing-box rule-set compile --output anti-ad.srs anti-ad.json
+
+    - name: Commit changes
+      run: |
+        git config user.name "GitHub Actions"
+        git config user.email "actions@github.com"
+        git add anti-ad.srs anti-ad.json rules/*
+
+        TIMESTAMP=$(TZ="Asia/Shanghai" date +"%Y-%m-%d %H:%M")
+        git commit -m "规则更新于 $TIMESTAMP" || echo "无变化"
+        git push || true

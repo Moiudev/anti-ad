@@ -33,6 +33,7 @@
 | CJX Annoyance List    | https://github.com/cjx82630/cjxlist              |
 | EasyList China        | https://github.com/easylist/easylistchina        |
 | hagezi DNS Blocklists | https://github.com/hagezi/dns-blocklists         |
+| Loyalsoldier          | https://github.com/Loyalsoldier/v2ray-rules-dat  |
 
 
 感谢所有规则维护者的辛勤工作和持续更新，正是他们的努力让网络环境更加清洁。

@@ -10,12 +10,22 @@ SOURCES_LIST = BASE_DIR / "sources.txt"
 OUTPUT_JSON = BASE_DIR / "anti-ad.json"
 
 
+ADGUARD_NAME_MAP = {
+    "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt": "AdGuard_Annoyances.txt",
+    "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt": "AdGuard_DNS_filter.txt",
+    "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt": "AdGuard_Chinese_filter.txt",
+}
+
+
 def load_sources():
     with open(SOURCES_LIST, "r", encoding="utf-8") as f:
         return [line.strip() for line in f if line.strip() and not line.startswith("#")]
 
 
 def safe_filename(url):
+    if url in ADGUARD_NAME_MAP:
+        return ADGUARD_NAME_MAP[url]
+    
     filename = re.sub(r"[^\w\.-]", "_", url.split("/")[-1].split("?")[0])
     return filename or "unnamed.txt"
 

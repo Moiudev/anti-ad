@@ -28,7 +28,6 @@ def download_rules():
             file.unlink()
 
     rule_sources = load_sources()
-
     for url in rule_sources:
         try:
             response = requests.get(url, timeout=15)
@@ -86,9 +85,6 @@ def process_rules():
     suffix_rules = set()
 
     for file in SOURCES_DIR.glob("*"):
-        if file.name == "sources.txt" or file.name == "README.md":
-            continue
-
         try:
             with open(file, "r", encoding="utf-8", errors="ignore") as f:
                 for line in f:

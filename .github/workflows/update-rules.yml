@@ -1,9 +1,9 @@
 name: Update Rules
 
 on:
-  schedule:
+  schedule:   # 设置定时任务，每 2 小时运行一次
     - cron: "0 */2 * * *"
-  workflow_dispatch:
+  workflow_dispatch:   # 允许手动触发，允许在 GitHub 界面手动运行工作流
 
 jobs:
   update:
@@ -14,44 +14,71 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
-        fetch-depth: 0
-        token: ${{ secrets.GITHUB_TOKEN }}
+        fetch-depth: 0  # 获取完整历史记录
+        token: ${{ secrets.GITHUB_TOKEN }}  # 使用 GitHub 令牌进行认证
 
+    # 设置 Python 环境
     - name: Set up Python
       uses: actions/setup-python@v5
       with:
         python-version: "3.13"
 
+    # 安装 Python 依赖
     - name: Install dependencies
       run: |
         pip install --upgrade pip
         pip install -r scripts/requirements.txt
 
+    # 安装 jq 工具，用于处理 JSON 数据
     - name: Install jq
-      run: sudo apt-get install -y jq
+      run: sudo apt install -y jq
 
+    # 运行处理脚本，用于生成 anti-ad.json
     - name: Run processing script
       run: python scripts/process.py
 
+    # 下载 sing-box 工具
     - name: Download sing-box
       run: |
+        # 获取 sing-box 最新版本号
         LATEST_VERSION=$(curl -sL "https://api.github.com/repos/SagerNet/sing-box/releases/latest" | jq -r '.tag_name' | sed 's/v//')
+
+        # 下载最新版本的 sing-box
         wget "https://github.com/SagerNet/sing-box/releases/download/v${LATEST_VERSION}/sing-box-${LATEST_VERSION}-linux-amd64.tar.gz"
+
+        # 解压下载的文件
         tar -xzf sing-box-${LATEST_VERSION}-linux-amd64.tar.gz
+
+        # 移动 sing-box 可执行文件到当前目录
         mv sing-box-${LATEST_VERSION}-linux-amd64/sing-box .
+
+        # 清理临时文件和目录
         rm -r sing-box-${LATEST_VERSION}-linux-amd64*
 
+        # 删除下载的压缩包
+        rm sing-box-${LATEST_VERSION}-linux-amd64.tar.gz
+
+    # 编译规则集
     - name: Compile rule set
       run: |
-        chmod +x sing-box
-        ./sing-box rule-set compile --output anti-ad.srs anti-ad.json
+        chmod +x sing-box  # 添加执行权限
+        ./sing-box rule-set compile --output anti-ad.srs anti-ad.json  # 编译 JSON 规则集为 SRS 格式
 
+    # 提交变更到仓库
     - name: Commit changes
       run: |
+        # 配置 Git 用户信息，使用 GitHub Actions 的默认身份
         git config user.name "GitHub Actions"
         git config user.email "actions@github.com"
+
+        # 添加变更文件（SRS 规则集、JSON 规则集和 rules 目录下的文件）
         git add anti-ad.srs anti-ad.json rules/*
 
+        # 获取当前时间（北京时间）
         TIMESTAMP=$(TZ="Asia/Shanghai" date +"%Y-%m-%d %H:%M")
+
+        # 提交变更
         git commit -m "规则更新于 $TIMESTAMP" || echo "无变化"
+
+        # 推送变更到仓库
         git push || true

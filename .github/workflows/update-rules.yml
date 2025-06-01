@@ -55,9 +55,6 @@ jobs:
         # 清理临时文件和目录
         rm -r sing-box-${LATEST_VERSION}-linux-amd64*
 
-        # 删除下载的压缩包
-        rm sing-box-${LATEST_VERSION}-linux-amd64.tar.gz
-
     # 编译规则集
     - name: Compile rule set
       run: |

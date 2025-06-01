@@ -4,7 +4,6 @@ https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/fil
 https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/adblock.txt
 https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
 https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt
-https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt
 https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/reject-list.txt
 https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt

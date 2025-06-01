@@ -31,7 +31,6 @@
 | AWAvenue Ads Rule     | https://github.com/TG-Twilight/AWAvenue-Ads-Rule |
 | BanAD                 | https://github.com/damengzhu/banad               |
 | CJX Annoyance List    | https://github.com/cjx82630/cjxlist              |
-| EasyList China        | https://github.com/easylist/easylistchina        |
 | hagezi DNS Blocklists | https://github.com/hagezi/dns-blocklists         |
 | Loyalsoldier          | https://github.com/Loyalsoldier/v2ray-rules-dat  |
 

@@ -24,15 +24,17 @@
 
 | 规则源名称             | 链接                                             |
 | --------------------- | ------------------------------------------------ |
-| 1Hosts Pro            | https://github.com/badmojr/1Hosts                |
-| Adblock-Plus-Rule     | https://github.com/xinggsf/Adblock-Plus-Rule     |
+| 1Hosts Adblock Pro    | https://github.com/badmojr/1Hosts                |
+| Adblock Plus Rule     | https://github.com/xinggsf/Adblock-Plus-Rule     |
 | AdGuard DNS filter    | https://github.com/AdguardTeam/AdguardSDNSFilter |
 | AdGuardFilters        | https://github.com/AdguardTeam/AdGuardFilters    |
 | AWAvenue Ads Rule     | https://github.com/TG-Twilight/AWAvenue-Ads-Rule |
-| BanAD                 | https://github.com/damengzhu/banad               |
 | CJX Annoyance List    | https://github.com/cjx82630/cjxlist              |
+| damengzhu banad       | https://github.com/damengzhu/banad               |
+| Dan Pollock Hosts     | https://someonewhocares.org/hosts                |
 | hagezi DNS Blocklists | https://github.com/hagezi/dns-blocklists         |
-| Loyalsoldier          | https://github.com/Loyalsoldier/v2ray-rules-dat  |
+| Loyalsoldier Rules    | https://github.com/Loyalsoldier/v2ray-rules-dat  |
+| StevenBlack Hosts     | https://github.com/StevenBlack/hosts             |
 
 
 感谢所有规则维护者的辛勤工作和持续更新，正是他们的努力让网络环境更加清洁。

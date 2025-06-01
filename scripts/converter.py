@@ -3,19 +3,11 @@ from pathlib import Path
 
 def convert_to_json(rules_dict, output_path: Path):
     exact_rules = rules_dict.get("exact", [])
-    suffix_rules = rules_dict.get("suffix", [])
 
-    rule_objects = []
-
-    if exact_rules:
-        rule_objects.append({
-            "domain": exact_rules
-        })
-
-    if suffix_rules:
-        rule_objects.append({
-            "domain_suffix": suffix_rules
-        })
+    # 创建规则对象
+    rule_objects = [{
+        "domain": exact_rules
+    }] if exact_rules else []
 
     ruleset = {
         "version": 3,
@@ -24,3 +16,5 @@ def convert_to_json(rules_dict, output_path: Path):
 
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(ruleset, f, indent=2, ensure_ascii=False)
+
+    print(f"已生成规则集: {output_path} (包含 {len(exact_rules)} 条完整域名匹配规则。)")

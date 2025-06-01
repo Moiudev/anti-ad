@@ -34,6 +34,7 @@
 | Dan Pollock Hosts     | https://someonewhocares.org/hosts                |
 | hagezi DNS Blocklists | https://github.com/hagezi/dns-blocklists         |
 | Loyalsoldier Rules    | https://github.com/Loyalsoldier/v2ray-rules-dat  |
+| Peter Lowe            | https://pgl.yoyo.org/as/index.php                | 
 | StevenBlack Hosts     | https://github.com/StevenBlack/hosts             |
 
 

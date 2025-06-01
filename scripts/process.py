@@ -11,6 +11,7 @@ OUTPUT_JSON = BASE_DIR / "anti-ad.json"
 
 # 规则源的名称映射
 FRIENDLY_NAME_MAP = {
+    "https://pgl.yoyo.org/adservers/serverlist.php?showintro=0;hostformat=hosts": "Peter_Lowe.txt",
     "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt": "AdGuard_Base.txt",
     "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt": "AdGuard_Spyware.txt",
     "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt": "AdGuard_Mobile.txt",

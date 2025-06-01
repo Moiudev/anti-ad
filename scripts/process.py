@@ -1,6 +1,7 @@
 import re
 import requests
 import os
+import shutil
 from pathlib import Path
 from converter import convert_to_json
 
@@ -11,25 +12,30 @@ OUTPUT_JSON = BASE_DIR / "anti-ad.json"
 
 # 规则源的名称映射
 FRIENDLY_NAME_MAP = {
-    "https://pgl.yoyo.org/adservers/serverlist.php?showintro=0;hostformat=hosts": "Peter_Lowe.txt",
+    "https://easylist-downloads.adblockplus.org/easylist.txt": "EasyList.txt",
+    "https://easylist-downloads.adblockplus.org/easylistchina.txt": "EasyList_China.txt",
+    "https://easylist-downloads.adblockplus.org/easyprivacy.txt": "EasyPrivacy.txt",
+    "https://hblock.molinero.dev/hosts_adblock.txt": "HBlock_AdBlock.txt",
+    "https://phishing.army/download/phishing_army_blocklist.txt": "Phishing_Army.txt",
     "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt": "AdGuard_Base.txt",
     "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt": "AdGuard_Spyware.txt",
     "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt": "AdGuard_Mobile.txt",
     "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt": "AdGuard_Annoyances.txt",
     "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt": "AdGuard_DNS.txt",
     "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt": "AdGuard_Chinese.txt",
-    "https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/adblock.txt": "1Hosts_Pro.txt",
+    "https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/adblock.txt": "1Hosts_ADBlock_Pro.txt",
     "https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt": "CJX_Annoyance.txt",
     "https://raw.githubusercontent.com/damengzhu/banad/main/dnslist.txt": "BanAD_DNS.txt",
-    "https://raw.githubusercontent.com/damengzhu/banad/main/hosts.txt": "BanAD_Hosts.txt",
     "https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt": "BanAD_JiekouAD.txt",
-    "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt": "HaGeZi_ADBlock_Pro.txt",
-    "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/reject-list.txt": "Loyalsoldier_Reject.txt",
+    "https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt": "KADhosts.txt",
+    "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt": "Hagezi_ADBlock_Pro.txt",
+    "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/reject-list.txt": "Loyalsoldier_Reject_List.txt",
     "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts": "StevenBlack_Fakenews_Gambling.txt",
-    "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt": "AWAvenue_Ads.txt",
+    "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt": "AWAvenue_Ads_Rule.txt",
+    "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt": "uBlock_Filters.txt",
     "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt": "ChengFeng_MV.txt",
     "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt": "ChengFeng_Rule.txt",
-    "https://someonewhocares.org/hosts": "DanPollock_Hosts.txt"
+    "https://someonewhocares.org/hosts": "DanPollock_Hosts.txt",
 }
 
 
@@ -48,16 +54,21 @@ def safe_filename(url):
 
 
 def download_rules():
-    SOURCES_DIR.mkdir(parents=True, exist_ok=True)
+    # 如果目录存在，完全删除整个目录
+    if SOURCES_DIR.exists():
+        try:
+            shutil.rmtree(SOURCES_DIR)
+            print(f"已删除整个目录: {SOURCES_DIR}")
+        except Exception as e:
+            print(f"删除目录失败 {SOURCES_DIR}: {str(e)}")
 
-    # 清空规则目录
-    for file in SOURCES_DIR.glob("*"):
-        if file.is_file():
-            try:
-                file.unlink()
-                print(f"已删除旧规则文件: {file.name}")
-            except Exception as e:
-                print(f"删除文件失败 {file.name}: {str(e)}")
+    # 重新创建目录
+    try:
+        SOURCES_DIR.mkdir(parents=True, exist_ok=True)
+        print(f"已创建目录: {SOURCES_DIR}")
+    except Exception as e:
+        print(f"创建目录失败 {SOURCES_DIR}: {str(e)}")
+        return
 
     rule_sources = load_sources()
     total = len(rule_sources)
@@ -67,7 +78,7 @@ def download_rules():
     for i, url in enumerate(rule_sources, 1):
         try:
             print(f"下载中 ({i}/{total}): {url}")
-            response = requests.get(url, timeout=20)
+            response = requests.get(url, timeout=25)
             response.raise_for_status()
 
             filename = safe_filename(url)
@@ -76,6 +87,8 @@ def download_rules():
             with open(filepath, "w", encoding="utf-8") as f:
                 f.write(response.text)
             print(f"下载成功: {filename}")
+        except requests.exceptions.Timeout:
+            print(f"下载超时 [{url}]")
         except Exception as e:
             print(f"下载失败 [{url}]: {str(e)}")
 

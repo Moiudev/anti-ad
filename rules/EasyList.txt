@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: OSnSooOJ3C3ftfhANwwtDA
-! Version: 202506041001
+! Checksum: q5QF5e4DV2JRlV2xAa8ctg
+! Version: 202506041211
 ! Title: EasyList
-! Last modified: 04 Jun 2025 10:01 UTC
+! Last modified: 04 Jun 2025 12:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -59043,7 +59043,7 @@ pixiv.net##div[id^="adsdk-"]
 antiguanewsroom.com##div[id^="antig-"]
 slidesgo.com##div[id^="article_ads"]
 business-standard.com##div[id^="between_article_content_"]
-digg.com,iplogger.org,wallhere.com,webnots.com,wikitechy.com##div[id^="bsa-zone_"]
+digg.com,imggen.ai,iplogger.org,wallhere.com,webnots.com,wikitechy.com##div[id^="bsa-zone_"]
 business2community.com##div[id^="busin-"]
 competenetwork.com##div[id^="compe-"]
 elfaro.net##div[id^="content-ad-body"]

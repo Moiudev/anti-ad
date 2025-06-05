@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: /vwZSvogoT93BkgPybDuFg
-! Version: 202506051401
+! Checksum: i04GN6oPvs0YUAJOfy5ISQ
+! Version: 202506051601
 ! Title: EasyList
-! Last modified: 05 Jun 2025 14:01 UTC
+! Last modified: 05 Jun 2025 16:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -16558,6 +16558,7 @@ browsershots.org#@#.advert_area
 ||abadit5rckb.com^
 ||abadit5rckd.com^
 ||abamatoyer.com^
+||abanicdypnone.shop^
 ||abanwthwitfb.com^
 ||abaolokvmmvlv.top^
 ||abaolokvmmwrb.top^
@@ -24854,6 +24855,7 @@ browsershots.org#@#.advert_area
 ||fidelity-media.com^
 ||fidsdeign.shop^
 ||fidtaswiw.com^
+||fiefsgnarled.top^
 ||fieldparishskip.com^
 ||fiendpreyencircle.com^
 ||fieryinjure.com^
@@ -29900,6 +29902,7 @@ browsershots.org#@#.advert_area
 ||lmorabfuj.com^
 ||lmp3.org^
 ||lmukstyn.xyz^
+||lmvrjabakemzq.top^
 ||lmzhpzoycxjfn.top^
 ||lnabew.com^
 ||lndonclkds.com^
@@ -32090,6 +32093,7 @@ browsershots.org#@#.advert_area
 ||ntmreohudibfo.buzz^
 ||ntoftheusysia.info^
 ||ntoftheusysia.org^
+||ntoftheusysianedt.com^
 ||ntoftheusysianedt.info^
 ||ntoftheusysih.info^
 ||ntoucbwriboqc.site^
@@ -32396,6 +32400,7 @@ browsershots.org#@#.advert_area
 ||ofcamerupta.com^
 ||ofclaydolr.com^
 ||ofcuboneom.com^
+||ofcukorporatefi.com^
 ||ofdanpozlgha.com^
 ||ofdittor.com^
 ||ofdmajqubsa.com^
@@ -33617,6 +33622,7 @@ browsershots.org#@#.advert_area
 ||perkyexcitedlyscenario.com^
 ||permanentillnessclever.com^
 ||permitfeatures.com^
+||permittedcenterrevolve.com^
 ||perpetratejewels.com^
 ||perpetraterummage.com^
 ||perpetratorjeopardize.com^
@@ -34973,6 +34979,7 @@ browsershots.org#@#.advert_area
 ||qjvksieybn.vip^
 ||qjvsrmfoybyt.com^
 ||qkbjclwirtotj.vip^
+||qkcgorbrs.com^
 ||qksrv.cc^
 ||qksrv.net^
 ||qksrv1.com^
@@ -39138,6 +39145,7 @@ browsershots.org#@#.advert_area
 ||trasre.com^
 ||trasupr.com^
 ||trasyaircrew.top^
+||traumaticweakness.pro^
 ||traumavirus.com^
 ||travailsabeing.shop^
 ||traveladvertising.com^
@@ -40429,6 +40437,7 @@ browsershots.org#@#.advert_area
 ||vqonjcnsl.com^
 ||vqoqlebqqakmq.top^
 ||vqoqlebqqammj.top^
+||vqoxvmljxetiwg.com^
 ||vqqaelqkkzvvy.top^
 ||vqrozzojjlwbz.top^
 ||vrfuznaicvxaj.life^

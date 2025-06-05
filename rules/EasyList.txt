@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: YoGikv6gV+PKX/mjTFPoMQ
-! Version: 202506050801
+! Checksum: VZ8dYEqymwuYEu+e+9Uc2A
+! Version: 202506051001
 ! Title: EasyList
-! Last modified: 05 Jun 2025 08:01 UTC
+! Last modified: 05 Jun 2025 10:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -28551,6 +28551,7 @@ browsershots.org#@#.advert_area
 ||jlnxjwmeadaw.com^
 ||jlotlwqrgmpxfh.com^
 ||jlovoiqtgarh.com^
+||jlvoidsvcfs.com^
 ||jmopproojsc.xyz^
 ||jmpmedia.club^
 ||jmrnews.pro^
@@ -28614,6 +28615,7 @@ browsershots.org#@#.advert_area
 ||journeyblobsjigsaw.com^
 ||jousteevoofooge.net^
 ||jouteetu.net^
+||jouthetewhach.com^
 ||jouwaikekaivep.net^
 ||jovqyymemwzzj.top^
 ||jovybrazed.click^
@@ -39602,6 +39604,7 @@ browsershots.org#@#.advert_area
 ||uncolylirella.top^
 ||uncomfortableremote.com^
 ||uncommonperceived.com^
+||uncopedekkos.top^
 ||uncrobator.com^
 ||uncrookcurry.com^
 ||uncrownarmenic.com^
@@ -40976,6 +40979,7 @@ browsershots.org#@#.advert_area
 ||wktyyxtvwthxp.one^
 ||wkvvzeqybmmlv.top^
 ||wkvvzeqybmqmw.top^
+||wkwqljwjvkooz.top^
 ||wkwqljwjvovoj.top^
 ||wl-cornholio.com^
 ||wlafx4trk.com^
@@ -41415,6 +41419,7 @@ browsershots.org#@#.advert_area
 ||xttaff.com^
 ||xubcnzfex.com^
 ||xubzkiajd.com^
+||xuicldunsrl.com^
 ||xukpqemfs.com^
 ||xumolcafw.com^
 ||xupskiqab.com^
@@ -41484,6 +41489,7 @@ browsershots.org#@#.advert_area
 ||yasesumedadele.com^
 ||yashi.com^
 ||yaszcbffjnfak.today^
+||yatkaddvhk.com^
 ||yauperstote.top^
 ||yauponbotone.com^
 ||yavli.com^

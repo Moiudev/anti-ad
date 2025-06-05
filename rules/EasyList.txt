@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: n/3lEXRSdy84tp/kQKo+QQ
-! Version: 202506051151
+! Checksum: /vwZSvogoT93BkgPybDuFg
+! Version: 202506051401
 ! Title: EasyList
-! Last modified: 05 Jun 2025 11:51 UTC
+! Last modified: 05 Jun 2025 14:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -17598,6 +17598,7 @@ browsershots.org#@#.advert_area
 ||airpush.com^
 ||airtightcounty.com^
 ||airyeject.com^
+||aiso.live^
 ||aistekso.net^
 ||aistekso.nett^
 ||aisvnbcavonek.com^
@@ -22450,6 +22451,7 @@ browsershots.org#@#.advert_area
 ||dattomocks.top^
 ||daubedanywhen.shop^
 ||dauchoufaush.net^
+||daugegeezeeboot.net^
 ||daughterinlawrib.com^
 ||daughtersarbourbarrel.com^
 ||daukshewing.com^
@@ -24156,6 +24158,7 @@ browsershots.org#@#.advert_area
 ||epicclicks.net^
 ||epicgameads.com^
 ||epidermispushupvariable.com^
+||epigeantaygeta.shop^
 ||eplndhtrobl.com^
 ||epnredirect.ru^
 ||epochheelbiography.com^
@@ -27138,6 +27141,7 @@ browsershots.org#@#.advert_area
 ||hithertodeform.com^
 ||hithuwezi.com^
 ||hitlnk.com^
+||hivaqfofkche.com^
 ||hivorltuk.com^
 ||hixsutkzy.com^
 ||hixtzumpygmi.com^
@@ -28454,6 +28458,7 @@ browsershots.org#@#.advert_area
 ||jennyunfit.com^
 ||jenonaw.com^
 ||jeoawamqybkeb.top^
+||jeoawamqybkjj.top^
 ||jeopardycruel.com^
 ||jepsauveel.net^
 ||jeqjawqyvboqj.top^
@@ -28714,6 +28719,7 @@ browsershots.org#@#.advert_area
 ||jtiasfkkg.xyz^
 ||jtnmqseejorlq.love^
 ||jtoozbadsxm.com^
+||jtren.site^
 ||jubacasziel.shop^
 ||jubnaadserve.com^
 ||jucasture.com^
@@ -29314,6 +29320,7 @@ browsershots.org#@#.advert_area
 ||kypjzznihczh.online^
 ||kyteevl.com^
 ||kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes^
+||kzcxpsgytvfy.com^
 ||kzfslblsahnou.life^
 ||kzgwhioswkztt.one^
 ||kzt2afc1rp52.com^
@@ -29848,6 +29855,7 @@ browsershots.org#@#.advert_area
 ||ljbwzlmlzvavm.top^
 ||ljcvlagsgqebugt.xyz^
 ||ljdzjtpnijpns.space^
+||ljisbcyw.com^
 ||ljnulatbntogvd.com^
 ||ljoaqeqwbkeqk.top^
 ||ljsr-ijbcxvq.online^
@@ -30726,7 +30734,6 @@ browsershots.org#@#.advert_area
 ||meezauch.net^
 ||megaad.nz^
 ||megabookline.com^
-||megacloud.store^
 ||megacot.com^
 ||megadeliveryn.com^
 ||megdexchange.com^
@@ -33273,6 +33280,7 @@ browsershots.org#@#.advert_area
 ||paicoosout.com^
 ||paid.outbrain.com^
 ||paihfzqlznxdn.online^
+||painfullydeplore.com^
 ||painfullypenny.com^
 ||painkillercontrivanceelk.com^
 ||painlessassumedbeing.com^
@@ -34219,6 +34227,7 @@ browsershots.org#@#.advert_area
 ||pptnuhffs.love^
 ||pq-mzfusgpzt.xyz^
 ||pqkpmqrzrrjrb.vip^
+||pqlrthvyxubbf.site^
 ||pqvpcahwuvfo.life^
 ||pqvzlltzxbs.global^
 ||pqwvvqlklwbkng.com^
@@ -34811,6 +34820,7 @@ browsershots.org#@#.advert_area
 ||putrr16.com^
 ||putrr7.com^
 ||puvj-qvbjol.vip^
+||puwggfudeoleo.store^
 ||puwhoughaugn.com^
 ||puxokvda.com^
 ||puysis.com^
@@ -35940,6 +35950,7 @@ browsershots.org#@#.advert_area
 ||rlcdn.com^
 ||rleibfzdny.com^
 ||rlittleboywhowas.com^
+||rlljlaxywnniti.com^
 ||rlqtwlxm.com^
 ||rmahmighoogg.com^
 ||rmaticalacycurated.info^
@@ -36053,6 +36064,7 @@ browsershots.org#@#.advert_area
 ||rootoadoop.net^
 ||roots.baby^
 ||rootzaffiliates.com^
+||roovebabuina.shop^
 ||ropeanresultanc.com^
 ||ropebrains.com^
 ||roqeke.xyz^
@@ -40301,6 +40313,7 @@ browsershots.org#@#.advert_area
 ||vitaminlease.com^
 ||vitawelleo.com^
 ||vitor304apt.com^
+||vitrauxdicot.top^
 ||vivermease.com^
 ||vivtrihcavf.com^
 ||vixentycckwtz.buzz^
@@ -41505,6 +41518,7 @@ browsershots.org#@#.advert_area
 ||yakbwmncsfnqgvx.com^
 ||yakmakhond.top^
 ||yallarec.com^
+||yamanaisleepry.com^
 ||yamshikbrucia.top^
 ||yapzoa.xyz^
 ||yardr.net^
@@ -41688,6 +41702,7 @@ browsershots.org#@#.advert_area
 ||yrhnw7h63.com^
 ||yritjxjkcqf.xyz^
 ||yrkpvtbpyrcxf.global^
+||yrrgghsnq.com^
 ||yrwqquykdja.com^
 ||ysesials.net^
 ||yshfyhfhzvcik.club^
@@ -59740,6 +59755,7 @@ cruisecritic.co.uk##article[data-sentry-component="ContentCard"]:has(a[href^="/s
 kijijiautos.ca##article[data-testid="SearchResultListItem"]:has(span[data-testid="PromotionLabel"])
 twitter.com,x.com##article[data-testid="tweet"]:has(path[d$="10H8.996V8h7v7z"])
 thetimes.com##article[id="article-main"] > div:has(#ad-header)
+costco.com##article[id][class]:has(img[alt*="Sponsored"])
 psychcentral.com##aside:has([data-empty])
 vidplay.lol##body > div > div[class][style]:has(> div > div > a[target="_blank"])
 wolt.com##button:has(> div > div > div > span:has-text(Sponsored))

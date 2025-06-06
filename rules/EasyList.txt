@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: O1rDE2KJ3ff0WMo8rrBaBg
-! Version: 202506061801
+! Checksum: bwoxbkMebhyD8+cMsf3VSg
+! Version: 202506062001
 ! Title: EasyList
-! Last modified: 06 Jun 2025 18:01 UTC
+! Last modified: 06 Jun 2025 20:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -21804,6 +21804,7 @@ browsershots.org#@#.advert_area
 ||coonouptiphu.xyz^
 ||coonsapodema.top^
 ||cooperationdungfrugal.com^
+||coophauptiz.net^
 ||coopsigrirou.net^
 ||coordinatediningroom.com^
 ||coordinatereopen.com^
@@ -23131,6 +23132,7 @@ browsershots.org#@#.advert_area
 ||djquevquroth.com^
 ||djrsvwtt.com^
 ||dkdipdowi.com^
+||dkdrkwmlhud.com^
 ||dkeakszrup.com^
 ||dkeolzolnwun.com^
 ||dkfqrsqg.com^
@@ -36854,6 +36856,7 @@ browsershots.org#@#.advert_area
 ||sensiletendoor.top^
 ||sensitiveclick.com^
 ||sensorpluck.com^
+||sensorygipsy.top^
 ||sensualsheilas.com^
 ||sentenceinformedveil.com^
 ||sentientfog.com^
@@ -36951,6 +36954,7 @@ browsershots.org#@#.advert_area
 ||sexualpitfall.com^
 ||sexyepc.com^
 ||sf-ads.io^
+||sf960.com^
 ||sfavfyct.com^
 ||sfdsplvyphk.com^
 ||sfeodrqh.com^
@@ -37468,6 +37472,7 @@ browsershots.org#@#.advert_area
 ||soaperdeils.com^
 ||soapsudkerfed.com^
 ||soawunoovaiwhog.net^
+||soawuraupsujouw.com^
 ||sobakenchmaphk.com^
 ||sobesed.com^
 ||soccerflog.com^
@@ -37800,6 +37805,7 @@ browsershots.org#@#.advert_area
 ||ssm.codes^
 ||ssooss.site^
 ||ssqyuvavse.com^
+||ssurnwwqqp.com^
 ||st-rdirect.com^
 ||stabilitydos.com^
 ||stabilityvatinventory.com^
@@ -40201,6 +40207,7 @@ browsershots.org#@#.advert_area
 ||vdbaa.com^
 ||vddf0.club^
 ||vdeiseyswdfco.global^
+||vdgwfqiynupsj.com^
 ||vdlvry.com^
 ||vdopia.com^
 ||vdulz.org^
@@ -40611,6 +40618,7 @@ browsershots.org#@#.advert_area
 ||vuwzer.com^
 ||vuzhzlzswecvc.global^
 ||vv8h9vyjgnst.com^
+||vvabjoqrbmavl.top^
 ||vvaywbqwuo.com^
 ||vvewkblbvezmq.top^
 ||vvkbpshrzoy.com^
@@ -40664,6 +40672,7 @@ browsershots.org#@#.advert_area
 ||wagerjoint.com^
 ||wagerprocuratorantiterrorist.com^
 ||wagershare.com^
+||waggacombos.shop^
 ||waggonerchildrensurly.com^
 ||wahoha.com^
 ||waisheph.com^

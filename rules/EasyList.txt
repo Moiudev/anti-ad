@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: AjGT7UbATP/EiIHH4kOWVA
-! Version: 202506060601
+! Checksum: jq8ka2TiqFmpk80ZGgKvvA
+! Version: 202506060751
 ! Title: EasyList
-! Last modified: 06 Jun 2025 06:01 UTC
+! Last modified: 06 Jun 2025 07:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -22210,6 +22210,7 @@ browsershots.org#@#.advert_area
 ||cutlipsdanelaw.shop^
 ||cuttedgritty.top^
 ||cuttlefly.com^
+||cutuparalia.shop^
 ||cuveeoxanate.top^
 ||cuwlmupz.com^
 ||cuwmurbpabc.com^
@@ -24696,6 +24697,7 @@ browsershots.org#@#.advert_area
 ||faughold.info^
 ||faugrich.info^
 ||faugstat.info^
+||faultsmtge.com^
 ||fauseepetoozuk.xyz^
 ||faveoliaiver.top^
 ||favoredkuwait.top^
@@ -24979,6 +24981,7 @@ browsershots.org#@#.advert_area
 ||fishedembathe.shop^
 ||fishermanplacingthrough.com^
 ||fishermanslush.com^
+||fisnogaferine.com^
 ||fistevasionjoint.com^
 ||fistofzeus.com^
 ||fitbiomie.com^
@@ -26362,6 +26365,7 @@ browsershots.org#@#.advert_area
 ||grauroocm.com^
 ||graursaumtie.com^
 ||graushauls.xyz^
+||graustolsaitch.net^
 ||grave-orange.pro^
 ||gravecheckbook.com^
 ||gravelyjovialelemental.com^
@@ -27415,6 +27419,7 @@ browsershots.org#@#.advert_area
 ||hrwbr.life^
 ||hrwhwcyqjritt.xyz^
 ||hrxkdrlobmm.com^
+||hscozgoqffn.com^
 ||hsfewosve.xyz^
 ||hskctjuticq.com^
 ||hsmyqntcs.com^
@@ -29738,6 +29743,7 @@ browsershots.org#@#.advert_area
 ||libelradioactive.com^
 ||libertycdn.com^
 ||libertystmedia.com^
+||libexecjwgfeh.com^
 ||libidosdegass.shop^
 ||libraryglowingjo.com^
 ||libsjamdani.shop^
@@ -30296,6 +30302,7 @@ browsershots.org#@#.advert_area
 ||lw2dplgt8.com^
 ||lwgadm.com^
 ||lwioszfmupt.com^
+||lwirirvpo.com^
 ||lwjje.com^
 ||lwjvyd.com^
 ||lwmpocteuzldy.world^
@@ -35600,6 +35607,7 @@ browsershots.org#@#.advert_area
 ||reklamz.com^
 ||reknowephapse.shop^
 ||relappro.com^
+||relatagapes.top^
 ||relatedmetamer.shop^
 ||relativefraudulentprop.com^
 ||relativelyfang.com^
@@ -36013,6 +36021,7 @@ browsershots.org#@#.advert_area
 ||rmuogjdip.com^
 ||rmvvawqleqrov.top^
 ||rmwzbombkqelv.top^
+||rmwzbombkqjlj.top^
 ||rmxads.com^
 ||rmxpppehecrmz.com^
 ||rmyfiwopdzf.com^
@@ -41291,6 +41300,7 @@ browsershots.org#@#.advert_area
 ||wuujae.com^
 ||wuxlvvcv.com^
 ||wuzbhjpvsf.com^
+||wvggwqktnrny.com^
 ||wvhba6470p.com^
 ||wvwaerpeqvzpb.fun^
 ||wvwjdrli.com^

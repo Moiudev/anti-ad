@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: i9/r5YTFeKTXl7WdUA1ACw
-! Version: 202506061401
+! Checksum: SnaCYJCKuEJ/Zszfc6zavg
+! Version: 202506061602
 ! Title: EasyList
-! Last modified: 06 Jun 2025 14:01 UTC
+! Last modified: 06 Jun 2025 16:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -22154,6 +22154,7 @@ browsershots.org#@#.advert_area
 ||cuckooretire.com^
 ||cuckoosad.com^
 ||cuddlethehyena.com^
+||cuddly-read.pro^
 ||cudgeletc.com^
 ||cudjgcnwoo-s.icu^
 ||cue-oxvpqbt.space^
@@ -27402,6 +27403,7 @@ browsershots.org#@#.advert_area
 ||howlexhaust.com^
 ||howploymope.com^
 ||hoyaga.xyz^
+||hoywsegz.com^
 ||hp1mufjhk.com^
 ||hpeaxbmuh.com^
 ||hpeowtophruv.com^
@@ -29099,6 +29101,7 @@ browsershots.org#@#.advert_area
 ||kindnessmarshalping.com^
 ||kineckekyu.com^
 ||kinedivast.top^
+||kinesesinvenit.top^
 ||king3rsc7ol9e3ge.com^
 ||kingads.mobi^
 ||kingbole.com^
@@ -29966,6 +29969,7 @@ browsershots.org#@#.advert_area
 ||lmoozvlklrorj.top^
 ||lmorabfuj.com^
 ||lmp3.org^
+||lmqvowejalyqm.top^
 ||lmukstyn.xyz^
 ||lmvrjabakemzq.top^
 ||lmzhpzoycxjfn.top^
@@ -36971,6 +36975,7 @@ browsershots.org#@#.advert_area
 ||shakydeploylofty.com^
 ||shallonawshar.top^
 ||shallowtwist.pro^
+||shaltloggie.shop^
 ||shameful-leader.com^
 ||shamelessappellation.com^
 ||shamelessnullneutrality.com^
@@ -37254,6 +37259,7 @@ browsershots.org#@#.advert_area
 ||skeetads.com^
 ||skeinedjewbird.shop^
 ||skeinsromish.shop^
+||skeletal-quiet.pro^
 ||sketbhang.guru^
 ||sketchinferiorunits.com^
 ||sketchjav182.fun^
@@ -38956,6 +38962,7 @@ browsershots.org#@#.advert_area
 ||tmlnorawiq.xyz^
 ||tmntft.com^
 ||tmrjmp.com^
+||tmxkdywnl.com^
 ||tnaczwecikco.online^
 ||tnctufo.com^
 ||tneca.com^
@@ -41335,6 +41342,7 @@ browsershots.org#@#.advert_area
 ||wttpwvlurczpe.rocks^
 ||wtyankriwnza.com^
 ||wtyovtolwg.com^
+||wtyvumygprehanw.com^
 ||wucbtiahka.com^
 ||wuci1.xyz^
 ||wuckaity.com^

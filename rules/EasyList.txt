@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: SnaCYJCKuEJ/Zszfc6zavg
-! Version: 202506061602
+! Checksum: O1rDE2KJ3ff0WMo8rrBaBg
+! Version: 202506061801
 ! Title: EasyList
-! Last modified: 06 Jun 2025 16:02 UTC
+! Last modified: 06 Jun 2025 18:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -27085,6 +27085,7 @@ browsershots.org#@#.advert_area
 ||hibids10.com^
 ||hichhereallyw.info^
 ||hidcupcake.com^
+||hiddenparking.pro^
 ||hiddenseet.com^
 ||hidgfbsitnc.fun^
 ||hidgttxnces.com^
@@ -32192,6 +32193,7 @@ browsershots.org#@#.advert_area
 ||ntvpwpush.com^
 ||ntxviewsinterfu.info^
 ||ntygtomuj.com^
+||ntyhibosjsza.com^
 ||nubileforward.com^
 ||nubseech.com^
 ||nucascjut.com^
@@ -33549,6 +33551,7 @@ browsershots.org#@#.advert_area
 ||paulastroid.com^
 ||paupsikoacy.net^
 ||paupsoborofoow.net^
+||pauptownie.top^
 ||paussidsipage.com^
 ||pavedmawks.top^
 ||pavisordjerib.com^
@@ -33573,6 +33576,7 @@ browsershots.org#@#.advert_area
 ||pazmfoxh.com^
 ||paznucanbxt.com^
 ||pazzfun.com^
+||pbbgvnctf.com^
 ||pbcde.com^
 ||pbkdf.com^
 ||pblcpush.com^
@@ -35005,6 +35009,7 @@ browsershots.org#@#.advert_area
 ||qdmil.com^
 ||qdodqhbmmb.com^
 ||qdvkgjfculfmr.site^
+||qdwagpwgnfq.com^
 ||qdxpid-bxcy.today^
 ||qebpwkxjz.com^
 ||qebuoxn.com^
@@ -38094,6 +38099,7 @@ browsershots.org#@#.advert_area
 ||subduedgrainchip.com^
 ||subduegrape.com^
 ||subeditpathic.shop^
+||subeensoptigh.com^
 ||subjectedburglar.com^
 ||subjectsfaintly.com^
 ||subjectslisted.com^
@@ -42007,6 +42013,7 @@ browsershots.org#@#.advert_area
 ||zipitnow.cfd^
 ||zippercontinual.com^
 ||zipperszebecs.com^
+||zirconscuculle.com^
 ||zirdough.net^
 ||zireemilsoude.net^
 ||zirkiterocklay.com^

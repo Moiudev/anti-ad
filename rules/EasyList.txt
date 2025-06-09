@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: aYdN1tB6ol4N4MWU956vWw
-! Version: 202506090601
+! Checksum: XG89sJTIFPNINAJJvAivQA
+! Version: 202506090801
 ! Title: EasyList
-! Last modified: 09 Jun 2025 06:01 UTC
+! Last modified: 09 Jun 2025 08:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -17686,6 +17686,7 @@ browsershots.org#@#.advert_area
 ||akvvkmqezvbkr.top^
 ||akvvkmqezvzvm.top^
 ||akvvraarxa.com^
+||akwmqvpfg.com^
 ||akxaqvanwmh.com^
 ||akxlkuodmhta.com^
 ||akxmagzkoo.com^
@@ -19787,6 +19788,7 @@ browsershots.org#@#.advert_area
 ||blotecardthumb.com^
 ||blownsuperstitionabound.com^
 ||blprgctcgxjreyu.com^
+||blqsrexczsqht.site^
 ||blu5fdclr.com^
 ||blubberrowan.com^
 ||blubberspoiled.com^
@@ -23178,6 +23180,7 @@ browsershots.org#@#.advert_area
 ||dkeakszrup.com^
 ||dkeolzolnwun.com^
 ||dkfqrsqg.com^
+||dkgyqvkxyj.com^
 ||dkijkolicobf.com^
 ||dkijnrhdtlvdm.fun^
 ||dkikurancq.com^
@@ -26077,6 +26080,7 @@ browsershots.org#@#.advert_area
 ||glaurtas.com^
 ||glaussogira.xyz^
 ||glautchoapes.net^
+||glautheephou.com^
 ||glazedugra.com^
 ||glazepoutpattern.com^
 ||glazingretentionupcoming.com^
@@ -29405,6 +29409,7 @@ browsershots.org#@#.advert_area
 ||kukrosti.com^
 ||kulakiayme.com^
 ||kulangflook.shop^
+||kulegmfhlaxdb.website^
 ||kulroakonsu.net^
 ||kultingecauyuksehink.com^
 ||kultingecauyuksehinkitw.info^
@@ -32343,6 +32348,7 @@ browsershots.org#@#.advert_area
 ||nutriasnobbily.top^
 ||nutritionrantlullaby.com^
 ||nutritionshooterinstructor.com^
+||nutritious-debt.pro^
 ||nutritious-essay.pro^
 ||nutritious-month.com^
 ||nutty-abuse.pro^
@@ -32941,6 +32947,7 @@ browsershots.org#@#.advert_area
 ||oosoojainy.xyz^
 ||oostotsu.com^
 ||ootchoft.com^
+||oourmarketingefifort.com^
 ||oowkzpjo-o.click^
 ||ooxenoopsoon.com^
 ||ooyejpjenphbo.online^
@@ -33088,6 +33095,7 @@ browsershots.org#@#.advert_area
 ||origunix.com^
 ||orisonaunties.top^
 ||oritooep.win^
+||orjbehrhaiv.com^
 ||orjfun.com^
 ||orkwithcatukhy.com^
 ||orlglnaldates.net^
@@ -34802,6 +34810,7 @@ browsershots.org#@#.advert_area
 ||ptelastaxo.com^
 ||pteleaspiring.top^
 ||ptemsoaksol.net^
+||pteromayabby.shop^
 ||ptichoolsougn.net^
 ||ptidsezi.com^
 ||ptifaustounsaz.com^
@@ -35146,6 +35155,7 @@ browsershots.org#@#.advert_area
 ||qghqtntnadq.com^
 ||qgimxtyttlpyj.store^
 ||qgmoslspensxh.buzz^
+||qgpiphehhrcvl.space^
 ||qgwgweoxulrb.com^
 ||qgxbluhsgad.com^
 ||qhiatcfrywgse.click^
@@ -36369,6 +36379,7 @@ browsershots.org#@#.advert_area
 ||rpts.org^
 ||rpuapxwq.com^
 ||rqazepammrl.com^
+||rqejawwjlazlv.top^
 ||rqnvci.com^
 ||rqr97sfd.xyz^
 ||rqsaxxdbt.com^

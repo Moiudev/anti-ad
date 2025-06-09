@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: XG89sJTIFPNINAJJvAivQA
-! Version: 202506090801
+! Checksum: PXiIaCv4/LhfdLKIYZWyCw
+! Version: 202506091001
 ! Title: EasyList
-! Last modified: 09 Jun 2025 08:01 UTC
+! Last modified: 09 Jun 2025 10:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -24040,6 +24040,7 @@ browsershots.org#@#.advert_area
 ||elpfulinotahere.com^
 ||elrecognisefro.com^
 ||elsewhereopticaldeer.com^
+||eluatedawreak.top^
 ||eludersjannock.shop^
 ||eluhlhjv.life^
 ||elyandbegantoti.com^
@@ -28009,6 +28010,7 @@ browsershots.org#@#.advert_area
 ||ineffectivenaive.com^
 ||inestimablereddencloset.com^
 ||inexpedientcunning.com^
+||inexperienced-end.pro^
 ||inexplicablecarelessfairly.com^
 ||infatuated-difference.pro^
 ||infectedrepentearl.com^
@@ -29452,6 +29454,7 @@ browsershots.org#@#.advert_area
 ||kwtnhdrmbx.com^
 ||kwux-uudx.online^
 ||kxdxsbyomyuim.rocks^
+||kxfimwhpd.com^
 ||kxiaruornurfb.tech^
 ||kxnggkh2nj.com^
 ||kxshyo.com^
@@ -37584,6 +37587,7 @@ browsershots.org#@#.advert_area
 ||smsapiens.com^
 ||smuggeralapa.com^
 ||smugismanaxon.com^
+||smumazydhxnou.online^
 ||smutterchis.top^
 ||smuwroli.com^
 ||smyvuljawh.com^
@@ -38646,6 +38650,7 @@ browsershots.org#@#.advert_area
 ||taxissunroom.com^
 ||taxitesgyal.top^
 ||taxrsiwlggms.com^
+||taypwqoprmcap.space^
 ||tazkiaonu.click^
 ||tbdhrjsywgjcq.tech^
 ||tbeiu658gftk.com^
@@ -39887,6 +39892,7 @@ browsershots.org#@#.advert_area
 ||ukuleqasforsale.com^
 ||ukzemydream.com^
 ||ulbackgroundandi.com^
+||uldthinkhimunp.com^
 ||uleqasforsalesre.com^
 ||ulesxbo.com^
 ||ulheaddedfearing.com^
@@ -40386,6 +40392,7 @@ browsershots.org#@#.advert_area
 ||vdlxvltxbqlza.site^
 ||vdopia.com^
 ||vdulz.org^
+||vdxnkmjloixhc.store^
 ||vdzna.com^
 ||vealbkvvorqry.top^
 ||vebadu.com^
@@ -40872,6 +40879,7 @@ browsershots.org#@#.advert_area
 ||wakpaqamxvum.com^
 ||walkerbayonet.com^
 ||walletrelapse.com^
+||wallochmm.shop^
 ||wallowwholike.com^
 ||wallpapersfacts.com^
 ||wallstrads.com^
@@ -41110,6 +41118,7 @@ browsershots.org#@#.advert_area
 ||wewlorozwojrm.top^
 ||wewlorozwolrr.top^
 ||wewlorozwolyz.top^
+||wewlorozwomyv.top^
 ||wextap.com^
 ||wfcs.lol^
 ||wfexxzpmengpk.today^
@@ -41562,6 +41571,7 @@ browsershots.org#@#.advert_area
 ||wufobvbzuott.com^
 ||wufodfojfm.com^
 ||wugroansaghadry.com^
+||wuivhsnipxedl.space^
 ||wumufama.com^
 ||wunishamjch.com^
 ||wuporg.com^
@@ -41600,6 +41610,7 @@ browsershots.org#@#.advert_area
 ||wwwpromoter.com^
 ||wwwwzerblvvqv.top^
 ||wxgijrbh.com^
+||wxgsxvnlmnyrvp.com^
 ||wxhiojortldjyegtkx.bid^
 ||wxqbopca-i.global^
 ||wxseedslpi.com^

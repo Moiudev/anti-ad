@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: GV/vZ09xEEEhUc+Jdg82jQ
-! Version: 202506092001
+! Checksum: 5cDGSR5hozOS+bhmiDj26A
+! Version: 202506092201
 ! Title: EasyList
-! Last modified: 09 Jun 2025 20:01 UTC
+! Last modified: 09 Jun 2025 22:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -21696,6 +21696,7 @@ browsershots.org#@#.advert_area
 ||confrontationdrunk.com^
 ||confusingepisodevest.com^
 ||confusionnutmegflippers.com^
+||congiuslegumin.top^
 ||congruousannualplanner.com^
 ||conicsfizzles.com^
 ||conjeller-chikemon.com^
@@ -23201,6 +23202,7 @@ browsershots.org#@#.advert_area
 ||dkijnrhdtlvdm.fun^
 ||dkikurancq.com^
 ||dkipfdjvrlird.love^
+||dkmtprpchb.com^
 ||dkpvbyvscxraq.space^
 ||dkqixcsaaprfit.com^
 ||dkrbus.com^
@@ -27263,6 +27265,7 @@ browsershots.org#@#.advert_area
 ||hiswingsandmaki.com^
 ||hitbip.com^
 ||hitcheddayanim.top^
+||hitchelunspun.com^
 ||hitchimmerse.com^
 ||hitcpm.com^
 ||hithertodeform.com^
@@ -29593,6 +29596,7 @@ browsershots.org#@#.advert_area
 ||laneyounger.com^
 ||langrauoz.xyz^
 ||languidintentgained.com^
+||lanklykeeler.shop^
 ||lanknewcomer.com^
 ||lanky-bar.com^
 ||lankyteaching.com^
@@ -32110,6 +32114,7 @@ browsershots.org#@#.advert_area
 ||nkhgheadrrrbt.space^
 ||nkhimunpractica.org^
 ||nkmsite.com^
+||nknglpsn.com^
 ||nkredir.com^
 ||nlargeconsu.org^
 ||nld0jsg9s9p8.com^
@@ -33400,6 +33405,7 @@ browsershots.org#@#.advert_area
 ||ovwydeewg.xyz^
 ||ovyyszfod.fun^
 ||ow5a.net^
+||owascryingforthem.com^
 ||owbvbqeaucwvg.global^
 ||owenexposure.com^
 ||owfjlchuvzl.com^
@@ -36207,6 +36213,7 @@ browsershots.org#@#.advert_area
 ||ritsubrince.shop^
 ||rittersunnier.shop^
 ||ritzilypigless.top^
+||rivalgaums.com^
 ||rivalpout.com^
 ||rivareuyeom.com^
 ||rivatedqualizebruisi.info^
@@ -36603,6 +36610,7 @@ browsershots.org#@#.advert_area
 ||rvukbeuexr.com^
 ||rvvmynjd.love^
 ||rwdmymnfiklbj.com^
+||rwfwlrhyolok.com^
 ||rwhnuqxubwqvn.one^
 ||rworljrkawlqq.top^
 ||rwoscaonf.com^
@@ -39861,6 +39869,7 @@ browsershots.org#@#.advert_area
 ||uads.guru^
 ||uads.space^
 ||uafkcvpvvelp.com^
+||uafwhndhhwjw.com^
 ||uaivqzpqzehth.love^
 ||uawvmni.com^
 ||ubbfpm.com^
@@ -42367,6 +42376,7 @@ browsershots.org#@#.advert_area
 ||zmysashrep.com^
 ||zmytkaoh.com^
 ||zmzwloelraaoz.top^
+||zmzwloelrajaj.top^
 ||zmzwloelrajoq.top^
 ||znjdkvlhfvuuc.one^
 ||znzfvmdtklsvv.xyz^

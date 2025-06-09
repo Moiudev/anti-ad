@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: qj9ibcpQ+h9BhilpY8N3gg
-! Version: 202506091801
+! Checksum: GV/vZ09xEEEhUc+Jdg82jQ
+! Version: 202506092001
 ! Title: EasyList
-! Last modified: 09 Jun 2025 18:01 UTC
+! Last modified: 09 Jun 2025 20:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -20301,6 +20301,7 @@ browsershots.org#@#.advert_area
 ||bukusukses.com^
 ||bulbofficial.com^
 ||bulbusscabish.shop^
+||bulgejambee.shop^
 ||bulginglair.com^
 ||bulgingquintet.top^
 ||bulkaccompanying.com^
@@ -24569,6 +24570,7 @@ browsershots.org#@#.advert_area
 ||expressmealdelivery.shop^
 ||expressproducer.com^
 ||exptlgooney.com^
+||exqixvhgjugsmq.com^
 ||exrtbsrv.com^
 ||exrzo.love^
 ||ext-jscdn.com^
@@ -26622,6 +26624,7 @@ browsershots.org#@#.advert_area
 ||gsnqhdo.com^
 ||gsrctroclqloz.tech^
 ||gsrgjsmymkwt.com^
+||gsshawhfvwpl.com^
 ||gt5tiybvn.com^
 ||gtbbgjo.art^
 ||gtbdhr.com^
@@ -27082,6 +27085,7 @@ browsershots.org#@#.advert_area
 ||hermsdhan.com^
 ||hernetoise.shop^
 ||herodiessujed.org^
+||herofherlittleboyw.com^
 ||heroinalerttactical.com^
 ||heromainland.com^
 ||herpassages.com^
@@ -28665,6 +28669,7 @@ browsershots.org#@#.advert_area
 ||jigsawchristianlive.com^
 ||jigsawthirsty.com^
 ||jigsrywu.com^
+||jiimputer.shop^
 ||jijqzypmeqi.com^
 ||jikbwoozvci.com^
 ||jilmruon.com^
@@ -34295,6 +34300,7 @@ browsershots.org#@#.advert_area
 ||poisonousamazing.com^
 ||poketraff.com^
 ||pokjhgrs.click^
+||polairdookoo.net^
 ||polanders.com^
 ||polarcdn-terrax.com^
 ||polarmobile.com^
@@ -34417,6 +34423,7 @@ browsershots.org#@#.advert_area
 ||possibilityformal.com^
 ||possibilityfoundationwallpaper.com^
 ||possibilityrespectivelyenglish.com^
+||possible-grand.pro^
 ||postaoz.xyz^
 ||postback.info^
 ||postback1win.com^
@@ -37051,6 +37058,7 @@ browsershots.org#@#.advert_area
 ||senhoradabbed.top^
 ||sennitsdeashes.top^
 ||senonsiatinus.com^
+||senorjervia.shop^
 ||sensationtwigpresumptuous.com^
 ||senscirrascul.co.in^
 ||sensifyfugged.com^
@@ -40714,6 +40722,7 @@ browsershots.org#@#.advert_area
 ||vizoalygrenn.com^
 ||vizoredcheerly.com^
 ||vjdciu.com^
+||vjembmkzbejlm.top^
 ||vjlyljbjjmley.top^
 ||vjlyljbylmeel.top^
 ||vjlyljbylmemj.top^

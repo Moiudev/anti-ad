@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: yfbOB2KY2+qfDkFQKsjSNQ
-! Version: 202506091201
+! Checksum: hdkXaUTEDjKHenCtEasj7A
+! Version: 202506091401
 ! Title: EasyList
-! Last modified: 09 Jun 2025 12:01 UTC
+! Last modified: 09 Jun 2025 14:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -17603,6 +17603,7 @@ browsershots.org#@#.advert_area
 ||airpush.com^
 ||airtightcounty.com^
 ||airyeject.com^
+||aisletowelreasoning.com^
 ||aiso.live^
 ||aistekso.net^
 ||aistekso.nett^
@@ -18878,6 +18879,7 @@ browsershots.org#@#.advert_area
 ||awjnkashupk.com^
 ||awjpufvwu.com^
 ||awkbkkqkqmevb.top^
+||awkward-director.com^
 ||awkwardemergency.com^
 ||awkwardsuperstition.com^
 ||awlaxvnpyf.com^
@@ -19223,6 +19225,7 @@ browsershots.org#@#.advert_area
 ||bawdiesguests.shop^
 ||bawixi.xyz^
 ||bawovzjweqhi.com^
+||bayfoxtrot.top^
 ||bayshorline.com^
 ||baywednesday.com^
 ||bazamodov.ru^
@@ -21981,6 +21984,7 @@ browsershots.org#@#.advert_area
 ||cr06.biz^
 ||cr08.biz^
 ||cr09.biz^
+||crabtelegramdistracted.com^
 ||cracugmi.com^
 ||cradkiocdax.com^
 ||craftilypendantwhinny.com^
@@ -22778,6 +22782,7 @@ browsershots.org#@#.advert_area
 ||departmentcomplimentary.com^
 ||departmentscontinentalreveal.com^
 ||departurealtar.com^
+||dependablemountain.com^
 ||dependeddebtsmutual.com^
 ||dependentdetachmentblossom.com^
 ||dependpinch.com^
@@ -23228,6 +23233,7 @@ browsershots.org#@#.advert_area
 ||dnavtbt.com^
 ||dnemkhkbsdbl.com^
 ||dnfs24.com^
+||dnijdjhv.com^
 ||dnirbpnvbggqgpt.com^
 ||dnlqcffvhqvgdh.com^
 ||dnmqfaxluvaou.world^
@@ -23708,6 +23714,7 @@ browsershots.org#@#.advert_area
 ||eakelandorders.org^
 ||ealeo.com^
 ||eallywasnothy.com^
+||eallywasnothyca.com^
 ||eanff.com^
 ||eanlingtumfie.com^
 ||earbossysavvy.com^
@@ -24156,6 +24163,7 @@ browsershots.org#@#.advert_area
 ||eniza.site^
 ||enjaaiwix.com^
 ||enjeurmqkrch.com^
+||enjoygrandmothercaricature.com^
 ||enkcyenrat.club^
 ||enlightencentury.com^
 ||enlightenedstring.pro^
@@ -24849,6 +24857,7 @@ browsershots.org#@#.advert_area
 ||feltlonelyandbeg.com^
 ||femefaih.com^
 ||femin.online^
+||feminine-branch.pro^
 ||femininetextmessageseducing.com^
 ||femsoahe.com^
 ||fenacheaverage.com^
@@ -28956,6 +28965,7 @@ browsershots.org#@#.advert_area
 ||jzleekzaovzez.top^
 ||jzleekzaovzjy.top^
 ||jzokkejvjblrq.top^
+||jzokkejvjblww.top^
 ||jzokkejvjrvwj.top^
 ||jzplabcvvy.com^
 ||jzqbyykbrrbkq.top^
@@ -29474,6 +29484,7 @@ browsershots.org#@#.advert_area
 ||kzfslblsahnou.life^
 ||kzgwhioswkztt.one^
 ||kzt2afc1rp52.com^
+||kztovjvn.com^
 ||kzuocxorfo.com^
 ||kzvcggahkgm.com^
 ||kzzwi.com^
@@ -29723,6 +29734,7 @@ browsershots.org#@#.advert_area
 ||ledrapti.net^
 ||leechiza.net^
 ||leefosto.com^
+||leepigroazo.net^
 ||leepoakougega.com^
 ||leeptoadeesh.net^
 ||leersiapsst.shop^
@@ -30353,6 +30365,7 @@ browsershots.org#@#.advert_area
 ||luhoysvkxsewc.xyz^
 ||lukeinoffensive.com^
 ||lukyday.xyz^
+||lullabybeneath.com^
 ||lullfork.com^
 ||lumaktoys.com^
 ||lumberperpetual.com^
@@ -30810,6 +30823,7 @@ browsershots.org#@#.advert_area
 ||mcowpusi.com^
 ||mcppsh.com^
 ||mcpuwpsh.com^
+||mcqmfeiuntlwk.space^
 ||mcrertpgdjbvj.com^
 ||mcvfjyhvyvp.com^
 ||mcxmke.com^
@@ -30843,6 +30857,7 @@ browsershots.org#@#.advert_area
 ||mechaelpaceway.com^
 ||mechanicalcardiac.com^
 ||mechanicladenthereby.com^
+||mecoxdcdexemf.store^
 ||medalslumut.shop^
 ||medbzvejdlkxe.today^
 ||meddlespeckers.top^
@@ -32760,6 +32775,7 @@ browsershots.org#@#.advert_area
 ||olkdzarkuk.com^
 ||olkhtegk.com^
 ||olkjabjzefu.com^
+||olkmjgjcweyab.online^
 ||ollapodbrewer.top^
 ||ollapodcarua.shop^
 ||olmiweb.com^
@@ -35131,6 +35147,7 @@ browsershots.org#@#.advert_area
 ||qchmlmtkpbswf.buzz^
 ||qclruwltqxojpo.com^
 ||qcwnfoqtqgvau.icu^
+||qcyqkirxrhidh.site^
 ||qdfscelxyyem.club^
 ||qdgfcrifm.com^
 ||qdhrbget.click^
@@ -37010,6 +37027,7 @@ browsershots.org#@#.advert_area
 ||sendmepush.com^
 ||senecancastano.top^
 ||senhoradabbed.top^
+||sennitsdeashes.top^
 ||senonsiatinus.com^
 ||sensationtwigpresumptuous.com^
 ||senscirrascul.co.in^
@@ -37973,6 +37991,7 @@ browsershots.org#@#.advert_area
 ||ssm.codes^
 ||ssooss.site^
 ||ssqyuvavse.com^
+||sstnupuv.com^
 ||ssurnwwqqp.com^
 ||st-rdirect.com^
 ||stabilitydos.com^
@@ -39148,6 +39167,7 @@ browsershots.org#@#.advert_area
 ||tmrjmp.com^
 ||tmxkdywnl.com^
 ||tnaczwecikco.online^
+||tncsqpjzsnczxn.com^
 ||tnctufo.com^
 ||tneca.com^
 ||tnnntmvrhsbo.com^
@@ -39551,6 +39571,7 @@ browsershots.org#@#.advert_area
 ||trmzum.com^
 ||troadforristol.org^
 ||trocarssubpool.shop^
+||trochiaz.top^
 ||trokemar.com^
 ||trolleyalnath.top^
 ||trolleytool.com^
@@ -39813,6 +39834,7 @@ browsershots.org#@#.advert_area
 ||ubesykrmo.xyz^
 ||ubilinkbin.com^
 ||ublmkftdnu.com^
+||ubmnuasuojrock.com^
 ||ucationinin.info^
 ||ucavu.live^
 ||uceiwrr.today^
@@ -60570,6 +60592,7 @@ booking.com##.sr-motivate-messages
 yahoo.com###Horizon-ad
 yahoo.com###Lead-0-Ad-Proxy
 yahoo.com###adsStream
+yahoo.com###commerce-module-container
 mail.yahoo.com###commerce_card_group_container:has([data-test-id*="affiliate"])
 yahoo.com###defaultLREC
 finance.yahoo.com###mrt-node-Lead-0-Ad
@@ -60593,21 +60616,25 @@ yahoo.com###sda-MON
 yahoo.com###sda-WFPAD
 yahoo.com###sda-WFPAD-1
 yahoo.com###sda-WFPAD-iframe
+yahoo.com###sda-top-center-iframe
 yahoo.com###sda-wrapper-COMMENTSLDRB
+yahoo.com###sda-wrapper-WFPAD2-2
 mail.yahoo.com###slot_LREC
 yahoo.com###viewer-LDRB
 yahoo.com###viewer-LREC2
+yahoo.com###viewer-LREC2-1
 yahoo.com###viewer-LREC2-iframe
 yahoo.com##.Feedback
 finance.yahoo.com##.ad-lrec3
 yahoo.com##.ads
 yahoo.com##.caas-da
+yahoo.com##.da-container
 yahoo.com##.darla
 yahoo.com##.darla-container
 yahoo.com##.darla-lrec-ad
 yahoo.com##.darla_ad
 yahoo.com##.ds_promo_ymobile
-finance.yahoo.com##.gam-placeholder
+yahoo.com##.gam-placeholder
 yahoo.com##.gemini-ad
 yahoo.com##.gemini-ad-feedback
 yahoo.com##.item-beacon
@@ -61661,6 +61688,8 @@ hentaipaw.com##.max-w-\[720px\]
 peekvids.com##.mediaPlayerSponsored
 efukt.com##.media_below_container
 lesbianbliss.com,mywebcamsluts.com,transhero.com##.media_spot
+porn00.tv##.member1link
+porn00.tv##.member2link
 visitmama.com##.menu-item > a:not([href^="https://www.visitmama.com/"])
 camcam.cc##.menu-item-5880
 thehentai.net##.menu_tags
@@ -62094,6 +62123,7 @@ sxyprn.com##[href*="/re/"]
 pornhub.com,redtube.com,tube8.com,tube8.es,tube8.fr,xvideos.com,youjizz.com,youporn.com,youporngay.com##[href*="base64"]
 pornhub.com,redtube.com,tube8.com,tube8.es,tube8.fr,xvideos.com,youjizz.com,youporn.com,youporngay.com##[href*="data:"]
 doseofporn.com,jennylist.xyz##[href="/goto/desire"]
+porn00.tv##[href="http://porn00.org/solcasinoio-bonus/"]
 viojav.com##[href="https://idmax.one/77playads"]
 jav.gallery##[href="https://jjgirls.com/sex/GoChaturbate"]
 hardcoreluv.com,imageweb.ws,pezporn.com,wildpictures.net##[href="https://nudegirlsoncam.com/"]
@@ -62117,6 +62147,7 @@ ryuugames.com,yaoimangaonline.com##[href^="https://l.erodatalabs.com/s/"] > img
 clubsarajay.com##[href^="https://landing.milfed.com/"]
 javgg.net##[href^="https://onlyfans.com/action/trial/"]
 sankakucomplex.com##[href^="https://s.zlink3.com/d.php"]
+porn00.tv##[href^="https://solcasino.io/r/"]
 freebdsmxxx.org##[href^="https://t.me/joinchat/"]
 otomi-games.com##[href^="https://t.trcktr.com/"]
 bestthots.com,leakedzone.com##[href^="https://v6.realxxx.com/"]

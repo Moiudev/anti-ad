@@ -3216,8 +3216,8 @@ lloydsbank.com###lbganalyticsCookies
 cvv.org.br##.camada
 confused.com##body .cnf-cookies_cookie-wall:not(#style_important)
 youtrack.jetbrains.com##.alertContainer_f7cb
-dailymail.co.uk#$#div[data-project="mol-fe-cmp"] { display: none !important; }
-dailymail.co.uk#$#html[class]:not(.allow-scroll) { overflow: auto !important; }
+dailymail.co.uk#%#//scriptlet('trusted-click-element', 'div[data-project="mol-fe-cmp"] button[class*="consent"]:not([class*="reject"])')
+dailymail.co.uk##div[data-project="mol-fe-cmp"]:has(> div[class*="tooltip"])
 milliyet.com.tr#%#//scriptlet('trusted-click-element', '.fc-primary-button.fc-cta-consent')
 enjoyx.com#$#body { overflow-y: auto !important; }
 enjoyx.com#$#body .cookieconsent { display: none !important; }
@@ -43242,6 +43242,8 @@ alfastrah.ru,turkishairlines.com,atmos-tokyo.com,radarbox.com,ciceksepeti.com,ra
 !
 !
 !
+music.yandex.*##div[class^="DeeplinkAndOnelinkContainer_root"]
+music.yandex.*##section[aria-label^="Скачать приложение"]
 faceit.com##div[id^="content-grid-element"] > div[class^="styles__Holder-"]:has(> div[class^="styles__InnerHolder-"] > div[class^="styles__QRCodeAndTextHolder-"] span:contains(Scan the QR code to download app))
 iscihaber.net##.theiaStickySidebar a[href="http://iscihaber.site/app.php"]
 m.yelp.com##div[class^="overlay-color-"]:has(> div[class^="overlay-wrapper"] > a[href*="app"])

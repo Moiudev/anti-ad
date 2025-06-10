@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: clsAB/OMppLTjGhIgeV7Gw
-! Version: 202506101401
+! Checksum: zhKk/vu7YspqVbf4gt7VBw
+! Version: 202506101601
 ! Title: EasyList
-! Last modified: 10 Jun 2025 14:01 UTC
+! Last modified: 10 Jun 2025 16:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -20743,6 +20743,7 @@ browsershots.org#@#.advert_area
 ||cbkcsbearrwj.com^
 ||cbkyaepzyibsx.click^
 ||cbro.win^
+||cbtxlvpoczxxr.space^
 ||cbyqzt.xy^
 ||cc-dt.com^
 ||cc33b86bbf.com^
@@ -21924,6 +21925,7 @@ browsershots.org#@#.advert_area
 ||coucalhidated.com^
 ||couchedbliny.top^
 ||coudswamper.com^
+||couijnmkgjdim.site^
 ||couldmisspell.com^
 ||couledochemy.net^
 ||councernedasesi.com^
@@ -24026,6 +24028,7 @@ browsershots.org#@#.advert_area
 ||ekmas.com^
 ||ekont.site^
 ||ekrpjrrovubka.club^
+||eksqtfco.com^
 ||ekvalqwmly.com^
 ||ekxyrwvoegb.xyz^
 ||eladove.com^
@@ -25852,6 +25855,7 @@ browsershots.org#@#.advert_area
 ||gaytwddahpave.com^
 ||gaz-help.ru^
 ||gazati.com^
+||gazedatthewon.com^
 ||gazeroelet.space^
 ||gazetteavaunt.shop^
 ||gazettemisrun.click^
@@ -30570,6 +30574,7 @@ browsershots.org#@#.advert_area
 ||lzoasvofvzw.com^
 ||lzolanahk.com^
 ||lzoorgpta.com^
+||lzqmjakwllbrj.top^
 ||lztjczymishqn.com^
 ||lzukrobrykk.com^
 ||lzvwybvvyrqyk.top^
@@ -37956,6 +37961,7 @@ browsershots.org#@#.advert_area
 ||spasmodictripscontemplate.com^
 ||spatteramazeredundancy.com^
 ||spdate.com^
+||spearunurn.shop^
 ||special-offers.online^
 ||special-promotions.online^
 ||specialistrequirement.com^
@@ -40937,6 +40943,7 @@ browsershots.org#@#.advert_area
 ||vpbpb.com^
 ||vpico.com^
 ||vpipi.com^
+||vpldfujttsdfj.com^
 ||vplgggd.com^
 ||vplxmpagryjvl.space^
 ||vpn-defend.com^
@@ -41203,6 +41210,7 @@ browsershots.org#@#.advert_area
 ||wdoyouknowsai.org^
 ||wdptconiwu.com^
 ||wdtyl.xyz^
+||wdxffvpqzthwt.store^
 ||weakcompromise.com^
 ||weakermumrespect.com^
 ||wealthextend.com^
@@ -42282,6 +42290,7 @@ browsershots.org#@#.advert_area
 ||yrrgghsnq.com^
 ||yrwqquykdja.com^
 ||yrzkvwrrpampg.online^
+||yrzmxrasdhwbq.store^
 ||ysesials.net^
 ||yshfyhfhzvcik.club^
 ||ytdut.online^
@@ -42434,6 +42443,7 @@ browsershots.org#@#.advert_area
 ||zhtndfplsmcqt.global^
 ||zi3nna.xyz^
 ||zi8ivy4b0c7l.com^
+||zibethsroguy.shop^
 ||ziblo.cloud^
 ||zidojrol.com^
 ||zigoulraugnechu.net^

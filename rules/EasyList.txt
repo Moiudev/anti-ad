@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 0lZb+gtzFPtioUv5+MB5hQ
-! Version: 202506100751
+! Checksum: fxpQrCLW5N5FTs9skI4ZaA
+! Version: 202506100951
 ! Title: EasyList
-! Last modified: 10 Jun 2025 07:51 UTC
+! Last modified: 10 Jun 2025 09:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -17449,6 +17449,7 @@ browsershots.org#@#.advert_area
 ||afgr8.com^
 ||afgr9.com^
 ||afgtrwd1.com^
+||afhcifvmnwgxkq.com^
 ||afi-thor.com^
 ||afiliapub.click^
 ||afilliatetraff.com^
@@ -25130,6 +25131,7 @@ browsershots.org#@#.advert_area
 ||flaminglamesuitable.com^
 ||flamssybotic.top^
 ||flamtyr.com^
+||flankylevet.shop^
 ||flannelbeforehand.com^
 ||flansactidaced.com^
 ||flapsoonerpester.com^
@@ -25979,6 +25981,7 @@ browsershots.org#@#.advert_area
 ||gevmrjok.com^
 ||gf0c0qtw080425z7.cfd^
 ||gforanythingam.com^
+||gforanythingamgl.com^
 ||gfsdloocn.com^
 ||gfstrck.com^
 ||gfufutakba.com^
@@ -28895,6 +28898,7 @@ browsershots.org#@#.advert_area
 ||jsretra.com^
 ||jsrietozbpfsj.com^
 ||jssearch.net^
+||jstqzfovctwms.com^
 ||jstzvtmgiybkd.xyz^
 ||jtegqwmjfxu.site^
 ||jtiasfkkg.xyz^
@@ -32511,6 +32515,7 @@ browsershots.org#@#.advert_area
 ||oadrojoa.net^
 ||oaftaijo.net^
 ||oagreess.net^
+||oahvmrbvqsuey.online^
 ||oainternetservices.com^
 ||oainzuo.xyz^
 ||oakbustrp.com^
@@ -36474,6 +36479,7 @@ browsershots.org#@#.advert_area
 ||routerhydrula.com^
 ||routes.name^
 ||routeserve.info^
+||routheedaicich.com^
 ||routinecloudycrocodile.com^
 ||rouvoute.net^
 ||rouwhapt.com^
@@ -36921,6 +36927,7 @@ browsershots.org#@#.advert_area
 ||scheduleginnarcotic.com^
 ||schedulerationally.com^
 ||schemeamuse.com^
+||schistmythist.top^
 ||schjmp.com^
 ||scholarsgrewsage.com^
 ||scholarsslate.com^
@@ -37730,6 +37737,7 @@ browsershots.org#@#.advert_area
 ||snoutcapacity.com^
 ||snoutinsolence.com^
 ||snowdayonline.xyz^
+||snsfdmmzpixhn.site^
 ||snsv.ru^
 ||sntjim.com^
 ||snuff-brownsprintcountry.com^
@@ -39981,6 +39989,7 @@ browsershots.org#@#.advert_area
 ||uglawhigruzeehy.net^
 ||ugopkl.com^
 ||ugroocuw.net^
+||uhalwxtwy.com^
 ||uhdokoq5ocmk.com^
 ||uhedsplo.com^
 ||uhegarberetrof.com^
@@ -40030,6 +40039,7 @@ browsershots.org#@#.advert_area
 ||ulesxbo.com^
 ||ulftmesqcauu.com^
 ||ulheaddedfearing.com^
+||ulhnmxbj.com^
 ||uliafpsf.tattoo^
 ||ulisxyz.store^
 ||ulmoyc.com^
@@ -40412,6 +40422,7 @@ browsershots.org#@#.advert_area
 ||vacwrite.com^
 ||vaebard.com^
 ||vagnerapedesis.top^
+||vagrejaba.com^
 ||vaigowoa.com^
 ||vaikeeecvys.com^
 ||vaikijie.net^
@@ -40789,6 +40800,7 @@ browsershots.org#@#.advert_area
 ||vizoredcheerly.com^
 ||vjdciu.com^
 ||vjembmkzbejlm.top^
+||vjlocpypzmhzr.website^
 ||vjlyljbjjmley.top^
 ||vjlyljbylmeel.top^
 ||vjlyljbylmemj.top^
@@ -40808,6 +40820,7 @@ browsershots.org#@#.advert_area
 ||vlogerads.com^
 ||vlry5l4j5gbn.com^
 ||vlrybjejmpsnqb.com^
+||vlwjbqqovvugf.site^
 ||vm8lm1vp.xyz^
 ||vmauuvpdxcre.com^
 ||vmauw.space^
@@ -41219,6 +41232,7 @@ browsershots.org#@#.advert_area
 ||wejackplenum.top^
 ||wel-wel-fie.com^
 ||welbljlvmmjej.top^
+||welbljlvmmjzm.top^
 ||welbljlvmmyek.top^
 ||welbljlvmmyzw.top^
 ||welcomeargument.com^

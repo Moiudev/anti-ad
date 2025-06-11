@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: PcLLNblfgPsQX57qaW4brg
-! Version: 202506110601
+! Checksum: i7Q6m7gj2dYCagChGrBlZQ
+! Version: 202506110801
 ! Title: EasyList
-! Last modified: 11 Jun 2025 06:01 UTC
+! Last modified: 11 Jun 2025 08:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -16564,6 +16564,7 @@ browsershots.org#@#.advert_area
 ||ab93t2kc.de^
 ||aba9e4d25f.com^
 ||abackdamstubborn.com^
+||abactorchares.shop^
 ||abadit5rckb.com^
 ||abadit5rckd.com^
 ||abamatoyer.com^
@@ -19726,6 +19727,7 @@ browsershots.org#@#.advert_area
 ||bkokuwxfetah.com^
 ||bkqykixrzrgwr.space^
 ||bkr5xeg0c.com^
+||bkrxfveyilyqu.site^
 ||bksoylhvsx.com^
 ||bktsauna.com^
 ||bkwuodwvehlzr.life^
@@ -23534,6 +23536,7 @@ browsershots.org#@#.advert_area
 ||drkgafzwr.com^
 ||drkness.net^
 ||drleez.xyz^
+||drnniuaxhvpgz.website^
 ||drollywungee.shop^
 ||droopcomate.top^
 ||dropalcoholnarrow.com^
@@ -28349,6 +28352,7 @@ browsershots.org#@#.advert_area
 ||ioffers.icu^
 ||iogjhbnoypg.com^
 ||ionakasulba.org^
+||ionianraphael.top^
 ||ioniserpinones.com^
 ||ioniseryeaoman.shop^
 ||ionistkhaya.website^
@@ -30572,6 +30576,7 @@ browsershots.org#@#.advert_area
 ||lvyowwrjeqev.top^
 ||lw2dplgt8.com^
 ||lwgadm.com^
+||lwiarsocx.com^
 ||lwioszfmupt.com^
 ||lwirirvpo.com^
 ||lwjje.com^
@@ -31604,6 +31609,7 @@ browsershots.org#@#.advert_area
 ||mpanythathaveresulte.com^
 ||mpanythathaveresultet.info^
 ||mpay69.com^
+||mpgwfaelf.com^
 ||mpk01.com^
 ||mplayeranyd.info^
 ||mpnoyjbqtyfht.love^
@@ -36617,6 +36623,7 @@ browsershots.org#@#.advert_area
 ||rqwel.com^
 ||rqwlvvkoqmkma.top^
 ||rqwvvtsvnu.com^
+||rqyebojzwaywq.top^
 ||rqzolelelmaea.top^
 ||rrayqhqxmybn.com^
 ||rrbzvmklrzwmk.top^
@@ -37386,6 +37393,7 @@ browsershots.org#@#.advert_area
 ||shareresults.com^
 ||sharesceral.uno^
 ||shareweeknews.com^
+||shariflease.com^
 ||sharion.xyz^
 ||sharkfirelife.com^
 ||sharondemurer.shop^
@@ -37648,6 +37656,7 @@ browsershots.org#@#.advert_area
 ||sjgtsqnmrqswz.space^
 ||sjonkhydb.com^
 ||sjqgmtyxlrjlc.top^
+||sjqlmtpekbytv.website^
 ||sjrejapufeaixvr.com^
 ||sjsabb.com^
 ||sjtactic.com^
@@ -38922,6 +38931,7 @@ browsershots.org#@#.advert_area
 ||tdetkdcubbyhf.com^
 ||tdmnbijnrlyu.xyz^
 ||tdoqiajej.xyz^
+||tdpitskt.com^
 ||tdspa.top^
 ||tdzegpeatygun.tech^
 ||teachingrespectfully.com^
@@ -42075,6 +42085,7 @@ browsershots.org#@#.advert_area
 ||xovzgcoovh.club^
 ||xoxnetwork.com^
 ||xoxyxaxtgkryj.club^
+||xozdafoausk.com^
 ||xpfsmgxc.com^
 ||xpollo.com^
 ||xporn.in^
@@ -42157,6 +42168,7 @@ browsershots.org#@#.advert_area
 ||xylzwamxxshgw.click^
 ||xyrsfkbmjldgv.com^
 ||xyxz.site^
+||xyyoajnithcry.online^
 ||xyz0k4gfs.xyz^
 ||xz0wefju.fun^
 ||xzqpz.com^
@@ -42196,6 +42208,7 @@ browsershots.org#@#.advert_area
 ||yccylqzzbmeqg.global^
 ||ycdfhjmffxjji.space^
 ||yceml.net^
+||ychildrenasthey.com^
 ||yckwcpcgnf.com^
 ||ydenknowled.com^
 ||ydevelelasticals.info^

@@ -7480,7 +7480,7 @@ electronics.semaf.at,offresasaisir.fr,e-herbapol.com.pl,zaugg.swiss,audioteka.co
 ||h.seznam.cz/js/cmp2/scmp-int.js$domain=mapy.cz
 mediathek.lfv-bayern.de#$#.cmms_cookie_consent_manager { display: none !important; }
 mediathek.lfv-bayern.de#$#body { overflow: auto !important; }
-blog.livedoor.jp,blog.jp,saikyo-jump.com,ske48matoeme.com###gdpr-banner
+blog.livedoor.jp,blog.jp,saikyo-jump.com,ske48matoeme.com,dojin-polaris.com###gdpr-banner
 tweetdeleter.com##div[class="w-full fixed bottom-16 px-16"][style]
 virgintvgo.virginmedia.com##.notifications-manager
 soft.mydiv.net##.page-banner__wrapper
@@ -15184,7 +15184,7 @@ telnyx.com#?#footer + div[class^="styled__Container-"]:has(> div[class^="styled_
 cleantalk.org###uses_c
 fantrax.com#?#.toast.ng-trigger-enterLeave:has(> article[role="alert"] > p:contains(We use cookies to improve your experience))
 ada.com#?##outer-container > #page-wrap + aside[class]:has(a[href="/cookie-policy/"])
-changeua.com##.warning
+changeua.com,eusp.org##.warning
 pegast.ru##.top-notification
 play.acast.com#?##app-root > div[class^="Wrapper-sc-"]:has(> aside[class^="Container-sc-"] > div[class^="Body-sc-"] > a[href="https://www.acast.com/cookies"])
 curve.com#?##gatsby-focus-wrapper > div[class^="css-"]:has(> div[class^="css-"] > div[class^="css-"] > p[class^="css-"] > a[href="https://www.curve.com/legal/cookies/index.html"])
@@ -56941,8 +56941,6 @@ malzero.xyz#%#//scriptlet("adjust-setTimeout", "count", "", "0.02")
 notipostingt.com#%#//scriptlet("adjust-setInterval", "window.location.href= atob(", "1000", "0.02")
 ! https://github.com/AdguardTeam/AdguardFilters/issues/123883
 mein-schoener-garten.de#%#//scriptlet('prevent-addEventListener', 'scroll', 'return"undefined"!=typeof')
-! https://github.com/AdguardTeam/AdguardFilters/issues/124475
-mohammedkhc.com#%#//scriptlet('adjust-setInterval', 'countdown', '', '0.02')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/124297
 cmacked.com#%#//scriptlet("adjust-setInterval", ".show_download_links", "", "0.02")
 ! https://github.com/AdguardTeam/AdguardFilters/issues/123709
@@ -57022,8 +57020,6 @@ imgadult.com,imgdrive.net,imgtaxi.com,imgwallet.com#%#//scriptlet("adjust-setTim
 uploadrar.com#%#//scriptlet("adjust-setTimeout", "tick", "1000")
 ! https://github.com/AdguardTeam/AdguardFilters/issues/115711
 cheatermad.com#%#//scriptlet("adjust-setInterval", "#upbtn", "", "0.02")
-! https://github.com/uBlockOrigin/uAssets/issues/12809
-dramaworldhd.co#%#//scriptlet("adjust-setInterval", "timeLeft", "", "0.02")
 ! https://github.com/AdguardTeam/AdguardFilters/issues/113960
 streamcheck.link#%#//scriptlet('adjust-setInterval', 'redirect', '*', '0.001')
 streamcheck.link#%#//scriptlet('remove-class', 'disabled', '.container > button#redirect[disabled]')

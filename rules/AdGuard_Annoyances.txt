@@ -2506,6 +2506,7 @@ teslawissen.ch,scootertechno.com,mysize.ch,aeotec.com,geschichte-wissen.de,4kfil
 !
 ! NOTE: Regular rules
 !
+nextcloud.com#%#//scriptlet('trusted-set-cookie', 'nc_cookie_banner', '{"essentials":true,"convenience":false,"statistics":{"matomo":false},"external_media":{"youtube":false,"vimeo":false,"openstreetmap":true}}')
 buffaloamericas.com###cookie-policy-notification
 listaprzetargow.pl#%#//scriptlet('abort-current-inline-script', '$', 'js-cookie-consent')
 ||exist.ru/ts/CookiesConfirmer.js
@@ -17175,6 +17176,8 @@ poznancongresscenter.pl,arenapoznan.pl,garden-city.pl,city-marketing.pl,ideaexpo
 !+ NOT_OPTIMIZED PLATFORM(windows, mac, android)
 ||geolocation.onetrust.com/cookieconsentpub/*/geo/location$xmlhttprequest,redirect-rule=noopjson
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/207383
+nextcloud.com#@##cookie_banner
 ! https://github.com/AdguardTeam/AdguardFilters/issues/207307
 ecobaltiavide.lv#@#.popup-filter
 ecobaltiavide.lv#@#.cookies-popup:not(#style_important)
@@ -23357,8 +23360,8 @@ retail.ru##.markup__commercial
 retail.ru##.p2-info
 retail.ru##.further__aside > div.places
 retail.ru##div[class^="markup__info-"]
-trueachievements.com###ta-ab-overlay
-trueachievements.com#%#//scriptlet('prevent-element-src-loading', 'script', 'hb.vntsm.com')
+truetrophies.com,truesteamachievements.com,trueachievements.com###ta-ab-overlay
+truetrophies.com,truesteamachievements.com,trueachievements.com#%#//scriptlet('prevent-element-src-loading', 'script', 'hb.vntsm.com')
 autoweek.nl##.adblocker
 plantmaps.com#%#//scriptlet('prevent-setTimeout', '.offsetWidth&&0==')
 bgsi.gg#%#//scriptlet('prevent-setTimeout', 'fired')
@@ -35097,6 +35100,7 @@ gaugau.futabanet.jp,newscientist.com,jiji.com,edp24.co.uk,technologyreview.com,n
 !
 ! SECTION: Subscriptions - Regular rules
 !
+||api.*.exponea.com/campaigns/banners/$domain=urbanstems.com
 birminghammail.co.uk##.pwa-modal-prompt
 jovempan.com.br##.cta-model
 filologika.gr##.article-after
@@ -37380,7 +37384,7 @@ manga-zip.is#?#.sidebar > div.box1:has(> div.box1text > div.textwidget > div.fol
 thefire.org###block-firesubscribesticky
 x.com,twitter.com#?#div[data-testid="inlinePrompt"]:has(> div > a[href="/i/premium_sign_up"])
 peterburg2.ru##.popover-container
-cuddleandkind.com,globeplants.com,nutrimuscle.com,asweatlife.com,skratchlabs.com,thenaturehero.com,farmaciasoccavo.it,athleanx.com,worldstar.com##.needsclick[style^="display: flex; z-index: 90000;"]
+naturehills.com,cuddleandkind.com,globeplants.com,nutrimuscle.com,asweatlife.com,skratchlabs.com,thenaturehero.com,farmaciasoccavo.it,athleanx.com,worldstar.com##.needsclick[style^="display: flex; z-index: 90000;"]
 dictionary.com,thesaurus.com##div[data-type="newsletter-module"]
 dictionary.com,thesaurus.com#?#a[data-linkmodule] ~ p:contains(/^Start each day with the (Word|Synonym)/)
 dictionary.com,thesaurus.com#?#a[data-linkmodule] ~ p:contains(/^Start each day with the (Word|Synonym)/) + form
@@ -60734,7 +60738,7 @@ samlab.ws##iframe[src^="https://yoomoney.ru/"]
 !+ PLATFORM(ios)
 ||cdn.piano.io/api/tinypass.min.js$domain=npr.org
 ! Google Revenue Manager
-||news.google.com/swg/js/v1/swg-basic.js$domain=wololo.net|premierguitar.com|svetandroida.cz|12punto.com.tr
+||news.google.com/swg/js/v1/swg-basic.js$domain=wololo.net|premierguitar.com|svetandroida.cz|12punto.com.tr|game-maps.com
 ! The Moscow Times
 themoscowtimes.com##.preheader_advert
 themoscowtimes.com##.contribute-article

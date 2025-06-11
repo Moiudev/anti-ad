@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: i7Q6m7gj2dYCagChGrBlZQ
-! Version: 202506110801
+! Checksum: eF/fM7QYppWBePFFkBs9dw
+! Version: 202506110951
 ! Title: EasyList
-! Last modified: 11 Jun 2025 08:01 UTC
+! Last modified: 11 Jun 2025 09:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -15708,6 +15708,7 @@ click2houston.com,clickondetroit.com,clickorlando.com,ksat.com,news4jax.com,wsls
 accuweather.com,cheddar.tv,deadline.com,elnuevoherald.com,heraldsun.com,olhardigital.com.br,tvinsider.com#@#.cnx-player-wrapper
 accuweather.com#@#.connatix-player
 huffpost.com#@#.connatix-wrapper
+newsnationnow.com#@#.nxs-player-wrapper
 carbuzz.com,screenrant.com#@#.w-adsninja-video-player
 !! ins.adsbygoogle
 advancedrenamer.com,androidrepublic.org,anonymousemail.me,apkmirror.com,cdromance.com,demos.krajee.com,epicbundle.com,korail.pe.kr,nextbigtrade.com,phcorner.net,pixiz.com,skmedix.pl,spoilertv.com,willyoupressthebutton.com#@#ins.adsbygoogle[data-ad-client]
@@ -20571,6 +20572,7 @@ browsershots.org#@#.advert_area
 ||cambridgeinadmissibleapathetic.com^
 ||cameesse.net^
 ||camelcappuccino.com^
+||cameoutofthecatey.com^
 ||cameraunfit.com^
 ||camiocw.com^
 ||cammpaign.com^
@@ -25156,6 +25158,7 @@ browsershots.org#@#.advert_area
 ||fkbwtoopwg.com^
 ||fkjcuovnhzaaz.love^
 ||fkkicdtg.com^
+||fkklcqmeqoerb.space^
 ||fknoyongqrawfml.com^
 ||fkodq.com^
 ||fksnk.com^
@@ -25628,6 +25631,7 @@ browsershots.org#@#.advert_area
 ||fugcgfilma.com^
 ||fugitiveautomaticallybottled.com^
 ||fuhbimbkoz.com^
+||fuhcoupnmivfn.site^
 ||fuhoftoajoabs.net^
 ||fujolfgip.com^
 ||fujtaltapoz.com^
@@ -26372,6 +26376,7 @@ browsershots.org#@#.advert_area
 ||goingkinch.com^
 ||goingtoothachemagician.com^
 ||gojbtiqarctsc.life^
+||goksmejewlqpk.space^
 ||golanconcludedrecognize.com^
 ||gold2762.com^
 ||goldangblowze.top^
@@ -27108,6 +27113,7 @@ browsershots.org#@#.advert_area
 ||hegemonjujus.shop^
 ||hehadstoppedto.org^
 ||hehewow.com^
+||heighdiego.shop^
 ||heimishcresyl.shop^
 ||heirdomteenty.shop^
 ||heiressplane.com^
@@ -28549,6 +28555,7 @@ browsershots.org#@#.advert_area
 ||izjzyykiyn.club^
 ||izlok.xyz^
 ||izrnvo.com^
+||izvtmrynby.com^
 ||j-mxponyz.love^
 ||j6mn99mr0m2n.com^
 ||ja2n2u30a6rgyd.com^
@@ -28710,6 +28717,7 @@ browsershots.org#@#.advert_area
 ||jepsauveel.net^
 ||jeqjawqyvboqj.top^
 ||jeqjawqyvbyoq.top^
+||jeqpqqqqwkmxk.store^
 ||jeqsuyzlpwjzy.rocks^
 ||jergocast.com^
 ||jerjared.top^
@@ -31952,6 +31960,7 @@ browsershots.org#@#.advert_area
 ||nbottkauyy.com^
 ||nbstatic.com^
 ||nceneverdreamsofc.org^
+||nceyeykhnltr.com^
 ||ncipledeclinerybel.org^
 ||ncojkokhi.com^
 ||ncubadmavfp.com^
@@ -32853,6 +32862,7 @@ browsershots.org#@#.advert_area
 ||ogvomwvkygm.com^
 ||ogxntutl.fun^
 ||ogz4n3ke.xyz^
+||ohalmfaap.com^
 ||ohgaqlsrea.com^
 ||ohgpibzmola.com^
 ||ohgqwicco.com^
@@ -33622,6 +33632,7 @@ browsershots.org#@#.advert_area
 ||p-usjawrfp.global^
 ||p12acx.com^
 ||p1yhfi19l.com^
+||p2ed.site^
 ||p35h.space^
 ||p40rlh4k.xyz^
 ||p8wj9zko.com^
@@ -41011,6 +41022,7 @@ browsershots.org#@#.advert_area
 ||voosaivege.com^
 ||voovoacivoa.net^
 ||voredi.com^
+||voshoaphulre.com^
 ||vossulekuk.com^
 ||votruiiuefzwd.today^
 ||voubaiseecoophe.net^
@@ -41309,6 +41321,7 @@ browsershots.org#@#.advert_area
 ||weatherplllatform.com^
 ||weaveradrenaline.com^
 ||weayrvveooomw.top^
+||weayrvvwboyok.top^
 ||web-guardian.xyz^
 ||web-security.cloud^
 ||web0.eu^

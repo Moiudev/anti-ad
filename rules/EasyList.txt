@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: u02CstJoYf8b28hohvyt7w
-! Version: 202506121151
+! Checksum: iusSnKTOaOEPwsL2a65aUQ
+! Version: 202506121401
 ! Title: EasyList
-! Last modified: 12 Jun 2025 11:51 UTC
+! Last modified: 12 Jun 2025 14:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -20500,6 +20500,7 @@ browsershots.org#@#.advert_area
 ||bvtpk.com^
 ||bwhhcuikrgvhs.online^
 ||bwhuyauklndvt.online^
+||bwnnbwlngkwgd.space^
 ||bwoqusogsrar.com^
 ||bwsddrebfiwvu.store^
 ||bwtcilgll.com^
@@ -20911,6 +20912,7 @@ browsershots.org#@#.advert_area
 ||cdwmtt.com^
 ||ce82020873.com^
 ||ceaankluwuov.today^
+||ceakppokkbodo.store^
 ||ceandtheremade.com^
 ||ceasechampagneparade.com^
 ||ceasecompromisetwine.com^
@@ -25694,6 +25696,7 @@ browsershots.org#@#.advert_area
 ||fsalfrwdr.com^
 ||fsccafstr.com^
 ||fsltwwmfxqh.fun^
+||fssahbltmoqyg.site^
 ||fstsrv13.com^
 ||fstsrv16.com^
 ||fstsrv4.com^
@@ -25767,6 +25770,7 @@ browsershots.org#@#.advert_area
 ||funjoobpolicester.info^
 ||funklicks.com^
 ||funmutteredadisa.com^
+||funninglimpers.com^
 ||funsoups.com^
 ||funtoday.info^
 ||funufc.fun^
@@ -25890,6 +25894,7 @@ browsershots.org#@#.advert_area
 ||gajoytoworkwith.com^
 ||galagosalmon.top^
 ||galahhaydn.top^
+||galangatzitzis.shop^
 ||galaxydiminution.com^
 ||galaxypush.com^
 ||galeaeevovae.com^
@@ -27981,6 +27986,7 @@ browsershots.org#@#.advert_area
 ||ifulasaweatherc.info^
 ||igainareputaon.info^
 ||igaming-warp-service.io^
+||ighrpmbwdrzoy.store^
 ||ightsapph.info^
 ||iglakgdhhmagf.online^
 ||igloohq.com^
@@ -28822,6 +28828,7 @@ browsershots.org#@#.advert_area
 ||jekzyyyljvrvz.top^
 ||jekzyyyljvyww.top^
 ||jelhtwlkwa.com^
+||jeliblodens.shop^
 ||jelliconitrate.shop^
 ||jelllearnedhungry.com^
 ||jellyhelpless.com^
@@ -28948,6 +28955,7 @@ browsershots.org#@#.advert_area
 ||jlotlwqrgmpxfh.com^
 ||jlovoiqtgarh.com^
 ||jlvoidsvcfs.com^
+||jmjuivzcp.com^
 ||jmpmedia.club^
 ||jmrnews.pro^
 ||jmt7mbwce.com^
@@ -29229,6 +29237,7 @@ browsershots.org#@#.advert_area
 ||jzqbyykjorqkq.top^
 ||jzqscvqlgasxh.buzz^
 ||jztwidpixa.icu^
+||jzvwawvwkwawj.top^
 ||jzxouwszeyhrq.online^
 ||jzykizla.com^
 ||jzylponilwf.com^
@@ -31099,6 +31108,7 @@ browsershots.org#@#.advert_area
 ||mbreviewer.com^
 ||mbreviews.info^
 ||mbsspads.com^
+||mbsxdsfsrvmh.com^
 ||mbuncha.com^
 ||mbvlmx.com^
 ||mbvlmz.com^
@@ -31701,6 +31711,7 @@ browsershots.org#@#.advert_area
 ||morrabranta.shop^
 ||morroinane.com^
 ||morselmongoe.shop^
+||mortifiedbar.pro^
 ||mortifiedmom.com^
 ||mortoncape.com^
 ||mortypush.com^
@@ -36971,6 +36982,7 @@ browsershots.org#@#.advert_area
 ||rvstcsghqcu.com^
 ||rvukbeuexr.com^
 ||rvvmynjd.love^
+||rwbkrnihzrbrb.online^
 ||rwdmymnfiklbj.com^
 ||rwfwlrhyolok.com^
 ||rwhnuqxubwqvn.one^
@@ -37298,6 +37310,7 @@ browsershots.org#@#.advert_area
 ||scysfytc.com^
 ||scyvqhcehstpt.top^
 ||sda.seesaa.jp^
+||sdaexcyk.com^
 ||sdbuuzhjzznc.fun^
 ||sdbvveonb1.com^
 ||sddan.com^
@@ -38112,6 +38125,7 @@ browsershots.org#@#.advert_area
 ||softresumesuperserver.com^
 ||softwares2015.com^
 ||soggingterman.com^
+||soggy-personality.pro^
 ||sogropidy.com^
 ||soholfit.com^
 ||soilenthusiasmshindig.com^
@@ -38537,6 +38551,7 @@ browsershots.org#@#.advert_area
 ||sternlythese.com^
 ||steroidbazaarbalance.com^
 ||stertordorab.com^
+||sterurelander.com^
 ||stesywijy.com^
 ||stethathehadsto.com^
 ||stethepsartopo.com^
@@ -42228,6 +42243,7 @@ browsershots.org#@#.advert_area
 ||xdiwbc.com^
 ||xdmanage.com^
 ||xdownloadright.com^
+||xeaefvkofxfn.com^
 ||xegluwate.com^
 ||xel-xel-fie.com^
 ||xelllwrite.com^

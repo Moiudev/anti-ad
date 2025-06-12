@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ji3xVDK2UNX+N5qIpEtymg
-! Version: 202506120041
+! Checksum: RAwwOIPtO4W6E9YwO1QxFg
+! Version: 202506120301
 ! Title: EasyList
-! Last modified: 12 Jun 2025 00:41 UTC
+! Last modified: 12 Jun 2025 03:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -22479,6 +22479,7 @@ browsershots.org#@#.advert_area
 ||daffaite.com^
 ||daffishrenky.shop^
 ||daffodilnotifyquarterback.com^
+||dagabamanei.shop^
 ||dagnar.com^
 ||dagnurgihjiz.com^
 ||dagpwuavho.com^
@@ -24827,6 +24828,7 @@ browsershots.org#@#.advert_area
 ||fajukc.com^
 ||fake-square.com^
 ||fakesorange.com^
+||fakirhobbism.top^
 ||falcatasestina.top^
 ||falcatayamalka.com^
 ||falkag.net^
@@ -28517,6 +28519,7 @@ browsershots.org#@#.advert_area
 ||isboost.co.jp^
 ||isbycgqyhsze.world^
 ||isgost.com^
+||ishedbritings.com^
 ||isisomeoneintheworld.org^
 ||isiu0w9gv.com^
 ||iskxbcplvw.com^
@@ -29360,6 +29363,7 @@ browsershots.org#@#.advert_area
 ||kgdvs9ov3l2aasw4nuts.com^
 ||kgfjrb711.com^
 ||kgfrstw.com^
+||kggrybngbdwedsg.com^
 ||kgiponbnqwo.com^
 ||kgiulbvj.com^
 ||kglbvcvuqpl.com^
@@ -30766,6 +30770,7 @@ browsershots.org#@#.advert_area
 ||machmayhavedesc.org^
 ||machogodynamis.com^
 ||machreemudless.shop^
+||macrlisubnet.com^
 ||macro.adnami.io^
 ||madadsmedia.com^
 ||madcheddar.net^
@@ -31286,6 +31291,7 @@ browsershots.org#@#.advert_area
 ||mghkpg.com^
 ||mgisrlyu.xyz^
 ||mgladthereisso.com^
+||mgrrprhkhmwj.com^
 ||mgtcouucmfjmowr.com^
 ||mgxbwylia.com^
 ||mgyccfrshz.com^
@@ -32341,6 +32347,7 @@ browsershots.org#@#.advert_area
 ||nitridslah.com^
 ||niveausatan.shop^
 ||niveauultion.shop^
+||niwinn.com^
 ||niwooghu.com^
 ||niyeobmjpg.com^
 ||niyimu.xyz^
@@ -33242,6 +33249,7 @@ browsershots.org#@#.advert_area
 ||ooloptou.net^
 ||oomaugnaps.net^
 ||oomougnoltaifto.net^
+||oompahmoniker.com^
 ||oonsouque.com^
 ||oopatet.com^
 ||ooqtjsubfcppe.life^
@@ -35218,6 +35226,7 @@ browsershots.org#@#.advert_area
 ||pugsgivehugs.com^
 ||puhtml.com^
 ||puitaexb.com^
+||pujhysvxfpf.com^
 ||puldhukelpmet.com^
 ||pullovereugenemistletoe.com^
 ||pulpix.com^
@@ -35600,6 +35609,7 @@ browsershots.org#@#.advert_area
 ||qrealqezjqvrj.top^
 ||qrgip.xyz^
 ||qrifhajtabcy.com^
+||qrkwvooljbmov.top^
 ||qrkwvoomrbroo.top^
 ||qrlsx.com^
 ||qrprobopassor.com^
@@ -36666,6 +36676,7 @@ browsershots.org#@#.advert_area
 ||rooptawu.net^
 ||roosterbelime.shop^
 ||rootderideflex.com^
+||rootithoatooglu.net^
 ||rootoadoop.net^
 ||roots.baby^
 ||rootzaffiliates.com^
@@ -42188,6 +42199,7 @@ browsershots.org#@#.advert_area
 ||xijgedjgg5f55.com^
 ||ximybkpxwu.com^
 ||xineday.com^
+||xiphiidbachel.com^
 ||xipteq.com^
 ||xisrzoruhmr.com^
 ||xityonatallcolumn.com^
@@ -42459,6 +42471,7 @@ browsershots.org#@#.advert_area
 ||ynfwkifwmkqyr.store^
 ||ynklendr.online^
 ||ynrije.com^
+||yntherplunge.com^
 ||ynurfigldblbt.online^
 ||yoads.net^
 ||yoc-adserver.com^

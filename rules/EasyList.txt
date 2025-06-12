@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 0gC0hLZlnDkEO7F8URp34A
-! Version: 202506120401
+! Checksum: RkPRWZ3Lq6NiggGVC1um4g
+! Version: 202506120601
 ! Title: EasyList
-! Last modified: 12 Jun 2025 04:01 UTC
+! Last modified: 12 Jun 2025 06:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -19728,6 +19728,7 @@ browsershots.org#@#.advert_area
 ||birthday3452.fun^
 ||birthjeans.icu^
 ||bisaxdovvatb.com^
+||biscuitmortify.com^
 ||biserka.xyz^
 ||bisetsoliped.com^
 ||biskshooing.click^
@@ -20417,6 +20418,7 @@ browsershots.org#@#.advert_area
 ||bumxmomcu.com^
 ||bumzilxruqup.com^
 ||bunchciderall.com^
+||bundhmazurka.top^
 ||bundlemoviepumice.com^
 ||bundlerenown.com^
 ||bungalowdispleasedwheeled.com^
@@ -21126,6 +21128,7 @@ browsershots.org#@#.advert_area
 ||chicconnate.com^
 ||chicheecmaungee.net^
 ||chicks4date.com^
+||chidwguhle.com^
 ||chief-branch.pro^
 ||chief-cry.pro^
 ||chieflyquantity.com^
@@ -26112,6 +26115,7 @@ browsershots.org#@#.advert_area
 ||gevmrjok.com^
 ||gf0c0qtw080425z7.cfd^
 ||gfdsywsnqf.com^
+||gff660fg.xyz^
 ||gforanythingam.com^
 ||gforanythingamgl.com^
 ||gfsdloocn.com^
@@ -26396,6 +26400,7 @@ browsershots.org#@#.advert_area
 ||gnivkrohtclxta.com^
 ||gnmwsxajxlakj.vip^
 ||gnnnzxuzv.com^
+||gnocchiberline.top^
 ||gnomideligulas.com^
 ||gnssivagwelwspe.xyz^
 ||gnxejkaavvv.com^
@@ -30228,6 +30233,7 @@ browsershots.org#@#.advert_area
 ||lipidicchaoush.com^
 ||lipqkoxzy.com^
 ||lipsanographer.monster^
+||lipsgig.com^
 ||lipteedseelr.com^
 ||lipwesfzuidbk.club^
 ||liqikxqpx.com^
@@ -30548,6 +30554,7 @@ browsershots.org#@#.advert_area
 ||lqclick.com^
 ||lqcngjecijy.rocks^
 ||lqdafcgrlaaby.xyz^
+||lqfiznzqv.com^
 ||lqgenuq-j.life^
 ||lqjfhehcrkatj.xyz^
 ||lqrjuhhbzagoq.online^
@@ -32086,6 +32093,7 @@ browsershots.org#@#.advert_area
 ||ndafbmgsa.com^
 ||ndandinter.hair^
 ||ndaspiratiotyukn.com^
+||ndbign.com^
 ||ndcomemunica.com^
 ||ndeedtheriverwas.com^
 ||ndegj3peoh.com^
@@ -32387,6 +32395,7 @@ browsershots.org#@#.advert_area
 ||nmyfedath.com^
 ||nnkjgbdsiq.com^
 ||nnowa.com^
+||nnwuqexsuz.com^
 ||no2veeamggaseber.com^
 ||noafooshejoot.com^
 ||noapsovochu.net^
@@ -35045,6 +35054,7 @@ browsershots.org#@#.advert_area
 ||provisionskiss.com^
 ||prowlenthusiasticcongest.com^
 ||proximic.com^
+||proydefp.com^
 ||prplad.com^
 ||prplads.com^
 ||prpops.com^
@@ -35503,6 +35513,7 @@ browsershots.org#@#.advert_area
 ||qfwwhelkdjaeu.buzz^
 ||qgerr.com^
 ||qgevavwyafjf.com^
+||qghnxwkybpo.xyz^
 ||qghqtntnadq.com^
 ||qgimxtyttlpyj.store^
 ||qgmoslspensxh.buzz^
@@ -35611,6 +35622,7 @@ browsershots.org#@#.advert_area
 ||qrealqezjqvrj.top^
 ||qrgip.xyz^
 ||qrifhajtabcy.com^
+||qrigusakqa.com^
 ||qrkwvooljbmov.top^
 ||qrkwvoomrbroo.top^
 ||qrlsx.com^
@@ -36892,6 +36904,7 @@ browsershots.org#@#.advert_area
 ||runwaff.com^
 ||runwayrenewal.com^
 ||ruohmghwpzzp.com^
+||ruptodraibe.net^
 ||rural-report.pro^
 ||ruralhistorian.com^
 ||ruralnobounce.com^
@@ -37654,6 +37667,7 @@ browsershots.org#@#.advert_area
 ||shorteh.com^
 ||shortesthotel.com^
 ||shortssibilantcrept.com^
+||shorttermattention.pro^
 ||shotgunchancecruel.com^
 ||shoukigaigoors.net^
 ||shoulderadmonishstore.com^
@@ -37752,6 +37766,7 @@ browsershots.org#@#.advert_area
 ||sinalzythia.com^
 ||sincalled.com^
 ||sincenturypro.org^
+||sincerecompatriot.com^
 ||sincerelydarklarger.com^
 ||sincerelyseverelyminimum.com^
 ||sinderpalaced.top^
@@ -39434,6 +39449,7 @@ browsershots.org#@#.advert_area
 ||tideairtight.com^
 ||tidiferhagose.shop^
 ||tidint.pro^
+||tidy-mark.com^
 ||tidyinteraction.pro^
 ||tiedogeyebolt.shop^
 ||tiewaxftvgxdv.today^

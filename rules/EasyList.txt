@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: osc28MooUFB6+fZLBEK5Ow
-! Version: 202506122201
+! Checksum: Nn4UFULgsdnDwuJCuYN6vA
+! Version: 202506130041
 ! Title: EasyList
-! Last modified: 12 Jun 2025 22:01 UTC
+! Last modified: 13 Jun 2025 00:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -21561,6 +21561,7 @@ browsershots.org#@#.advert_area
 ||cnnected.org^
 ||cnnmnmswlmgqen.com^
 ||cnsuixnamwmtrxt.com^
+||cnsxrfsrfpsvf.site^
 ||cnt.my^
 ||cntrealize.com^
 ||cnwafglwlbcro.life^
@@ -23683,6 +23684,7 @@ browsershots.org#@#.advert_area
 ||dtawwaowtd.com^
 ||dtheircleanwhitepi.org^
 ||dthipkts.com^
+||dtlqxgox.com^
 ||dtmjpefzybt.fun^
 ||dtmpub.com^
 ||dtootmvwy.top^
@@ -24144,6 +24146,7 @@ browsershots.org#@#.advert_area
 ||ejidocinct.top^
 ||ejitmssx-rk.icu^
 ||ejkrtgyjxakrqk.com^
+||ejsgmeirtaumd.store^
 ||ejuiashsateam.info^
 ||ejuiashsateampl.info^
 ||ekamsply.com^
@@ -24390,6 +24393,7 @@ browsershots.org#@#.advert_area
 ||eoftheappyrinc.info^
 ||eofufortchris.org^
 ||eofwlnyaxwfqt.global^
+||eoiservwax.com^
 ||eondunpea.com^
 ||eoneintheworldw.com^
 ||eonsmedia.com^
@@ -27514,6 +27518,7 @@ browsershots.org#@#.advert_area
 ||hlkxswtdbubcw.com^
 ||hlmiq.com^
 ||hlnymphon.shop^
+||hloontleulrrx.site^
 ||hlserve.com^
 ||hlyrecomemum.info^
 ||hmafhczsos.com^
@@ -28630,6 +28635,7 @@ browsershots.org#@#.advert_area
 ||itnuzleafan.com^
 ||itpatratr.com^
 ||itponytaa.com^
+||itren.site^
 ||itrex.site^
 ||itrigra.ru^
 ||itriyokj.com^
@@ -30786,6 +30792,7 @@ browsershots.org#@#.advert_area
 ||lycoty.com^
 ||lydiacorneredreflect.com^
 ||lydiapain.com^
+||lydidqrpbqaia.com^
 ||lyearsfoundhertob.com^
 ||lyfjnkpupaxixm.com^
 ||lyingleisurelycontagious.com^
@@ -32740,6 +32747,7 @@ browsershots.org#@#.advert_area
 ||nvaxjmyg.com^
 ||nvejmzqxuuujx.love^
 ||nvpylxkdptacm.today^
+||nvqlygqniapyb.site^
 ||nvtvssczb.com^
 ||nvuzubaus.tech^
 ||nvxbjvswajhug.space^
@@ -34306,6 +34314,7 @@ browsershots.org#@#.advert_area
 ||pheersie.com^
 ||pheftoud.com^
 ||pheghunibam.com^
+||phehaitaumpou.com^
 ||pheloastaigle.com^
 ||phemietoric.shop^
 ||phempaftutch.com^
@@ -35569,6 +35578,7 @@ browsershots.org#@#.advert_area
 ||qepene.lol^
 ||qepfogmvvwyyk.site^
 ||qepytatzudtum.life^
+||qerkbejkbqykw.top^
 ||qerkbejkbqywb.top^
 ||qerkbejqwqjkr.top^
 ||qevmhghuyoqva.store^
@@ -36020,6 +36030,7 @@ browsershots.org#@#.advert_area
 ||rdilgjxfabtiu.life^
 ||rdovertop.shop^
 ||rdpyjpljfqfwah.xyz^
+||rdqonejxzdwym.store^
 ||rdrctgoweb.com^
 ||rdreamsofcryin.com^
 ||rdrm1.click^
@@ -39293,6 +39304,7 @@ browsershots.org#@#.advert_area
 ||teraslassies.top^
 ||terbit2.com^
 ||terciogouge.com^
+||terfumescom.com^
 ||terhousouokop.com^
 ||terminatefaltergrunt.com^
 ||termswhopitched.com^
@@ -39334,6 +39346,7 @@ browsershots.org#@#.advert_area
 ||tgel2ebtx.ru^
 ||tgfkqpvxzcfxq.world^
 ||tgingleagaineda.org^
+||tgkqgygcxcqmm.com^
 ||thacovapte.pro^
 ||thacursoomob.com^
 ||thadairteetchar.net^
@@ -39558,6 +39571,7 @@ browsershots.org#@#.advert_area
 ||tillstayhereab.org^
 ||tilohwozbbam.com^
 ||tilpuvhis.com^
+||tilqwekuszfa.com^
 ||tilrozafains.net^
 ||tiltgardenheadlight.com^
 ||tiltoofughes.com^
@@ -40290,6 +40304,7 @@ browsershots.org#@#.advert_area
 ||tyfqjbuk.one^
 ||tyfuufdp-xbd.top^
 ||tyhjvqeidd.com^
+||tyhwduslcjbphgp.com^
 ||tyintxwkjmkm.com^
 ||tyjttinacorners.info^
 ||tylosischewer.com^
@@ -41345,6 +41360,7 @@ browsershots.org#@#.advert_area
 ||vsftsyriv.com^
 ||vsgyfixkbow.com^
 ||vstserv.com^
+||vstwm.com^
 ||vsxgrrjvgerjdtb.com^
 ||vtabnalp.net^
 ||vtfwwilv.com^
@@ -42589,6 +42605,7 @@ browsershots.org#@#.advert_area
 ||ylx-4.com^
 ||ylxfcvbuupt.com^
 ||ym8p.net^
+||ymandardaircl.com^
 ||ymehnthakutyfor.com^
 ||ymqlrkznenfcd.world^
 ||ymrxocxihgf.com^
@@ -52156,6 +52173,7 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||dev.to^*/billboards/post_comments^
 ||dev.to^*/billboards/post_sidebar^
 ||developer.mozilla.org/pong/
+||deviantart.com/_nsfgfb/?realEstateId=*&biClientIdSigned=
 ||devopscon.io/session-qualification/$subdocument
 ||dianomi.com/brochures.epl?
 ||dianomi.com/click.epl

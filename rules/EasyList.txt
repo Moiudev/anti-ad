@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: RvH0jZp4QkvGCkrKA8roZw
-! Version: 202506130601
+! Checksum: Cv+wlkul/T9R5mIceFj1VQ
+! Version: 202506130801
 ! Title: EasyList
-! Last modified: 13 Jun 2025 06:01 UTC
+! Last modified: 13 Jun 2025 08:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -17978,6 +17978,7 @@ browsershots.org#@#.advert_area
 ||ambra.com^
 ||ambuizeler.com^
 ||amdkmamc.com^
+||amdlucxrofi.com^
 ||amelatrina.com^
 ||amendableirritatingprotective.com^
 ||amendablesloppypayslips.com^
@@ -21265,6 +21266,7 @@ browsershots.org#@#.advert_area
 ||ciizxsdr.com^
 ||cijoorsairgusa.com^
 ||cijoyfhiacneg.online^
+||cikorloimlxct.website^
 ||ciksolre.net^
 ||ciksoophuxabsie.net^
 ||cilon.site^
@@ -23851,6 +23853,7 @@ browsershots.org#@#.advert_area
 ||dziamswamc.com^
 ||dzigzdbqkc.com^
 ||dzijggsdx.com^
+||dzjlyvcsggmls.online^
 ||dzkdyqyvadyqq.online^
 ||dzliege.com^
 ||dzoonztumkuq.com^
@@ -24392,6 +24395,7 @@ browsershots.org#@#.advert_area
 ||entreesmoothstir.com^
 ||entreguei.com^
 ||entterto.com^
+||entwithoughtsu.com^
 ||enueduringhere.info^
 ||envious-low.com^
 ||enviousinevitable.com^
@@ -24551,6 +24555,7 @@ browsershots.org#@#.advert_area
 ||estimatedrick.com^
 ||estpeopleshouldth.org^
 ||esumedadele.info^
+||esusaryproced.com^
 ||etetxwdgqxufr.one^
 ||eteveredgove.info^
 ||etflpbk.com^
@@ -27510,6 +27515,7 @@ browsershots.org#@#.advert_area
 ||hj6y7jrhnysuchtjhw.info^
 ||hjalma.com^
 ||hjcpyuivygenx.rocks^
+||hjiqepnmicea.com^
 ||hjklq.com^
 ||hjmawbrxzq.space^
 ||hjoddysekhmji.site^
@@ -27779,6 +27785,7 @@ browsershots.org#@#.advert_area
 ||htkcm.com^
 ||htl.bid^
 ||htlbid.com^
+||htlhpmobrsxeflg.com^
 ||htliaproject.com^
 ||htmonster.com^
 ||htnejxlhoskug.love^
@@ -29251,6 +29258,7 @@ browsershots.org#@#.advert_area
 ||jxgnueqwyjjeuc.com^
 ||jxjttecednvb.com^
 ||jxldpjxcp.com^
+||jxnncepmitwxh.space^
 ||jxsnbpigylb.com^
 ||jybaekaqbmmmb.top^
 ||jybaekaqbmvyw.top^
@@ -29806,6 +29814,7 @@ browsershots.org#@#.advert_area
 ||kzcxpsgytvfy.com^
 ||kzfslblsahnou.life^
 ||kzgwhioswkztt.one^
+||kzqjctpvdjmwc.store^
 ||kzt2afc1rp52.com^
 ||kztovjvn.com^
 ||kzuocxorfo.com^
@@ -33637,6 +33646,7 @@ browsershots.org#@#.advert_area
 ||otwqvqla.com^
 ||oubqwkmhrcpat.fun^
 ||ouchruse.com^
+||oucouksirt.com^
 ||oudeemeewhaims.com^
 ||oudseroa.com^
 ||oudsutch.com^
@@ -34148,6 +34158,7 @@ browsershots.org#@#.advert_area
 ||pdwdbsfgkxltg.world^
 ||peabirdlollup.shop^
 ||peacebanana.com^
+||peaceful-park.pro^
 ||peacefulburger.com^
 ||peachytopless.com^
 ||peachywaspish.com^
@@ -36204,6 +36215,7 @@ browsershots.org#@#.advert_area
 ||reelnk.com^
 ||reenakun.com^
 ||reepsotograg.net^
+||reeqqkeamarmj.top^
 ||reeqqkeamawaq.top^
 ||reerupttuchis.shop^
 ||reeshlecampal.shop^
@@ -42907,6 +42919,7 @@ browsershots.org#@#.advert_area
 ||zigoulraugnechu.net^
 ||zigzagrowy.com^
 ||zigzt.com^
+||zihxhtnkqzz.com^
 ||zijaipse.com^
 ||zikpwr.com^
 ||zikroarg.com^

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: qycdDtNnkUUu3MB/pmM/5A
-! Version: 202506131001
+! Checksum: GjJxiTcxi9VRKbvqUk9DTw
+! Version: 202506131141
 ! Title: EasyList
-! Last modified: 13 Jun 2025 10:01 UTC
+! Last modified: 13 Jun 2025 11:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -19361,6 +19361,7 @@ browsershots.org#@#.advert_area
 ||beastssmuggleimpatiently.com^
 ||beatifulllhistory.com^
 ||beautifulasaweath.info^
+||beautifulintention.pro^
 ||beauty1.xyz^
 ||beavertron.com^
 ||beaverydalasi.shop^
@@ -20205,6 +20206,7 @@ browsershots.org#@#.advert_area
 ||bravespace.pro^
 ||bravotrk.com^
 ||brazenwholly.com^
+||brcjvwooqneol.online^
 ||breachneatlylane.com^
 ||breadpro.com^
 ||breakfastinvitingdetergent.com^
@@ -22419,6 +22421,7 @@ browsershots.org#@#.advert_area
 ||cvujydqxsgvfu.one^
 ||cvvemdvrojgo.com^
 ||cvxwaslonejulyha.info^
+||cwbtbhdhcirkr.website^
 ||cwevcagil.com^
 ||cwfpkipntwfudvo.com^
 ||cwicawat.com^
@@ -23674,6 +23677,7 @@ browsershots.org#@#.advert_area
 ||dsb68d.com^
 ||dseveralmefarketi.com^
 ||dsfvmx.click^
+||dsgmegsukgslc.com^
 ||dskesrsbhqdnlta.xyz^
 ||dsldtohkgc.com^
 ||dslfndqpednqu.xyz^
@@ -25511,6 +25515,7 @@ browsershots.org#@#.advert_area
 ||forcelessgreetingbust.com^
 ||forcetwice.com^
 ||forcingclinch.com^
+||fordedcostaea.com^
 ||fordullorangs.shop^
 ||forearmdiscomfort.com^
 ||forearmsickledeliberate.com^
@@ -27540,6 +27545,7 @@ browsershots.org#@#.advert_area
 ||hlhguzuidislw.site^
 ||hlhuihrzbebkv.one^
 ||hlinit.com^
+||hlipdlxxi.com^
 ||hlkxswtdbubcw.com^
 ||hlmiq.com^
 ||hlnymphon.shop^
@@ -28995,6 +29001,7 @@ browsershots.org#@#.advert_area
 ||jk4lmrf2.de^
 ||jkajyrkqaoyjl.top^
 ||jkbewmebyqkoq.top^
+||jkeitifzyuxde.online^
 ||jkha742.xyz^
 ||jklpy.com^
 ||jkqiweqrxsieb.website^
@@ -31847,6 +31854,7 @@ browsershots.org#@#.advert_area
 ||mpay69.com^
 ||mpgwfaelf.com^
 ||mpk01.com^
+||mplam.com^
 ||mplayeranyd.info^
 ||mpnoyjbqtyfht.love^
 ||mpnrs.com^
@@ -32666,6 +32674,7 @@ browsershots.org#@#.advert_area
 ||nrcykmnukb.com^
 ||nrdpfnpqunyle.rocks^
 ||nreg.world^
+||nrltnojhyjrup.com^
 ||nrnma.com^
 ||nroruvsal.com^
 ||nrospyvilsko.com^
@@ -36488,6 +36497,7 @@ browsershots.org#@#.advert_area
 ||retortedattendnovel.com^
 ||retortloudenvelope.com^
 ||retoxo.com^
+||retpzsuxpahbf.website^
 ||retreatregular.com^
 ||retrievereasoninginjure.com^
 ||retripmoppers.com^
@@ -37856,6 +37866,7 @@ browsershots.org#@#.advert_area
 ||siberiabecrush.com^
 ||sibilantsuccess.com^
 ||sibohqoc.com^
+||sicewongaugloxe.net^
 ||sicilywring.com^
 ||sickbedjibboom.com^
 ||sicklypercussivecoordinate.com^
@@ -42235,6 +42246,7 @@ browsershots.org#@#.advert_area
 ||wuci1.xyz^
 ||wuczmaorkqaz.com^
 ||wudr.net^
+||wufazpappk.com^
 ||wufobvbzuott.com^
 ||wufodfojfm.com^
 ||wugroansaghadry.com^
@@ -42473,6 +42485,7 @@ browsershots.org#@#.advert_area
 ||xqldndcgi.com^
 ||xqmvzmt.com^
 ||xqneeonfsj.com^
+||xqoekpexkpfmj.com^
 ||xqwcchybybnro.com^
 ||xqwrdegbmdfrv.top^
 ||xrehxiuglsxrrxh.com^

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Cv+wlkul/T9R5mIceFj1VQ
-! Version: 202506130801
+! Checksum: qycdDtNnkUUu3MB/pmM/5A
+! Version: 202506131001
 ! Title: EasyList
-! Last modified: 13 Jun 2025 08:01 UTC
+! Last modified: 13 Jun 2025 10:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -22022,6 +22022,7 @@ browsershots.org#@#.advert_area
 ||cosechice.shop^
 ||cosedluteo.com^
 ||coseraja.shop^
+||cosetengarb.com^
 ||cosignpresentlyarrangement.com^
 ||cosmeticsgenerosity.com^
 ||cosponsorgarnetmorphing.com^
@@ -23984,6 +23985,7 @@ browsershots.org#@#.advert_area
 ||echoucaisigree.com^
 ||ecipientconc.org^
 ||eckonturricalsbu.org^
+||eclatedqurshes.com^
 ||eclkmpbn.com^
 ||eclkmpsa.com^
 ||econenectedith.info^
@@ -27072,6 +27074,7 @@ browsershots.org#@#.advert_area
 ||handhadbeensotr.com^
 ||handshakesexyconquer.com^
 ||handtub.com^
+||handy-mind.pro^
 ||handy-tab.com^
 ||handymanlipsballast.com^
 ||hangnailhasten.com^
@@ -31558,6 +31561,7 @@ browsershots.org#@#.advert_area
 ||mizytadpwfswa.world^
 ||mjfcv.club^
 ||mjibyihlwjsww.com^
+||mjmirkbsaf.com^
 ||mjnkcdmjryvz.click^
 ||mjpvukdc.com^
 ||mjxlfwvirjmt.com^
@@ -32191,6 +32195,7 @@ browsershots.org#@#.advert_area
 ||nceyeykhnltr.com^
 ||ncipledeclinerybel.org^
 ||ncojkokhi.com^
+||ncqhgmxnpywal.website^
 ||ncubadmavfp.com^
 ||ncwabgl.com^
 ||ncz3u7cj2.com^
@@ -37776,6 +37781,7 @@ browsershots.org#@#.advert_area
 ||shoacmoackaugnu.com^
 ||shoadessuglouz.net^
 ||shoagloumtoamir.net^
+||shobseerding.com^
 ||shocked-failure.com^
 ||shockingstrategynovelty.com^
 ||shodoassaudsa.com^
@@ -39042,6 +39048,7 @@ browsershots.org#@#.advert_area
 ||swopsalane.com^
 ||swordbloatgranny.com^
 ||swpfatbmu.com^
+||swvcecehtgehf.space^
 ||swwpush.com^
 ||sxeythdkvmjyl.online^
 ||sxlflt.com^
@@ -39832,6 +39839,7 @@ browsershots.org#@#.advert_area
 ||topiccaroler.com^
 ||topiccorruption.com^
 ||topincome.cc^
+||topjyrdikvtlh.site^
 ||topnews-24.com^
 ||topnewsfeeds.net^
 ||topnewsgo.com^
@@ -41396,6 +41404,7 @@ browsershots.org#@#.advert_area
 ||vqoxvmljxetiwg.com^
 ||vqqaelqkkzvvy.top^
 ||vqrozzojjlwbz.top^
+||vqxtrttx.com^
 ||vrfuznaicvxaj.life^
 ||vrgvugostlyhewo.info^
 ||vrilledsummat.shop^
@@ -42212,6 +42221,7 @@ browsershots.org#@#.advert_area
 ||wspsbhvnjk.com^
 ||wsshehasnomoney.com^
 ||wstep4.biz^
+||wswkzqyfgyshg.website^
 ||wswoubndrdlkc.global^
 ||wt20trk.com^
 ||wtaamjgulamk.com^
@@ -42268,6 +42278,7 @@ browsershots.org#@#.advert_area
 ||wwwadcntr.com^
 ||wwwpromoter.com^
 ||wwwwzerblvvqv.top^
+||wwwwzerbmoozw.top^
 ||wxgijrbh.com^
 ||wxgsxvnlmnyrvp.com^
 ||wxhiojortldjyegtkx.bid^

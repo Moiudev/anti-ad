@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: C8uB9dXRYh2JFXW+a7Iy3A
-! Version: 202506141201
+! Checksum: fdh2HEsbfYbHxHIbX+cs1Q
+! Version: 202506141401
 ! Title: EasyList
-! Last modified: 14 Jun 2025 12:01 UTC
+! Last modified: 14 Jun 2025 14:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -29165,6 +29165,7 @@ browsershots.org#@#.advert_area
 ||jobestzipolike.org^
 ||jobeyeball.com^
 ||jobfukectivetr.com^
+||jobmkewkzwbkq.top^
 ||jobmkewkzwrkb.top^
 ||jobsyndicate.com^
 ||jocmiglenedsupi.com^
@@ -31540,6 +31541,7 @@ browsershots.org#@#.advert_area
 ||mfbvgcjkqpxup.xyz^
 ||mfcewkrob.com^
 ||mfkvkluoxlww.com^
+||mfkygwkhrbabn.online^
 ||mfrgfuaq.com^
 ||mfuodmpu.com^
 ||mfyavsmiha.com^
@@ -32941,6 +32943,7 @@ browsershots.org#@#.advert_area
 ||nv3tosjqd.com^
 ||nvaxjmyg.com^
 ||nvejmzqxuuujx.love^
+||nvfyxzjwojbkd.website^
 ||nvpylxkdptacm.today^
 ||nvqlygqniapyb.site^
 ||nvtvssczb.com^
@@ -37163,6 +37166,7 @@ browsershots.org#@#.advert_area
 ||rtuinrjezwkj.love^
 ||rtxfeed.com^
 ||rtxrtb.com^
+||rtygbpsmcinlyoj.com^
 ||rtyufo.com^
 ||rtyznd.com^
 ||rtzbpsy.com^
@@ -42829,6 +42833,7 @@ browsershots.org#@#.advert_area
 ||yespetor.com^
 ||yetshape.com^
 ||yetterslave.com^
+||yeywktvk.com^
 ||yf9pkk1q.com^
 ||yfkflfa.com^
 ||yflexibilitukydt.com^

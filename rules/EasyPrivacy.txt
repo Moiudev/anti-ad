@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: 2x6RC8gJQwomH88McwcTUg
-! Version: 202506152001
+! Checksum: H1N7q9mr7RvIDXfBIr+WJQ
+! Version: 202506152201
 ! Title: EasyPrivacy
-! Last modified: 15 Jun 2025 20:01 UTC
+! Last modified: 15 Jun 2025 22:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2446,6 +2446,7 @@
 /tracking_pixel
 /tracking_unitary/*
 /trackingApi?type=
+/trackingClient.bundle.js
 /trackingCode-
 /trackingCode.js
 /trackingcookies.
@@ -50918,6 +50919,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||tracking.gaslicht.com^
 ||tracking.voordeeluitjes.nl^
 ||tvgids.nl/collect
+||tweakers.net/ajax/clicks/
 ||tweakers.nl/track/
 ||two.tio.nl^
 ||txrx.bol.com^

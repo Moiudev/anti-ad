@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: zd+siQHgAuBBIE7rtxvvNg
-! Version: 202506151001
+! Checksum: Dc/hBKtRRZuTX/vruO0B0w
+! Version: 202506151201
 ! Title: EasyList
-! Last modified: 15 Jun 2025 10:01 UTC
+! Last modified: 15 Jun 2025 12:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -28890,6 +28890,7 @@ browsershots.org#@#.advert_area
 ||iwantusingle.com^
 ||iwhaurouzy.net^
 ||iwhoosty.com^
+||iwnkljmnqbpnfa.com^
 ||iwovfiidszrk.tech^
 ||iwtdbhvgvk.com^
 ||iwuh.org^
@@ -30878,6 +30879,7 @@ browsershots.org#@#.advert_area
 ||lrxzfherqqllp.site^
 ||lryofjrfogp.com^
 ||lsbdjjuhc.com^
+||lsbzzkonxksrw.site^
 ||lsgpxqe.com^
 ||lsihkmqojoh.com^
 ||lsjne.com^
@@ -31423,6 +31425,7 @@ browsershots.org#@#.advert_area
 ||mcytxdrqjmrly.fun^
 ||mczbf.com^
 ||mddsp.info^
+||mdfujryghlihbi.com^
 ||mdkewiwnsrgk.com^
 ||mdnwtuscsybglw.com^
 ||mdocqwipifyhu.buzz^
@@ -33764,6 +33767,7 @@ browsershots.org#@#.advert_area
 ||orfa1st5.de^
 ||orfabfbu.com^
 ||orfxifjpo.com^
+||orfzcatfooxw.com^
 ||organiccopiedtranquilizer.com^
 ||organicextentbounds.com^
 ||organicowner.com^
@@ -34730,6 +34734,7 @@ browsershots.org#@#.advert_area
 ||pinitoloutbeam.shop^
 ||pinklabel.com^
 ||pinkleo.pro^
+||pinnaemangily.top^
 ||pinpricktuxedokept.com^
 ||pinprickverificationdecember.com^
 ||pinprickwinconfirm.com^
@@ -37356,6 +37361,7 @@ browsershots.org#@#.advert_area
 ||rwdmymnfiklbj.com^
 ||rwfwlrhyolok.com^
 ||rwhnuqxubwqvn.one^
+||rwohwaeyupzjp.website^
 ||rworljrkawlqq.top^
 ||rwoscaonf.com^
 ||rwqovmoezrvrv.top^
@@ -39748,6 +39754,7 @@ browsershots.org#@#.advert_area
 ||thedreamofus.xyz^
 ||theehouho.xyz^
 ||theekedgleamed.com^
+||theelreekrumten.com^
 ||theepsie.com^
 ||theeptoah.com^
 ||theetheks.com^
@@ -40845,6 +40852,7 @@ browsershots.org#@#.advert_area
 ||umtudo.com^
 ||umumallowecouldl.info^
 ||umwoibvsbnhrh.xyz^
+||umyxdymb.com^
 ||unacceptableperfection.com^
 ||unaces.com^
 ||unactkiosk.com^
@@ -40991,6 +40999,7 @@ browsershots.org#@#.advert_area
 ||unspeakablepurebeings.com^
 ||unspeakableruin.com^
 ||unstantleran.com^
+||unsteadyneat.pro^
 ||unsuccessfultesttubepeerless.com^
 ||unsung-horror.pro^
 ||unsungpolicy.com^
@@ -41187,6 +41196,7 @@ browsershots.org#@#.advert_area
 ||uxzqnsss.com^
 ||uydyqlnebqlwe.global^
 ||uyiteasacomsys.info^
+||uyrolbvqcbrot.site^
 ||uz-kqtecqs.space^
 ||uzaiowvlhtxbh.today^
 ||uzbeknisse.top^
@@ -42786,6 +42796,7 @@ browsershots.org#@#.advert_area
 ||xnerivlyclrak.site^
 ||xnoztzcdyawlx.love^
 ||xnrhqmdsluqld.tech^
+||xnwtugzfknrtr.store^
 ||xoalt.com^
 ||xohtwtrsswju.com^
 ||xoilactv123.gdn^

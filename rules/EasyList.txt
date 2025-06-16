@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 94La7qx35r5f1E8ju0i9UA
-! Version: 202506161601
+! Checksum: kWXrs7eIsEjGy5tUtR83CA
+! Version: 202506161801
 ! Title: EasyList
-! Last modified: 16 Jun 2025 16:01 UTC
+! Last modified: 16 Jun 2025 18:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -26467,6 +26467,7 @@ browsershots.org#@#.advert_area
 ||ginbabxfjs.com^
 ||ginchoirblessed.com^
 ||gingagonkc.com^
+||gingersstang.com^
 ||ginglmiresaw.com^
 ||ginhpozi.com^
 ||ginningsteri.com^
@@ -27808,6 +27809,7 @@ browsershots.org#@#.advert_area
 ||hoardpastimegolf.com^
 ||hoardsmirkly.top^
 ||hoarsecoupons.top^
+||hoaveehoos.net^
 ||hoaxcookingdemocratic.com^
 ||hobbiesshame.online^
 ||hobblehorrifiedfox.com^
@@ -27947,6 +27949,7 @@ browsershots.org#@#.advert_area
 ||hotswoman-online.com^
 ||hottercensorbeaker.com^
 ||hotwords.com^
+||houeisbb.com^
 ||houptaupaiho.net^
 ||hourglassinedible.com^
 ||hoursencirclepeel.com^
@@ -30743,6 +30746,7 @@ browsershots.org#@#.advert_area
 ||lnkfast.com^
 ||lnkrdr.com^
 ||lnkvv.com^
+||lnpflkqtj.com^
 ||lnprhtrbkzfxh.online^
 ||lntrigulngdates.com^
 ||lnudfmdis.com^
@@ -32496,6 +32500,7 @@ browsershots.org#@#.advert_area
 ||narrowmaidroyal.com^
 ||narrwhenas.top^
 ||nasawbbag.com^
+||nasoflasgxzi.com^
 ||nasosettoourm.com^
 ||nastinessreplicaupload.com^
 ||nastycomfort.pro^
@@ -37459,6 +37464,7 @@ browsershots.org#@#.advert_area
 ||runingamgladt.com^
 ||runnerbesiegerelative.com^
 ||runningdestructioncleanliness.com^
+||runny-forever.pro^
 ||runnyextent.com^
 ||runsycloyne.top^
 ||runtnc.net^
@@ -37723,6 +37729,7 @@ browsershots.org#@#.advert_area
 ||sbfsdvc.com^
 ||sbhight.com^
 ||sblhp.com^
+||sbqjioehjqnzb.site^
 ||sbscribeme.com^
 ||sbteafd.com^
 ||sbvtrht.com^
@@ -39839,6 +39846,7 @@ browsershots.org#@#.advert_area
 ||testybeautiful.com^
 ||tetrylscullion.com^
 ||tetyerecently.com^
+||tevfosejxalzh.website^
 ||texsxhprkkljb.rocks^
 ||textbookfilamentguidance.com^
 ||textilewhine.com^
@@ -40982,6 +40990,7 @@ browsershots.org#@#.advert_area
 ||ukuleqasforsale.com^
 ||ukwupjioyzcit.space^
 ||ukzemydream.com^
+||ulbackgroundand.com^
 ||ulbackgroundandi.com^
 ||uldthinkhimunp.com^
 ||uleqasforsalesre.com^
@@ -41622,6 +41631,7 @@ browsershots.org#@#.advert_area
 ||vfyjinofkad.com^
 ||vg4u8rvq65t6.com^
 ||vg876yuj.click^
+||vgfasfrttxhrc.site^
 ||vgfhycwkvh.com^
 ||vgnlthyxljuvju.com^
 ||vgzglvykuyclh.store^
@@ -43288,6 +43298,7 @@ browsershots.org#@#.advert_area
 ||yourwebbars.com^
 ||youservit.com^
 ||youtube.local^
+||yowmelhhkeovd.store^
 ||yoxwrdiw.com^
 ||yoyadsdom.com^
 ||ype7.com^
@@ -43597,6 +43608,7 @@ browsershots.org#@#.advert_area
 ||zpoxfzxapepgr.xyz^
 ||zprelandings.com^
 ||zprofuqkssny.com^
+||zpwllfsjphpig.online^
 ||zqdekzkqwvzcl.buzz^
 ||zqjklzajmmwq.top^
 ||zqjklzrqmvwq.top^
@@ -43626,6 +43638,7 @@ browsershots.org#@#.advert_area
 ||ztumuvofzbfe.com^
 ||zubivu.com^
 ||zubsaignishu.com^
+||zuchaunsaxouy.net^
 ||zucks.net^
 ||zuclcijzua.com^
 ||zucmuwag.com^

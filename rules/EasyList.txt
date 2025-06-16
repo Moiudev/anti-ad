@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: kWXrs7eIsEjGy5tUtR83CA
-! Version: 202506161801
+! Checksum: eNOOSaCAAQ6mbnFuBMfXWQ
+! Version: 202506162001
 ! Title: EasyList
-! Last modified: 16 Jun 2025 18:01 UTC
+! Last modified: 16 Jun 2025 20:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -17664,6 +17664,7 @@ browsershots.org#@#.advert_area
 ||ahscdn.com^
 ||ahshujhpyh.com^
 ||ahsjmiov.com^
+||ahvqydcujtjgo.website^
 ||ahvradotws.com^
 ||ahvskihu.com^
 ||ahziobgktobyn.website^
@@ -22228,6 +22229,7 @@ browsershots.org#@#.advert_area
 ||cpcmart.com^
 ||cpfqsubp.com^
 ||cpjxmaecroqix.online^
+||cpkwmmawszpkj.store^
 ||cplayer.pw^
 ||cpm-ad.com^
 ||cpm.biz^
@@ -22574,6 +22576,7 @@ browsershots.org#@#.advert_area
 ||cwoonpowxvi.com^
 ||cwpnnceaolies.global^
 ||cwqljsecvr.com^
+||cwsbrxarjnaav.space^
 ||cxbxnfqtraxecbb.com^
 ||cxikfjqfiwxta.vip^
 ||cxnbgyadiqscl.click^
@@ -25112,6 +25115,7 @@ browsershots.org#@#.advert_area
 ||fardasub.xyz^
 ||fardsdesmid.com^
 ||fareputfeablea.com^
+||fareputfeableandwi.com^
 ||farewell457.fun^
 ||farfeljabots.top^
 ||farflung-grab.pro^
@@ -27631,6 +27635,7 @@ browsershots.org#@#.advert_area
 ||hhuobnajd.com^
 ||hhuohqramjit.com^
 ||hhvbdeewfgpnb.xyz^
+||hhxqadbgokgtb.online^
 ||hhzcuywygcrk.com^
 ||hi-xgnnkqs.buzz^
 ||hiasor.com^
@@ -27726,6 +27731,7 @@ browsershots.org#@#.advert_area
 ||hiprofitnetworks.com^
 ||hiptoxide.pro^
 ||hipunaux.com^
+||hipuufjb.com^
 ||hiredeitysibilant.com^
 ||hirelinghistorian.com^
 ||hirsailauph.net^
@@ -28610,6 +28616,7 @@ browsershots.org#@#.advert_area
 ||inhospitablebamboograduate.com^
 ||inhospitablemasculinerasp.com^
 ||initiategunpowder.com^
+||initispinang.top^
 ||injuredripplegentleman.com^
 ||inkestyle.net^
 ||inkfeedmausoleum.com^
@@ -29756,6 +29763,7 @@ browsershots.org#@#.advert_area
 ||kgmboksmi.com^
 ||kgvvvgxtvi.rocks^
 ||kh-bkcvqxc.online^
+||khamtiidolum.com^
 ||khangalenten.click^
 ||khanjeeyapness.website^
 ||khatexcepeded.info^
@@ -29876,6 +29884,7 @@ browsershots.org#@#.advert_area
 ||klutzblawing.shop^
 ||klutzesobarne.top^
 ||klutzy-load.pro^
+||klxlhanifrrzx.site^
 ||km-kryxqvt.site^
 ||kmbjerbaafdn.global^
 ||kmfkiwghhe.xyz^
@@ -32459,6 +32468,7 @@ browsershots.org#@#.advert_area
 ||nagnailmobcap.shop^
 ||nagoansurducmy.com^
 ||nagoverpayreimburse.com^
+||nagraipsoagnoo.com^
 ||nagrande.com^
 ||nagsmanasdics.shop^
 ||nahanirevere.com^
@@ -34107,6 +34117,7 @@ browsershots.org#@#.advert_area
 ||outswimunrived.shop^
 ||outtimburrtor.com^
 ||outtoiltuarn.shop^
+||outtoldserging.com^
 ||outwalkenvying.shop^
 ||outwhirlipedeer.com^
 ||outwingullom.com^
@@ -34552,6 +34563,7 @@ browsershots.org#@#.advert_area
 ||peachywaspish.com^
 ||peafrjym.com^
 ||peakclick.com^
+||peakschapman.shop^
 ||pearlysweepoverface.com^
 ||peartengrousy.top^
 ||peasbishopgive.com^
@@ -36009,6 +36021,7 @@ browsershots.org#@#.advert_area
 ||qdodqhbmmb.com^
 ||qdvkgjfculfmr.site^
 ||qdwagpwgnfq.com^
+||qdwblduprvsxsl.com^
 ||qdxpid-bxcy.today^
 ||qebpwkxjz.com^
 ||qebuoxn.com^
@@ -39242,6 +39255,7 @@ browsershots.org#@#.advert_area
 ||strongesthissblackout.com^
 ||strtgic.com^
 ||strvvmpu.com^
+||stsaepsm.com^
 ||stscczovfaipx.website^
 ||stt6.cfd^
 ||stthykerewasn.com^
@@ -41049,6 +41063,7 @@ browsershots.org#@#.advert_area
 ||unclesnewspaper.com^
 ||uncletroublescircumference.com^
 ||uncolylirella.top^
+||uncomfortable-combination.pro^
 ||uncomfortableremote.com^
 ||uncomfortablewanted.com^
 ||uncommonperceived.com^
@@ -41577,6 +41592,7 @@ browsershots.org#@#.advert_area
 ||venueitemmagic.com^
 ||venulaeriggite.com^
 ||venusfritter.com^
+||veoojoomzryym.top^
 ||verbdruggedcommiserate.com^
 ||verbsponsor.com^
 ||verbwarilyclotted.com^

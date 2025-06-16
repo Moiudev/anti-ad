@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: aEfsMajOv9K8D8R//1ql/A
-! Version: 202506160041
+! Checksum: qR1cQf0gz4pPSHUQQOEgCA
+! Version: 202506160311
 ! Title: EasyPrivacy
-! Last modified: 16 Jun 2025 00:41 UTC
+! Last modified: 16 Jun 2025 03:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2446,6 +2446,7 @@
 /tracking_pixel
 /tracking_unitary/*
 /trackingApi?type=
+/trackingClient.bundle.js
 /trackingCode-
 /trackingCode.js
 /trackingcookies.
@@ -50918,6 +50919,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||tracking.gaslicht.com^
 ||tracking.voordeeluitjes.nl^
 ||tvgids.nl/collect
+||tweakers.net/ajax/clicks/
 ||tweakers.nl/track/
 ||two.tio.nl^
 ||txrx.bol.com^
@@ -51548,7 +51550,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||umschool.net/_jts/api/s/track
 ||vedomosti.ru/boom?
 ||vesti.ru/counter/
-||vkvideo.ru/al_video.php?
+||vkvideo.ru/al_video.php?act=track
 ||vstat.rtr-vesti.ru^
 ||xapi.ozon.by/perf-metrics-collector/
 ||xapi.ozon.ru^$ping

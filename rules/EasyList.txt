@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: wLxb5S/HVSiLkOJushfJ6A
-! Version: 202506160601
+! Checksum: mg+E67wrta34BZzIVmeE6A
+! Version: 202506160801
 ! Title: EasyList
-! Last modified: 16 Jun 2025 06:01 UTC
+! Last modified: 16 Jun 2025 08:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -19590,6 +19590,7 @@ browsershots.org#@#.advert_area
 ||berkshiretoday.xyz^
 ||berlipurplin.com^
 ||bermestricker.shop^
+||bermudaprimero.com^
 ||berryhillfarmgwent.com^
 ||berthashuzzard.shop^
 ||berthfrankly.com^
@@ -22590,6 +22591,7 @@ browsershots.org#@#.advert_area
 ||cynipidskurry.top^
 ||cypfdxbynb.com^
 ||cypresslocum.com^
+||cypriotharier.top^
 ||cyrociest.shop^
 ||cysegreglo.pro^
 ||cytdmhahgvmur.fun^
@@ -29618,6 +29620,7 @@ browsershots.org#@#.advert_area
 ||kbnmnl.com^
 ||kbqihabjlufvf.club^
 ||kbrnghyurjxoxx.com^
+||kbsnguvk.com^
 ||kbugxeslbjc8.com^
 ||kbyesutgdbpr.com^
 ||kcaactpkyp.com^
@@ -29914,6 +29917,7 @@ browsershots.org#@#.advert_area
 ||kokotrokot.com^
 ||kolerevprivatedqu.com^
 ||koleyo.xyz^
+||kolklltarjdnt.website^
 ||kolkwi4tzicraamabilis.com^
 ||kolleqasforsale.com^
 ||koloaller.com^
@@ -32248,6 +32252,7 @@ browsershots.org#@#.advert_area
 ||murresyamalka.shop^
 ||murriesforsee.shop^
 ||musedemeanouregyptian.com^
+||musersantonio.shop^
 ||musheepsumpatch.net^
 ||mushroomreclaimschnapps.com^
 ||mushroomskilledshapeless.com^
@@ -34474,6 +34479,7 @@ browsershots.org#@#.advert_area
 ||pdn-2.com^
 ||pdn-3.com^
 ||pdorki.xyz^
+||pdpnshebnkich.com^
 ||pdvacde.com^
 ||pdwdbsfgkxltg.world^
 ||peabirdlollup.shop^
@@ -36032,6 +36038,7 @@ browsershots.org#@#.advert_area
 ||qmaoqbvpuo.com^
 ||qmargziexagv.com^
 ||qmefcejujmezq.website^
+||qmflxjdf.com^
 ||qmgpfrwyhtwp.com^
 ||qmkackqmigezu.club^
 ||qmlnioxbjldsfsa.xyz^
@@ -36894,6 +36901,7 @@ browsershots.org#@#.advert_area
 ||rexsrv.com^
 ||reymvmqqyaeyw.top^
 ||reypelis.tv^
+||rezrboarmmqmv.top^
 ||rfarxhoikoda.xyz^
 ||rfdqlehuiufyk.click^
 ||rffbxktvxmcje.space^
@@ -41443,6 +41451,7 @@ browsershots.org#@#.advert_area
 ||veepteecejoushe.net^
 ||veepteero.com^
 ||veeqlly.com^
+||veesoavimi.com^
 ||veezljzkrjakz.top^
 ||veezljzkrjrbl.top^
 ||vefpvnvxw.com^
@@ -41957,6 +41966,7 @@ browsershots.org#@#.advert_area
 ||wallowwholike.com^
 ||wallpapersfacts.com^
 ||wallstrads.com^
+||walthchichis.shop^
 ||waltzprescriptionplate.com^
 ||wambubaambach.top^
 ||wambugureining.shop^
@@ -43136,6 +43146,7 @@ browsershots.org#@#.advert_area
 ||ymrxocxihgf.com^
 ||ynfwkifwmkqyr.store^
 ||ynklendr.online^
+||ynpeahcvyvrbt.website^
 ||ynrije.com^
 ||yntherplunge.com^
 ||ynurfigldblbt.online^
@@ -43235,6 +43246,7 @@ browsershots.org#@#.advert_area
 ||ytransionscorma.com^
 ||ytru4.pro^
 ||ytsa.net^
+||ytseotpnuzrdc.site^
 ||yttiekhkxrard.space^
 ||yttompthree.com^
 ||yttriaremends.top^
@@ -43376,6 +43388,7 @@ browsershots.org#@#.advert_area
 ||zferral.com^
 ||zfibuqpa.com^
 ||zfvsnpir-cxx.buzz^
+||zfyodfktvkxqr.online^
 ||zgukxyhzquesk.love^
 ||zhaner.xyz^
 ||zhoyyibwywgev.one^

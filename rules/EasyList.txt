@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: PQE72GuBXSVJTmg5o+sK5w
-! Version: 202506172001
+! Checksum: xBW33RgQP2dp+orjdDJ7OA
+! Version: 202506172201
 ! Title: EasyList
-! Last modified: 17 Jun 2025 20:01 UTC
+! Last modified: 17 Jun 2025 22:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -23012,6 +23012,7 @@ browsershots.org#@#.advert_area
 ||defeature.xyz^
 ||defectiveaskewsite.com^
 ||defenceblake.com^
+||defenseless-design.pro^
 ||defensiveassist.pro^
 ||defiancebelow.com^
 ||defiancefaithlessleague.com^
@@ -27186,6 +27187,7 @@ browsershots.org#@#.advert_area
 ||gummy-bonus.pro^
 ||gumon.site^
 ||gunft.com^
+||gunjahjapetus.com^
 ||gunlockpepped.shop^
 ||gunzblazingpromo.com^
 ||guofbdtsgepvjh.com^
@@ -27817,6 +27819,7 @@ browsershots.org#@#.advert_area
 ||hjwqvivxoymvw.site^
 ||hjxajf.com^
 ||hkaphqknkao.com^
+||hkcqpidtxaqkl.online^
 ||hkichmshwxfgz.site^
 ||hkilops.com^
 ||hkjfukkhwfepo.club^
@@ -27922,6 +27925,7 @@ browsershots.org#@#.advert_area
 ||honourprecisionsuited.com^
 ||honourrib.com^
 ||honoursdashed.com^
+||honsoutchoudre.com^
 ||honwjjrzo.com^
 ||hoo1luha.com^
 ||hoocaumakopaibu.com^
@@ -29006,6 +29010,7 @@ browsershots.org#@#.advert_area
 ||itzekromom.com^
 ||iuemxvkt.com^
 ||iufbmwczokffc.click^
+||iufwfajqsycomf.com^
 ||iugbhsu.com^
 ||iuhnsgjl.com^
 ||iuwzdf.com^
@@ -29347,6 +29352,7 @@ browsershots.org#@#.advert_area
 ||jlovoiqtgarh.com^
 ||jlvoidsvcfs.com^
 ||jmjuivzcp.com^
+||jmnktmmkiitir.site^
 ||jmpmedia.club^
 ||jmrnews.pro^
 ||jmt7mbwce.com^
@@ -29788,6 +29794,7 @@ browsershots.org#@#.advert_area
 ||kerryfluence.com^
 ||kertzmann.com^
 ||kerumal.com^
+||kervhyqvahe.com^
 ||kesevitamus.com^
 ||kesseolluck.com^
 ||ketchupethichaze.com^
@@ -32038,6 +32045,7 @@ browsershots.org#@#.advert_area
 ||mntzrlt.net^
 ||mnuhalfbpim.com^
 ||mnverylittlec.org^
+||mnxaitgszttui.website^
 ||mo3i5n46.de^
 ||moaglail.xyz^
 ||moagrejinubiko.xyz^
@@ -33340,6 +33348,7 @@ browsershots.org#@#.advert_area
 ||obcswpfk.xyz^
 ||obediencechainednoun.com^
 ||obedientapologyinefficient.com^
+||obedientengineer.pro^
 ||obedieval.my.id^
 ||obedirectukly.info^
 ||obesityvanmost.shop^
@@ -37027,6 +37036,7 @@ browsershots.org#@#.advert_area
 ||retsifergoumti.net^
 ||retsinarameses.shop^
 ||rettornrhema.com^
+||reukandthisany.com^
 ||rev-stripe.com^
 ||rev2pub.com^
 ||rev4rtb.com^
@@ -43854,6 +43864,7 @@ browsershots.org#@#.advert_area
 ||zyvbvqvjjkvqz.top^
 ||zyyt-tevos.click^
 ||zyzqkbkeyqajw.top^
+||zyzqkbkeyqrzz.top^
 ||zzioxqblsxseq.com^
 ||zzkzklrwroyae.top^
 ||zzkzklrwroyoz.top^

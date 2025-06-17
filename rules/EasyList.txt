@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: mF2uHxk/zCLVZoNQ4U9pEQ
-! Version: 202506171401
+! Checksum: 6LKnohi6+DfqQMm5jCE2cw
+! Version: 202506171601
 ! Title: EasyList
-! Last modified: 17 Jun 2025 14:01 UTC
+! Last modified: 17 Jun 2025 16:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -23852,6 +23852,7 @@ browsershots.org#@#.advert_area
 ||drumlyavowant.top^
 ||drumskilxoa.click^
 ||drunkendecembermediocre.com^
+||druoctualyuomdg.com^
 ||drwiiuogwlu.com^
 ||drybariums.shop^
 ||drydwezfas.com^
@@ -24235,6 +24236,7 @@ browsershots.org#@#.advert_area
 ||edua29146y.com^
 ||educatedcoercive.com^
 ||educedsteeped.com^
+||edukicationandasm.com^
 ||edutechlearners.com^
 ||edvfwlacluo.com^
 ||edvipubjekzec.xyz^
@@ -24823,6 +24825,7 @@ browsershots.org#@#.advert_area
 ||eurse.com^
 ||euskarawordman.shop^
 ||eusvnhgypltw.life^
+||eutecnimzptot.space^
 ||euvshmpgabfk.com^
 ||euz.net^
 ||ev-dating.com^
@@ -25286,6 +25289,7 @@ browsershots.org#@#.advert_area
 ||femefaih.com^
 ||femin.online^
 ||feminine-branch.pro^
+||femininequarter.com^
 ||femininetextmessageseducing.com^
 ||femsoahe.com^
 ||fenacheaverage.com^
@@ -27195,6 +27199,7 @@ browsershots.org#@#.advert_area
 ||guxidrookr.com^
 ||guypane.com^
 ||guzdhs26.xyz^
+||gvdjmcztiqwhw.website^
 ||gvemhzxalv.com^
 ||gvfejsk.beauty^
 ||gvggatrvte.com^
@@ -29110,6 +29115,7 @@ browsershots.org#@#.advert_area
 ||jaumevie.com^
 ||jauntycrystal.com^
 ||jauntyit.com^
+||jausheewhocoary.net^
 ||jautauhoch.com^
 ||jauwaust.com^
 ||java8.xyz^
@@ -30771,6 +30777,7 @@ browsershots.org#@#.advert_area
 ||lltynlnoui.com^
 ||lluwrenwsfh.xyz^
 ||llvcfgax.com^
+||llvlzvroqokmj.top^
 ||llvlzvroqowmm.top^
 ||llyighaboveth.com^
 ||llykjmzkqvvar.top^
@@ -36190,6 +36197,7 @@ browsershots.org#@#.advert_area
 ||qmefcejujmezq.website^
 ||qmflxjdf.com^
 ||qmgpfrwyhtwp.com^
+||qmjrlbwnlmram.com^
 ||qmkackqmigezu.club^
 ||qmlnioxbjldsfsa.xyz^
 ||qmlrmarmalebo.top^
@@ -36262,6 +36270,7 @@ browsershots.org#@#.advert_area
 ||qsmnt.online^
 ||qspneixlf.com^
 ||qsrdqwujtvxcf.vip^
+||qsrvzbuhumwow.website^
 ||qsuchbth.com^
 ||qsvbi.space^
 ||qtbqqrypghmme.store^
@@ -36387,6 +36396,7 @@ browsershots.org#@#.advert_area
 ||qyusgj.xyz^
 ||qyvklvjbveajo.top^
 ||qywjvlazeebyw.top^
+||qyxqrwpxdvtzy.space^
 ||qyyrynjspeamfx.com^
 ||qz-hjgrdqih.fun^
 ||qz496amxfh87mst.com^
@@ -38894,6 +38904,7 @@ browsershots.org#@#.advert_area
 ||sparredcubans.shop^
 ||sparrowaboveaveragedefence.com^
 ||sparsgroff.com^
+||spartollage.top^
 ||spasmodictripscontemplate.com^
 ||spatteramazeredundancy.com^
 ||spdate.com^
@@ -39829,6 +39840,7 @@ browsershots.org#@#.advert_area
 ||teachmewind.com^
 ||teads.tv^
 ||teadwightshaft.com^
+||tealeryinsurer.top^
 ||tealsgenevan.com^
 ||teamagonan.com^
 ||teamairportheedless.com^

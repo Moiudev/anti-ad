@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 2D9VYBzEf7MyPna2BB4G7Q
-! Version: 202506171751
+! Checksum: PQE72GuBXSVJTmg5o+sK5w
+! Version: 202506172001
 ! Title: EasyList
-! Last modified: 17 Jun 2025 17:51 UTC
+! Last modified: 17 Jun 2025 20:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -19254,6 +19254,7 @@ browsershots.org#@#.advert_area
 ||bahtankman.com^
 ||bahuturassasy.shop^
 ||baiboochoomy.com^
+||baileechaib.net^
 ||baileybenedictionphony.com^
 ||bainushe.com^
 ||baiphefim.com^
@@ -23959,6 +23960,7 @@ browsershots.org#@#.advert_area
 ||dulygeeksyrup.com^
 ||dumae.site^
 ||dumay.site^
+||dumbaenvault.com^
 ||dumbpop.com^
 ||dumkcuakrlka.com^
 ||dummymerchandise.com^
@@ -24505,6 +24507,7 @@ browsershots.org#@#.advert_area
 ||emulsicchacker.com^
 ||emumuendaku.info^
 ||emunicatetheben.org^
+||emunicatethebenefit.com^
 ||emxdgt.com^
 ||emzxhwzaxdarg.vip^
 ||enactdubcompetitive.com^
@@ -26877,6 +26880,7 @@ browsershots.org#@#.advert_area
 ||goxithosho.com^
 ||gpcrn.com^
 ||gpfvumsxtbf.com^
+||gpgijcpdfbvit.com^
 ||gpibcoogfb.com^
 ||gpickufi.com^
 ||gpjwludjwldi.com^
@@ -35061,6 +35065,7 @@ browsershots.org#@#.advert_area
 ||platformsrat.com^
 ||plausiblemarijuana.com^
 ||plaxd.com^
+||play-lg.com^
 ||playboykangaroo.com^
 ||playboykinky.com^
 ||playeranydwou.com^
@@ -35716,6 +35721,7 @@ browsershots.org#@#.advert_area
 ||pshtrk.com^
 ||psigradinals.com^
 ||psilaurgi.net^
+||pskvxdhbnlocxk.com^
 ||psma02.com^
 ||psoabojaksou.net^
 ||psoaftob.xyz^
@@ -36582,6 +36588,7 @@ browsershots.org#@#.advert_area
 ||rcdzwigpbbcxx.com^
 ||rcf3occ8.de^
 ||rculnoesuwigxc.com^
+||rcvarwsudnwxa.website^
 ||rcvlink.com^
 ||rcvlinks.com^
 ||rcyorjkze.com^
@@ -37250,6 +37257,7 @@ browsershots.org#@#.advert_area
 ||rmervvomrowwy.top^
 ||rmgujvailde.com^
 ||rmhfrtnd.com^
+||rmilqbspkxtze.online^
 ||rmishe.com^
 ||rmpxwvpuaabdw.store^
 ||rmshqa.com^
@@ -37675,6 +37683,7 @@ browsershots.org#@#.advert_area
 ||s1m4nohq.de^
 ||s1t2uuenhsfs.com^
 ||s20dh7e9dh.com^
+||s2517.com^
 ||s2blosh.com^
 ||s2btwhr9v.com^
 ||s2d6.com^
@@ -38044,6 +38053,7 @@ browsershots.org#@#.advert_area
 ||seebait.com^
 ||seecaimooth.com^
 ||seedlingneurotic.com^
+||seefiouewvgfl.space^
 ||seehewasde.org^
 ||seekmymatch.com^
 ||seekoflol.com^
@@ -39987,6 +39997,7 @@ browsershots.org#@#.advert_area
 ||tfjqlenfcqnfnes.com^
 ||tfkyucxml.com^
 ||tfla.xyz^
+||tfnavbefnmrpd.online^
 ||tfosrv.com^
 ||tfrectkfp.com^
 ||tftrm.com^
@@ -40918,6 +40929,7 @@ browsershots.org#@#.advert_area
 ||tvkgqqoj.com^
 ||tvoiioftvfzzc.buzz^
 ||tvprocessing.com^
+||tvqvugxsojzgi.site^
 ||twaglurtuh.xyz^
 ||twazzyoidwlfe.com^
 ||twdgdoukcxtby.xyz^
@@ -41718,6 +41730,7 @@ browsershots.org#@#.advert_area
 ||verdreamsofcr.org^
 ||verdunredowa.top^
 ||vereforhedidn.org^
+||veresultedinncreast.com^
 ||verifiable-warning.com^
 ||veritrol.com^
 ||vernongermanessence.com^
@@ -42131,6 +42144,7 @@ browsershots.org#@#.advert_area
 ||vxwmkbtkhtpru.today^
 ||vydfergcp.com^
 ||vyebzzbovvorz.top^
+||vyebzzqlojjry.top^
 ||vyfrxuytzn.com^
 ||vyhxugizkaktg.tech^
 ||vymybkyrzvwky.top^
@@ -42446,6 +42460,7 @@ browsershots.org#@#.advert_area
 ||wfnetwork.com^
 ||wfredir.net^
 ||wfvuctrttrdwk.global^
+||wfwnihvjcsddw.website^
 ||wfyulsaccsqkv.xyz^
 ||wg-aff.com^
 ||wgchrrammzv.com^
@@ -48658,6 +48673,7 @@ browsershots.org#@#.advert_area
 ||planningdesigned.com^$popup
 ||plantalwauk.top^$popup
 ||planyourbackup.co^$popup
+||play-lg.com^$popup
 ||playamopartners.com^$popup
 ||playerstrivefascinated.com^$popup
 ||playerswhisper.com^$popup
@@ -61131,6 +61147,7 @@ progamerage.com##div[id^="proga-"]
 eloshapes.com##div[id^="promos-"]
 howtogeek.com##div[id^="purch_"]
 realtalk933.com##div[id^="realt-"]
+ruralradio.com##div[id^="rural-"]
 sbstatesman.com##div[id^="sbsta-"]
 smallnetbuilder.com##div[id^="snb-"]
 filehorse.com##div[id^="td-"]

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: tSlajqriLPp5qVnMODuSJQ
-! Version: 202506181001
+! Checksum: FKFd0PgMuZgj/a14W9GDeQ
+! Version: 202506181201
 ! Title: EasyList
-! Last modified: 18 Jun 2025 10:01 UTC
+! Last modified: 18 Jun 2025 12:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -20670,6 +20670,7 @@ browsershots.org#@#.advert_area
 ||bybastiodoner.com^
 ||bycarver.com^
 ||bycathyhough.org^
+||byelawlasters.shop^
 ||byfoongusor.com^
 ||bygliscortor.com^
 ||bygonearabin.top^
@@ -28593,6 +28594,7 @@ browsershots.org#@#.advert_area
 ||impubicpuddly.com^
 ||impureattirebaking.com^
 ||impureleg.com^
+||imsjqyrgnjnnv.store^
 ||imtijnluoailwb.com^
 ||imtvbovcxwhvl.global^
 ||imuhmgptdoae.com^
@@ -28675,6 +28677,7 @@ browsershots.org#@#.advert_area
 ||inexperienced-end.pro^
 ||inexplicablecarelessfairly.com^
 ||infatuated-difference.pro^
+||infaunageosid.shop^
 ||infectedrepentearl.com^
 ||inferiorkate.com^
 ||infestpunishment.com^
@@ -30020,6 +30023,7 @@ browsershots.org#@#.advert_area
 ||kmyunderthf.info^
 ||kmyunderthf.org^
 ||kmzzygkjhysbr.online^
+||knappantonish.com^
 ||knawelknosped.top^
 ||knbobfcgrbm.xyz^
 ||kncecafvdeu.info^
@@ -30961,6 +30965,7 @@ browsershots.org#@#.advert_area
 ||longingarsonistexemplify.com^
 ||longinghospitalsurveyed.com^
 ||longmansuchcesu.info^
+||loobaiptegip.net^
 ||loobilysubdebs.com^
 ||loobyfleyed.com^
 ||loodauni.com^
@@ -31592,6 +31597,7 @@ browsershots.org#@#.advert_area
 ||maudau.com^
 ||maulupoa.com^
 ||mausolemiskal.top^
+||mavamuwwnkksn.store^
 ||mavq.net^
 ||mawkggrbhsknuw.com^
 ||mawlaybob.com^
@@ -33012,10 +33018,12 @@ browsershots.org#@#.advert_area
 ||nmyfedath.com^
 ||nncdtquddmjjb.site^
 ||nnkjgbdsiq.com^
+||nnlnoklsrwbuljf.com^
 ||nnowa.com^
 ||nnwuqexsuz.com^
 ||no2veeamggaseber.com^
 ||noafooshejoot.com^
+||noahicvidonia.com^
 ||noapsovochu.net^
 ||noarefocoush.com^
 ||noavoahevugrib.com^
@@ -33450,6 +33458,7 @@ browsershots.org#@#.advert_area
 ||obzzasbupo.com^
 ||oc2tdxocb3ae0r.com^
 ||ocardoniel.com^
+||ocbakhpcuz.com^
 ||ocbmpyoqma.com^
 ||ocbnihhu.com^
 ||ocbrawagcat.com^
@@ -33515,6 +33524,7 @@ browsershots.org#@#.advert_area
 ||odqdkealzr.com^
 ||odqwrumpini.com^
 ||odqxukovk.com^
+||odvazhfsnswns.online^
 ||oecdupuvlbvjs.space^
 ||oeciyalb.top^
 ||oedipalchuppah.shop^
@@ -37175,6 +37185,7 @@ browsershots.org#@#.advert_area
 ||rfinidtirz.com^
 ||rfity.com^
 ||rftslb.com^
+||rganizationsuch.com^
 ||rgavvimsecmbo.life^
 ||rgbnqmz.com^
 ||rgddist.com^
@@ -37523,6 +37534,7 @@ browsershots.org#@#.advert_area
 ||royaltyfig.com^
 ||rozamimo9za10.com^
 ||rpazaa.xyz^
+||rpbielpssuigs.space^
 ||rpbntwsarxb.com^
 ||rpfytkt.com^
 ||rpkqrutejizju.space^
@@ -38869,6 +38881,7 @@ browsershots.org#@#.advert_area
 ||sociocast.com^
 ||sociomantic.com^
 ||socketbuild.com^
+||socmooksaiheel.net^
 ||sodallay.com^
 ||sodefender.pro^
 ||sodiumcupboard.com^
@@ -40045,6 +40058,7 @@ browsershots.org#@#.advert_area
 ||tenzoneinput.shop^
 ||tepid-ability.pro^
 ||tepirhdbauahk.com^
+||tepsmyvnxfssq.space^
 ||teqdutdxiwzwd.one^
 ||teracent.net^
 ||teracreative.com^
@@ -42555,6 +42569,7 @@ browsershots.org#@#.advert_area
 ||wfexxzpmengpk.today^
 ||wffbdim.com^
 ||wffnhpcsenwviw.com^
+||wfgcaeoechdds.online^
 ||wfhahspcye.com^
 ||wfjkzgbcjnezi.fun^
 ||wfnetwork.com^
@@ -42785,6 +42800,7 @@ browsershots.org#@#.advert_area
 ||wjct3s8at.com^
 ||wjebboljovoaz.top^
 ||wjebboljovowm.top^
+||wjgfpayqnfhtq.com^
 ||wjgpspkxzjbdgu.com^
 ||wjljwqbzjjvkw.top^
 ||wjnhuzgbngwgx.store^
@@ -43083,6 +43099,7 @@ browsershots.org#@#.advert_area
 ||wylin.ai^
 ||wylmzwklkljav.top^
 ||wylmzwklkljwr.top^
+||wylmzwklkllyk.top^
 ||wylmzwklklyaz.top^
 ||wylmzwklklywm.top^
 ||wynather.com^
@@ -43293,6 +43310,7 @@ browsershots.org#@#.advert_area
 ||xtremeviewing.com^
 ||xtrgqmnflnfnj.buzz^
 ||xtroglobal.com^
+||xtsmqupefbsq.com^
 ||xttaff.com^
 ||xtxjyxtvcwuam.site^
 ||xubcnzfex.com^

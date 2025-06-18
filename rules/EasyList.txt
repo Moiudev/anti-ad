@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: AyydGHnpaEyUoxE8XcnAuw
-! Version: 202506181801
+! Checksum: tJ3EM/UZ8HPlVuy9JVYITg
+! Version: 202506182001
 ! Title: EasyList
-! Last modified: 18 Jun 2025 18:01 UTC
+! Last modified: 18 Jun 2025 20:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -17324,6 +17324,7 @@ browsershots.org#@#.advert_area
 ||adultsense.net^
 ||adultsense.org^
 ||adultsjuniorfling.com^
+||advanced-delivery.pro^
 ||advancedadblocker.pro^
 ||advanceinvader.com^
 ||advancingbertramincurable.com^
@@ -17430,6 +17431,7 @@ browsershots.org#@#.advert_area
 ||aegagrilariats.top^
 ||aeglereeshie.shop^
 ||aeiwzejwyzqjy.rocks^
+||aejekugblv.com^
 ||aekpzxaghjyxa.global^
 ||aenoprsouth.com^
 ||aerialmistaken.com^
@@ -18237,6 +18239,7 @@ browsershots.org#@#.advert_area
 ||anothingfruit.org^
 ||anquerafusser.com^
 ||ansariecaroche.top^
+||ansionscor.com^
 ||ansuksar.com^
 ||ansusalina.com^
 ||antananarbdivu.com^
@@ -25815,6 +25818,7 @@ browsershots.org#@#.advert_area
 ||fordedcostaea.com^
 ||fordouwait.net^
 ||fordullorangs.shop^
+||fordulltruffle.shop^
 ||forearmdiscomfort.com^
 ||forearmsickledeliberate.com^
 ||forearmthrobjanuary.com^
@@ -28962,6 +28966,7 @@ browsershots.org#@#.advert_area
 ||ipsokaphaush.com^
 ||ipsowrite.com^
 ||iptautup.com^
+||iqnlxzueadjrg.website^
 ||iqtest365.online^
 ||iramb.site^
 ||irbvstqvt.com^
@@ -29216,6 +29221,7 @@ browsershots.org#@#.advert_area
 ||jattepush.com^
 ||jauchuwa.net^
 ||jaucoawotaunee.net^
+||jaukeepsaupsie.net^
 ||jaumevie.com^
 ||jauntycrystal.com^
 ||jauntyit.com^
@@ -29432,6 +29438,7 @@ browsershots.org#@#.advert_area
 ||jkzakzazlojvz.top^
 ||jl63v3fp1.com^
 ||jlaebigzfq.com^
+||jlbnminfg.com^
 ||jlnxjwmeadaw.com^
 ||jlotlwqrgmpxfh.com^
 ||jlovoiqtgarh.com^
@@ -29946,6 +29953,7 @@ browsershots.org#@#.advert_area
 ||kiestercentry.com^
 ||kigaphuby.pro^
 ||kihudevo.pro^
+||kijvucxa.com^
 ||kiklazopnqce.com^
 ||kikmpahfaj.com^
 ||kikoucuy.net^
@@ -30084,6 +30092,7 @@ browsershots.org#@#.advert_area
 ||knivessimulatorherein.com^
 ||kniveyhagweed.com^
 ||knkkpmtdesg.com^
+||knkvixlevwpdc.website^
 ||knlqdtcbi.com^
 ||knlympeye.com^
 ||knobbedlevator.top^
@@ -30906,6 +30915,7 @@ browsershots.org#@#.advert_area
 ||llzahqzvuzorn.website^
 ||llzlbnvv.work^
 ||lmaarwdqraeak.online^
+||lmcttdaepxiqn.online^
 ||lmdfmd.com^
 ||lmepjztwwonxv.life^
 ||lmflkpnuefbw.xyz^
@@ -31630,6 +31640,7 @@ browsershots.org#@#.advert_area
 ||mathneedle.com^
 ||mathsdelightful.com^
 ||matildawu.online^
+||mationwind.com^
 ||matiro.com^
 ||matloomreconcile.com^
 ||matterforiwa.org^
@@ -31720,6 +31731,7 @@ browsershots.org#@#.advert_area
 ||mddsp.info^
 ||mdfujryghlihbi.com^
 ||mdkewiwnsrgk.com^
+||mdmdxioicrfmh.online^
 ||mdnwtuscsybglw.com^
 ||mdocqwipifyhu.buzz^
 ||mdrwjsijuqvtn.rocks^
@@ -37402,6 +37414,7 @@ browsershots.org#@#.advert_area
 ||rleibfzdny.com^
 ||rlittleboywhowas.com^
 ||rlljlaxywnniti.com^
+||rlogcejfsgtar.site^
 ||rlqtwlxm.com^
 ||rmahmighoogg.com^
 ||rmaticalacycurated.info^
@@ -41243,6 +41256,7 @@ browsershots.org#@#.advert_area
 ||ufindsoul.com^
 ||ufinkln.com^
 ||ufjwqdmqzlquq.world^
+||ufnpnsisctipl.online^
 ||ufoacmocmu.net^
 ||ufouxbwn.com^
 ||ufpcdn.com^
@@ -42330,6 +42344,7 @@ browsershots.org#@#.advert_area
 ||vymybkyrzvwyj.top^
 ||vyomkbmowzkvw.top^
 ||vyomkbmowzmzm.top^
+||vyqwljwberlow.top^
 ||vywvncjascsrw.world^
 ||vz.7vid.net^
 ||vzbwxyirtahsn.website^

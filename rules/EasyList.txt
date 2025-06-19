@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Mjl+S7L+5cAgfT48w0+cqA
-! Version: 202506191001
+! Checksum: OKfRznpAMLFUzEZOe1BmKQ
+! Version: 202506191201
 ! Title: EasyList
-! Last modified: 19 Jun 2025 10:01 UTC
+! Last modified: 19 Jun 2025 12:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -19739,6 +19739,7 @@ browsershots.org#@#.advert_area
 ||bgecvddelzg.com^
 ||bgedagiwyimix.com^
 ||bgkec.global^
+||bgwafghjtwywv.online^
 ||bh3.net^
 ||bhalukecky.com^
 ||bhcont.com^
@@ -20265,6 +20266,7 @@ browsershots.org#@#.advert_area
 ||boywhowascr.info^
 ||bpaqalnke.com^
 ||bpazidzib.com^
+||bpbcrmlecauhdo.com^
 ||bpeovknslhuqy.online^
 ||bpmlhyvnxjbm.com^
 ||bpoiscqmwxej.buzz^
@@ -22211,6 +22213,7 @@ browsershots.org#@#.advert_area
 ||cowpeawahoos.shop^
 ||cowsonbaggara.shop^
 ||cowtpvi.com^
+||cowweedthane.shop^
 ||coxiesthubble.com^
 ||coxwaintholed.com^
 ||coxziptwo.com^
@@ -22560,6 +22563,7 @@ browsershots.org#@#.advert_area
 ||cvfuyogxbcweq.tech^
 ||cvgto-akmk.fun^
 ||cvkloyexkinekp.com^
+||cvlfbpymwyulj.site^
 ||cvujydqxsgvfu.one^
 ||cvvemdvrojgo.com^
 ||cvwnpvbtezqvk.site^
@@ -22568,6 +22572,7 @@ browsershots.org#@#.advert_area
 ||cwevcagil.com^
 ||cwfpkipntwfudvo.com^
 ||cwicawat.com^
+||cwidpuskead.com^
 ||cwoapffh.com^
 ||cwoonpowxvi.com^
 ||cwpnnceaolies.global^
@@ -28224,6 +28229,7 @@ browsershots.org#@#.advert_area
 ||icsoqxwevywn.com^
 ||icubeswire.co^
 ||icwmsalkqywyp.fun^
+||icxtalveexksf.space^
 ||icyporno.com^
 ||icysong.pro^
 ||id5-sync.com^
@@ -29277,6 +29283,7 @@ browsershots.org#@#.advert_area
 ||jl63v3fp1.com^
 ||jlaebigzfq.com^
 ||jlbnminfg.com^
+||jlccmbmeeuuxq.space^
 ||jlnxjwmeadaw.com^
 ||jlotlwqrgmpxfh.com^
 ||jlovoiqtgarh.com^
@@ -29865,6 +29872,7 @@ browsershots.org#@#.advert_area
 ||kkvesjzn.com^
 ||kkybwaxnnioqx.com^
 ||kkytqmuyworov.online^
+||klbriqkgqkgfhfx.com^
 ||klcndmckonkw.com^
 ||kleak.life^
 ||klenhosnc.com^
@@ -31499,6 +31507,7 @@ browsershots.org#@#.advert_area
 ||maylnk.com^
 ||maymooth-stopic.com^
 ||mayorfifteen.com^
+||mayorjomon.shop^
 ||maysauceminister.com^
 ||mazcicni.com^
 ||mazefoam.com^
@@ -33258,6 +33267,7 @@ browsershots.org#@#.advert_area
 ||oahvmrbvqsuey.online^
 ||oainternetservices.com^
 ||oainzuo.xyz^
+||oajeechouhouds.com^
 ||oakbustrp.com^
 ||oakchokerfumes.com^
 ||oaklesy.com^
@@ -34917,6 +34927,7 @@ browsershots.org#@#.advert_area
 ||pinaffectionatelyaborigines.com^
 ||pincersnap.com^
 ||pineappleconsideringpreference.com^
+||pinercapone.shop^
 ||pinguinmildews.shop^
 ||pinionsmamry.top^
 ||pinitoloutbeam.shop^
@@ -35047,6 +35058,7 @@ browsershots.org#@#.advert_area
 ||pldlz.com^
 ||pleasantinformation.com^
 ||pleasantpaltryconnections.com^
+||pleased-church.pro^
 ||pleasedexample.com^
 ||pleasedprocessed.com^
 ||pleasetrack.com^
@@ -35728,6 +35740,7 @@ browsershots.org#@#.advert_area
 ||ptaicoul.xyz^
 ||ptaissud.com^
 ||ptaitossaukang.net^
+||ptaiwaipseeks.com^
 ||ptaixout.net^
 ||ptalribs.xyz^
 ||ptangortoaz.net^
@@ -38376,6 +38389,7 @@ browsershots.org#@#.advert_area
 ||shredassortmentmood.com^
 ||shrewdcrumple.com^
 ||shriekdestitute.com^
+||shrill-beginning.pro^
 ||shrill-definition.com^
 ||shrillbighearted.com^
 ||shrillcherriesinstant.com^

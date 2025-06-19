@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: JDAT80ADLtKOjPqhu3fitw
-! Version: 202506192001
+! Checksum: xUc941vpaqt525j8hDJhWQ
+! Version: 202506192201
 ! Title: EasyList
-! Last modified: 19 Jun 2025 20:01 UTC
+! Last modified: 19 Jun 2025 22:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -18430,6 +18430,7 @@ browsershots.org#@#.advert_area
 ||aqptziligoqn.com^
 ||aqpwckoqbjikrg.xyz^
 ||aqsossaj.com^
+||aquaticrangey.shop^
 ||aquavitducky.shop^
 ||aquentlytujim.com^
 ||aqxme-eorex.site^
@@ -24746,6 +24747,7 @@ browsershots.org#@#.advert_area
 ||eskimi.com^
 ||esmystemgthro.org^
 ||esnlynotquiteso.com^
+||esoujeebou.com^
 ||espionagegardenerthicket.com^
 ||espionageomissionrobe.com^
 ||espleestrick.com^
@@ -25262,6 +25264,7 @@ browsershots.org#@#.advert_area
 ||fef86b659b.com^
 ||fefinegoldforeyes.com^
 ||feghijupvucw.com^
+||fehlqppruztrc.site^
 ||feignoccasionedmound.com^
 ||feijsojvphjqh.online^
 ||feilbeclaw.com^
@@ -27110,6 +27113,7 @@ browsershots.org#@#.advert_area
 ||gthecoastand.org^
 ||gtosmdjgn.xyz^
 ||gtrem.site^
+||gtrlhbeizihyy.site^
 ||gtubumgalb.com^
 ||gtucpejt.com^
 ||gtusaexrlpab.world^
@@ -27249,6 +27253,7 @@ browsershots.org#@#.advert_area
 ||h74v6kerf.com^
 ||h8brccv4zf5h.com^
 ||habbleuntreed.shop^
+||habirimisce.top^
 ||habirimodioli.com^
 ||habitualexecute.com^
 ||habutaeirisate.com^
@@ -27770,6 +27775,7 @@ browsershots.org#@#.advert_area
 ||hjalma.com^
 ||hjbtunmh.com^
 ||hjcpyuivygenx.rocks^
+||hjgyvykaybgrq.com^
 ||hjiqepnmicea.com^
 ||hjklq.com^
 ||hjmawbrxzq.space^
@@ -28476,6 +28482,7 @@ browsershots.org#@#.advert_area
 ||impeccable-official.com^
 ||impeccablewriter.com^
 ||impendtewter.com^
+||imperfect-pace.pro^
 ||imperilgustard.shop^
 ||imperturbableawesome.com^
 ||impetremondial.com^
@@ -34042,6 +34049,7 @@ browsershots.org#@#.advert_area
 ||orsszeazsx.com^
 ||orstudnp.com^
 ||orthantnavig.com^
+||ortuhaxjansbr.store^
 ||ortwaukthwaeals.com^
 ||oruxdwhatijun.info^
 ||orziuodb.com^
@@ -34138,6 +34146,7 @@ browsershots.org#@#.advert_area
 ||otvmucajjmac.com^
 ||otvnwagpia.com^
 ||otvovcossru.com^
+||otwlfwmuubeue.space^
 ||otwqvqla.com^
 ||oubqwkmhrcpat.fun^
 ||ouchruse.com^
@@ -43289,6 +43298,7 @@ browsershots.org#@#.advert_area
 ||xtaooroiinxo.com^
 ||xtcpooexxvutu.xyz^
 ||xtdztyiqyhmet.global^
+||xterukyxnwkdp.com^
 ||xtmscjvenpyb.com^
 ||xtraserp.com^
 ||xtremeviewing.com^

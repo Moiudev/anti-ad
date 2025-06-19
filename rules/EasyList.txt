@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: BqKuTGZXTdZPOG7XJJ2sLg
-! Version: 202506190041
+! Checksum: NgN2ONE+vDtn8XTFzC/1Hg
+! Version: 202506190301
 ! Title: EasyList
-! Last modified: 19 Jun 2025 00:41 UTC
+! Last modified: 19 Jun 2025 03:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -16002,6 +16002,7 @@ browsershots.org#@#.advert_area
 ||2e5e4544c4.com^
 ||2f44166f35.com^
 ||2f5de272ff.com^
+||2f7f58d605.com^
 ||2f8a651b12.com^
 ||2fb8or7ai.de^
 ||2ffabf3b1d.com^
@@ -16538,6 +16539,7 @@ browsershots.org#@#.advert_area
 ||a3b2c775eb.com^
 ||a3yqjsrczwwp.com^
 ||a41ffeba4a.com^
+||a46d7a5579.com^
 ||a4f074a2f8.com^
 ||a51f200d7e.com^
 ||a5ddb5cd30.com^
@@ -19722,6 +19724,7 @@ browsershots.org#@#.advert_area
 ||bfeajfakcvik.com^
 ||bfeisqaluv.com^
 ||bfeoktgty.com^
+||bfheqpdd.com^
 ||bfjhhdmznjh.club^
 ||bfnsnehjbkewk.com^
 ||bfraircymryuh.xyz^
@@ -22518,6 +22521,7 @@ browsershots.org#@#.advert_area
 ||curtiserosetta.shop^
 ||curvedtobies.shop^
 ||curvyalpaca.cc^
+||curyrentattri.com^
 ||curyrentattributo.org^
 ||cusecwhitten.com^
 ||cushoussie.net^
@@ -24193,6 +24197,7 @@ browsershots.org#@#.advert_area
 ||edvfwlacluo.com^
 ||edvipubjekzec.xyz^
 ||edwmpt.com^
+||edxilaprgjxqt.site^
 ||edytitqbzsqgq.store^
 ||eeberoasfqxwg.global^
 ||eebsootchassoo.com^
@@ -27202,6 +27207,7 @@ browsershots.org#@#.advert_area
 ||habutaeirisate.com^
 ||hackiecausson.shop^
 ||hackmanboats.shop^
+||hacmukouwhauglo.com^
 ||hactifawlgro.com^
 ||hadronid.net^
 ||hadsans.com^
@@ -27755,6 +27761,7 @@ browsershots.org#@#.advert_area
 ||hmttqrrwtxf.com^
 ||hmxg5mhyx.com^
 ||hmxoufchteecf.world^
+||hnchrbjicjcxq.space^
 ||hnejuupgblwc.com^
 ||hnmikeloarp.com^
 ||hnrgmc.com^
@@ -27960,6 +27967,7 @@ browsershots.org#@#.advert_area
 ||hqplhqectwrp.com^
 ||hqqvjdttre.club^
 ||hqscene.com^
+||hqvxjjjldyoc.com^
 ||hqwa.xyz^
 ||hrahdmon.com^
 ||hramb.site^
@@ -28247,6 +28255,7 @@ browsershots.org#@#.advert_area
 ||ifirsjqydbkb.com^
 ||ifont.site^
 ||ifsjqcqja.xyz^
+||ifwgkkvmwxzgp.store^
 ||igaming-warp-service.io^
 ||ighrpmbwdrzoy.store^
 ||iglakgdhhmagf.online^
@@ -32531,6 +32540,7 @@ browsershots.org#@#.advert_area
 ||nceyeykhnltr.com^
 ||ncipledeclinerybel.org^
 ||ncojkokhi.com^
+||ncovakia.shop^
 ||ncqhgmxnpywal.website^
 ||ncubadmavfp.com^
 ||ncwabgl.com^
@@ -35967,6 +35977,7 @@ browsershots.org#@#.advert_area
 ||pyxiscablese.com^
 ||pzalcikh.com^
 ||pzamujowtod.com^
+||pzbxnlourkdrv.site^
 ||pzeazqbkuti.com^
 ||pzeorwxt.com^
 ||pzjndhdke.com^
@@ -39671,6 +39682,7 @@ browsershots.org#@#.advert_area
 ||talesapricot.com^
 ||talkedexpense.com^
 ||talkstewmisjudge.com^
+||tall-north.pro^
 ||tallinitial.com^
 ||talmudconcher.shop^
 ||talsauve.com^
@@ -41061,6 +41073,7 @@ browsershots.org#@#.advert_area
 ||uliafpsf.tattoo^
 ||ulisxyz.store^
 ||ulmoyc.com^
+||ulmqfhgfjrxbj.site^
 ||ulnhz.site^
 ||ulteriorthemselves.com^
 ||ultimatefatiguehistorical.com^
@@ -42433,6 +42446,7 @@ browsershots.org#@#.advert_area
 ||wheredsolon.top^
 ||whereres.com^
 ||wherevertogo.com^
+||whesulsejortoag.net^
 ||whetin.com^
 ||whgcbgdsrqixx.rocks^
 ||whiceega.com^
@@ -42748,6 +42762,7 @@ browsershots.org#@#.advert_area
 ||worldtimes2.xyz^
 ||worldtraffic.trade^
 ||wornshoppingenvironment.com^
+||worralgeylies.shop^
 ||worrisomedifference.com^
 ||worritsmahra.com^
 ||worritsyogic.top^
@@ -43073,12 +43088,14 @@ browsershots.org#@#.advert_area
 ||xmlppcbuzz.com^
 ||xmlrtb.com^
 ||xmlwiz.com^
+||xmpoiotsmpkro.website^
 ||xms.lol^
 ||xmsflzmygw.com^
 ||xmzobmxrvemuh.fun^
 ||xnerivlyclrak.site^
 ||xnoztzcdyawlx.love^
 ||xnrhqmdsluqld.tech^
+||xnwncknejempg.website^
 ||xnwtugzfknrtr.store^
 ||xoalt.com^
 ||xohtwtrsswju.com^
@@ -43483,6 +43500,7 @@ browsershots.org#@#.advert_area
 ||yyjvimo.com^
 ||yyselrqpyu.com^
 ||yytxgghgvtwfp.icu^
+||yzcebhfvytfuhw.com^
 ||yzfjlvqa.com^
 ||yzmeapcexbe.com^
 ||yzxbdzrnsyscx.rocks^
@@ -59077,6 +59095,8 @@ bookriot.com##.random-content-pro-wrapper
 dappradar.com##.rankings-ad-row
 rappler.com##.rappler-ad-container
 benzinga.com##.raptive-ad-placement
+groovypost.com##.raptive-content-1
+groovypost.com##.raptive-content-end
 wdwmagic.com##.raptive-custom-sidebar1
 atlantablackstar.com,finurah.com,theshadowleague.com##.raptive-ddm-header
 benzinga.com##.raptive-header-banner

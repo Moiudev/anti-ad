@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ueYj3PbETmZwVl17ddrsfQ
-! Version: 202506190601
+! Checksum: xIzSrjWQGiK/+/fnz7oSgw
+! Version: 202506190801
 ! Title: EasyList
-! Last modified: 19 Jun 2025 06:01 UTC
+! Last modified: 19 Jun 2025 08:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -19402,6 +19402,7 @@ browsershots.org#@#.advert_area
 ||bauptost.net^
 ||bauwheenepti.com^
 ||bauzoanu.com^
+||bavtcgurjfoq.com^
 ||bawdiesguests.shop^
 ||bawixi.xyz^
 ||bawovzjweqhi.com^
@@ -20655,6 +20656,7 @@ browsershots.org#@#.advert_area
 ||bygoneudderpension.com^
 ||bylawrite.com^
 ||bynix.xyz^
+||byoxxapgnfhdt.site^
 ||bypassduehardly.com^
 ||bypassmaestro.com^
 ||byronhuipil.com^
@@ -21689,6 +21691,7 @@ browsershots.org#@#.advert_area
 ||cmadserver.de^
 ||cmbestsrv.com^
 ||cmclean.club^
+||cmdrogqpxvxtr.online^
 ||cmfads.com^
 ||cmjvavqkqfgvv.xyz^
 ||cmoepgcsnhuhl.com^
@@ -25216,6 +25219,7 @@ browsershots.org#@#.advert_area
 ||fedot.site^
 ||fedra.info^
 ||fedsit.com^
+||feechoojaigeep.net^
 ||feed-ads.com^
 ||feed-xml.com^
 ||feedboiling.com^
@@ -25722,6 +25726,7 @@ browsershots.org#@#.advert_area
 ||forfeitsubscribe.com^
 ||forflygonom.com^
 ||forfrogadiertor.com^
+||forgetfulspidersantiquity.com^
 ||forgivenesspeltanalyse.com^
 ||forlumineoner.com^
 ||formalitydetached.com^
@@ -26859,6 +26864,7 @@ browsershots.org#@#.advert_area
 ||gralneurooly.com^
 ||gralossortoob.net^
 ||gramb.site^
+||grampusbosque.top^
 ||granagesueded.com^
 ||granaryvernonunworthy.com^
 ||grandchildpuzzled.com^
@@ -27058,6 +27064,7 @@ browsershots.org#@#.advert_area
 ||grygrothapi.pro^
 ||gsbnymvxzcgku.today^
 ||gscontxt.net^
+||gsfpdvjkpishb.website^
 ||gsgonebya.com^
 ||gsgwqazvstuh.com^
 ||gsjln04hd.com^
@@ -27773,6 +27780,7 @@ browsershots.org#@#.advert_area
 ||hmxoufchteecf.world^
 ||hnchrbjicjcxq.space^
 ||hnejuupgblwc.com^
+||hnkiigrfygpcw.space^
 ||hnmikeloarp.com^
 ||hnrgmc.com^
 ||hnuvkgqb.com^
@@ -31553,6 +31561,7 @@ browsershots.org#@#.advert_area
 ||meansneverhorrid.com^
 ||meantimechimneygospel.com^
 ||meantimenourishclothes.com^
+||measly-buyer.pro^
 ||measts.com^
 ||measuringcabinetclerk.com^
 ||measuringrules.com^
@@ -31955,6 +31964,7 @@ browsershots.org#@#.advert_area
 ||mng-ads.com^
 ||mnhjk.com^
 ||mnhjkl.com^
+||mnpuxygfpkvey.online^
 ||mnpxmcrlmvdok.website^
 ||mnqyjjbitxdvr.club^
 ||mntft.com^
@@ -32207,6 +32217,7 @@ browsershots.org#@#.advert_area
 ||mqabjtgli.xyz^
 ||mqdownload.com^
 ||mqmzpqzylyebq.tech^
+||mqpaoakswhlqh.site^
 ||mqpelapasqusa.rocks^
 ||mqpmivxywvxef.buzz^
 ||mqpmktut.com^
@@ -33125,6 +33136,7 @@ browsershots.org#@#.advert_area
 ||numbertrck.com^
 ||numbmemory.com^
 ||numericprosapy.shop^
+||numerosuffice.shop^
 ||nunarzdiwdix.com^
 ||nunciodekare.shop^
 ||nuncleslupulic.shop^
@@ -34129,6 +34141,7 @@ browsershots.org#@#.advert_area
 ||outnumberconnatetomato.com^
 ||outoctillerytor.com^
 ||outponyglorious.com^
+||outragederic.shop^
 ||outrageousjobless.com^
 ||outratela.com^
 ||outrightsham.com^
@@ -35263,6 +35276,7 @@ browsershots.org#@#.advert_area
 ||poshenglandscarecrow.com^
 ||poshhateful.com^
 ||positeasysembl.org^
+||positiveblue.pro^
 ||positivelyassertappreciation.com^
 ||poskedasensiblemot.com^
 ||poslaoagbehkn.site^
@@ -37182,6 +37196,7 @@ browsershots.org#@#.advert_area
 ||rjeruqs.com^
 ||rjftgiby.com^
 ||rjmjflkndiqxw.site^
+||rjokawzwvrlvy.top^
 ||rjokawzwvryra.top^
 ||rjowzlkaz.today^
 ||rjqzljvlbavba.top^
@@ -39934,6 +39949,7 @@ browsershots.org#@#.advert_area
 ||terrifyingcovert.com^
 ||tersatedtheother.com^
 ||tertracks.site^
+||tesneahstsn.com^
 ||tesousefulhead.com^
 ||tessaragair.top^
 ||tessgyron.com^
@@ -60454,7 +60470,7 @@ ciiradio.com,hapskorea.com,thetruthwins.com##[height="300"]
 fxempire.com##[height="398"]
 namepros.com,pointblanknews.com,sharktankblog.com##[height="60"]
 bankbazaar.com##[height="80"]
-1001tracklists.com,airplaydirect.com,bankbazaar.com,cultofcalcio.com,dailynews.lk,economicconfidential.com,eve-search.com,lyngsat.com,newzimbabwe.com,opednews.com,roadtester.com.au,runechat.com,tfetimes.com##[height="90"]
+airplaydirect.com,bankbazaar.com,cultofcalcio.com,dailynews.lk,economicconfidential.com,eve-search.com,lyngsat.com,newzimbabwe.com,opednews.com,roadtester.com.au,runechat.com,tfetimes.com##[height="90"]
 tokopedia.com##[href$="src=topads"]
 yourbittorrent.com##[href*="%20"][href$=".html"]
 photopea.com##[href*=".ivank.net"]

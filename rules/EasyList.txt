@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: byFvuoeXugKRUBBuNGD3mg
-! Version: 202506200401
+! Checksum: t1qDCMyfPjx5XIqV4MzLLQ
+! Version: 202506200601
 ! Title: EasyList
-! Last modified: 20 Jun 2025 04:01 UTC
+! Last modified: 20 Jun 2025 06:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -20004,6 +20004,7 @@ browsershots.org#@#.advert_area
 ||blogostock.com^
 ||blondspeaker.com^
 ||blooks.info^
+||bloomslayers.shop^
 ||blossomfertilizerproperly.com^
 ||blotecardthumb.com^
 ||blownsuperstitionabound.com^
@@ -20680,6 +20681,7 @@ browsershots.org#@#.advert_area
 ||bytesdictatescoop.com^
 ||bytogeticr.com^
 ||byuatuitvfbk.xyz^
+||bywardcurvet.shop^
 ||byyanmaor.com^
 ||byzoruator.com^
 ||bzddpjcutxcvk.today^
@@ -24165,6 +24167,7 @@ browsershots.org#@#.advert_area
 ||ebc998936c.com^
 ||ebd.cda-hd.co^
 ||ebeaelte.com^
+||ebekkwhsnba.com^
 ||ebetoni.com^
 ||eblastengine.com^
 ||ebonizerebake.com^
@@ -24932,6 +24935,7 @@ browsershots.org#@#.advert_area
 ||exgjhawccb.com^
 ||exhaustingflames.com^
 ||exhibitedpermanentstoop.com^
+||exhquuyl.com^
 ||exi8ef83z9.com^
 ||exilepracticableresignation.com^
 ||exilesgalei.shop^
@@ -26539,6 +26543,7 @@ browsershots.org#@#.advert_area
 ||givingsol.com^
 ||gixiluros.com^
 ||gizmispfoj.com^
+||giznpuol.com^
 ||gizokraijaw.net^
 ||gizzardcopers.shop^
 ||gjigle.com^
@@ -30194,6 +30199,7 @@ browsershots.org#@#.advert_area
 ||kvozsayiewspf.rocks^
 ||kvtgl4who.com^
 ||kvum-bpelzw.icu^
+||kvvpilxstphqz.space^
 ||kvwibtxllnpfw.space^
 ||kvxjxbrsxhgw.xyz^
 ||kw3y5otoeuniv7e9rsi.com^
@@ -30781,6 +30787,7 @@ browsershots.org#@#.advert_area
 ||ljbwzlmlzvavm.top^
 ||ljcvlagsgqebugt.xyz^
 ||ljdzjtpnijpns.space^
+||ljfrwpidsewus.store^
 ||ljisbcyw.com^
 ||ljnulatbntogvd.com^
 ||ljoaqeqwbkeqk.top^
@@ -32324,6 +32331,7 @@ browsershots.org#@#.advert_area
 ||mrkpngnjsslwwg.com^
 ||mrlscr.com^
 ||mrmnd.com^
+||mrpqqtuzjnkdc.site^
 ||mrqcxjbhluvew.xyz^
 ||mrtnsvr.com^
 ||mrybahnw.com^
@@ -32956,6 +32964,7 @@ browsershots.org#@#.advert_area
 ||nkredir.com^
 ||nkyzsgitgjdam.space^
 ||nlargeconsu.org^
+||nlcqnasbppptk.space^
 ||nld0jsg9s9p8.com^
 ||nlfutnfylfgez.store^
 ||nlhsfsgtye.com^
@@ -33149,6 +33158,7 @@ browsershots.org#@#.advert_area
 ||nrcykmnukb.com^
 ||nrdpfnpqunyle.rocks^
 ||nreg.world^
+||nrezbuddfmt.com^
 ||nrltnojhyjrup.com^
 ||nrnma.com^
 ||nroruvsal.com^
@@ -41461,6 +41471,7 @@ browsershots.org#@#.advert_area
 ||unwelcomehurry.com^
 ||unwillingsnick.com^
 ||unwindirenebank.com^
+||unwivebrooky.shop^
 ||unwontcajun.top^
 ||unwoobater.com^
 ||unwritmirific.com^

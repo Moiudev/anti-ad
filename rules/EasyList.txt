@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: JoMmzCLMY7KVCegs2VSsTQ
-! Version: 202506201001
+! Checksum: Wu2ygOeG/nJF+YXJwKswPw
+! Version: 202506201201
 ! Title: EasyList
-! Last modified: 20 Jun 2025 10:01 UTC
+! Last modified: 20 Jun 2025 12:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -20736,6 +20736,7 @@ browsershots.org#@#.advert_area
 ||cachegorilla.com^
 ||cachuadirked.top^
 ||cacklegrievingtank.com^
+||cackoorsoltin.net^
 ||cactusheadroomscaling.com^
 ||cadencedisruptgoat.com^
 ||cadlsyndicate.com^
@@ -20885,6 +20886,7 @@ browsershots.org#@#.advert_area
 ||carfulsranquel.com^
 ||cargoattachment.com^
 ||caricaturechampionshipeye.com^
+||carlesssalvy.shop^
 ||carlossteady.com^
 ||carneyfelons.com^
 ||carnycyamus.top^
@@ -24197,6 +24199,7 @@ browsershots.org#@#.advert_area
 ||eclkmpsa.com^
 ||econenectedith.info^
 ||econventa.com^
+||ecpchngnkshn.com^
 ||ecpms.net^
 ||ecretaboutt.org^
 ||ecrvysupbqcnb.top^
@@ -24585,6 +24588,7 @@ browsershots.org#@#.advert_area
 ||enlnks.com^
 ||ennhtjzkuhjjw.online^
 ||enodiarahnthedon.com^
+||enoebfgxwevgee.com^
 ||enointselety.shop^
 ||enoliccoacted.shop^
 ||enormous-society.pro^
@@ -26049,6 +26053,7 @@ browsershots.org#@#.advert_area
 ||fulyvaxscaucd.club^
 ||fumbling-fact.pro^
 ||fumepurine.top^
+||fumierpapane.shop^
 ||funappgames.com^
 ||funbestgetjoobsli.org^
 ||funcats.info^
@@ -26628,6 +26633,7 @@ browsershots.org#@#.advert_area
 ||glevoloo.com^
 ||glideimpulseregulate.com^
 ||gligoubsed.com^
+||glihoulraiph.net^
 ||glimpaid.net^
 ||glimpsemankind.com^
 ||glimtors.net^
@@ -28072,6 +28078,7 @@ browsershots.org#@#.advert_area
 ||hrenbjkdas.com^
 ||hreso.site^
 ||hrihfiocc.com^
+||hrijiqwroalg.com^
 ||hrmdw8da.net^
 ||hrogrpee.de^
 ||hrqvjugcolghi.com^
@@ -33662,6 +33669,7 @@ browsershots.org#@#.advert_area
 ||ohtotgcwolma.com^
 ||ohtpigod.com^
 ||ohtqmamilan.com^
+||ohwcfznerxhjk.website^
 ||oianz.xyz^
 ||oijsncvhg.com^
 ||oinkedbowls.com^
@@ -36603,6 +36611,7 @@ browsershots.org#@#.advert_area
 ||rakiblinger.com^
 ||raksoagrew.net^
 ||rakzyonvccpaad.com^
+||ralhkgibukxcw.online^
 ||ramaismprecel.shop^
 ||ramasilenic.shop^
 ||rametbaygall.shop^
@@ -37109,6 +37118,7 @@ browsershots.org#@#.advert_area
 ||resultedinncreas.com^
 ||resultlinks.com^
 ||resultsz.com^
+||resumesdibatis.shop^
 ||resurrectionincomplete.com^
 ||retagcoppet.top^
 ||retagro.com^
@@ -37345,6 +37355,7 @@ browsershots.org#@#.advert_area
 ||rixaka.com^
 ||rixibe.xyz^
 ||rizzomdaledh.top^
+||rjbfslmffohss.site^
 ||rjeruqs.com^
 ||rjftgiby.com^
 ||rjmjflkndiqxw.site^
@@ -39990,6 +40001,7 @@ browsershots.org#@#.advert_area
 ||tcppu.com^
 ||tcreativeideasa.com^
 ||tcseehnbrn.com^
+||tctrbtdxbscuw.site^
 ||tcubtawuv.com^
 ||tcucadojvogr.com^
 ||td5xffxsx4.com^
@@ -41361,6 +41373,7 @@ browsershots.org#@#.advert_area
 ||undercoverchildbirthflimsy.com^
 ||underdog.media^
 ||undergodoublycongruous.com^
+||underlyinfuser.com^
 ||underminesprout.com^
 ||underpantscostsdirection.com^
 ||underpantsdefencelesslearn.com^
@@ -43751,6 +43764,7 @@ browsershots.org#@#.advert_area
 ||yyjvimo.com^
 ||yyselrqpyu.com^
 ||yytxgghgvtwfp.icu^
+||yyvxcmhpkmaxd.website^
 ||yzcebhfvytfuhw.com^
 ||yzfjlvqa.com^
 ||yzmeapcexbe.com^
@@ -61617,6 +61631,7 @@ kaufland.*##.teaser-orchestration__wrapper--online
 kaufland.*#?#.recommender-wrapper:-abp-contains(Gesponsert)
 laredoute.*###hp-sponsored-banner
 lazada.*##.pdp-block__product-ads
+lidl.*##div[data-type="sponsored"]
 manomano.*##a[href^="/"][href*="?product_id="][title]:has(span > .svg_tamagoshi)
 manomano.*##div[data-testid="sprbrd-banner"]
 momondo.*##.WTQR-ad-card

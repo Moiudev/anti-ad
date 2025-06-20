@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Wu2ygOeG/nJF+YXJwKswPw
-! Version: 202506201201
+! Checksum: 2tGon7kfpYhcaXzGdoI95g
+! Version: 202506201401
 ! Title: EasyList
-! Last modified: 20 Jun 2025 12:01 UTC
+! Last modified: 20 Jun 2025 14:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -23048,6 +23048,7 @@ browsershots.org#@#.advert_area
 ||degreaseserpentwashhouse.com^
 ||degreewhether.com^
 ||degutu.xyz^
+||deicedchooky.shop^
 ||deityhumcelery.com^
 ||deitynosebleed.com^
 ||dejjjdbifojmi.com^
@@ -25590,6 +25591,7 @@ browsershots.org#@#.advert_area
 ||flexcheekadversity.com^
 ||flexibilitukydtea.com^
 ||flexlinks.com^
+||flgdaoepeuiqs.store^
 ||flickerbridge.com^
 ||flickering-buy.com^
 ||fliffusparaph.com^
@@ -26594,6 +26596,7 @@ browsershots.org#@#.advert_area
 ||glancebismark.shop^
 ||glandinterest.com^
 ||glaringregister.com^
+||glass-decision.pro^
 ||glassesoftruth.com^
 ||glassmilheart.com^
 ||glasssmash.site^
@@ -27996,6 +27999,7 @@ browsershots.org#@#.advert_area
 ||hosieryplum.com^
 ||hosierypressed.com^
 ||hostadsmarkets.com^
+||hostageacarari.top^
 ||hostave.net^
 ||hostave4.net^
 ||hostileconductive.com^
@@ -29658,6 +29662,7 @@ browsershots.org#@#.advert_area
 ||jygotubvpyguak.com^
 ||jyhlgpkn.com^
 ||jynginefoldy.shop^
+||jynuvagjoxnin.space^
 ||jyozavobzrekb.top^
 ||jyozavobzrlkz.top^
 ||jyqekzzlmymab.top^
@@ -29666,6 +29671,7 @@ browsershots.org#@#.advert_area
 ||jytftzydfogtu.online^
 ||jyusesoionsglear.info^
 ||jyvkwqjremabw.top^
+||jyvkwqjremqkz.top^
 ||jyvkwqjremqll.top^
 ||jyzkut.com^
 ||jzbvwqeowwvob.top^
@@ -30057,6 +30063,7 @@ browsershots.org#@#.advert_area
 ||koalatuba.top^
 ||koalaups.com^
 ||koanewhaideeb.com^
+||koaphigechi.com^
 ||koapsout.com^
 ||koapsuha.net^
 ||koaptouw.com^
@@ -36130,6 +36137,7 @@ browsershots.org#@#.advert_area
 ||pvclouds.com^
 ||pvdafseagcfcz.site^
 ||pvdbkr.com^
+||pvnwfoxrfezes.space^
 ||pvpffqip.com^
 ||pvtqllwgu.com^
 ||pvxzjdetbhrtz.top^
@@ -38386,6 +38394,7 @@ browsershots.org#@#.advert_area
 ||shakre.com^
 ||shakydeploylofty.com^
 ||shallonawshar.top^
+||shallowdust.pro^
 ||shallowtwist.pro^
 ||shaltloggie.shop^
 ||shameful-leader.com^
@@ -39801,6 +39810,7 @@ browsershots.org#@#.advert_area
 ||sxpmlinbxvjjd.com^
 ||sxqxvcymtiwxo.space^
 ||sxtkfamhqnp.com^
+||sxvnavgobmhav.com^
 ||sya9yncn3q.com^
 ||syclqphwqvv.com^
 ||sycockmnioid.top^
@@ -39969,6 +39979,7 @@ browsershots.org#@#.advert_area
 ||tationalhedgelnha.com^
 ||tationseleauks.com^
 ||tattepush.com^
+||tatxbrshtjgfs.site^
 ||taurostaupse.com^
 ||taut-nature.com^
 ||tauvoojo.net^
@@ -43384,6 +43395,7 @@ browsershots.org#@#.advert_area
 ||xrpikxtnmvcm.com^
 ||xrrdi.com^
 ||xsifzaieypxqr.global^
+||xsoydlcymk.com^
 ||xsrs.com^
 ||xstreamsoftwar3x.com^
 ||xsulikmlsghae.com^

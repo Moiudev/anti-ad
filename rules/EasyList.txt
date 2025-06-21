@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: H1pVkT3zQ3CupRB0t6uR0g
-! Version: 202506210801
+! Checksum: +z6Eqa0sDbtiP9FP7xMpnA
+! Version: 202506211001
 ! Title: EasyList
-! Last modified: 21 Jun 2025 08:01 UTC
+! Last modified: 21 Jun 2025 10:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -23909,6 +23909,7 @@ browsershots.org#@#.advert_area
 ||dsau5u.com^
 ||dsaxuytppkc.xyz^
 ||dsb68d.com^
+||dsbohcqqdvbyt.site^
 ||dseveralmefarketi.com^
 ||dsfvmx.click^
 ||dsgmegsukgslc.com^
@@ -32748,6 +32749,7 @@ browsershots.org#@#.advert_area
 ||naturebunk.com^
 ||naugaugair.com^
 ||naughtynotice.pro^
+||naughtypound.pro^
 ||nauknceiwouldli.com^
 ||naupaptoth.net^
 ||naupsakiwhy.com^
@@ -33287,6 +33289,7 @@ browsershots.org#@#.advert_area
 ||nstytzmbwuylf.site^
 ||nsultingcoe.net^
 ||nsurowis.com^
+||nswsoyyold.com^
 ||nszbiwxorynnf.xyz^
 ||ntativesathyasesum.com^
 ||ntdhfhpr-o.rocks^
@@ -34027,6 +34030,7 @@ browsershots.org#@#.advert_area
 ||oonsouque.com^
 ||oopatet.com^
 ||ooqtjsubfcppe.life^
+||oorgaithaigast.net^
 ||oorgooteckax.com^
 ||oorsoozo.top^
 ||oosoojainy.xyz^
@@ -36605,6 +36609,7 @@ browsershots.org#@#.advert_area
 ||qutvihlwup.com^
 ||quzwteqzaabm.com^
 ||quzxatapvz.com^
+||qvamqtypgwgp.xyz^
 ||qvcnveqlnmrcg.click^
 ||qvglxrsojnyaz.site^
 ||qvikar.com^
@@ -38958,6 +38963,7 @@ browsershots.org#@#.advert_area
 ||smeltvomitinclined.com^
 ||smenqskfmpfxnb.bid^
 ||smentbrads.info^
+||smidgenburbolt.shop^
 ||smigro.info^
 ||smikqbwrgttx.xyz^
 ||smileesidesuk.com^
@@ -40357,6 +40363,7 @@ browsershots.org#@#.advert_area
 ||themselphenyls.com^
 ||themselvessuit.com^
 ||themydatings-matches.com^
+||thenagemangled.top^
 ||thenceafeard.com^
 ||thencedisgustedbare.com^
 ||thenfulfilearnestly.com^
@@ -40387,6 +40394,7 @@ browsershots.org#@#.advert_area
 ||thickspaghetti.com^
 ||thidraimistah.com^
 ||thiefperpetrate.com^
+||thignoalry.net^
 ||thikoowoult.net^
 ||thikraik.net^
 ||thiltoocmom.com^
@@ -40500,6 +40508,7 @@ browsershots.org#@#.advert_area
 ||tictastesnlynotquit.org^
 ||tictkfbrieho.com^
 ||tidaltv.com^
+||tidbitjocose.top^
 ||tiddygrylli.shop^
 ||tideairtight.com^
 ||tidiferhagose.shop^
@@ -42458,6 +42467,7 @@ browsershots.org#@#.advert_area
 ||vxhdyqaiubtmr.space^
 ||vxhyjwgvpc.com^
 ||vxpcarcapffdp.global^
+||vxtehkhkv.com^
 ||vxwmkbtkhtpru.today^
 ||vydfergcp.com^
 ||vyebzzbovvorz.top^
@@ -43010,6 +43020,7 @@ browsershots.org#@#.advert_area
 ||wizkrdxivl.com^
 ||wizssgf.com^
 ||wjct3s8at.com^
+||wjebboljovkwr.top^
 ||wjebboljovoaz.top^
 ||wjebboljovowm.top^
 ||wjgfpayqnfhtq.com^
@@ -43504,6 +43515,7 @@ browsershots.org#@#.advert_area
 ||xoojebxoyzves.online^
 ||xoqod.sbs^
 ||xotswmvszr.com^
+||xovbjzdbfomoo.site^
 ||xovzgcoovh.club^
 ||xoxnetwork.com^
 ||xoxyxaxtgkryj.club^

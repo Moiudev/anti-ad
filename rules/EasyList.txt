@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: iqGTNgDsrvrFExkAlesA/g
-! Version: 202506210601
+! Checksum: H1pVkT3zQ3CupRB0t6uR0g
+! Version: 202506210801
 ! Title: EasyList
-! Last modified: 21 Jun 2025 06:01 UTC
+! Last modified: 21 Jun 2025 08:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -17632,6 +17632,7 @@ browsershots.org#@#.advert_area
 ||aglobally.com^
 ||aglocobanners.com^
 ||agmtrk.com^
+||agnagmwbmllmw.top^
 ||agnateswhummle.shop^
 ||agnqolfmjebpk.icu^
 ||agogtowie.com^
@@ -26974,6 +26975,7 @@ browsershots.org#@#.advert_area
 ||grainshen.com^
 ||grairdou.com^
 ||graissearear.shop^
+||graithmuser.top^
 ||graitsie.com^
 ||graivaik.com^
 ||graivampouth.net^
@@ -36524,6 +36526,7 @@ browsershots.org#@#.advert_area
 ||qtbqqrypghmme.store^
 ||qtoxhaamntfi.com^
 ||qtozipscid.com^
+||qtpwhuodcsbtt.space^
 ||quackedchevage.top^
 ||quackupsilon.com^
 ||quagfa.com^
@@ -36808,6 +36811,7 @@ browsershots.org#@#.advert_area
 ||rbp-gen1.site^
 ||rbqcg6g.de^
 ||rbqfprbbtwgej.online^
+||rbqlbokvorrok.top^
 ||rbqlbokvorrqy.top^
 ||rbqlbokvorwoa.top^
 ||rbrightscarletcloaksan.org^
@@ -37465,6 +37469,7 @@ browsershots.org#@#.advert_area
 ||rjbfslmffohss.site^
 ||rjeruqs.com^
 ||rjftgiby.com^
+||rjmagdairzath.website^
 ||rjmjflkndiqxw.site^
 ||rjokawzwvrlvy.top^
 ||rjokawzwvryra.top^
@@ -43193,6 +43198,7 @@ browsershots.org#@#.advert_area
 ||wpushsdk.com^
 ||wpwdwbunjutwd.online^
 ||wqgpzmpwuchvi.one^
+||wqpbfdspwii.com^
 ||wqvwqxstgqjyk.fun^
 ||wqzqoobqpubx.com^
 ||wqzyxxrrep.com^

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: MJIho5ai8tILr6o65AaDPA
-! Version: 202506211601
+! Checksum: 1RD1O7VIh4WxtqkQVTGz+w
+! Version: 202506211801
 ! Title: EasyList
-! Last modified: 21 Jun 2025 16:01 UTC
+! Last modified: 21 Jun 2025 18:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -20607,6 +20607,7 @@ browsershots.org#@#.advert_area
 ||bunnslibby.com^
 ||bunquaver.com^
 ||bunth.net^
+||buntingfusses.shop^
 ||bunzamxbtj.space^
 ||buoyant-quote.pro^
 ||buoyantpossibility.pro^
@@ -25743,6 +25744,7 @@ browsershots.org#@#.advert_area
 ||fnelqqh.com^
 ||fnkbfrqhwmjzj.xyz^
 ||fnlojkpbe.com^
+||fnrmxmfphbdjy.online^
 ||fntvloqdmf.com^
 ||fnximdpycveod.com^
 ||fnyaynma.com^
@@ -26180,6 +26182,7 @@ browsershots.org#@#.advert_area
 ||fwmrm.net^
 ||fwtntihjaqbko.com^
 ||fwtrck.com^
+||fxawjrcpzkyvd.online^
 ||fxbcyvlrr.com^
 ||fxdepo.com^
 ||fxdmnmsna.space^
@@ -28135,6 +28138,7 @@ browsershots.org#@#.advert_area
 ||hpmsentpv.com^
 ||hpmstr.com^
 ||hpnkctxx.buzz^
+||hppfyrdeuangi.website^
 ||hpqalsqjr.com^
 ||hpskiqiafxshdf.com^
 ||hpyjmp.com^
@@ -31185,6 +31189,7 @@ browsershots.org#@#.advert_area
 ||lpuodgmca.com^
 ||lpyyzoetztnmv.one^
 ||lpzttnoezjdir.xyz^
+||lqbnmsuigbig.com^
 ||lqbvjmkoomerm.top^
 ||lqbzvmmojjkk.top^
 ||lqcdn.com^
@@ -31681,6 +31686,7 @@ browsershots.org#@#.advert_area
 ||maudau.com^
 ||maulupoa.com^
 ||mausolemiskal.top^
+||mauweebailuchi.com^
 ||mavamuwwnkksn.store^
 ||mavq.net^
 ||mawkggrbhsknuw.com^
@@ -33044,6 +33050,7 @@ browsershots.org#@#.advert_area
 ||nightbesties.com^
 ||nighter.club^
 ||nightmarerelive.com^
+||nigjumpwewiz.com^
 ||nigmen.com^
 ||nigrocosti.com^
 ||nigroopheert.com^
@@ -38205,6 +38212,7 @@ browsershots.org#@#.advert_area
 ||scianbandhor.shop^
 ||scidationgly.com^
 ||scientific-doubt.com^
+||scintilcindy.shop^
 ||scisselfront.top^
 ||scisselfungus.com^
 ||scissordisciplinaryrace.com^
@@ -39269,6 +39277,7 @@ browsershots.org#@#.advert_area
 ||sperans-beactor.com^
 ||speraspace.com^
 ||spheredkapas.com^
+||spherical-taste.pro^
 ||sphericalproposal.pro^
 ||sphericalsmoke.pro^
 ||spice-sugar.net^
@@ -41311,6 +41320,7 @@ browsershots.org#@#.advert_area
 ||txgilxtxczsfus.com^
 ||txgpgszrhedyl.online^
 ||txojrnpkfo.com^
+||txpwmpgveftnm.com^
 ||txykmuqzxjitf.space^
 ||txzaazmdhtw.com^
 ||tyburnpenalty.com^
@@ -62119,6 +62129,7 @@ etsy.com##[data-page-type="listing_page_similar_listings_grid"]:has([id^="ad-lis
 etsy.com##[data-page-type="listing_page_similar_listings_row"]:has([id^="ad-listing-title-"])
 etsy.com##[data-page-type="market"]:has([id^="ad-listing-title-"])
 etsy.com##[data-page-type="similar-listing-page"]:has([id^="ad-listing-title-"])
+noon.com##[data-qa="plp-product-box"]:has([class^="SponsoredTag"])
 engadget.com##[data-test="top-ad"]
 farfetch.com##[data-testid="featured"]:has([data-ffref*="sponsoredBy"])
 petco.com##[data-testid="product-buy-box"]:has([class*="SponsoredText"])
@@ -63197,6 +63208,7 @@ theboobsblog.com###text-74
 cheemsporn.com###text-8
 hentai-sharing.net###text-9
 theboobsblog.com###text-94
+f95zone.to###topNotice
 allureamateurs.net,sexmummy.com###topbar
 ohentai.org###topdetailad
 motherless.com###topsites

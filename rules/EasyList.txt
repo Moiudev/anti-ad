@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: lXRYv1u04WxZIZOWj6PXUw
-! Version: 202506211402
+! Checksum: MJIho5ai8tILr6o65AaDPA
+! Version: 202506211601
 ! Title: EasyList
-! Last modified: 21 Jun 2025 14:02 UTC
+! Last modified: 21 Jun 2025 16:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -19272,6 +19272,7 @@ browsershots.org#@#.advert_area
 ||baggy-physics.pro^
 ||bagmenunhaunt.top^
 ||bagpipemonogamypercent.com^
+||bagreefelatcha.top^
 ||baguettefactornervous.com^
 ||baguioattalea.com^
 ||bahmemohod.com^
@@ -20083,6 +20084,7 @@ browsershots.org#@#.advert_area
 ||bnmtgboouf.com^
 ||bnp3.com^
 ||bnpknicjeb.com^
+||bnqagjwbvglnj.top^
 ||bnr.sys.lv^
 ||bnrdom.com^
 ||bnrs.it^
@@ -20845,6 +20847,7 @@ browsershots.org#@#.advert_area
 ||cancriberths.com^
 ||cancritory.com^
 ||candiddugprecedent.com^
+||candidspirit.pro^
 ||candleannihilationretrieval.com^
 ||candlingrecords.com^
 ||candyai.love^
@@ -21314,6 +21317,7 @@ browsershots.org#@#.advert_area
 ||cheqzone.com^
 ||cheriesruewort.shop^
 ||cherupbanged.top^
+||chesshabuka.top^
 ||chesssorrydescend.com^
 ||chestgoingpunch.com^
 ||chetchoa.com^
@@ -23944,6 +23948,7 @@ browsershots.org#@#.advert_area
 ||dtlqxgox.com^
 ||dtmjpefzybt.fun^
 ||dtmpub.com^
+||dtnegrmxamvmyss.com^
 ||dtootmvwy.top^
 ||dtprofit.com^
 ||dtrem.site^
@@ -24748,6 +24753,7 @@ browsershots.org#@#.advert_area
 ||ereandhthrew.org^
 ||eredrubygsworlo.com^
 ||ereissomeone.org^
+||erelongkome.shop^
 ||eremjybuorgiy.com^
 ||eremployeesihighl.com^
 ||erepsinslavian.shop^
@@ -26739,6 +26745,7 @@ browsershots.org#@#.advert_area
 ||glorsugn.net^
 ||glossydollyknock.com^
 ||gloucmoors.com^
+||glougijouze.com^
 ||glougloowhoumt.net^
 ||gloumoonees.net^
 ||gloumsee.net^
@@ -30905,6 +30912,7 @@ browsershots.org#@#.advert_area
 ||ljun8zm9.com^
 ||ljvmokwyromeq.top^
 ||ljvmokwyromjj.top^
+||ljvmokwyrozjk.top^
 ||ljybybyerzoev.top^
 ||ljypfykcofguz.fun^
 ||lkauxiqpwlsfr.rocks^
@@ -32854,6 +32862,7 @@ browsershots.org#@#.advert_area
 ||negxkj5ca.com^
 ||negyuk.com^
 ||neighborhood268.fun^
+||neighboring-usual.pro^
 ||neighrewarn.click^
 ||neitherpennylack.com^
 ||neladyhe.com^
@@ -33454,6 +33463,7 @@ browsershots.org#@#.advert_area
 ||nythingamglad.com^
 ||nytrng.com^
 ||nyvzocirybwts.website^
+||nzedgbyp.com^
 ||nzisaqcad.com^
 ||nzitcuftiofh.com^
 ||nzme-ads.co.nz^
@@ -38336,6 +38346,7 @@ browsershots.org#@#.advert_area
 ||seecaimooth.com^
 ||seedlingneurotic.com^
 ||seefiouewvgfl.space^
+||seegoopsoost.com^
 ||seehewasde.org^
 ||seekmymatch.com^
 ||seekoflol.com^
@@ -43594,6 +43605,7 @@ browsershots.org#@#.advert_area
 ||xukpqemfs.com^
 ||xumgarqig.com^
 ||xumolcafw.com^
+||xunadbnfdfvpp.com^
 ||xupskiqab.com^
 ||xuqza.com^
 ||xurlctzwmnnxm.site^
@@ -43610,6 +43622,7 @@ browsershots.org#@#.advert_area
 ||xwfnisawjdl.com^
 ||xwiashrkcpvns.love^
 ||xwlketvkzf.com^
+||xwmcxqcxipcln.site^
 ||xwnutgihjjkadbu.com^
 ||xwqea.com^
 ||xwqvytuiko.com^
@@ -44018,6 +44031,7 @@ browsershots.org#@#.advert_area
 ||zeepartners.com^
 ||zeeshith.net^
 ||zeewheekaucoust.net^
+||zejyoelgljenc.site^
 ||zekperpfsozkw.online^
 ||zel-zel-fie.com^
 ||zelatorpukka.com^
@@ -44057,11 +44071,13 @@ browsershots.org#@#.advert_area
 ||zibethsroguy.shop^
 ||ziblo.cloud^
 ||zidojrol.com^
+||zidwjopspizot.site^
 ||ziftzyefqmdta.com^
 ||zigoulraugnechu.net^
 ||zigzagrowy.com^
 ||zigzt.com^
 ||zihxhtnkqzz.com^
+||ziidgugyfrbvf.website^
 ||zijaipse.com^
 ||zikpwr.com^
 ||zikroarg.com^

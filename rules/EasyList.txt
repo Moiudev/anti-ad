@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 7gT+FjIj5kpBhaW6APmFAQ
-! Version: 202506211201
+! Checksum: lXRYv1u04WxZIZOWj6PXUw
+! Version: 202506211402
 ! Title: EasyList
-! Last modified: 21 Jun 2025 12:01 UTC
+! Last modified: 21 Jun 2025 14:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -18869,6 +18869,7 @@ browsershots.org#@#.advert_area
 ||aughjcqpfvn.com^
 ||augitessinamin.top^
 ||augjmwws.com^
+||augreeshampa.net^
 ||augroumath.com^
 ||augurersoilure.space^
 ||augurrolley.top^
@@ -27216,6 +27217,7 @@ browsershots.org#@#.advert_area
 ||gtvigtuqqsxdv.com^
 ||gtyjpiobza.com^
 ||guacimorhymer.top^
+||guajirafulfill.shop^
 ||guardboccie.shop^
 ||guardedtabletsgates.com^
 ||guardiandigitalcomparison.co.uk^
@@ -27945,6 +27947,7 @@ browsershots.org#@#.advert_area
 ||hoardpastimegolf.com^
 ||hoardsmirkly.top^
 ||hoarsecoupons.top^
+||hoarsepull.pro^
 ||hoaveehoos.net^
 ||hoaxcookingdemocratic.com^
 ||hobbiesshame.online^
@@ -29446,6 +29449,7 @@ browsershots.org#@#.advert_area
 ||jlbnminfg.com^
 ||jlccmbmeeuuxq.space^
 ||jlcdpxvbrjxgk.online^
+||jlmrqvhbxokgmj.com^
 ||jlnxjwmeadaw.com^
 ||jlotlwqrgmpxfh.com^
 ||jlovoiqtgarh.com^
@@ -29582,6 +29586,7 @@ browsershots.org#@#.advert_area
 ||jrirhwddn.com^
 ||jrnefbrogdppa.online^
 ||jrnoskvqntwhk.site^
+||jrolyrlabyjmq.top^
 ||jrolyrlabyjyj.top^
 ||jrolyrlabykmb.top^
 ||jrpkizae.com^
@@ -29734,6 +29739,7 @@ browsershots.org#@#.advert_area
 ||jycrjkuspyv.fun^
 ||jydhqvvacwij.com^
 ||jygotubvpyguak.com^
+||jygvbyvwzbjma.top^
 ||jyhlgpkn.com^
 ||jynginefoldy.shop^
 ||jynuvagjoxnin.space^
@@ -34676,6 +34682,7 @@ browsershots.org#@#.advert_area
 ||paphoolred.com^
 ||papismkhedahs.com^
 ||papmeatidigbo.com^
+||papuanpensil.top^
 ||parachutecourtyardgrid.com^
 ||paradeaddictsmear.com^
 ||parademuscleseurope.com^
@@ -39443,6 +39450,7 @@ browsershots.org#@#.advert_area
 ||stankyrich.com^
 ||stannicfeebly.shop^
 ||stapledsaur.top^
+||staquctmxbvfdcq.com^
 ||star-advertising.com^
 ||star-clicks.com^
 ||star-romancejunctions.com^
@@ -41362,6 +41370,7 @@ browsershots.org#@#.advert_area
 ||ucgfvdrdbqajh.club^
 ||uchadmiredindeedeis.org^
 ||ucheephu.com^
+||uciockqdyzlim.site^
 ||ucuoknexq.global^
 ||ucwkvipzetzxc.space^
 ||udarem.com^
@@ -42405,6 +42414,7 @@ browsershots.org#@#.advert_area
 ||vqzbmjexsbscb.store^
 ||vrfuznaicvxaj.life^
 ||vrgvugostlyhewo.info^
+||vrhbjtileufmv.website^
 ||vrilledsummat.shop^
 ||vrizead.com^
 ||vrldejvphpidi.online^
@@ -42426,6 +42436,7 @@ browsershots.org#@#.advert_area
 ||vstserv.com^
 ||vstwm.com^
 ||vsxgrrjvgerjdtb.com^
+||vsykigidqigxu.online^
 ||vtabnalp.net^
 ||vtfwwilv.com^
 ||vtpyvbwtldlvl.site^

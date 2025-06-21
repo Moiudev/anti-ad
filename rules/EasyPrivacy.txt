@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: qK4eWiASfPdwtn283DFasA
-! Version: 202506211802
+! Checksum: gOEiSCJ6vntYCWX2rHrHcA
+! Version: 202506212001
 ! Title: EasyPrivacy
-! Last modified: 21 Jun 2025 18:02 UTC
+! Last modified: 21 Jun 2025 20:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7984,6 +7984,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||clerk.io/static/clerk.js
 ||clevertap-prod.com^$third-party
 ||click.appinthestore.com^
+||click.rypr.ru^
 ||click360v2-ingest.azurewebsites.net^
 ||click4assistance.co.uk/HeartBeat
 ||clickdimensions.com/ts.js
@@ -8339,6 +8340,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||eventlog.chatlead.com^
 ||eventlog.inspsearchapi.com^
 ||events-endpoint.pointandplace.com^
+||events-proxy.mintlify.com
 ||events.air.tv^
 ||events.api.secureserver.net^
 ||events.attentivemobile.com^
@@ -11291,6 +11293,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cmp.dreamlab.pl^
 ||dsg.interia.pl^
 ||hit.interia.pl^
+||hypemarketing.pl/cdn/fhmm-tracker.js
 ||liczniki.org/hit.php
 ||liquid.agora.pl^
 ||pixel.homebook.pl^
@@ -12543,6 +12546,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||lookawoman.com/t/
 ||lookfantastic.ie/track
 ||loom.com/metrics/graphql
+||love.vidora.su^
 ||lowes.com/gauge/
 ||lowes.com/pharos/api/webTelemetry?
 ||lucida.su/api/event
@@ -13320,6 +13324,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ultimate-guitar.com/components/ab/event?
 ||ultimedia.com/deliver/statistiques/
 ||um.contentstudio.io^
+||umami.vidfast.pro^
 ||umami.wakarimasen.moe^
 ||unibling.com/eclytics/
 ||unity3d.com/v1/events

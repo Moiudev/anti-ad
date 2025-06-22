@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: XtopegY8+LJb/bo7a1Hu0A
-! Version: 202506220311
+! Checksum: a2Pei58oGrdnSiq2am3+RA
+! Version: 202506220411
 ! Title: EasyList
-! Last modified: 22 Jun 2025 03:11 UTC
+! Last modified: 22 Jun 2025 04:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -16728,6 +16728,7 @@ browsershots.org#@#.advert_area
 ||abxomvaqnosw.com^
 ||abzaligtwd.com^
 ||abzkyjaqlobba.top^
+||abzkyjleooqzw.top^
 ||abzkyjleoorjb.top^
 ||ac359edaf2.com^
 ||ac3fc8f2a5.com^
@@ -19549,6 +19550,7 @@ browsershots.org#@#.advert_area
 ||begazecargoes.top^
 ||beginnerfurglow.com^
 ||beginningstock.com^
+||begmqryyapp.com^
 ||begracetindery.com^
 ||behalflose.com^
 ||behalfplead.com^
@@ -25827,6 +25829,7 @@ browsershots.org#@#.advert_area
 ||foomaque.net^
 ||fooptoat.com^
 ||foorcdn.com^
+||foosaijutese.com^
 ||foostoug.com^
 ||footar.com^
 ||footbathmockerpurse.com^
@@ -27374,6 +27377,7 @@ browsershots.org#@#.advert_area
 ||gyxkmpf.com^
 ||gyxqygvvqa.com^
 ||gzapigxf.com^
+||gzclatfhwvpsk.space^
 ||gzenzuapgf.com^
 ||gzglmoczfzf.com^
 ||gzihfaatdohk.com^

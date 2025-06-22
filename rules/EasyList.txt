@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 1FXzCdRrgeeGIIvo/zosxA
-! Version: 202506221201
+! Checksum: nYBPLg8zyQLZYTl9G7gT4g
+! Version: 202506221351
 ! Title: EasyList
-! Last modified: 22 Jun 2025 12:01 UTC
+! Last modified: 22 Jun 2025 13:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -21453,6 +21453,7 @@ browsershots.org#@#.advert_area
 ||chxfmcgdbqjeri.com^
 ||chxipdpddjlpe.global^
 ||chyazicchafe.top^
+||chyeqolaelmpo.site^
 ||chyjobopse.pro^
 ||chylerothe.com^
 ||chymistscaphe.top^
@@ -21803,6 +21804,7 @@ browsershots.org#@#.advert_area
 ||coatslilachang.com^
 ||coawashoty.com^
 ||coawhecaupsar.net^
+||coawujobups.com^
 ||coaxwrote.com^
 ||cobalten.com^
 ||cobaltsanctionyodel.com^
@@ -29638,6 +29640,7 @@ browsershots.org#@#.advert_area
 ||jravekvyeyyvq.top^
 ||jrbbavbvqmbaz.top^
 ||jrbbavbvqmbzl.top^
+||jrbbavbvqmkzy.top^
 ||jrcrfecaswuqhf.com^
 ||jrfarqnyvnee.com^
 ||jrfngdrodrdop.icu^
@@ -29912,6 +29915,7 @@ browsershots.org#@#.advert_area
 ||kbrnghyurjxoxx.com^
 ||kbsnguvk.com^
 ||kbugxeslbjc8.com^
+||kbvftnoygv.com^
 ||kbyesutgdbpr.com^
 ||kbylvuaxsrtoi.site^
 ||kcaactpkyp.com^
@@ -30927,6 +30931,7 @@ browsershots.org#@#.advert_area
 ||listenedarsonproceedings.com^
 ||listenedmusician.com^
 ||listenerhooter.com^
+||listfulkidcote.com^
 ||listoukectivetr.com^
 ||litarnrajol.com^
 ||litchooseex.com^
@@ -31655,6 +31660,7 @@ browsershots.org#@#.advert_area
 ||maoeoa.xyz^
 ||mapamnni.com^
 ||maper.info^
+||maphogdtnayev.com^
 ||maplecurriculum.com^
 ||maquiags.com^
 ||marapcana.online^
@@ -39129,6 +39135,7 @@ browsershots.org#@#.advert_area
 ||snjuyxiogfde.com^
 ||snomoneyandf.com^
 ||snoopundesirable.com^
+||snoozlebaffles.top^
 ||snorefamiliarsiege.com^
 ||snortedbingo.com^
 ||snoutcaffeinecrowded.com^
@@ -41710,6 +41717,7 @@ browsershots.org#@#.advert_area
 ||universityofinternetscience.com^
 ||universitypermanentlyhusk.com^
 ||unkinpigsty.com^
+||unlawful-conversation.pro^
 ||unlawfulstrategy.com^
 ||unleanmyrrhs.shop^
 ||unlikelymoscow.com^
@@ -42972,6 +42980,7 @@ browsershots.org#@#.advert_area
 ||whaughooptouft.com^
 ||whaurgoghi.net^
 ||whaurteruw.com^
+||whauxaibie.net^
 ||whazugho.com^
 ||wheceelt.net^
 ||whechynetho.com^
@@ -43559,6 +43568,7 @@ browsershots.org#@#.advert_area
 ||xcinilwpypp.com^
 ||xciozdacgos.com^
 ||xcipwuoft.com^
+||xcoknlqyvbeaz.website^
 ||xcowuheclvwryh.com^
 ||xcrghf.xyz^
 ||xctoquhnalqgn.vip^
@@ -43621,6 +43631,7 @@ browsershots.org#@#.advert_area
 ||xjkhaow.com^
 ||xjrwxfdphc.com^
 ||xjsx.lol^
+||xjzjgrcvicxun.site^
 ||xkacs5av.xyz^
 ||xkpbcd.com^
 ||xktxemf.com^
@@ -58281,6 +58292,7 @@ filecrypt.cc##.filItheadbIockgueue3
 filecrypt.cc,filecrypt.co##.filItheadbIockqueue3
 telugupeople.com##.fineprint
 bestlifeonline.com,zeenews.india.com##.first-ad
+content.techgig.com##.first-arti-banner
 proprofs.com##.firstadd
 thestranger.com##.fish-butter
 fiskerati.com##.fiskerati-target
@@ -60414,6 +60426,7 @@ latv.com##.top-adverties
 jamieoliver.com##.top-avocado
 advfn.com##.top-ban-wrapper
 addictivetips.com,argonauts.ca,automotive-fleet.com,businessfleet.com,cfl.ca,developer.mozilla.org,fleetfinancials.com,forbesindia.com,government-fleet.com,howsecureismypassword.net,ncaa.com,pcwdld.com,rigzone.com,schoolbusfleet.com,seekvectorlogo.net,snipercentral.com,wltreport.com##.top-banner
+content.techgig.com##.top-banner-bx
 smartasset.com##.top-banner-ctr
 gptoday.net##.top-banner-leaderboard
 numuki.com##.top-banner-responsive-wrapper

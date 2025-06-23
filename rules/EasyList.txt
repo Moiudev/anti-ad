@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 6E3iS3o9SSxZ1rMXQIGb5Q
-! Version: 202506231801
+! Checksum: tlACi3J9cejENWrMqrhQJA
+! Version: 202506232001
 ! Title: EasyList
-! Last modified: 23 Jun 2025 18:01 UTC
+! Last modified: 23 Jun 2025 20:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -17852,6 +17852,7 @@ browsershots.org#@#.advert_area
 ||albeittuitionsewing.com^
 ||albeitvoiceprick.com^
 ||albireo.xyz^
+||albitesgirasol.com^
 ||albitesprisons.top^
 ||albonsa.com^
 ||albraixentor.com^
@@ -18335,6 +18336,7 @@ browsershots.org#@#.advert_area
 ||aojhtyvd.com^
 ||aomxqfcj.global^
 ||aopapp.com^
+||aoqbhvxdxnm.com^
 ||aorgqidmcrtyl.space^
 ||aortasneerer.top^
 ||aortismbutyric.com^
@@ -19515,6 +19517,7 @@ browsershots.org#@#.advert_area
 ||beautifulasaweath.info^
 ||beautifulintention.pro^
 ||beauty1.xyz^
+||beaversforwork.com^
 ||beavertron.com^
 ||beaverydalasi.shop^
 ||beaxewr.com^
@@ -26460,6 +26463,7 @@ browsershots.org#@#.advert_area
 ||gblcdn.com^
 ||gblmbxqdilerp.com^
 ||gboxrthnyezkx.com^
+||gbrwplgcsjieu.online^
 ||gbsqwsjv.com^
 ||gbztputcfgp.com^
 ||gcitdhlfdtmis.com^
@@ -27106,6 +27110,7 @@ browsershots.org#@#.advert_area
 ||granaryvernonunworthy.com^
 ||grandchildpuzzled.com^
 ||granddadfindsponderous.com^
+||grandeeregaled.top^
 ||grandezza31.fun^
 ||grandocasino.com^
 ||grandparentsfortunes.com^
@@ -32409,6 +32414,7 @@ browsershots.org#@#.advert_area
 ||moistenmanoc.com^
 ||moitcoigns.shop^
 ||mojoaffiliates.com^
+||mokihirhoda.com^
 ||moksoxos.com^
 ||moleconcern.com^
 ||molecularhouseholdadmiral.com^
@@ -35276,6 +35282,7 @@ browsershots.org#@#.advert_area
 ||phiwheegnis.xyz^
 ||phkucgq.com^
 ||phloxsub73ulata.com^
+||phmdwcoqokplm.store^
 ||phoackoangu.com^
 ||phoalsoagy.net^
 ||phoaphoxsurvey.space^
@@ -36614,6 +36621,7 @@ browsershots.org#@#.advert_area
 ||qgmoslspensxh.buzz^
 ||qgpiphehhrcvl.space^
 ||qgskdncyrtmnkht.com^
+||qgthktobyjrwfb.com^
 ||qguusmmvndeor.website^
 ||qgwgweoxulrb.com^
 ||qgxbluhsgad.com^
@@ -36682,6 +36690,7 @@ browsershots.org#@#.advert_area
 ||qmlnioxbjldsfsa.xyz^
 ||qmlrmarmalebo.top^
 ||qmogjaezcv.club^
+||qmpkrtpeynvmk.store^
 ||qmpolidwfefrxem.com^
 ||qmrelvevwlwlw.top^
 ||qmslgwdr.com^
@@ -36759,6 +36768,7 @@ browsershots.org#@#.advert_area
 ||qsrvzbuhumwow.website^
 ||qsuchbth.com^
 ||qsvbi.space^
+||qswqmdejpptbp.space^
 ||qtbqqrypghmme.store^
 ||qtoxhaamntfi.com^
 ||qtozipscid.com^
@@ -37749,6 +37759,7 @@ browsershots.org#@#.advert_area
 ||rlljlaxywnniti.com^
 ||rlogcejfsgtar.site^
 ||rlqtwlxm.com^
+||rlrsfxkewwgww.site^
 ||rmahmighoogg.com^
 ||rmaticalacycurated.info^
 ||rmervvomrowwy.top^
@@ -42265,6 +42276,7 @@ browsershots.org#@#.advert_area
 ||vbeeeleyevrqq.top^
 ||vbjscvdspd.com^
 ||vbmjlevwwvqvz.top^
+||vbmjlevwwvqzm.top^
 ||vbmjlevwwvyzj.top^
 ||vbozbkzejzeol.top^
 ||vbozbkzejzyqj.top^

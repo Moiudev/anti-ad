@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: VqGT23ifx8R2fpTFyfhpvw
-! Version: 202506231601
+! Checksum: 6E3iS3o9SSxZ1rMXQIGb5Q
+! Version: 202506231801
 ! Title: EasyList
-! Last modified: 23 Jun 2025 16:01 UTC
+! Last modified: 23 Jun 2025 18:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -16689,6 +16689,7 @@ browsershots.org#@#.advert_area
 ||abovethecityo.com^
 ||abpancvun.com^
 ||abpbacdislf.com^
+||abpcziams.com^
 ||abpicsrc.com^
 ||abpjs23.com^
 ||abpnow.xyz^
@@ -21782,6 +21783,7 @@ browsershots.org#@#.advert_area
 ||cm65.com^
 ||cmadserver.de^
 ||cmbestsrv.com^
+||cmccymjawtcpd.space^
 ||cmclean.club^
 ||cmdrogqpxvxtr.online^
 ||cmfads.com^
@@ -29599,6 +29601,7 @@ browsershots.org#@#.advert_area
 ||jmyqivmk.com^
 ||jmyrmuozbor.com^
 ||jnhjpdayvpzj.com^
+||jnlzxpnxynucc.com^
 ||jnnjthg.com^
 ||jnrtavp2x66u.com^
 ||jnxm2.com^
@@ -31393,6 +31396,7 @@ browsershots.org#@#.advert_area
 ||luckyads.pro^
 ||luckyforbet.com^
 ||luckypapa.xyz^
+||luckyprocedure.pro^
 ||luckypushh.com^
 ||lucnxzoylxmvu.love^
 ||lucrinearraign.com^
@@ -32076,6 +32080,7 @@ browsershots.org#@#.advert_area
 ||metatrckpixel.com^
 ||metavertising.com^
 ||metavertizer.com^
+||metchauloutch.com^
 ||meteorclashbailey.com^
 ||meteordentproposal.com^
 ||meteorvitalboundary.com^
@@ -36298,6 +36303,7 @@ browsershots.org#@#.advert_area
 ||puhtml.com^
 ||puitaexb.com^
 ||pujhysvxfpf.com^
+||pujmwiwmrupghe.com^
 ||puldhukelpmet.com^
 ||pullovereugenemistletoe.com^
 ||pulpix.com^
@@ -39056,6 +39062,7 @@ browsershots.org#@#.advert_area
 ||sjonkhydb.com^
 ||sjqgmtyxlrjlc.top^
 ||sjqlmtpekbytv.website^
+||sjqvpjbcffhbv.site^
 ||sjrejapufeaixvr.com^
 ||sjsabb.com^
 ||sjtactic.com^
@@ -40560,6 +40567,7 @@ browsershots.org#@#.advert_area
 ||tfazuhaxfxre.com^
 ||tfb7jc.de^
 ||tffkroute.com^
+||tfhnrjsxaoo.com^
 ||tfjqlenfcqnfnes.com^
 ||tfkyucxml.com^
 ||tfla.xyz^
@@ -43772,6 +43780,7 @@ browsershots.org#@#.advert_area
 ||xfojwohar.com^
 ||xfpjhwejhicwc.website^
 ||xfpmwkxcdzpdy.website^
+||xfvslsqqtyeeb.store^
 ||xfwblpomxc.com^
 ||xfxssqakis.com^
 ||xg-jbpmnru.online^
@@ -43893,6 +43902,7 @@ browsershots.org#@#.advert_area
 ||xtdztyiqyhmet.global^
 ||xterukyxnwkdp.com^
 ||xtmscjvenpyb.com^
+||xtrarwhxlxbry.website^
 ||xtraserp.com^
 ||xtremeviewing.com^
 ||xtrgqmnflnfnj.buzz^
@@ -49779,6 +49789,7 @@ browsershots.org#@#.advert_area
 ||scenbe.com^$popup
 ||score-feed.com^$popup
 ||scoredconnect.com^$popup
+||scratchy-map.com^$popup
 ||screenov.site^$popup
 ||sealthatleak.com^$popup
 ||searchmulty.com^$popup

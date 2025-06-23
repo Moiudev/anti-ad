@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Fg4ysE0xvWNFOaJiYz362A
-! Version: 202506230801
+! Checksum: d8BF/YBK4OriTHZ0QbpwUg
+! Version: 202506231001
 ! Title: EasyList
-! Last modified: 23 Jun 2025 08:01 UTC
+! Last modified: 23 Jun 2025 10:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -23001,6 +23001,7 @@ browsershots.org#@#.advert_area
 ||dddashasledopyt.com^
 ||dddashasledopyt.xyz^
 ||dddomainccc.com^
+||ddelqieomzyds.online^
 ||ddijapp.com^
 ||ddodvlbtbgf.com^
 ||ddrsemxv.com^
@@ -26938,6 +26939,7 @@ browsershots.org#@#.advert_area
 ||gobmodfoe.com^
 ||gobreadthpopcorn.com^
 ||godforsakensubordinatewiped.com^
+||godfreyapocarp.top^
 ||godkc.com^
 ||godlessabberant.com^
 ||godpvqnszo.com^
@@ -27387,6 +27389,7 @@ browsershots.org#@#.advert_area
 ||gvggatrvte.com^
 ||gvguajakmjjsl.com^
 ||gvhlnshslj.com^
+||gvinkbdfavblm.com^
 ||gvmogilshxbdg.store^
 ||gvt2.com^
 ||gvyptfvufegymdd.com^
@@ -27395,6 +27398,7 @@ browsershots.org#@#.advert_area
 ||gwamirfz.com^
 ||gwatzynwat.com^
 ||gwbone-cpw.today^
+||gwfwopvvtqmfh.space^
 ||gwggiroo.com^
 ||gwihirqnvof.xyz^
 ||gwithearamajo.org^
@@ -27828,6 +27832,7 @@ browsershots.org#@#.advert_area
 ||hfiwcuodr.com^
 ||hfiximhirdpy.com^
 ||hfkncj-qalcg.top^
+||hflflbargcuje.website^
 ||hfofibsig.com^
 ||hfogzeaggalh.com^
 ||hfopewkdgmcal.site^
@@ -28205,6 +28210,7 @@ browsershots.org#@#.advert_area
 ||housewifereceiving.com^
 ||houthautoaptapi.com^
 ||houvaulauchair.net^
+||houwastoay.net^
 ||hoveltran.xyz^
 ||hoverclassicalroused.com^
 ||hoverr.co^
@@ -28992,6 +28998,7 @@ browsershots.org#@#.advert_area
 ||interlik.co.in^
 ||intermediatebelownomad.com^
 ||internalemotionincomprehensible.com^
+||internaliron.pro^
 ||internewsweb.com^
 ||internodeid.com^
 ||interpersonalskillse.com^
@@ -32566,6 +32573,7 @@ browsershots.org#@#.advert_area
 ||mpxrcrlndnsw.com^
 ||mqabjtgli.xyz^
 ||mqdownload.com^
+||mqmvtsobnynzs.website^
 ||mqmzpqzylyebq.tech^
 ||mqpaoakswhlqh.site^
 ||mqpelapasqusa.rocks^
@@ -32588,6 +32596,7 @@ browsershots.org#@#.advert_area
 ||mrmnd.com^
 ||mrpqqtuzjnkdc.site^
 ||mrqcxjbhluvew.xyz^
+||mrrnmxpavbxil.store^
 ||mrtnsvr.com^
 ||mrybahnw.com^
 ||mryzroahta.com^
@@ -39664,6 +39673,7 @@ browsershots.org#@#.advert_area
 ||stardomcoit.com^
 ||stargamesaffiliate.com^
 ||starjav11.fun^
+||stark-exercise.pro^
 ||starkuno.com^
 ||starlingposterity.com^
 ||starmeetonline.com^
@@ -43306,6 +43316,7 @@ browsershots.org#@#.advert_area
 ||wjvavwjyaso.com^
 ||wjvyorryojzaj.top^
 ||wjzrzwyvzbabz.top^
+||wjzrzwyvzbrbv.top^
 ||wjzrzwyvzbrjr.top^
 ||wjzrzwyvzbzbj.top^
 ||wka4jursurf6.com^
@@ -43687,6 +43698,7 @@ browsershots.org#@#.advert_area
 ||xcoknlqyvbeaz.website^
 ||xcowuheclvwryh.com^
 ||xcrghf.xyz^
+||xcroewceokg.com^
 ||xctoquhnalqgn.vip^
 ||xcuffrzha.com^
 ||xcxljbnkwiowf.com^
@@ -43812,6 +43824,7 @@ browsershots.org#@#.advert_area
 ||xpxondckpvbub.com^
 ||xpxsfejcf.com^
 ||xqaosfdbhff.today^
+||xqckxrlemby.com^
 ||xqeoitqw.site^
 ||xqldndcgi.com^
 ||xqmvzmt.com^
@@ -44246,6 +44259,7 @@ browsershots.org#@#.advert_area
 ||zaokko.com^
 ||zaparena.com^
 ||zaphararidged.com^
+||zapsoathagn.net^
 ||zapunited.com^
 ||zarnecfetors.top^
 ||zarosnap.com^

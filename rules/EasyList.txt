@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: UGn///JlkFL06K4YnHJIYQ
-! Version: 202506241001
+! Checksum: 9dEldubEbnRjRZhnA4ysJw
+! Version: 202506241201
 ! Title: EasyList
-! Last modified: 24 Jun 2025 10:01 UTC
+! Last modified: 24 Jun 2025 12:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -28980,7 +28980,6 @@ browsershots.org#@#.advert_area
 ||inspectcol.com^
 ||inspectorstrongerpill.com^
 ||inspikon.com^
-||inspxtrc.com^
 ||instaflrt.com^
 ||install-adblockers.com^
 ||install-adblocking.com^
@@ -29789,6 +29788,7 @@ browsershots.org#@#.advert_area
 ||jssearch.net^
 ||jstqzfovctwms.com^
 ||jstzvtmgiybkd.xyz^
+||jtcgeriv.com^
 ||jtegqwmjfxu.site^
 ||jtiasfkkg.xyz^
 ||jtjyywpkxbsqx.online^
@@ -30027,6 +30027,7 @@ browsershots.org#@#.advert_area
 ||kcggmyeag.com^
 ||kcgkiumubea.com^
 ||kczu-ohhuf.site^
+||kdisbgxtxiyru.online^
 ||kdlktswsqhpd.com^
 ||kdm8.com^
 ||kdmyatytentionia.com^
@@ -32279,6 +32280,7 @@ browsershots.org#@#.advert_area
 ||miscellaneousheartachehunter.com^
 ||mischiefrealizationbraces.com^
 ||misdeedtucked.shop^
+||miserable-disaster.pro^
 ||miserable-physical.com^
 ||miserable-thing.pro^
 ||miserdiscourteousromance.com^
@@ -37814,6 +37816,7 @@ browsershots.org#@#.advert_area
 ||rlrsfxkewwgww.site^
 ||rmahmighoogg.com^
 ||rmaticalacycurated.info^
+||rmbalnswelwcp.online^
 ||rmervvomrowwy.top^
 ||rmgujvailde.com^
 ||rmhfrtnd.com^
@@ -38319,6 +38322,7 @@ browsershots.org#@#.advert_area
 ||sairvecitable.shop^
 ||saishook.com^
 ||saiteejoudoreep.com^
+||sakellswati.top^
 ||sakura-traffic.com^
 ||salalromansh.com^
 ||salamus1.lol^
@@ -38807,6 +38811,7 @@ browsershots.org#@#.advert_area
 ||sfixretarum.com^
 ||sftapi.com^
 ||sfulylydeveloped.org^
+||sfwwzmtlhrajx.website^
 ||sgad.site^
 ||sgbkvcoqlrnqt.com^
 ||sgfinery.com^
@@ -40283,6 +40288,7 @@ browsershots.org#@#.advert_area
 ||sydneygfpink.com^
 ||syeniteexodoi.com^
 ||syfrvkuuzsjkc.one^
+||syhhlxnyzltmu.site^
 ||syinga.com^
 ||syjkcdmwgqwrm.top^
 ||syllabusbastardchunk.com^
@@ -43902,6 +43908,7 @@ browsershots.org#@#.advert_area
 ||xktxemf.com^
 ||xkxljewabtyoxy.com^
 ||xkzwtowhkmrav.site^
+||xlgcgebyppj.com^
 ||xliirdr.com^
 ||xlirdr.com^
 ||xlivesex.com^
@@ -47230,6 +47237,7 @@ browsershots.org#@#.advert_area
 ||88.42.84.136^
 ! Altice / Optimum / CableVision injects ads
 ! https://github.com/ryanbr/fanboy-adblock/issues/816
+|167.206.10.148^
 ||167.206.10.148^
 ! *** easylist:easylist/easylist_adservers_popup.txt ***
 ||0265331.com^$popup
@@ -59738,6 +59746,7 @@ calculatorsoup.com##.pages
 topic.com##.pages-Article-adContainer
 livejournal.com##.pagewide-wrapper
 departures.com##.paid-banner
+itnews.com.au##.paid-content
 thelibertydaily.com##.paid-subscriber
 timesofindia.indiatimes.com##.paisa-wrapper
 axn-asia.com,onetvasia.com##.pane-dart-dart-tag-300x250-rectangle

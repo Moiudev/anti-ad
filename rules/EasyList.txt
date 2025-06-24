@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: BIkt0c40Wxw9yUTGGz2m9Q
-! Version: 202506241751
+! Checksum: ikVB2ELbadud/sEQ3I4ZNg
+! Version: 202506242001
 ! Title: EasyList
-! Last modified: 24 Jun 2025 17:51 UTC
+! Last modified: 24 Jun 2025 20:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -23362,6 +23362,7 @@ browsershots.org#@#.advert_area
 ||dgnlrpth-a.today^
 ||dgnrkluiozosx.online^
 ||dgpcdn.org^
+||dgtqiajhdxdexm.com^
 ||dgxmvglp.com^
 ||dhaacmpiqdur.com^
 ||dhaobwojqv.com^
@@ -27358,6 +27359,7 @@ browsershots.org#@#.advert_area
 ||gtbdhr.com^
 ||gtghsgrneexou.website^
 ||gthecoastand.org^
+||gtjlmypr.com^
 ||gtosmdjgn.xyz^
 ||gtrem.site^
 ||gtrlhbeizihyy.site^
@@ -29809,6 +29811,7 @@ browsershots.org#@#.advert_area
 ||jstzvtmgiybkd.xyz^
 ||jtcgeriv.com^
 ||jtegqwmjfxu.site^
+||jtfsrnmxdcwtx.site^
 ||jtiasfkkg.xyz^
 ||jtjyywpkxbsqx.online^
 ||jtnmqseejorlq.love^
@@ -34050,6 +34053,7 @@ browsershots.org#@#.advert_area
 ||oiziuuioqli.com^
 ||ojapanelm.xyz^
 ||ojarfqpwi.com^
+||ojbnjknowngbg.top^
 ||ojepsahainekse.net^
 ||ojfaxtavjdt.com^
 ||ojfowfsij.com^
@@ -34517,6 +34521,7 @@ browsershots.org#@#.advert_area
 ||osamara.com^
 ||osarmapa.net^
 ||oscohkajcjz.com^
+||osculereddles.top^
 ||osdhkyor.com^
 ||osdjartaqnm.com^
 ||osdkublrgnidm.website^
@@ -35232,6 +35237,7 @@ browsershots.org#@#.advert_area
 ||permitfeatures.com^
 ||permittedcenterrevolve.com^
 ||peropusanamite.top^
+||peroxylzipless.top^
 ||peroxysaburra.shop^
 ||perpetratejewels.com^
 ||perpetraterummage.com^
@@ -39184,6 +39190,7 @@ browsershots.org#@#.advert_area
 ||sketchyrecycleimpose.com^
 ||sketfarinha.shop^
 ||skgpzivadwdte.buzz^
+||skhhuhhualfxf.space^
 ||skhibxrlqzvqq.space^
 ||skidajoqgo.com^
 ||skiddoooatcake.top^
@@ -39935,6 +39942,7 @@ browsershots.org#@#.advert_area
 ||stistucuso.com^
 ||stithauzouleesy.com^
 ||stoachdarts.com^
+||stoakrestultan.com^
 ||stoampaliy.net^
 ||stoaphalti.com^
 ||stoashou.net^
@@ -40513,6 +40521,7 @@ browsershots.org#@#.advert_area
 ||tbwdvskmabuou.store^
 ||tbxyuwctmt.com^
 ||tcdypeptz.com^
+||tchkbztoaxeqh.space^
 ||tcloaksandtheirc.org^
 ||tcloaksandtheirclean.com^
 ||tcorlcgkslxb.com^
@@ -42384,6 +42393,7 @@ browsershots.org#@#.advert_area
 ||vbmjlevwwvqzm.top^
 ||vbmjlevwwvyzj.top^
 ||vbozbkzejzeol.top^
+||vbozbkzejzyoy.top^
 ||vbozbkzejzyqj.top^
 ||vbptgoyketwhv.global^
 ||vbqrzzrzazaew.top^
@@ -43901,6 +43911,7 @@ browsershots.org#@#.advert_area
 ||xfhknzocnbcux.buzz^
 ||xfileload.com^
 ||xfjptlrwocfkx.one^
+||xfjureqcwapbz.site^
 ||xfobhesud.com^
 ||xfohaxohrjr.com^
 ||xfojwohar.com^
@@ -57056,7 +57067,7 @@ coingraph.us,filext.com##.a
 startpage.com##.a-bg
 rumble.com##.a-break
 abcya.com##.a-leader
-baptistnews.com,chimpreports.com,collive.com,defence-industry.eu,douglasnow.com,eltecolote.org,islandecho.co.uk,kbla1580.com,locklab.com,mallorcasunshineradio.com,newsindiatimes.com,runwaygirlnetwork.com,southsideweekly.com,spaceref.com,talkradioeurope.com,theshoesnobblog.com##.a-single
+baptistnews.com,chimpreports.com,collive.com,defence-industry.eu,douglasnow.com,eltecolote.org,ilanganews.co.za,islandecho.co.uk,kbla1580.com,locklab.com,mallorcasunshineradio.com,newsindiatimes.com,runwaygirlnetwork.com,southsideweekly.com,spaceref.com,talkradioeurope.com,theshoesnobblog.com##.a-single
 abcya.com##.a-skyscraper
 krebsonsecurity.com##.a-statement
 tellymix.co.uk##.a-text
@@ -62667,7 +62678,6 @@ scribd.com##div[class]:has(> [data-e2e="dismissible-ad-header-scribd_adhesion"])
 dearbornmarket.com,fairwaymarket.com,gourmetgarage.com,priceritemarketplace.com,shoprite.com,thefreshgrocer.com##div[class^="ColListing"]:has(div[data-testid^="Sponsored"])
 wish.com##div[class^="ProductGrid__FeedTileWidthWrapper-"]:has(div[class^="DesignSpec__TextSpecWrapper-"][color="#6B828F"]:not([data-testid]))
 wish.com##div[class^="ProductTray__ProductStripItem-"]:has(div[class^="DesignSpec__TextSpecWrapper-"][color="#6B828F"][data-testid] + div[class^="DesignSpec__TextSpecWrapper-"][color="#6B828F"])
-shoprite.com##div[class^="Row"]:has(div[data-component] a[data-testid] picture source[media="(min-width: 1024px)"] + img[class*="ImageTextButtonImage"][src*=".jpg"])
 virginradio.co.uk##div[class^="css-"]:has(> .ad-outline)
 wikiwand.com##div[class^="footer_wrapper"]:has(> div[class^="wrapper_wrapper"] > div[class^="wrapper_cta"])
 flickr.com##div[class^="main view"]:has(a[href$="&ref=sponsored"])

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 4Dv+uRj6McJf+kvL3DPP7w
-! Version: 202506240801
+! Checksum: UGn///JlkFL06K4YnHJIYQ
+! Version: 202506241001
 ! Title: EasyList
-! Last modified: 24 Jun 2025 08:01 UTC
+! Last modified: 24 Jun 2025 10:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -23678,6 +23678,7 @@ browsershots.org#@#.advert_area
 ||dmhbbivu.top^
 ||dmhclkohnrpvg.com^
 ||dmiredindeed.com^
+||dmkynnbnphpyl.store^
 ||dmm-video.online^
 ||dmntft.com^
 ||dmoaplhulwmy.com^
@@ -25454,6 +25455,7 @@ browsershots.org#@#.advert_area
 ||felsaulaft.com^
 ||felsiteletitia.top^
 ||feltlonelyandbeg.com^
+||female-net.pro^
 ||femefaih.com^
 ||femin.online^
 ||feminine-branch.pro^
@@ -26132,6 +26134,7 @@ browsershots.org#@#.advert_area
 ||frozenguess.pro^
 ||frozenpayerpregnant.com^
 ||frpa-vpdpwc.icu^
+||frpefhquywmje.store^
 ||frstlead.com^
 ||frtya.com^
 ||frtyd.com^
@@ -26275,6 +26278,7 @@ browsershots.org#@#.advert_area
 ||fv-bpmnrzkv.vip^
 ||fvcm.net^
 ||fvcwqkkqmuv.com^
+||fvgdxnfwkpibuyh.com^
 ||fvmiafwauhy.fun^
 ||fvohyywkbc.com^
 ||fvziwdycvudxd.tech^
@@ -27882,6 +27886,7 @@ browsershots.org#@#.advert_area
 ||hgmggiozinfbi.store^
 ||hgtokjbpw.com^
 ||hgub2polye.com^
+||hgwkgddzhtbac.space^
 ||hh9uc8r3.xyz^
 ||hhbypdoecp.com^
 ||hhit.xyz^
@@ -29885,6 +29890,7 @@ browsershots.org#@#.advert_area
 ||jwuazngiqap.com^
 ||jwuobtag.com^
 ||jwympcc.com^
+||jwzeoshnruedd.website^
 ||jwzvfjur.work^
 ||jxbpanpbplamf.top^
 ||jxeqltpu.property^
@@ -30142,6 +30148,7 @@ browsershots.org#@#.advert_area
 ||kikoucuy.net^
 ||kiksajex.com^
 ||killconvincing.com^
+||killerroselet.top^
 ||killstudyingoperative.com^
 ||kiltcusks.shop^
 ||kilzrkxmenmwo.space^
@@ -30185,6 +30192,7 @@ browsershots.org#@#.advert_area
 ||kixfuvmhibuk.com^
 ||kiyala.uno^
 ||kiynew.com^
+||kjaznqqznjvgm.top^
 ||kjebrhygakkbehl.com^
 ||kjgnidnhlxugm.icu^
 ||kjixkjmned.xyz^
@@ -30808,6 +30816,7 @@ browsershots.org#@#.advert_area
 ||lehoacku.net^
 ||leisurebrain.com^
 ||leisurehazearcher.com^
+||leivngopjcixg.site^
 ||lejarimsoa.net^
 ||lekaleregoldfor.com^
 ||lelrouxoay.com^
@@ -33196,6 +33205,7 @@ browsershots.org#@#.advert_area
 ||nfpnnijpsvy.com^
 ||nfvetkycvdkaw.life^
 ||ngcghsdvjfcpp.club^
+||ngedwmfkrkvh.com^
 ||ngegas.files.im^
 ||ngforanoppor.org^
 ||ngfruitiesmatc.info^
@@ -35468,6 +35478,7 @@ browsershots.org#@#.advert_area
 ||pizzlessclimb.top^
 ||pjagilteei.com^
 ||pjeivjjs.com^
+||pjgawkbpdnnr.com^
 ||pjiijynaari.xyz^
 ||pjjpp.com^
 ||pjmknmuo.food^
@@ -43430,6 +43441,7 @@ browsershots.org#@#.advert_area
 ||wjnhuzgbngwgx.store^
 ||wjqssnujrbyu.com^
 ||wjvavwjyaso.com^
+||wjvyorryojawm.top^
 ||wjvyorryojzaj.top^
 ||wjzrzwyvzbabz.top^
 ||wjzrzwyvzbrbv.top^
@@ -44571,6 +44583,7 @@ browsershots.org#@#.advert_area
 ||zonupiza.com^
 ||zoogapoufiwhupt.com^
 ||zoologyfibre.com^
+||zoomoazoaptie.net^
 ||zooshaijaib.net^
 ||zoosheedairoovu.com^
 ||zoovanuzauphoth.net^

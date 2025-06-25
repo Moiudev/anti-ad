@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: CPzMJUXBJ45Pj/fxApmlKQ
-! Version: 202506252001
+! Checksum: RLJVou3a19e2oMbgnLhYWA
+! Version: 202506252151
 ! Title: EasyList
-! Last modified: 25 Jun 2025 20:01 UTC
+! Last modified: 25 Jun 2025 21:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -23407,6 +23407,7 @@ browsershots.org#@#.advert_area
 ||dhertouchingthe.org^
 ||dhootiepawed.com^
 ||dhphkgifchpc.com^
+||dhyrlpxupgjcj.site^
 ||di7stero.com^
 ||diabeteprecursor.com^
 ||diagnosisheadsetrekindle.com^
@@ -29883,6 +29884,7 @@ browsershots.org#@#.advert_area
 ||jtnmqseejorlq.love^
 ||jtoozbadsxm.com^
 ||jtren.site^
+||jtuyocdzxtzla.store^
 ||jubacasziel.shop^
 ||jubilant-sweet.pro^
 ||jubnaadserve.com^
@@ -34013,6 +34015,7 @@ browsershots.org#@#.advert_area
 ||offendergrapefruitillegally.com^
 ||offenseshabbyrestless.com^
 ||offensiveparkedangela.com^
+||offensivesource.pro^
 ||offergate-apps-pubrel.com^
 ||offergate-ecommerce-cdn5.com^
 ||offergate-games-download1.com^
@@ -35810,6 +35813,7 @@ browsershots.org#@#.advert_area
 ||pointygrandma.com^
 ||poisegel.com^
 ||poisism.com^
+||pojeyfymvpbww.space^
 ||poketraff.com^
 ||pokjhgrs.click^
 ||polairdookoo.net^
@@ -36402,6 +36406,7 @@ browsershots.org#@#.advert_area
 ||ptawhood.net^
 ||ptbrdg.com^
 ||ptcdwm.com^
+||ptckdrakgycat.store^
 ||ptecrzwnxmksx.space^
 ||pteefoagha.com^
 ||pteelooger.net^
@@ -36786,6 +36791,7 @@ browsershots.org#@#.advert_area
 ||qeyfncfppnjq.com^
 ||qf-ebeydt.top^
 ||qfdn3gyfbs.com^
+||qfdxlcfdjwm.com^
 ||qfeadpmagq.com^
 ||qfgtepw.com^
 ||qfiacnkita.com^
@@ -37075,6 +37081,7 @@ browsershots.org#@#.advert_area
 ||qxrbu.com^
 ||qxwls.rocks^
 ||qybnxoylbgukf.website^
+||qyhgmzmuvwk.com^
 ||qyjarheipi.com^
 ||qyjosnnv.link^
 ||qylmbeojmzeer.top^
@@ -37634,6 +37641,7 @@ browsershots.org#@#.advert_area
 ||reservoirvine.com^
 ||resesmyinteukr.info^
 ||reshowsvole.shop^
+||residedclown.top^
 ||residencechalked.com^
 ||residenceseeingstanding.com^
 ||residentialforestssights.com^
@@ -37685,6 +37693,7 @@ browsershots.org#@#.advert_area
 ||resultlinks.com^
 ||resultsz.com^
 ||resumesdibatis.shop^
+||resurgetressel.top^
 ||resurrectionincomplete.com^
 ||retagcoppet.top^
 ||retagro.com^
@@ -38347,6 +38356,7 @@ browsershots.org#@#.advert_area
 ||ruxdtiapgti.com^
 ||ruxmkiqkasw.com^
 ||ruxnupaqx.com^
+||ruyjaram.com^
 ||ruzotchaufu.xyz^
 ||rv-syzfedv.rocks^
 ||rvardsusyseinp.org^
@@ -38941,6 +38951,7 @@ browsershots.org#@#.advert_area
 ||severalcommercial.pro^
 ||severalsail.com^
 ||severelyexemplar.com^
+||severeoriginal.pro^
 ||sevokop.com^
 ||sevrftcxtlrbm.com^
 ||sewersneaky.com^
@@ -42880,6 +42891,7 @@ browsershots.org#@#.advert_area
 ||vmmcdn.com^
 ||vmring.cc^
 ||vmuid.com^
+||vmwnwgoqkmgqq.top^
 ||vnbrcfmdndguz.life^
 ||vncnu.com^
 ||vnhmdeyzvmgho.love^
@@ -44102,6 +44114,7 @@ browsershots.org#@#.advert_area
 ||xktxemf.com^
 ||xkxljewabtyoxy.com^
 ||xkzwtowhkmrav.site^
+||xlbanmdclipii.com^
 ||xlgcgebyppj.com^
 ||xliirdr.com^
 ||xlirdr.com^
@@ -44887,6 +44900,7 @@ browsershots.org#@#.advert_area
 ||zvvajeommbajz.top^
 ||zvvqprcjjnh.com^
 ||zvwhrc.com^
+||zvzmzrawlvrww.top^
 ||zvzmzrawlvryj.top^
 ||zwaar.net^
 ||zwk7ybbg.net^

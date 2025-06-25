@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: JwI+u61h3rnWNqrYJtLXVQ
-! Version: 202506251801
+! Checksum: CPzMJUXBJ45Pj/fxApmlKQ
+! Version: 202506252001
 ! Title: EasyList
-! Last modified: 25 Jun 2025 18:01 UTC
+! Last modified: 25 Jun 2025 20:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -14684,6 +14684,7 @@ _800x80_
 ##a[href^="https://1winpb.com/"]
 ##a[href^="https://6-partner.com/"]
 ##a[href^="https://81ac.xyz/"]
+##a[href^="https://Click.ggpickaff.com/"]
 ##a[href^="https://a-ads.com/"]
 ##a[href^="https://a.adtng.com/"]
 ##a[href^="https://a.bestcontentfood.top/"]
@@ -14726,6 +14727,7 @@ _800x80_
 ##a[href^="https://camfapr.com/landing/click/"]
 ##a[href^="https://chaturbate.com/in/?"]
 ##a[href^="https://claring-loccelkin.com/"]
+##a[href^="https://click.Ggpickaff.com/"]
 ##a[href^="https://click.candyoffers.com/"]
 ##a[href^="https://click.dtiserv2.com/"]
 ##a[href^="https://click.ggpickaff.com/"]
@@ -21195,6 +21197,7 @@ browsershots.org#@#.advert_area
 ||celebnewsuggestions.com^
 ||celebratedbonus.pro^
 ||celebratedrighty.com^
+||celebretend.top^
 ||celelernody.org^
 ||celeminmorally.shop^
 ||celeritascdn.com^
@@ -21265,6 +21268,7 @@ browsershots.org#@#.advert_area
 ||cgcobmihb.com^
 ||cgeckmydirect.biz^
 ||cgfvmpkypav.com^
+||cgiaysvjnljyk.online^
 ||cgjowhzaneoli.love^
 ||cgphqnflgee.com^
 ||cgpnhjatakwqnjd.xyz^
@@ -22903,6 +22907,7 @@ browsershots.org#@#.advert_area
 ||darkercoincidentsword.com^
 ||darknessdrainablemoonlit.com^
 ||darksmartproprietor.com^
+||darktrouble.pro^
 ||darling-sock.pro^
 ||darling-text.pro^
 ||darnobedienceupscale.com^
@@ -23396,6 +23401,7 @@ browsershots.org#@#.advert_area
 ||dhaobwojqv.com^
 ||dharnaslaked.top^
 ||dhbahdqxomxesch.com^
+||dhbfsbanlrmqm.website^
 ||dhepuldufahr.com^
 ||dheqzygafg.com^
 ||dhertouchingthe.org^
@@ -26398,6 +26404,7 @@ browsershots.org#@#.advert_area
 ||gadspms.com^
 ||gadspmz.com^
 ||gadssystems.com^
+||gaelwvtomjmbm.store^
 ||gagaxbasvw.com^
 ||gagdungeon.com^
 ||gagebonus.com^
@@ -28357,6 +28364,7 @@ browsershots.org#@#.advert_area
 ||hqscene.com^
 ||hqvxjjjldyoc.com^
 ||hqwa.xyz^
+||hqwpsdvh.com^
 ||hrahdmon.com^
 ||hramb.site^
 ||hrenbjkdas.com^
@@ -29611,6 +29619,7 @@ browsershots.org#@#.advert_area
 ||jhkfd.com^
 ||jhodfooz.com^
 ||jholtata.com^
+||jhomifwcybu.com^
 ||jhpgrmboknxjyy.xyz^
 ||jhsnshueyt.click^
 ||jhu8u9.pro^
@@ -32542,6 +32551,7 @@ browsershots.org#@#.advert_area
 ||mohetusha.com^
 ||mohurssabeing.top^
 ||moiernonpaid.com^
+||moietyexpy.top^
 ||moilizoi.com^
 ||moistenmanoc.com^
 ||moitcoigns.shop^
@@ -34897,6 +34907,7 @@ browsershots.org#@#.advert_area
 ||oybvygphl.com^
 ||oyen3zmvd.com^
 ||oyi9f1kbaj.com^
+||oyoakyallvooz.top^
 ||oysterbywordwishful.com^
 ||oysterfoxfoe.com^
 ||oywhowascryingfo.com^
@@ -36147,6 +36158,7 @@ browsershots.org#@#.advert_area
 ||pro-web.net^
 ||pro119marketing.com^
 ||proadscdn.com^
+||probablecustomer.pro^
 ||probabletellsunexpected.com^
 ||probersnobles.com^
 ||probessanggau.com^
@@ -41159,6 +41171,7 @@ browsershots.org#@#.advert_area
 ||tmlnorawiq.xyz^
 ||tmntft.com^
 ||tmrjmp.com^
+||tmvwnaxsvbi.com^
 ||tmxkdywnl.com^
 ||tnaczwecikco.online^
 ||tncsqpjzsnczxn.com^
@@ -42949,6 +42962,7 @@ browsershots.org#@#.advert_area
 ||vq4b0q.fun^
 ||vqduhcvuxvfld.site^
 ||vqehypmvwxwm.xyz^
+||vqelkqlaaveew.top^
 ||vqelkqlaavjmm.top^
 ||vqonjcnsl.com^
 ||vqoqlebqqakmq.top^
@@ -62212,6 +62226,7 @@ nowgoal8.com##div[id^="ad_"]
 javacodegeeks.com##div[id^="adngin-"]
 agoda.com##div[id^="ads-"]
 pixiv.net##div[id^="adsdk-"]
+americafirstreport.com##div[id^="ameri-"]
 antiguanewsroom.com##div[id^="antig-"]
 slidesgo.com##div[id^="article_ads"]
 business-standard.com##div[id^="between_article_content_"]
@@ -62778,6 +62793,7 @@ aliexpress.com,aliexpress.us##a[class^="manhattan--container--"][class*="main--c
 aliexpress.com,aliexpress.us##a[class^="manhattan--container--"][class*="main--card--"]:has(span[style="background: rgba(0, 0, 0, 0.2); position: absolute; top: 8px; color: rgb(255, 255, 255); padding: 2px 5px; border-radius: 4px; right: 8px;"])
 manomano.*##a[href]:has(> .c4iHiiE)
 yandex.com##a[href^="https://yandex.ru/an/count/"]
+americafirstreport.com##article.format-standard:has(.category-sponsored)
 9gag.com##article:has(.promoted)
 mg.co.za##article:has(.sponsored-single)
 tympanus.net##article:has(header:has(.ct-sponsored))

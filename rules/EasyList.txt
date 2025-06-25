@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ZHqdxcI/cxKx3R6BVz4vsg
-! Version: 202506242201
+! Checksum: xhILAqi17m5JEYSRDfYt9w
+! Version: 202506250041
 ! Title: EasyList
-! Last modified: 24 Jun 2025 22:01 UTC
+! Last modified: 25 Jun 2025 00:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -19494,6 +19494,7 @@ browsershots.org#@#.advert_area
 ||bd51static.com^
 ||bd64dc73db.com^
 ||bdckqpofmclr.com^
+||bdd549304d.com^
 ||bddhprzriicus.world^
 ||bdhsahmg.com^
 ||bdidqntuyyuav.online^
@@ -19973,6 +19974,7 @@ browsershots.org#@#.advert_area
 ||bkrxfveyilyqu.site^
 ||bksoylhvsx.com^
 ||bktsauna.com^
+||bkujuvnjjxlnj.space^
 ||bkwuodwvehlzr.life^
 ||bkzwzwemvvrzz.top^
 ||bl230126pb.com^
@@ -20129,6 +20131,7 @@ browsershots.org#@#.advert_area
 ||bnrslks.com^
 ||bnserving.com^
 ||bntbwlgjdkropbr.com^
+||bntcpraakimes.com^
 ||bo2ffe45ss4gie.com^
 ||boacheeb.com^
 ||boagleetsurvey.space^
@@ -21238,6 +21241,7 @@ browsershots.org#@#.advert_area
 ||cfuonmexmmewy.fun^
 ||cfusionsys.com^
 ||cfvcjyksaerua.fun^
+||cfxregwlbqstj.store^
 ||cfxvutnbxvcbi.com^
 ||cfzrh-xqwrv.site^
 ||cgbupajpzo-t.rocks^
@@ -22455,6 +22459,7 @@ browsershots.org#@#.advert_area
 ||crengate.com^
 ||crentexgate.com^
 ||creojnpibos.com^
+||crepedzincite.top^
 ||crepeyfrogged.com^
 ||crepgate.com^
 ||creptdeservedprofanity.com^
@@ -26194,6 +26199,7 @@ browsershots.org#@#.advert_area
 ||ftertheyhagete.com^
 ||ftgprtrhfntks.today^
 ||ftheusysianeduk.com^
+||fthin.site^
 ||ftjcfx.com^
 ||ftqogglkyycok.com^
 ||ftrem.site^
@@ -26282,6 +26288,7 @@ browsershots.org#@#.advert_area
 ||fussysandwich.pro^
 ||fustegriky.com^
 ||futbixolrcw.com^
+||futcceabr.com^
 ||futseerdoa.com^
 ||futsonseeke.net^
 ||future-hawk-content.co.uk^
@@ -29156,6 +29163,7 @@ browsershots.org#@#.advert_area
 ||irbvstqvt.com^
 ||iredindeedeisasb.com^
 ||iredirect.net^
+||irgebbxi.com^
 ||irhpzbrnoyf.com^
 ||iridovielle.top^
 ||iringtgandmotiv.com^
@@ -32295,6 +32303,7 @@ browsershots.org#@#.advert_area
 ||minutedeplorable.com^
 ||minutesdevise.com^
 ||mipfohaby.com^
+||miphztgppumea.site^
 ||miptj.space^
 ||miqorhogxc.com^
 ||miredindeedeisas.info^
@@ -42250,6 +42259,7 @@ browsershots.org#@#.advert_area
 ||uusrkougngwe.com^
 ||uuyhonsdpa.com^
 ||uveamiskept.shop^
+||uvnmfjwrbvkes.online^
 ||uvoashaurgeeph.com^
 ||uvoonaix.top^
 ||uvusxiuivu.com^
@@ -42423,6 +42433,7 @@ browsershots.org#@#.advert_area
 ||vcsxfynmtgwwj.global^
 ||vctcajeme.tech^
 ||vcucirkupha.com^
+||vcumpvqaqlxcq.website^
 ||vcxzp.com^
 ||vczfcmaxnqkby.club^
 ||vdatsunrdx.com^
@@ -42518,6 +42529,7 @@ browsershots.org#@#.advert_area
 ||vestigeencumber.com^
 ||vestrydual.top^
 ||vesuvinaqueity.top^
+||vesxeidlsswqvmu.com^
 ||vetchesthiever.com^
 ||vetoedawns.shop^
 ||vetoembrace.com^
@@ -43977,6 +43989,7 @@ browsershots.org#@#.advert_area
 ||xlrdr.com^
 ||xlrm-tech.com^
 ||xlsfswiaqcrxc.xyz^
+||xltdqkwaamxgg.website^
 ||xlviiirdr.com^
 ||xlviirdr.com^
 ||xlvirdr.com^
@@ -44439,6 +44452,7 @@ browsershots.org#@#.advert_area
 ||yydwkkxhjb.com^
 ||yyidbueudlkcw.love^
 ||yyjvimo.com^
+||yymggbvzmremk.online^
 ||yyselrqpyu.com^
 ||yytxgghgvtwfp.icu^
 ||yyvxcmhpkmaxd.website^

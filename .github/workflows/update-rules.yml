@@ -59,7 +59,7 @@ jobs:
     - name: Compile rule set
       run: |
         chmod +x sing-box  # 添加执行权限
-        ./sing-box rule-set compile --output anti-ad.srs anti-ad.json  # 编译 JSON 规则集为 SRS 格式
+        ./sing-box rule-set compile --output ad.srs ad.json  # 编译 JSON 规则集为 SRS 格式
 
     # 提交变更到仓库
     - name: Commit changes
@@ -69,7 +69,7 @@ jobs:
         git config user.email "actions@github.com"
 
         # 添加变更文件（SRS 规则集、JSON 规则集和 rules 目录下的文件）
-        git add anti-ad.srs anti-ad.json rules/*
+        git add ad.srs ad.json rules/*
 
         # 获取当前时间（北京时间）
         TIMESTAMP=$(TZ="Asia/Shanghai" date +"%Y-%m-%d %H:%M")

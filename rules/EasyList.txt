@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 8OkqcCbnx3T/r3IIrcITjA
-! Version: 202506260601
+! Checksum: YNBFQ5jS25RSxYz48qur5g
+! Version: 202506260801
 ! Title: EasyList
-! Last modified: 26 Jun 2025 06:01 UTC
+! Last modified: 26 Jun 2025 08:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -18479,6 +18479,7 @@ browsershots.org#@#.advert_area
 ||aqpogayoehdhj.com^
 ||aqptziligoqn.com^
 ||aqpwckoqbjikrg.xyz^
+||aqqzgvzyojjkv.top^
 ||aqsardlpuca.com^
 ||aqsossaj.com^
 ||aquaticrangey.shop^
@@ -22928,6 +22929,7 @@ browsershots.org#@#.advert_area
 ||darvuxbakh.com^
 ||darwinpoliticslonger.com^
 ||dasensiblem.org^
+||dasesiumwor.org^
 ||dasesiumworkhovdim.com^
 ||dasesiumworkhovdimi.info^
 ||dashbida.com^
@@ -25111,6 +25113,7 @@ browsershots.org#@#.advert_area
 ||ewouwamsubsouvy.net^
 ||ewrgryxjaq.com^
 ||ewruuqe5p8ca.com^
+||ewutoxapaffqc.site^
 ||ewuvpujntjoael.com^
 ||exacdn.com^
 ||exactorpilers.shop^
@@ -28096,6 +28099,7 @@ browsershots.org#@#.advert_area
 ||hiptoxide.pro^
 ||hipunaux.com^
 ||hipuufjb.com^
+||hiqbejpsiyymatl.com^
 ||hiredeitysibilant.com^
 ||hirelinghistorian.com^
 ||hirsailauph.net^
@@ -30281,6 +30285,7 @@ browsershots.org#@#.advert_area
 ||kinarilyhukelpfulin.com^
 ||kind-lecture.com^
 ||kindergarteninitiallyprotector.com^
+||kindhearted-rate.pro^
 ||kindleunfocusedunpaired.com^
 ||kindlyoutsellunderling.com^
 ||kindnessmarshalping.com^
@@ -32355,6 +32360,7 @@ browsershots.org#@#.advert_area
 ||mihephypty.com^
 ||mihjpeok.com^
 ||miigbxonhjgnr.top^
+||mikealy.top^
 ||miknijrcaf.com^
 ||mikobqcusg.com^
 ||mikop.xyz^
@@ -33409,6 +33415,7 @@ browsershots.org#@#.advert_area
 ||nightmarerelive.com^
 ||nigjumpwewiz.com^
 ||nigmen.com^
+||nigrefibrine.top^
 ||nigrocosti.com^
 ||nigroopheert.com^
 ||nijaqccry.com^
@@ -37657,6 +37664,7 @@ browsershots.org#@#.advert_area
 ||rephobeejigra.com^
 ||replaceexplanationevasion.com^
 ||replevyduelli.com^
+||repliednektons.top^
 ||replowupcover.shop^
 ||replynasal.com^
 ||reporo.net^
@@ -38131,6 +38139,7 @@ browsershots.org#@#.advert_area
 ||romepoptahul.com^
 ||romperspardesi.com^
 ||rompishvariola.com^
+||romulusniuan.com^
 ||roobetaffiliates.com^
 ||roofprison.com^
 ||roohoozy.net^
@@ -38435,6 +38444,7 @@ browsershots.org#@#.advert_area
 ||rwukupjis.com^
 ||rwuruwrufmp.com^
 ||rwwmbymaezkla.top^
+||rwwmbymaezzjy.top^
 ||rwxpkychnthdx.space^
 ||rwyfudaqldbcoz.com^
 ||rwzvqzvqkzowy.top^
@@ -41889,6 +41899,7 @@ browsershots.org#@#.advert_area
 ||txgpgszrhedyl.online^
 ||txojrnpkfo.com^
 ||txpwmpgveftnm.com^
+||txwbluuxc.com^
 ||txykmuqzxjitf.space^
 ||txzaazmdhtw.com^
 ||tyburnpenalty.com^
@@ -42448,6 +42459,7 @@ browsershots.org#@#.advert_area
 ||uvwmpritmqef.com^
 ||uvyowldksqt.com^
 ||uvzsmwfxa.com^
+||uwahagoyvuccd.website^
 ||uwaxoyfklhm.com^
 ||uwdjjwzfwd.com^
 ||uwfcqtdb.xyz^
@@ -44150,6 +44162,7 @@ browsershots.org#@#.advert_area
 ||xgkpltbxcpoyld.com^
 ||xgolyqyfjuuwn.online^
 ||xgraph.net^
+||xgsxkzscxapvj.online^
 ||xhskoszdinatr.space^
 ||xhulafpup.com^
 ||xhutheasb.com^
@@ -44403,6 +44416,7 @@ browsershots.org#@#.advert_area
 ||ycmpwhfvgynyp.store^
 ||ydenknowled.com^
 ||ydevelelasticals.info^
+||ydeyqndahrpry.online^
 ||ydjplbbzkimzu.site^
 ||ydvvzptycptlr.space^
 ||yeabble.com^

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: AF5y+2NBdoHqJRT4oNq7UQ
-! Version: 202506260041
+! Checksum: EMlJ+4la1J7k0icKEh9gwA
+! Version: 202506260121
 ! Title: EasyList
-! Last modified: 26 Jun 2025 00:41 UTC
+! Last modified: 26 Jun 2025 01:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -14618,6 +14618,7 @@ _800x80_
 ##[href^="https://turtlebids.irauctions.com/"] img
 ##[href^="https://url.totaladblock.com/"]
 ##[href^="https://wct.link/click?"]
+##[href^="https://wsup.ai/"]
 ##[href^="https://wwp.hoqodd.com/redirect-zone/"]
 ##[href^="https://www.avantlink.com/click.php"] img
 ##[href^="https://www.brighteonstore.com/products/"] img
@@ -23929,6 +23930,7 @@ browsershots.org#@#.advert_area
 ||dpflnehslamox.com^
 ||dpkpnzbtbkqmg.buzz^
 ||dpmsrv.com^
+||dpmtcyfonye.com^
 ||dprivatedquali.org^
 ||dprtb.com^
 ||dpseympatijgpaw.com^
@@ -32949,6 +32951,7 @@ browsershots.org#@#.advert_area
 ||mydatings-partner-dates.com^
 ||mydatingstheladys-club.com^
 ||mydatingswomanonlines.com^
+||mydzcajckvmzp.website^
 ||myeasetrack.com^
 ||myeasyvpn.com^
 ||myeswglq-m.online^

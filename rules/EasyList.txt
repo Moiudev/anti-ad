@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: RLJVou3a19e2oMbgnLhYWA
-! Version: 202506252151
+! Checksum: AF5y+2NBdoHqJRT4oNq7UQ
+! Version: 202506260041
 ! Title: EasyList
-! Last modified: 25 Jun 2025 21:51 UTC
+! Last modified: 26 Jun 2025 00:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -19822,6 +19822,7 @@ browsershots.org#@#.advert_area
 ||bh3.net^
 ||bhalukecky.com^
 ||bhavarizzar.top^
+||bhbkvnpbvbrbv.site^
 ||bhcont.com^
 ||bhigziaww.com^
 ||bhihakqmybat.com^
@@ -22809,6 +22810,7 @@ browsershots.org#@#.advert_area
 ||d5465f9d11.com^
 ||d5db478dde.com^
 ||d8c04a25e8.com^
+||d949b51857.com^
 ||d95bda138b.com^
 ||d9db994995.com^
 ||da-ads.com^
@@ -26446,6 +26448,7 @@ browsershots.org#@#.advert_area
 ||galluphugged.top^
 ||galopelikeantelope.com^
 ||galotop1.com^
+||galqxxqcyohy.com^
 ||galvanize26.fun^
 ||gam3ah.com^
 ||gamagrdris.com^
@@ -27412,6 +27415,7 @@ browsershots.org#@#.advert_area
 ||gtbdhr.com^
 ||gtghsgrneexou.website^
 ||gthecoastand.org^
+||gthin.site^
 ||gtjlmypr.com^
 ||gtosmdjgn.xyz^
 ||gtrem.site^
@@ -28281,6 +28285,7 @@ browsershots.org#@#.advert_area
 ||hortitedigress.com^
 ||hosieryplum.com^
 ||hosierypressed.com^
+||hospitable-date.pro^
 ||hostadsmarkets.com^
 ||hostageacarari.top^
 ||hostave.net^
@@ -30665,6 +30670,7 @@ browsershots.org#@#.advert_area
 ||laf1ma3eban85ana.com^
 ||lafastnews.com^
 ||lagabsurdityconstrain.com^
+||laglyage.com^
 ||lagt.cloud^
 ||lagwortcearin.top^
 ||lagxsntduepv.online^
@@ -30845,6 +30851,7 @@ browsershots.org#@#.advert_area
 ||leadcola.com^
 ||leadencrackingtreble.com^
 ||leadenretain.com^
+||leadingtooth.pro^
 ||leadmediapartners.com^
 ||leadsecnow.com^
 ||leadshurriedlysoak.com^
@@ -31202,6 +31209,7 @@ browsershots.org#@#.advert_area
 ||lkauxiqpwlsfr.rocks^
 ||lkcoffe.com^
 ||lkdvvxvtsq6o.com^
+||lkehftpjptswp.site^
 ||lkg6g644.de^
 ||lkhfkjp.com^
 ||lkiwpytulwt.com^
@@ -31478,6 +31486,7 @@ browsershots.org#@#.advert_area
 ||lqclick.com^
 ||lqcngjecijy.rocks^
 ||lqdafcgrlaaby.xyz^
+||lqepkvudjwgwn.space^
 ||lqfiznzqv.com^
 ||lqgenuq-j.life^
 ||lqjfhehcrkatj.xyz^
@@ -32808,6 +32817,7 @@ browsershots.org#@#.advert_area
 ||mtypitea.net^
 ||mtzenhigqg.com^
 ||muai-pysmlp.icu^
+||mubhsdkeqyuqhd.com^
 ||mubothawwp.com^
 ||muchlivepad.com^
 ||mucinyak.com^
@@ -33795,6 +33805,7 @@ browsershots.org#@#.advert_area
 ||nylonnickel.xyz^
 ||nylwyklyegeog.website^
 ||nymldrsksswqq.space^
+||nyquazhpvouya.website^
 ||nythathaveresul.org^
 ||nythingamglad.com^
 ||nytrng.com^
@@ -34086,6 +34097,7 @@ browsershots.org#@#.advert_area
 ||ogfgiwnawl.com^
 ||ogfna.net^
 ||oghgrazubafz.com^
+||oghhurojkg.com^
 ||oghqvffmnt.com^
 ||oghsbdelcftbx.online^
 ||oghyz.click^
@@ -37072,6 +37084,7 @@ browsershots.org#@#.advert_area
 ||qwvvoaykyyvj.top^
 ||qwwsbnfspagbbn.com^
 ||qwyvmjvkmrqlz.top^
+||qwyvmjvkmrvrv.top^
 ||qxdownload.com^
 ||qxeidsj.com^
 ||qxhspimg.com^
@@ -41733,6 +41746,7 @@ browsershots.org#@#.advert_area
 ||tugnrqywfwaup.store^
 ||tugpoise.com^
 ||tuhqixonk.com^
+||tuitivesahukar.top^
 ||tujourda.net^
 ||tukewops.top^
 ||tukvtuasw.com^
@@ -42154,6 +42168,7 @@ browsershots.org#@#.advert_area
 ||unnatural-shot.pro^
 ||unnatural-today.pro^
 ||unnaturalstring.com^
+||unnaturaluniversity.pro^
 ||unnecessarydispleasedleak.com^
 ||unoblotto.net^
 ||unoptedcoupe.top^
@@ -42324,6 +42339,7 @@ browsershots.org#@#.advert_area
 ||urtirepor.com^
 ||uruevehood.shop^
 ||uruswan.com^
+||urwvphdnwhdzl.site^
 ||us4post.com^
 ||usainoad.net^
 ||usbanners.com^
@@ -43318,6 +43334,7 @@ browsershots.org#@#.advert_area
 ||wecouldle.com^
 ||wedauspicy.com^
 ||wedeffront.top^
+||wedgebrocks.top^
 ||wedgeneutralitymiss.com^
 ||wedgierbirsit.com^
 ||wee-intention.com^
@@ -43586,6 +43603,7 @@ browsershots.org#@#.advert_area
 ||wingads.com^
 ||winged-addition.com^
 ||wingjav11.fun^
+||wingohvuktotg.site^
 ||wingstoesassemble.com^
 ||winneradsmedia.com^
 ||winnersolutions.net^
@@ -43674,6 +43692,7 @@ browsershots.org#@#.advert_area
 ||wlrkcefll.com^
 ||wlvkzwqmyjkmw.top^
 ||wlvkzwqmyjwoz.top^
+||wlwyjnyojgygy.top^
 ||wlyikeacon.org^
 ||wlzzwzeevbwez.top^
 ||wlzzwzeevbyak.top^
@@ -44564,6 +44583,7 @@ browsershots.org#@#.advert_area
 ||yummycdn.com^
 ||yungluteal.top^
 ||yunshipei.com^
+||yuockvddwqp.com^
 ||yupfiles.net^
 ||yuppads.com^
 ||yuppyads.com^

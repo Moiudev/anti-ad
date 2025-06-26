@@ -8,7 +8,7 @@ from converter import convert_to_json
 BASE_DIR = Path(__file__).parent.parent
 SOURCES_DIR = BASE_DIR / "rules"
 SOURCES_LIST = BASE_DIR / "sources.txt"
-OUTPUT_JSON = BASE_DIR / "anti-ad.json"
+OUTPUT_JSON = BASE_DIR / "ad.json"
 
 # 规则源的名称映射
 FRIENDLY_NAME_MAP = {

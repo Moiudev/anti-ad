@@ -10,8 +10,8 @@
       {
         "type": "remote",
         "tag": "anti-ad",
-        "format": "binary",
-        "url": "https://raw.githubusercontent.com/Moiudev/anti-ad/main/ad.srs"
+        "url": "https://raw.githubusercontent.com/Moiudev/anti-ad/main/ad.srs",
+        "update_interval": "2h"
       }
     ]
   }

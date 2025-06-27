@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: nG+RJUuVaHIXX/2LHEzsmA
-! Version: 202506271001
+! Checksum: qwPeDHQE5VuOTJdM22istw
+! Version: 202506271211
 ! Title: EasyList
-! Last modified: 27 Jun 2025 10:01 UTC
+! Last modified: 27 Jun 2025 12:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -18631,6 +18631,7 @@ browsershots.org#@#.advert_area
 ||aso1.net^
 ||asogkhgmgh.com^
 ||asokapygmoid.com^
+||asokerbiums.shop^
 ||asopn.com^
 ||asoursuls.com^
 ||aspaceloach.com^
@@ -20676,6 +20677,7 @@ browsershots.org#@#.advert_area
 ||bvmcdn.net^
 ||bvpxcipgpcjuonv.com^
 ||bvtpk.com^
+||bvuqfucwthco.com^
 ||bvzmnmxnyvtkd.site^
 ||bwhhcuikrgvhs.online^
 ||bwhuyauklndvt.online^
@@ -22466,6 +22468,7 @@ browsershots.org#@#.advert_area
 ||crptgate.com^
 ||crqjtfoolnelm.site^
 ||crqwhsxcvngdp.icu^
+||crrepbymiffa.com^
 ||crrepo.com^
 ||crsope.com^
 ||crsspxl.com^
@@ -25748,6 +25751,7 @@ browsershots.org#@#.advert_area
 ||fluingdulotic.com^
 ||flushedheartedcollect.com^
 ||flusoprano.com^
+||flustered-news.pro^
 ||fluxads.com^
 ||fluxiontabific.shop^
 ||fluxslyish.shop^
@@ -28196,6 +28200,7 @@ browsershots.org#@#.advert_area
 ||housemaiddevolution.com^
 ||housemaidvia.com^
 ||housewifereceiving.com^
+||housouokopeu.org^
 ||houthautoaptapi.com^
 ||houvaulauchair.net^
 ||houwastoay.net^
@@ -29953,6 +29958,7 @@ browsershots.org#@#.advert_area
 ||karstsnill.com^
 ||karthliunstagy.com^
 ||karwobeton.com^
+||kasrsihavelear.org^
 ||kastafor.com^
 ||katecrochetvanity.com^
 ||katerigordas.pro^
@@ -30253,6 +30259,7 @@ browsershots.org#@#.advert_area
 ||kneltopeningfit.com^
 ||knewallpendulum.com^
 ||knfeiikyojdib.life^
+||knhcysgphol.com^
 ||knifebackfiretraveller.com^
 ||knifepierce.com^
 ||knitfuseactor.com^
@@ -34803,6 +34810,7 @@ browsershots.org#@#.advert_area
 ||oxvfebqacdaqq.com^
 ||oxwafbjf.com^
 ||oxwbibaxbmfo.com^
+||oxwlhazto.com^
 ||oxwoghapqp.com^
 ||oxwzmeojb.com^
 ||oxybe.com^
@@ -35090,6 +35098,7 @@ browsershots.org#@#.advert_area
 ||paxxfiss.com^
 ||pay-click.ru^
 ||paybackmodified.com^
+||payingsob.com^
 ||payoffdonatecookery.com^
 ||payoffkbar.top^
 ||payperppi.click^
@@ -42094,6 +42103,7 @@ browsershots.org#@#.advert_area
 ||unspeakablefreezing.com^
 ||unspeakablepurebeings.com^
 ||unspeakableruin.com^
+||unsrzlaqfttxa.website^
 ||unstantleran.com^
 ||unsteadyneat.pro^
 ||unsuccessfultesttubepeerless.com^
@@ -43684,6 +43694,7 @@ browsershots.org#@#.advert_area
 ||worldtimes2.xyz^
 ||worldtraffic.trade^
 ||worldysnur.top^
+||wormslitty.top^
 ||wornshoppingenvironment.com^
 ||worralgeylies.shop^
 ||worrisomedifference.com^
@@ -44616,6 +44627,7 @@ browsershots.org#@#.advert_area
 ||zfvsnpir-cxx.buzz^
 ||zfyodfktvkxqr.online^
 ||zgukxyhzquesk.love^
+||zgwgoxzayjmqc.store^
 ||zhaner.xyz^
 ||zhnssqtigxgz.com^
 ||zhoyyibwywgev.one^
@@ -44714,6 +44726,7 @@ browsershots.org#@#.advert_area
 ||zoawufoy.net^
 ||zodiacdinner.com^
 ||zoeaegyral.com^
+||zoebcykgrrfar.space^
 ||zog.link^
 ||zogrepsili.com^
 ||zoiefwqhcaczun.com^
@@ -44845,6 +44858,7 @@ browsershots.org#@#.advert_area
 ||zyvbvqvjjkakj.top^
 ||zyvbvqvjjkaqw.top^
 ||zyvbvqvjjkvqz.top^
+||zyvlvbtnyixyx.online^
 ||zyyt-tevos.click^
 ||zyzqkbkeyqajw.top^
 ||zyzqkbkeyqrzz.top^

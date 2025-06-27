@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: qwPeDHQE5VuOTJdM22istw
-! Version: 202506271211
+! Checksum: GBbsZEtuRHPmwuME8qk+xA
+! Version: 202506271401
 ! Title: EasyList
-! Last modified: 27 Jun 2025 12:11 UTC
+! Last modified: 27 Jun 2025 14:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -17809,6 +17809,7 @@ browsershots.org#@#.advert_area
 ||akzawlyyllywa.top^
 ||al-adtech.com^
 ||al3abkisses.com^
+||al5sm.com^
 ||alackzokor.com^
 ||alacrityimitation.com^
 ||alagaodealing.com^
@@ -21537,6 +21538,7 @@ browsershots.org#@#.advert_area
 ||cjvdfw.com^
 ||cjxomyilmv.com^
 ||ckaxbjhbiua.com^
+||ckdibfchthrg.com^
 ||ckgeflumkryp.com^
 ||ckgroundan.org^
 ||ckitwlmqy-c.today^
@@ -22549,6 +22551,7 @@ browsershots.org#@#.advert_area
 ||ctvieijupz.com^
 ||ctwmcd.com^
 ||ctwmed.com^
+||cubageostrich.com^
 ||cuberkabobs.shop^
 ||cubeuptownpert.com^
 ||cubiclerunner.com^
@@ -23591,6 +23594,7 @@ browsershots.org#@#.advert_area
 ||dj-updates.com^
 ||dj2550.com^
 ||djadoc.com^
+||djgdmnyuokahc.site^
 ||djgnqo9p1icyr.cloudfront.net^
 ||djmwxpsijxxo.xyz^
 ||djosbhwpnfxmx.com^
@@ -25622,6 +25626,7 @@ browsershots.org#@#.advert_area
 ||fixdynamics.info^
 ||fixed-complex.pro^
 ||fixedlyfully.com^
+||fixeincudal.top^
 ||fixesnetwork.com^
 ||fixingcreepingstarter.com^
 ||fixittoday.biz^
@@ -26067,6 +26072,7 @@ browsershots.org#@#.advert_area
 ||frizzystrip.pro^
 ||frmmqfwviupoa.today^
 ||frockherbal.com^
+||frockinhale.top^
 ||frogeyeparaiba.top^
 ||frolnk.com^
 ||fromjoytohappiness.com^
@@ -27616,6 +27622,7 @@ browsershots.org#@#.advert_area
 ||hb-247.com^
 ||hb94dnbe.de^
 ||hbfdhkdeaatch.space^
+||hbftihop.com^
 ||hbhgvhgc.cfd^
 ||hbhood.com^
 ||hbidfirrysrvw.global^
@@ -29255,6 +29262,7 @@ browsershots.org#@#.advert_area
 ||ixnow.xyz^
 ||ixnp.com^
 ||ixtbiwi-jf.world^
+||ixtzexgnofhym.space^
 ||ixxbfwbdeq.com^
 ||iy8yhpmgrcpwkcvh.pro^
 ||iybgsvdqqrtxp.online^
@@ -29375,6 +29383,7 @@ browsershots.org#@#.advert_area
 ||jazzlowness.com^
 ||jb-dqxiin.today^
 ||jbafulwrb.com^
+||jbaqavqkrowmz.top^
 ||jbaqavqkrowyl.top^
 ||jbbyyryezqqvq.top^
 ||jbbyyryolmlbj.top^
@@ -29682,6 +29691,7 @@ browsershots.org#@#.advert_area
 ||jpmkbcgx-o.buzz^
 ||jpmpwwmtw.com^
 ||jpooavwizlvf.com^
+||jptobfdvxtady.online^
 ||jqilyjagezcqk.site^
 ||jqjpwocbgtxlkw.com^
 ||jqmebveabqvb.top^
@@ -29907,6 +29917,7 @@ browsershots.org#@#.advert_area
 ||jzqscvqlgasxh.buzz^
 ||jztwidpixa.icu^
 ||jzvwawvwkwawj.top^
+||jzwawoaqygkmn.top^
 ||jzxouwszeyhrq.online^
 ||jzykizla.com^
 ||jzylponilwf.com^
@@ -30723,6 +30734,7 @@ browsershots.org#@#.advert_area
 ||ldjudcpc-qxm.icu^
 ||ldkgwoqtxzbolx.com^
 ||ldmeukeuktyoue.com^
+||ldsglxilxmczr.site^
 ||ldthinkhimun.com^
 ||ldubnqhe.digital^
 ||lduhtrp.net^
@@ -32976,6 +32988,7 @@ browsershots.org#@#.advert_area
 ||nastinessreplicaupload.com^
 ||nastycomfort.pro^
 ||nasussulla.shop^
+||natalouktabout.org^
 ||nathanaeldan.pro^
 ||nathejewlike.shop^
 ||nationalarguments.com^
@@ -33342,6 +33355,7 @@ browsershots.org#@#.advert_area
 ||nmhqtdyoacehfo.com^
 ||nmhtwujmecgzi.store^
 ||nmimatrme.com^
+||nmjpdlwqpwr.com^
 ||nmkli.com^
 ||nmvtgpccrnjttdv.com^
 ||nmwjlaywnozwj.vip^

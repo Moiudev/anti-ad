@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: upVl9mFQD8oOPI+gmRg6Ww
-! Version: 202506270601
+! Checksum: JB9TE8QF369VB0+6m04Syw
+! Version: 202506270801
 ! Title: EasyList
-! Last modified: 27 Jun 2025 06:01 UTC
+! Last modified: 27 Jun 2025 08:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -18418,6 +18418,7 @@ browsershots.org#@#.advert_area
 ||aqhz.xyz^
 ||aqjbfed.com^
 ||aqkkoalfpz.com^
+||aqmlaklwyqamk.top^
 ||aqncinxrexa.com^
 ||aqndcybah.com^
 ||aqnhuhkr.com^
@@ -19617,6 +19618,7 @@ browsershots.org#@#.advert_area
 ||bereaveencodefestive.com^
 ||berendcarols.shop^
 ||bergletiphis.shop^
+||berhymeopen.top^
 ||berkshiretoday.xyz^
 ||berlipurplin.com^
 ||bermestricker.shop^
@@ -24411,6 +24413,7 @@ browsershots.org#@#.advert_area
 ||efrnedmiralpenb.info^
 ||efrunuoozskl.com^
 ||efullofeedshen.com^
+||efwukoulnhdluki.org^
 ||egcuxefgvsjpw.online^
 ||egeemsob.com^
 ||eggplantgapmatter.com^
@@ -25199,6 +25202,7 @@ browsershots.org#@#.advert_area
 ||fair-contest.pro^
 ||fairlyleadingenquiry.com^
 ||fairmonks.com^
+||fairyhermits.top^
 ||faisaphoofa.net^
 ||faised.com^
 ||faithaiy.com^
@@ -25980,6 +25984,7 @@ browsershots.org#@#.advert_area
 ||fqtadpehoqx.com^
 ||fqtjp.one^
 ||fquyv.one^
+||fqyaiqjwiu.com^
 ||fqzxecinpjuws.space^
 ||fractionfridgejudiciary.com^
 ||fragrancenemesisprovolone.com^
@@ -26848,6 +26853,7 @@ browsershots.org#@#.advert_area
 ||gml-grp.com^
 ||gmlnnqpxlgc.com^
 ||gmolrrrxnryck.com^
+||gmxdyrieikifv.store^
 ||gmxvmvptfm.com^
 ||gmyhhpvieujo.xyz^
 ||gmzdaily.com^
@@ -27377,6 +27383,7 @@ browsershots.org#@#.advert_area
 ||gxdzfyg.com^
 ||gxfh59u4.xyz^
 ||gxggdemkoaf.com^
+||gxhlfbjcubhf.com^
 ||gxiacapeptyos.club^
 ||gxnfz.com^
 ||gxordgtvjr.com^
@@ -28202,6 +28209,7 @@ browsershots.org#@#.advert_area
 ||hpeaxbmuh.com^
 ||hpemfpfhiekqc.space^
 ||hpeowtophruv.com^
+||hpfchmjsfkhjt.site^
 ||hpgaqdq.shop^
 ||hpilzison-r.online^
 ||hpitallawless.shop^
@@ -28620,6 +28628,7 @@ browsershots.org#@#.advert_area
 ||ilo134ulih.com^
 ||iloptrex.com^
 ||ilovemakingpics.com^
+||ilpmcvbmizqfo.site^
 ||ilqtskaqbxdrj.website^
 ||iltbvaulpebh.com^
 ||iltharidity.top^
@@ -32193,6 +32202,7 @@ browsershots.org#@#.advert_area
 ||mikobqcusg.com^
 ||mikop.xyz^
 ||mildcauliflower.com^
+||mildenweazen.top^
 ||mildjav11.fun^
 ||mileesidesukbein.com^
 ||milftube.mob^
@@ -37754,6 +37764,7 @@ browsershots.org#@#.advert_area
 ||rightscarletcloaksa.com^
 ||rightycolonialism.com^
 ||rightypulverizetea.com^
+||rigid-draw.pro^
 ||rigidstiffnesszoning.com^
 ||rigill.com^
 ||rignixautchi.com^
@@ -38263,6 +38274,7 @@ browsershots.org#@#.advert_area
 ||rwfwlrhyolok.com^
 ||rwhnuqxubwqvn.one^
 ||rwohwaeyupzjp.website^
+||rworljrkawloj.top^
 ||rworljrkawlqq.top^
 ||rwoscaonf.com^
 ||rwqovmoezrmvq.top^
@@ -44277,6 +44289,7 @@ browsershots.org#@#.advert_area
 ||yiptvlajyrmmc.top^
 ||yiqpakysdf.com^
 ||yirringamnesic.click^
+||yizghfwqrbhgy.space^
 ||yizrvkvubq.com^
 ||yjdigtr.com^
 ||yjepztzvncndf.tech^

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 7h+ypZYnWyXQY9caF17v0Q
-! Version: 202506281001
+! Checksum: 8TCSvwIYYX16ww0tBLDFuA
+! Version: 202506281201
 ! Title: EasyList
-! Last modified: 28 Jun 2025 10:01 UTC
+! Last modified: 28 Jun 2025 12:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -17572,6 +17572,7 @@ browsershots.org#@#.advert_area
 ||agaskrelpr.com^
 ||agat-tech.com^
 ||agatarainpro.com^
+||agatineorder.com^
 ||agbuekehb.com^
 ||agcdn.com^
 ||agegodfatherbritish.com^
@@ -20715,6 +20716,7 @@ browsershots.org#@#.advert_area
 ||bxwetgpwlkr.com^
 ||bxwzcnwycuvbc.world^
 ||byambipoman.com^
+||byardoccurs.com^
 ||byaronan.com^
 ||bybastiodoner.com^
 ||bycarver.com^
@@ -22638,6 +22640,7 @@ browsershots.org#@#.advert_area
 ||curtiserosetta.shop^
 ||curvedtobies.shop^
 ||curvyalpaca.cc^
+||curvystudy.pro^
 ||curyrentattri.com^
 ||curyrentattributo.org^
 ||cusecwhitten.com^
@@ -23612,6 +23615,7 @@ browsershots.org#@#.advert_area
 ||divtqucu.xyz^
 ||divvyprorata.com^
 ||diwhuteshu.com^
+||dixxiowrgeame.online^
 ||dizznplerllul.love^
 ||dizzy-confidence.com^
 ||dizzy-drag.pro^
@@ -24780,6 +24784,7 @@ browsershots.org#@#.advert_area
 ||epacash.com^
 ||epactaloverawe.com^
 ||epartoukfarepu.com^
+||epaulebeardie.com^
 ||epaxialcyclize.shop^
 ||epededonemile.com^
 ||epersaonwhois.com^
@@ -29627,6 +29632,7 @@ browsershots.org#@#.advert_area
 ||jkha742.xyz^
 ||jklpy.com^
 ||jkqiweqrxsieb.website^
+||jksmaafnkdyni.store^
 ||jktabzfgykmxa.top^
 ||jkuxishhikp.com^
 ||jkyawbabvjeq.top^
@@ -29660,6 +29666,7 @@ browsershots.org#@#.advert_area
 ||jnnjthg.com^
 ||jnrtavp2x66u.com^
 ||jnxm2.com^
+||jnynllpnthltfll.com^
 ||joagrafaiy.net^
 ||joaphaufouy.net^
 ||joastaca.com^
@@ -32028,6 +32035,7 @@ browsershots.org#@#.advert_area
 ||mcyaabdssxdlg.space^
 ||mcytxdrqjmrly.fun^
 ||mczbf.com^
+||mdaiqxaso.com^
 ||mddsp.info^
 ||mdfujryghlihbi.com^
 ||mdjhrgdnrgxrb.site^
@@ -35223,6 +35231,7 @@ browsershots.org#@#.advert_area
 ||pc180101.com^
 ||pc20160301.com^
 ||pc2121.com^
+||pcaniivclwsgw.website^
 ||pcbvqognfewsw.online^
 ||pcbxuayssmqkn.online^
 ||pccasia.xyz^
@@ -35797,6 +35806,7 @@ browsershots.org#@#.advert_area
 ||pnuhondppw.com^
 ||pnuudbgtlofu.com^
 ||pnxfexrscthlb.store^
+||pnzekbgdcsumd.com^
 ||poacawhe.net^
 ||poachostistour.net^
 ||poapeecujiji.com^
@@ -36476,6 +36486,7 @@ browsershots.org#@#.advert_area
 ||pttsite.com^
 ||ptubsumsoay.net^
 ||ptugnins.net^
+||ptupsewo.net^
 ||ptuquopnkhyew.com^
 ||ptuxapow.com^
 ||ptuzrywmega.com^
@@ -39522,6 +39533,7 @@ browsershots.org#@#.advert_area
 ||smilewanted.com^
 ||smilingdefectcue.com^
 ||smishydagcl.today^
+||smitherincreep.top^
 ||smjulynews.com^
 ||smkezc.com^
 ||smliksmgy.com^
@@ -40214,6 +40226,7 @@ browsershots.org#@#.advert_area
 ||strikecomparativelymillions.com^
 ||strikeprowesshelped.com^
 ||strikinghystericalglove.com^
+||stringroadway.com^
 ||stripfitting.com^
 ||stripherselfscuba.com^
 ||stripskeletonsting.com^
@@ -40251,6 +40264,7 @@ browsershots.org#@#.advert_area
 ||stupidityscream.com^
 ||stuppmisrule.shop^
 ||stupsouchig.com^
+||sturdy-bus.pro^
 ||sturdyarrival.com^
 ||stvbiopr.net^
 ||stvkr.com^
@@ -42832,6 +42846,7 @@ browsershots.org#@#.advert_area
 ||vindictivegrabnautical.com^
 ||vinefucmyvovrw.xyz^
 ||vinegardaring.com^
+||vinelethoner.com^
 ||vinertoxamin.top^
 ||vingartistictaste.com^
 ||vinouscavish.com^
@@ -44119,6 +44134,7 @@ browsershots.org#@#.advert_area
 ||xdmanage.com^
 ||xdmycvwgynylh.store^
 ||xdownloadright.com^
+||xdvuffbsluntu.site^
 ||xdyeribxqo.com^
 ||xeaefvkofxfn.com^
 ||xegluwate.com^

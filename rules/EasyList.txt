@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: +lBmhtaKSzbeT2z8Di6IFw
-! Version: 202506282001
+! Checksum: aKMVUx98Cw8eK/Q2G5O0Mg
+! Version: 202506282201
 ! Title: EasyList
-! Last modified: 28 Jun 2025 20:01 UTC
+! Last modified: 28 Jun 2025 22:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -18778,6 +18778,7 @@ browsershots.org#@#.advert_area
 ||atlxpstsf.com^
 ||atmagcargotor.com^
 ||atmalinks.com^
+||atmbiurea.top^
 ||atmenttogether.org^
 ||atmetagrossan.com^
 ||atmewtwochan.com^
@@ -21820,6 +21821,7 @@ browsershots.org#@#.advert_area
 ||cnt.my^
 ||cntrealize.com^
 ||cnwafglwlbcro.life^
+||cnyojprieezzh.store^
 ||co5457chu.com^
 ||co5n3nerm6arapo7ny.com^
 ||coalbandmanicure.com^
@@ -24802,6 +24804,7 @@ browsershots.org#@#.advert_area
 ||epicgameads.com^
 ||epidermispushupvariable.com^
 ||epigeantaygeta.shop^
+||epldjrxblnvpa.store^
 ||eplndhtrobl.com^
 ||epnredirect.ru^
 ||epochheelbiography.com^
@@ -25185,6 +25188,7 @@ browsershots.org#@#.advert_area
 ||eyewondermedia.com^
 ||eygrabfhpqdyv.com^
 ||eyhcervzexp.com^
+||eyibcjdarvh.com^
 ||eynol.xyz^
 ||eynpauoatsdawde.com^
 ||eyrybuiltin.shop^
@@ -27693,6 +27697,7 @@ browsershots.org#@#.advert_area
 ||hbstqpvrzpfx.com^
 ||hbudqnvaytwdc.world^
 ||hcakezodjouff.store^
+||hcbmxigtjpibpuj.com^
 ||hcevuzobtkit.com^
 ||hchaonldccb.com^
 ||hcigejbedup.com^
@@ -28532,6 +28537,7 @@ browsershots.org#@#.advert_area
 ||iauzsghijpmq.com^
 ||ibcaupqfvtnsz.website^
 ||ibeeckaidse.net^
+||ibgyfspqfazkw.website^
 ||ibidemkorari.com^
 ||ibikini.cyou^
 ||ibmfunk.com^
@@ -30558,6 +30564,7 @@ browsershots.org#@#.advert_area
 ||kvvpilxstphqz.space^
 ||kvwibtxllnpfw.space^
 ||kvxjxbrsxhgw.xyz^
+||kvzbonvsutara.website^
 ||kw3y5otoeuniv7e9rsi.com^
 ||kwbgmufi.com^
 ||kwdflqos.com^
@@ -31390,6 +31397,7 @@ browsershots.org#@#.advert_area
 ||losobo.xyz^
 ||lost-beyond.pro^
 ||lostinfuture.com^
+||lostpunch.pro^
 ||lotreal.com^
 ||lotstoleratescarf.com^
 ||lotteryaffiliates.com^
@@ -38458,6 +38466,7 @@ browsershots.org#@#.advert_area
 ||rvstcsghqcu.com^
 ||rvukbeuexr.com^
 ||rvvmynjd.love^
+||rvyaqmmxxoinm.site^
 ||rwbkrnihzrbrb.online^
 ||rwcmvielbgkma.site^
 ||rwdmymnfiklbj.com^

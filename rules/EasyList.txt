@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: dffe+cQViuEKgciZRjTh9w
-! Version: 202506291801
+! Checksum: MC2Bzni6ZGNqzeogiaGIqg
+! Version: 202506292001
 ! Title: EasyList
-! Last modified: 29 Jun 2025 18:01 UTC
+! Last modified: 29 Jun 2025 20:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -16692,6 +16692,7 @@ browsershots.org#@#.advert_area
 ||acceptancecrowdadvertising.com^
 ||acceptcontemplatecorner.com^
 ||acceptguide.com^
+||acceptsabp.top^
 ||acceptvigorously.com^
 ||access-mc.com^
 ||access.vidox.net^
@@ -17333,6 +17334,7 @@ browsershots.org#@#.advert_area
 ||aeroseoutfire.top^
 ||aerxoskikmqhlf.com^
 ||aesopicmalchus.com^
+||aespmnbpqhpvu.space^
 ||aestheticpenitentdownright.com^
 ||aetkjmyqjgig.com^
 ||aetvellt.net^
@@ -20082,6 +20084,7 @@ browsershots.org#@#.advert_area
 ||brewsuper.com^
 ||brgwgyfxsdly.com^
 ||bribriactious.top^
+||brickonetime.top^
 ||brideshieldstaircase.com^
 ||bridgearchly.com^
 ||bridgetrack.com^
@@ -25453,6 +25456,7 @@ browsershots.org#@#.advert_area
 ||fv-bpmnrzkv.vip^
 ||fvcm.net^
 ||fvcwqkkqmuv.com^
+||fvebcbtqiw.com^
 ||fvgdxnfwkpibuyh.com^
 ||fvmiafwauhy.fun^
 ||fvohyywkbc.com^
@@ -26129,6 +26133,7 @@ browsershots.org#@#.advert_area
 ||gonakiecullies.com^
 ||gondmemhoolpdd.xyz^
 ||gonreommon.com^
+||gonyextant.shop^
 ||goobakocaup.com^
 ||good-ads-online.com^
 ||good-investment.pro^
@@ -29446,6 +29451,7 @@ browsershots.org#@#.advert_area
 ||kwgladkr.com^
 ||kwlnds.com^
 ||kwqmugaonqtqa.com^
+||kwqpnwxoygwh.com^
 ||kwtmhuvkpmcsog.com^
 ||kwtnhdrmbx.com^
 ||kwux-uudx.online^
@@ -32296,6 +32302,7 @@ browsershots.org#@#.advert_area
 ||nppbvulfelsx.xyz^
 ||npvgghqmsehdq.club^
 ||npvos.com^
+||npvqolcucthor.website^
 ||npykxfaypqrtf.love^
 ||npyzxhbzwxosr.space^
 ||nqcgdvuuyxwj.com^
@@ -32887,6 +32894,7 @@ browsershots.org#@#.advert_area
 ||olpoxumbkput.com^
 ||olq18dx1t.com^
 ||olssqlxovy.com^
+||olwzjkkmkamnw.top^
 ||olxapgciwffu.com^
 ||olxoqmotw.com^
 ||olxwweaf.com^
@@ -38874,6 +38882,7 @@ browsershots.org#@#.advert_area
 ||taggingarkab.top^
 ||taghaugh.com^
 ||taginova.xyz^
+||tahlhdedysdhg.store^
 ||tahwox.com^
 ||taigrajawy.com^
 ||taikmhgkfngjx.today^
@@ -38965,6 +38974,7 @@ browsershots.org#@#.advert_area
 ||taypwqoprmcap.space^
 ||tazkiaonu.click^
 ||tbavixmkrnspx.space^
+||tbcthwmcjkhtjw.xyz^
 ||tbdhrjsywgjcq.tech^
 ||tbdjtjkttgeba.website^
 ||tbeiu658gftk.com^
@@ -40668,6 +40678,7 @@ browsershots.org#@#.advert_area
 ||vaipsouw.com^
 ||vaitotoo.net^
 ||vajwbkkmklmvl.top^
+||vajwbkkmklmzj.top^
 ||vak345.com^
 ||valemedia.net^
 ||valesweetheartconditions.com^
@@ -42134,6 +42145,7 @@ browsershots.org#@#.advert_area
 ||xoxnetwork.com^
 ||xoxyxaxtgkryj.club^
 ||xpfsmgxc.com^
+||xpicpefsaxhqs.website^
 ||xpollo.com^
 ||xporn.in^
 ||xpvv0rkn.fun^
@@ -42178,6 +42190,7 @@ browsershots.org#@#.advert_area
 ||xvpqmcgf.com^
 ||xvsypuik.com^
 ||xvuslink.com^
+||xvxboavgkjuex.website^
 ||xvzyyzix.com^
 ||xweblaxbwsinuji.com^
 ||xwiashrkcpvns.love^

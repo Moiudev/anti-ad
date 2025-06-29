@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 88pIaBUcZxRFgsPDgwJMwg
-! Version: 202506290601
+! Checksum: XiPOkU/CezugdSvJCV1e1g
+! Version: 202506290801
 ! Title: EasyList
-! Last modified: 29 Jun 2025 06:01 UTC
+! Last modified: 29 Jun 2025 08:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -24628,6 +24628,7 @@ browsershots.org#@#.advert_area
 ||fdiirjong.com^
 ||fdjwhykja.com^
 ||fdlqccbxhqthy.com^
+||fdnaylrjswdud.space^
 ||fdnkwqgwrd.com^
 ||fdolspwa.my^
 ||fdubsbonier.top^
@@ -27037,6 +27038,7 @@ browsershots.org#@#.advert_area
 ||hj6y7jrhnysuchtjhw.info^
 ||hjalma.com^
 ||hjbtunmh.com^
+||hjcgucgcypvex.store^
 ||hjcpyuivygenx.rocks^
 ||hjgyvykaybgrq.com^
 ||hjiqepnmicea.com^
@@ -28264,6 +28266,7 @@ browsershots.org#@#.advert_area
 ||izitrckr.com^
 ||izjzyykiyn.club^
 ||izlok.xyz^
+||izqordiqqvw.com^
 ||izrnvo.com^
 ||izvtmrynby.com^
 ||izzdenxdxrbdc.space^
@@ -29127,6 +29130,7 @@ browsershots.org#@#.advert_area
 ||kkeichcdm.xyz^
 ||kkeugrilxgql.com^
 ||kkgrttfmi.com^
+||kkhfsefqdurod.site^
 ||kkhmhgbcrceip.website^
 ||kkieeoxcjpqah.vip^
 ||kkluibrulalda.website^
@@ -30265,6 +30269,7 @@ browsershots.org#@#.advert_area
 ||lsjne.com^
 ||lskillsexkcerl.com^
 ||lsoextraorfekin.com^
+||lsqyahmytfwhn.store^
 ||lsupvtyjffooymb.xyz^
 ||lsuwndhxt.com^
 ||lswhomfiluabmep.com^
@@ -30436,6 +30441,7 @@ browsershots.org#@#.advert_area
 ||lyssapebble.com^
 ||lyticaframeofm.com^
 ||lyvdfawjhzdk.com^
+||lyvkvqitzktkx.store^
 ||lywasnothycanty.info^
 ||lzazqroyklozv.top^
 ||lzbwprvfzvbdx.website^
@@ -35727,6 +35733,7 @@ browsershots.org#@#.advert_area
 ||razzlebuyer.com^
 ||rbejwzfebcxaz.world^
 ||rbmigxiog.com^
+||rbnxgaugxdd.com^
 ||rboyqkyojrelk.top^
 ||rboyqkyojrjbv.top^
 ||rboyqkyrwrvkq.top^
@@ -36933,6 +36940,7 @@ browsershots.org#@#.advert_area
 ||sanoithmefeyau.com^
 ||sanovhva.com^
 ||sanseemp.com^
+||sanseisspeeded.shop^
 ||santonpardal.com^
 ||santosattestation.com^
 ||santuao.xyz^
@@ -37653,6 +37661,7 @@ browsershots.org#@#.advert_area
 ||sjqvpjbcffhbv.site^
 ||sjrejapufeaixvr.com^
 ||sjtactic.com^
+||sjvaovqhn.com^
 ||skaldmishara.top^
 ||skated.co^
 ||skatestooped.com^
@@ -42329,6 +42338,7 @@ browsershots.org#@#.advert_area
 ||youservit.com^
 ||youtube.local^
 ||yowmelhhkeovd.store^
+||yoxkmkrrfses.com^
 ||yoxwrdiw.com^
 ||yoyadsdom.com^
 ||ype7.com^

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: JKlNvctQCgikjL2L+fbzTw
-! Version: 202506291201
+! Checksum: nn6fK6fiDcmzwZ9x91so1g
+! Version: 202506291401
 ! Title: EasyList
-! Last modified: 29 Jun 2025 12:01 UTC
+! Last modified: 29 Jun 2025 14:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -19511,6 +19511,7 @@ browsershots.org#@#.advert_area
 ||bghxhsfhrfqhr.website^
 ||bgkec.global^
 ||bgwafghjtwywv.online^
+||bgykufdn.xyz^
 ||bh3.net^
 ||bhalukecky.com^
 ||bhavarizzar.top^
@@ -23450,6 +23451,7 @@ browsershots.org#@#.advert_area
 ||duomoscrinkum.shop^
 ||dupgacnamopt.com^
 ||duphkyabmh.com^
+||dupingareoles.top^
 ||dupsyduckom.com^
 ||dupy-hsjctyn.icu^
 ||duringcereal.com^
@@ -24908,6 +24910,7 @@ browsershots.org#@#.advert_area
 ||fkacazvha.com^
 ||fkbkun.com^
 ||fkbwtoopwg.com^
+||fkgtbsgy.com^
 ||fkjcuovnhzaaz.love^
 ||fkkicdtg.com^
 ||fkklcqmeqoerb.space^
@@ -28548,6 +28551,7 @@ browsershots.org#@#.advert_area
 ||jksmaafnkdyni.store^
 ||jktabzfgykmxa.top^
 ||jkuxishhikp.com^
+||jkzakzazloaby.top^
 ||jkzakzazlojbl.top^
 ||jkzakzazlojvz.top^
 ||jl63v3fp1.com^
@@ -28657,6 +28661,7 @@ browsershots.org#@#.advert_area
 ||jqjpwocbgtxlkw.com^
 ||jqmebveabqvb.top^
 ||jqmebwvmbrvz.top^
+||jqnwqnwnvgwzb.top^
 ||jqpuqbkbauung.xyz^
 ||jqskyncpqpqtb.site^
 ||jqtfoe92.com^
@@ -28955,6 +28960,7 @@ browsershots.org#@#.advert_area
 ||kbylvuaxsrtoi.site^
 ||kcaactpkyp.com^
 ||kcaodbdtyobr.com^
+||kcbilgqjeuewx.online^
 ||kcdn.xyz^
 ||kcfdom.com^
 ||kcggmyeag.com^
@@ -29054,6 +29060,7 @@ browsershots.org#@#.advert_area
 ||kgmboksmi.com^
 ||kgutiokknx.com^
 ||kgvvvgxtvi.rocks^
+||kgxaiyasvrtdf.website^
 ||kh-bkcvqxc.online^
 ||khamtiidolum.com^
 ||khangalenten.click^
@@ -29367,6 +29374,7 @@ browsershots.org#@#.advert_area
 ||kubicadza.xyz^
 ||kubicserves.icu^
 ||kuboduujemm.com^
+||kucjruobxquvg.website^
 ||kucqcaajuegqd.com^
 ||kudpahmudfzi.com^
 ||kudqcuxadw.com^
@@ -32314,6 +32322,7 @@ browsershots.org#@#.advert_area
 ||nstytzmbwuylf.site^
 ||nsurowis.com^
 ||nswsoyyold.com^
+||nsxhkrtaewfns.com^
 ||nszbiwxorynnf.xyz^
 ||ntativesathyasesum.com^
 ||ntdhfhpr-o.rocks^
@@ -35496,6 +35505,7 @@ browsershots.org#@#.advert_area
 ||quarterbacknervous.com^
 ||quatrefeuillepolonaise.xyz^
 ||quavereverydayby.com^
+||qubeqxnx.com^
 ||queasydashed.top^
 ||queasypolenta.com^
 ||queasytonight.com^
@@ -38244,6 +38254,7 @@ browsershots.org#@#.advert_area
 ||ssqaoiismhonn.online^
 ||ssqyuvavse.com^
 ||ssrdnoeohalot.online^
+||sstlsdpjxyrko.space^
 ||sstnupuv.com^
 ||ssurnwwqqp.com^
 ||ssvajgzmqrtxa.online^

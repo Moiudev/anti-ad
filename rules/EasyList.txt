@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: XiPOkU/CezugdSvJCV1e1g
-! Version: 202506290801
+! Checksum: MxcZTZ3rVFkYXFiUcuZW6A
+! Version: 202506291001
 ! Title: EasyList
-! Last modified: 29 Jun 2025 08:01 UTC
+! Last modified: 29 Jun 2025 10:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -21725,6 +21725,7 @@ browsershots.org#@#.advert_area
 ||coppasedo.top^
 ||coppercranberrylamp.com^
 ||copperjav182.fun^
+||copplesolid.shop^
 ||copycatsoirees.top^
 ||copyrightmonastery.com^
 ||cor8ni3shwerex.com^
@@ -23462,6 +23463,7 @@ browsershots.org#@#.advert_area
 ||dvattbwxiofrk.site^
 ||dvbwfdwae.com^
 ||dvkxchzb.com^
+||dvturptolpdd.com^
 ||dvulz.org^
 ||dvvemmg.com^
 ||dvwedvktkcsvw.vip^
@@ -31995,6 +31997,7 @@ browsershots.org#@#.advert_area
 ||ngshospicalada.com^
 ||ngsinspiringtga.info^
 ||ngupfromavi.org^
+||nhcgucgrsnupg.online^
 ||nhdkovgsxbbn.com^
 ||nheappyrincen.info^
 ||nhgpidvhdzm.vip^
@@ -32247,6 +32250,7 @@ browsershots.org#@#.advert_area
 ||nozoakamsaun.net^
 ||nozzlespaccha.com^
 ||npcad.com^
+||npcta.xyz^
 ||npdlubqluhonw.space^
 ||npdnnsgg.com^
 ||npecialukizeiasnin.com^
@@ -32641,6 +32645,7 @@ browsershots.org#@#.advert_area
 ||oeu3it2m.xyz^
 ||oeuwiqfdjr.com^
 ||oevll.com^
+||oewjbowlfffkwav.com^
 ||oewoerswnxfvhtb.com^
 ||oeygnijl.com^
 ||of-bo.com^
@@ -40134,6 +40139,7 @@ browsershots.org#@#.advert_area
 ||ufbdsrwiwcrx.com^
 ||ufindsoul.com^
 ||ufjwqdmqzlquq.world^
+||ufmdtcyprejjm.site^
 ||ufnpnsisctipl.online^
 ||ufoacmocmu.net^
 ||ufouxbwn.com^
@@ -41151,6 +41157,7 @@ browsershots.org#@#.advert_area
 ||vwahacrubri.com^
 ||vwmdzetaikxvc.site^
 ||vwpttkoh.xyz^
+||vwtcrfoovanir.online^
 ||vwwydixeuufec.tech^
 ||vwwzygltq.com^
 ||vwxfxcamyhpqq.online^

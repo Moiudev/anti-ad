@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: T6qhQXTxOiSQk/8W7D/FbA
-! Version: 202506300801
+! Checksum: R7F3y6cOo6zcOApIa064Ow
+! Version: 202506301001
 ! Title: EasyList
-! Last modified: 30 Jun 2025 08:01 UTC
+! Last modified: 30 Jun 2025 10:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -23950,6 +23950,7 @@ browsershots.org#@#.advert_area
 ||emailon.top^
 ||emancytal.com^
 ||emban.site^
+||embankmalates.top^
 ||embankmentbrand.com^
 ||embarkvision.top^
 ||embarrassment2.fun^
@@ -24104,6 +24105,7 @@ browsershots.org#@#.advert_area
 ||envious-low.com^
 ||enviousinevitable.com^
 ||environmental3x.fun^
+||enwgkdbgbzwil.online^
 ||enwoveveneer.com^
 ||eobrndvhdrf.com^
 ||eocxfdzi.com^
@@ -26125,6 +26127,7 @@ browsershots.org#@#.advert_area
 ||gobletauxiliary.com^
 ||gobmodfoe.com^
 ||gobreadthpopcorn.com^
+||gocolow.com^
 ||godforsakensubordinatewiped.com^
 ||godfreyapocarp.top^
 ||godkc.com^
@@ -26452,6 +26455,7 @@ browsershots.org#@#.advert_area
 ||gtbbgjo.art^
 ||gtbdhr.com^
 ||gtghsgrneexou.website^
+||gthduwvnqrq.com^
 ||gthecoastand.org^
 ||gthin.site^
 ||gtjlmypr.com^
@@ -28755,6 +28759,7 @@ browsershots.org#@#.advert_area
 ||jrvrkzrjrmoyy.top^
 ||jrvvpbggu.com^
 ||jrxccqmxg.com^
+||jrxgcthoussjz.store^
 ||jrzrqi0au.com^
 ||js-check.com^
 ||js.manga1000.top^
@@ -29252,6 +29257,7 @@ browsershots.org#@#.advert_area
 ||kmfkiwghhe.xyz^
 ||kmhmmhmj.com^
 ||kmjveezxebpqs.website^
+||kmlnllmoajnwa.top^
 ||kmmrukqrphix.com^
 ||kmodukuleqasfo.info^
 ||kmrstdqeptom.com^
@@ -30171,6 +30177,7 @@ browsershots.org#@#.advert_area
 ||loftyeliteseparate.com^
 ||logicdate.com^
 ||logicschort.com^
+||logilycathop.shop^
 ||loginlockssignal.com^
 ||logriamorels.shop^
 ||loijtoottuleringv.info^
@@ -31062,6 +31069,7 @@ browsershots.org#@#.advert_area
 ||mfrgfuaq.com^
 ||mfuodmpu.com^
 ||mfuotcojjowsa.website^
+||mfwdigbir.com^
 ||mfyavsmiha.com^
 ||mfyktikuvq.com^
 ||mfylalov.com^
@@ -35396,6 +35404,7 @@ browsershots.org#@#.advert_area
 ||qfoufvpyqcgjue.com^
 ||qfqdbkxmovpli.xyz^
 ||qfwwhelkdjaeu.buzz^
+||qgdgcbtfuxgra.store^
 ||qgerr.com^
 ||qgevavwyafjf.com^
 ||qghnxwkybpo.xyz^
@@ -39589,6 +39598,7 @@ browsershots.org#@#.advert_area
 ||toffeebigot.com^
 ||toffiesinsecta.top^
 ||toforebhut.top^
+||togefaeuxdrbvq.xyz^
 ||togemantedious.top^
 ||togenron.com^
 ||togerspas.com^
@@ -40706,6 +40716,7 @@ browsershots.org#@#.advert_area
 ||uxgopmreteyrybb.com^
 ||uxmyqylrghrlmor.com^
 ||uxnrnsfybjmxgw.com^
+||uxwinyafloqfy.store^
 ||uxzqnsss.com^
 ||uydyqlnebqlwe.global^
 ||uyiteasacomsys.info^
@@ -41830,6 +41841,7 @@ browsershots.org#@#.advert_area
 ||wmeqoborqbkjw.top^
 ||wmeqoborqboyv.top^
 ||wmgtr.com^
+||wmlollmkvjoev.top^
 ||wmlollmkvybzm.top^
 ||wmmrbwiyztgeg.top^
 ||wmnfqywhoauuo.website^

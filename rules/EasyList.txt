@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 7WBl6RP1uzWZaopEpSh35Q
-! Version: 202506302001
+! Checksum: toeFOZYxRruLk+GrkZtUDQ
+! Version: 202506302201
 ! Title: EasyList
-! Last modified: 30 Jun 2025 20:01 UTC
+! Last modified: 30 Jun 2025 22:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -19527,6 +19527,7 @@ browsershots.org#@#.advert_area
 ||bgkec.global^
 ||bgwafghjtwywv.online^
 ||bgykufdn.xyz^
+||bgyrhxxcxwcih.site^
 ||bh3.net^
 ||bhalukecky.com^
 ||bhavarizzar.top^
@@ -20346,6 +20347,7 @@ browsershots.org#@#.advert_area
 ||buzzflying.shop^
 ||buzzingdiscrepancyheadphone.com^
 ||bvaklczasp.com^
+||bvhxiysrndwbg.site^
 ||bvmcdn.com^
 ||bvmcdn.net^
 ||bvpxcipgpcjuonv.com^
@@ -21002,6 +21004,7 @@ browsershots.org#@#.advert_area
 ||chimerabellowstranger.com^
 ||chinacontraryintrepid.com^
 ||chinaslauras.com^
+||chinesskraigh.shop^
 ||chingbicched.top^
 ||chiolxkuzji.com^
 ||chioursorspolia.com^
@@ -22466,6 +22469,7 @@ browsershots.org#@#.advert_area
 ||dblcpptvxdbeq.com^
 ||dblhqefpt.com^
 ||dblowthrou.com^
+||dbmgikwoijnhu.online^
 ||dbr9gtaf8.com^
 ||dbuq47t160425b.cfd^
 ||dbvpikc.com^
@@ -23880,6 +23884,7 @@ browsershots.org#@#.advert_area
 ||ejsgmeirtaumd.store^
 ||ejuiashsateampl.info^
 ||ejymvnquqvrf.com^
+||ekaacdiilusiw.space^
 ||ekamsply.com^
 ||ekbuvvtbx.com^
 ||ekdllcgoehbht.store^
@@ -25500,6 +25505,7 @@ browsershots.org#@#.advert_area
 ||fvcwqkkqmuv.com^
 ||fvebcbtqiw.com^
 ||fvgdxnfwkpibuyh.com^
+||fvjhdijvqirab.site^
 ||fvmiafwauhy.fun^
 ||fvohyywkbc.com^
 ||fvqmmhyhrtdsu.space^
@@ -31572,6 +31578,7 @@ browsershots.org#@#.advert_area
 ||mpuxitaf.com^
 ||mpwhizbkgewzg.vip^
 ||mpwpttkomxhhb.vip^
+||mpxncvjhw.com^
 ||mpxrcrlndnsw.com^
 ||mqabjtgli.xyz^
 ||mqdownload.com^
@@ -35178,6 +35185,7 @@ browsershots.org#@#.advert_area
 ||punosend.com^
 ||punosy.best^
 ||punosy.com^
+||punprrulfs.xyz^
 ||punrbligpisll.life^
 ||puntingdeg.com^
 ||pupilarouranos.com^
@@ -39193,6 +39201,7 @@ browsershots.org#@#.advert_area
 ||teilfwsehxd.com^
 ||tejanofoxwood.shop^
 ||tejoafotocmal.com^
+||tekkereuel.shop^
 ||teknologia.co^
 ||teksishe.net^
 ||tektosfolic.com^
@@ -40175,6 +40184,7 @@ browsershots.org#@#.advert_area
 ||tuxbpnne.com^
 ||tuxqcyqrybhi.com^
 ||tuyexdwuboyuw.top^
+||tvawfmeccsyqiq.com^
 ||tvcusptktzlsa.website^
 ||tvfmefaywc.com^
 ||tviarpvxe.com^
@@ -40605,6 +40615,7 @@ browsershots.org#@#.advert_area
 ||unwritten-cash.com^
 ||unxmlkgwrslom.com^
 ||unylgxxmrsbb.com^
+||uocmfqesx.com^
 ||uod2quk646.com^
 ||uoenkcbxwumqh.xyz^
 ||uoetderxqnv.com^
@@ -41180,6 +41191,7 @@ browsershots.org#@#.advert_area
 ||vjlocpypzmhzr.website^
 ||vjlyljbylmeel.top^
 ||vjlyljbylmemj.top^
+||vjmmwgkymznml.top^
 ||vjmrjomeljwrw.top^
 ||vjnzknmvnmbnv.top^
 ||vjojjdird.com^
@@ -42866,6 +42878,7 @@ browsershots.org#@#.advert_area
 ||zqraicojravzn.xyz^
 ||zqvee2re50mr.com^
 ||zqvvzrlevbkbz.top^
+||zqvvzrlevbmvj.top^
 ||zqwe.ru^
 ||zrakos.com^
 ||zrilwyoc.com^

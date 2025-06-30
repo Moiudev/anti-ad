@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: R7F3y6cOo6zcOApIa064Ow
-! Version: 202506301001
+! Checksum: 4nRsFEKTs7nvVcdGgt6ndQ
+! Version: 202506301201
 ! Title: EasyList
-! Last modified: 30 Jun 2025 10:01 UTC
+! Last modified: 30 Jun 2025 12:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -19777,6 +19777,7 @@ browsershots.org#@#.advert_area
 ||blurbreimbursetrombone.com^
 ||blursverism.com^
 ||blwviknoqfpij.online^
+||blxddjwomsump.store^
 ||bmabtauwjtopf.site^
 ||bmcdn1.com^
 ||bmcdn2.com^
@@ -23595,6 +23596,7 @@ browsershots.org#@#.advert_area
 ||ealiukzemydreamsa.com^
 ||eallywasnothyca.com^
 ||eanff.com^
+||eanjuliw.com^
 ||eanlingtumfie.com^
 ||eanresultancet.com^
 ||earbossysavvy.com^
@@ -24329,6 +24331,7 @@ browsershots.org#@#.advert_area
 ||evokeinexpedientfastened.com^
 ||evouxoup.com^
 ||evsw-zfdmag.one^
+||evujxxeb.com^
 ||evushuco.com^
 ||evzhzppj5kel.com^
 ||evzrqgvsgngmg.world^
@@ -25619,6 +25622,7 @@ browsershots.org#@#.advert_area
 ||gapgrewarea.com^
 ||gappoison.com^
 ||gaptooju.net^
+||gaqjhqjowwygp.site^
 ||gaquxe8.site^
 ||garbagebanquetintercept.com^
 ||garbageshallotsnowiness.com^
@@ -26557,6 +26561,7 @@ browsershots.org#@#.advert_area
 ||gwyghgefh.com^
 ||gx101.com^
 ||gxdzfyg.com^
+||gxetowrzlnqbf.online^
 ||gxfh59u4.xyz^
 ||gxggdemkoaf.com^
 ||gxhlfbjcubhf.com^
@@ -28354,6 +28359,7 @@ browsershots.org#@#.advert_area
 ||jads.cc^
 ||jads.co^
 ||jadtottuleret.org^
+||jaforvsuneysw.website^
 ||jagerstaposa.shop^
 ||jaggedshoebruised.com^
 ||jaggyaffine.top^
@@ -28620,6 +28626,7 @@ browsershots.org#@#.advert_area
 ||jlnxjwmeadaw.com^
 ||jlotlwqrgmpxfh.com^
 ||jlvoidsvcfs.com^
+||jmicdumecufvo.site^
 ||jmjuivzcp.com^
 ||jmnktmmkiitir.site^
 ||jmpmedia.club^
@@ -29481,6 +29488,7 @@ browsershots.org#@#.advert_area
 ||kvbojuxkwvcfk.global^
 ||kveyasqwqppaoki.com^
 ||kvfaevkeloxrr.com^
+||kvibsqutr.com^
 ||kvozsayiewspf.rocks^
 ||kvtgl4who.com^
 ||kvum-bpelzw.icu^
@@ -30661,6 +30669,7 @@ browsershots.org#@#.advert_area
 ||maleenhancement.top^
 ||maleliteral.com^
 ||malelocated.com^
+||malgrsememe.top^
 ||malikabusers.top^
 ||maljuggu.com^
 ||malletdetour.com^
@@ -32903,6 +32912,7 @@ browsershots.org#@#.advert_area
 ||ojkaqzrcy.com^
 ||ojkduzbm.com^
 ||ojkfmoackqp.com^
+||ojkopkorzlce.com^
 ||ojoooaogovqbn.top^
 ||ojrq.net^
 ||ojsxtysilofk.com^
@@ -39687,6 +39697,7 @@ browsershots.org#@#.advert_area
 ||toptrendyinc.com^
 ||topworkredbay.shop^
 ||toquetbircher.com^
+||tordiondisnew.shop^
 ||torebureaucracytrade.com^
 ||torejogging.com^
 ||torhydona.com^
@@ -39902,6 +39913,7 @@ browsershots.org#@#.advert_area
 ||trijetsables.shop^
 ||trikerboughs.com^
 ||trimpur.com^
+||trinityhootch.shop^
 ||trioecsdespeed.top^
 ||tripl3a.com^
 ||tripledeliveryinstance.com^

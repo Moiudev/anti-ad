@@ -2693,6 +2693,7 @@ sp.manga.nicovideo.jp##div[style^="--ads-width:"]
 !
 ! SECTION: Regular rules
 !
+missav.fans##.space-y-5:has(> div > div.mx-auto > script[src^="//cdn-tsyndicate.missav.fans/"])
 miniwebtool.com#$#.mobileonly:has(> div[data-fuse]) { display: none !important; }
 miniwebtool.com#$##dSpace { display: none !important; }
 miniwebtool.com#$##topbar { top: 0 !important; }
@@ -3705,6 +3706,7 @@ erry.one###sp_cont_footer
 erry.one###sp_top_footer
 erry.one###sp_search_head
 zerohedge.com###leaderboard-mobile
+ameblo.jp##main + div[class=""] + aside[class^="_"] > div[class^="_"] > div[class^="_"]:only-child:has(> div:not([class]):empty:only-child)
 ameblo.jp##div[style="overflow:hidden"] > main + div + aside[class^="_"]:only-of-type
 ameblo.jp##div[style="min-height:180px"]
 masutabe.info###sp_top_middle

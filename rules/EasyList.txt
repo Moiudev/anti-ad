@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 6pgfdrbMwHKNNDzs1wnE/Q
-! Version: 202506300601
+! Checksum: T6qhQXTxOiSQk/8W7D/FbA
+! Version: 202506300801
 ! Title: EasyList
-! Last modified: 30 Jun 2025 06:01 UTC
+! Last modified: 30 Jun 2025 08:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -17759,6 +17759,7 @@ browsershots.org#@#.advert_area
 ||alfetstamps.com^
 ||alfredvariablecavalry.com^
 ||algediduala.com^
+||algjbzwaljqmb.top^
 ||algolduckan.com^
 ||algothitaon.com^
 ||alhypnoom.com^
@@ -25907,6 +25908,7 @@ browsershots.org#@#.advert_area
 ||gjrlcxthtkeab.site^
 ||gjwos.org^
 ||gk79a2oup.com^
+||gkaarwpa.com^
 ||gkaosmmuso.com^
 ||gkbhrj49a.com^
 ||gkbpmrtixkzui.one^
@@ -27682,6 +27684,7 @@ browsershots.org#@#.advert_area
 ||ijhweandthepe.info^
 ||ijhxe.com^
 ||ijhyugb.com^
+||ijjbtolmmnoas.space^
 ||ijjorsrnydjcwx.com^
 ||ijlzykbl.com^
 ||ijobloemotherofh.com^
@@ -28539,6 +28542,7 @@ browsershots.org#@#.advert_area
 ||jhomifwcybu.com^
 ||jhpgrmboknxjyy.xyz^
 ||jhu8u9.pro^
+||jhxfplpawtdxv.space^
 ||jiakihtkynvks.today^
 ||jibbahazara.top^
 ||jicamadoless.com^
@@ -28856,6 +28860,7 @@ browsershots.org#@#.advert_area
 ||justpremium.com^
 ||justservingfiles.net^
 ||juvjimicwbauuw.com^
+||juxpdnekqdmka.space^
 ||juywkhbpmswmq.website^
 ||juzaugleed.com^
 ||jvcjnmd.com^
@@ -31498,6 +31503,7 @@ browsershots.org#@#.advert_area
 ||moviesprofit.com^
 ||mowcawdetour.com^
 ||mowcoordinateegypt.com^
+||moxhqysntmgkv.store^
 ||moxothove.pro^
 ||mozgvya.com^
 ||mozoo.com^
@@ -32537,6 +32543,7 @@ browsershots.org#@#.advert_area
 ||nyquazhpvouya.website^
 ||nythathaveresul.org^
 ||nythingamglad.com^
+||nytkpwlrqtswcdh.com^
 ||nytrng.com^
 ||nyvzocirybwts.website^
 ||nzedgbyp.com^
@@ -33922,6 +33929,7 @@ browsershots.org#@#.advert_area
 ||pearlysweepoverface.com^
 ||peartengrousy.top^
 ||peasacknowledged.com^
+||peasantratio.com^
 ||peasbishopgive.com^
 ||pecantinglytripod.com^
 ||pecialukizeias.info^
@@ -34807,6 +34815,7 @@ browsershots.org#@#.advert_area
 ||professionalbusinesstoday.xyz^
 ||professionallygravitationbackwards.com^
 ||professionalsly.com^
+||professionaltrafficmonitor.com^
 ||professorrevealingoctopus.com^
 ||profitablearticle.pro^
 ||profitablecpmgate.com^
@@ -36717,6 +36726,7 @@ browsershots.org#@#.advert_area
 ||rqzolelelmayy.top^
 ||rrayqhqxmybn.com^
 ||rrbzvmklrzwmk.top^
+||rrbzvmklrzwov.top^
 ||rreftyonkak.com^
 ||rregahfuk.com^
 ||rrentlysearchi.org^
@@ -40286,6 +40296,7 @@ browsershots.org#@#.advert_area
 ||uidsync.net^
 ||uiikqirdiessi.love^
 ||uikyqdtressuj.online^
+||uilsfoqtjwyc.xyz^
 ||uimserv.net^
 ||uingroundhe.com^
 ||uinnertablis.com^
@@ -42394,6 +42405,7 @@ browsershots.org#@#.advert_area
 ||yiloaguwoauyd.site^
 ||yim3eyv5.top^
 ||yimemediatesup.com^
+||yimfrbit.com^
 ||yinteukrestinafu.com^
 ||yipsmorro.shop^
 ||yiptvlajyrmmc.top^

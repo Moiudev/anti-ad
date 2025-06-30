@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ZTdQk9kfhfagujeH3xedAQ
-! Version: 202506301801
+! Checksum: 7WBl6RP1uzWZaopEpSh35Q
+! Version: 202506302001
 ! Title: EasyList
-! Last modified: 30 Jun 2025 18:01 UTC
+! Last modified: 30 Jun 2025 20:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -21195,6 +21195,7 @@ browsershots.org#@#.advert_area
 ||classicnumeralsascertained.com^
 ||classicsactually.com^
 ||classicseight.com^
+||claststrot.shop^
 ||clauseemploy.com^
 ||clausepredatory.com^
 ||claxonsmoiest.top^
@@ -24159,6 +24160,7 @@ browsershots.org#@#.advert_area
 ||epyqerhah.com^
 ||eqads.com^
 ||eqfhimjiqqfj.com^
+||eqpegetkd.com^
 ||equanimitypresentimentelectronics.com^
 ||equides.pro^
 ||equilibriumfestive.com^
@@ -24496,6 +24498,7 @@ browsershots.org#@#.advert_area
 ||eyrybuiltin.shop^
 ||eysismhqh.com^
 ||eywgfqcbowl.com^
+||eyyejsherkfws.online^
 ||eyzvgeopbjuewk.com^
 ||ezaicmee.xyz^
 ||ezcgojaamg.com^
@@ -28587,6 +28590,7 @@ browsershots.org#@#.advert_area
 ||jildiklta.com^
 ||jilmruon.com^
 ||jilsfina.com^
+||jimimpwmgzycc.site^
 ||jimpaurgoucmogh.net^
 ||jingalbundles.com^
 ||jingumusked.shop^
@@ -32927,6 +32931,7 @@ browsershots.org#@#.advert_area
 ||oisfwfiayxtbw.com^
 ||oiycak.com^
 ||oiyhpucamolav.website^
+||oiysoleknqk.xyz^
 ||oiziuuioqli.com^
 ||ojarfqpwi.com^
 ||ojbnjknowngbg.top^
@@ -32996,6 +33001,7 @@ browsershots.org#@#.advert_area
 ||olxoqmotw.com^
 ||olxwweaf.com^
 ||olxxugltoku.com^
+||olygkygvvlnzm.top^
 ||omarcheopson.com^
 ||omareeper.com^
 ||omasatra.com^
@@ -34822,6 +34828,7 @@ browsershots.org#@#.advert_area
 ||prmtracking3.com^
 ||prmtracks.com^
 ||prngpwifu.com^
+||prntyehnwetaeh.com^
 ||pro-adblocker.com^
 ||pro-advert.de^
 ||pro-market.net^
@@ -40845,6 +40852,7 @@ browsershots.org#@#.advert_area
 ||vapedia.com^
 ||vapnecltonjc.com^
 ||vaqykqyvvazbz.top^
+||vaqykqyvvazwm.top^
 ||variablehour.com^
 ||variationsradio.com^
 ||variedpretenceclasped.com^
@@ -42370,6 +42378,7 @@ browsershots.org#@#.advert_area
 ||xygliwhawu.com^
 ||xylidichiatus.shop^
 ||xylzwamxxshgw.click^
+||xysxkzzygujpn.website^
 ||xyxz.site^
 ||xyyoajnithcry.online^
 ||xyz0k4gfs.xyz^
@@ -42558,6 +42567,7 @@ browsershots.org#@#.advert_area
 ||ype7.com^
 ||ypedyumnpafvy.xyz^
 ||ypersonalrecome.com^
+||ypfwfhvhvwgfw.store^
 ||yphmaqcyhpfyz.store^
 ||yprocedentwith.com^
 ||yqjshgx.bar^

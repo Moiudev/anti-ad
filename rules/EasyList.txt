@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: g1w7QnfgCqgrWA3LHAgxgw
-! Version: 202507010421
+! Checksum: 6gAKglYoID/0eLBmwg8E0g
+! Version: 202507010601
 ! Title: EasyList
-! Last modified: 01 Jul 2025 04:21 UTC
+! Last modified: 01 Jul 2025 06:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -17407,6 +17407,7 @@ browsershots.org#@#.advert_area
 ||affluentarmyequator.com^
 ||affluentretinueelegance.com^
 ||affnamzwon.com^
+||affoggsic.com^
 ||affordedseasick.com^
 ||affordnope.com^
 ||affordspoonsgray.com^
@@ -18405,6 +18406,7 @@ browsershots.org#@#.advert_area
 ||asacdn.com^
 ||asadirectrestof.com^
 ||asafesite.com^
+||asagazsfxlgvx.space^
 ||asajojgerewebnew.com^
 ||asakfreath.top^
 ||asbtowhysyfcp.com^
@@ -21878,6 +21880,7 @@ browsershots.org#@#.advert_area
 ||cpmpodmkqdjlsb.com^
 ||cpmprofitablenetwork.com^
 ||cpmrevenuegate.com^
+||cpmroi.com^
 ||cpmspace.com^
 ||cpmtree.com^
 ||cpngiubbcnq.love^
@@ -21976,6 +21979,7 @@ browsershots.org#@#.advert_area
 ||cretgate.com^
 ||creticennoic.top^
 ||crevicedepressingpumpkin.com^
+||crianthowdahs.com^
 ||criesplucker.top^
 ||criesstarch.com^
 ||crimeagc.com^
@@ -22624,6 +22628,7 @@ browsershots.org#@#.advert_area
 ||degreaseserpentwashhouse.com^
 ||degreewhether.com^
 ||degutu.xyz^
+||dehhgudvuktktgk.com^
 ||deicedchooky.shop^
 ||deityhumcelery.com^
 ||deitynosebleed.com^
@@ -28195,6 +28200,7 @@ browsershots.org#@#.advert_area
 ||ipsokaphaush.com^
 ||ipsowrite.com^
 ||iptautup.com^
+||iqgrerrkcwdxj.store^
 ||iqnlxzueadjrg.website^
 ||iqtest365.online^
 ||iramb.site^
@@ -35934,6 +35940,7 @@ browsershots.org#@#.advert_area
 ||rawasy.com^
 ||rawmeasurement.pro^
 ||rawoarsy.com^
+||raxxkxvipsusz.site^
 ||raylnk.com^
 ||raymondcarryingordered.com^
 ||razzlebuyer.com^
@@ -37271,6 +37278,7 @@ browsershots.org#@#.advert_area
 ||schoolmasterconveyedladies.com^
 ||schoolnotwithstandingconfinement.com^
 ||schoonnonform.com^
+||schriktrachea.top^
 ||sciadopi5tysverticil1lata.com^
 ||scidationgly.com^
 ||scientific-doubt.com^
@@ -37963,6 +37971,7 @@ browsershots.org#@#.advert_area
 ||slightcareconditions.com^
 ||slightestpretenddebate.com^
 ||slimelump.com^
+||slimeslangiel.com^
 ||slimespell.com^
 ||slimymouth.pro^
 ||slimytree.com^
@@ -39191,6 +39200,7 @@ browsershots.org#@#.advert_area
 ||teamsoutspoken.com^
 ||teamsperilous.com^
 ||teapotsobbing.com^
+||tearcatjunior.com^
 ||tearingsinnerprinciples.com^
 ||tearoomzebus.top^
 ||teaslebasnet.top^

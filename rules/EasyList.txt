@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: TspdYs5Fe7BBo1xqUMN2bQ
-! Version: 202507010041
+! Checksum: Mpw7IMWjq4ukHCH3CzuWYA
+! Version: 202507010311
 ! Title: EasyList
-! Last modified: 01 Jul 2025 00:41 UTC
+! Last modified: 01 Jul 2025 03:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -21736,6 +21736,7 @@ browsershots.org#@#.advert_area
 ||coolehim.xyz^
 ||coolerconvent.com^
 ||coolerpassagesshed.com^
+||coolersweedy.top^
 ||coolestbasis.com^
 ||coolestreactionstems.com^
 ||coolingvaluer.com^
@@ -25360,6 +25361,7 @@ browsershots.org#@#.advert_area
 ||frizzannoyance.com^
 ||frizzystrip.pro^
 ||frmmqfwviupoa.today^
+||frmwpkwntbyau.store^
 ||frockherbal.com^
 ||frockinhale.top^
 ||frogeyeparaiba.top^
@@ -25520,6 +25522,7 @@ browsershots.org#@#.advert_area
 ||fwecargurha.com^
 ||fwedzajar.com^
 ||fwmrm.net^
+||fwtmxfwijnpok.com^
 ||fwtntihjaqbko.com^
 ||fwtrck.com^
 ||fxawjrcpzkyvd.online^
@@ -28192,6 +28195,7 @@ browsershots.org#@#.advert_area
 ||iqtest365.online^
 ||iramb.site^
 ||irbvstqvt.com^
+||irclsopmebtqz.space^
 ||iredindeedeisasb.com^
 ||iredirect.net^
 ||irgebbxi.com^
@@ -29252,6 +29256,7 @@ browsershots.org#@#.advert_area
 ||kjyytxyetnueu.club^
 ||kkeichcdm.xyz^
 ||kkeugrilxgql.com^
+||kkewvhijxhtns.online^
 ||kkgrttfmi.com^
 ||kkhfsefqdurod.site^
 ||kkhmhgbcrceip.website^
@@ -31129,6 +31134,7 @@ browsershots.org#@#.advert_area
 ||mgcash.com^
 ||mgcld.xyz^
 ||mgdjmp.com^
+||mgfutkkdzvwtg.site^
 ||mghkpg.com^
 ||mgisrlyu.xyz^
 ||mgladthereisso.com^
@@ -31507,6 +31513,7 @@ browsershots.org#@#.advert_area
 ||mornayuplit.top^
 ||morningamidamaruhal.com^
 ||morningglory101.io^
+||morningstraws.com^
 ||morphonexptl.shop^
 ||morrabranta.shop^
 ||morroinane.com^
@@ -31638,6 +31645,7 @@ browsershots.org#@#.advert_area
 ||msrvt.net^
 ||msurjtivvsxvja.com^
 ||msvobeuhec.com^
+||msvwfupknauql.store^
 ||msyysajvion.com^
 ||mszddprapuziw.vip^
 ||mt34iofvjay.com^
@@ -32792,6 +32800,7 @@ browsershots.org#@#.advert_area
 ||oejijdbqnqyvcvy.com^
 ||oekmddefrcntj.com^
 ||oeldtgynjxqbe.online^
+||oeletmolt.top^
 ||oemeomlbkba.com^
 ||oempafnyfiexpe.com^
 ||oemutbhpmcvfpnv.com^
@@ -34760,6 +34769,7 @@ browsershots.org#@#.advert_area
 ||predominanttamper.com^
 ||predrawburp.shop^
 ||predrawfixed.top^
+||prefecturesuggestions.com^
 ||preferablycarbon.com^
 ||preferouter.com^
 ||prefleks.com^
@@ -35323,6 +35333,7 @@ browsershots.org#@#.advert_area
 ||pvdafseagcfcz.site^
 ||pvdbkr.com^
 ||pvnwfoxrfezes.space^
+||pvopqweuwmjl.com^
 ||pvpffqip.com^
 ||pvtnlmysbeigh.website^
 ||pvtqllwgu.com^
@@ -36341,6 +36352,7 @@ browsershots.org#@#.advert_area
 ||retgspondingco.com^
 ||reth45dq.de^
 ||rethankhush.top^
+||rethephrased.com^
 ||rethinkshone.com^
 ||rethootchedurt.net^
 ||reticencecarefully.com^
@@ -38101,6 +38113,7 @@ browsershots.org#@#.advert_area
 ||sofinpushpile.com^
 ||sofoseveralyears.org^
 ||soft-com.biz^
+||soft-sun.com^
 ||softchest.com^
 ||softendevastated.com^
 ||softenedcollar.com^
@@ -39958,6 +39971,7 @@ browsershots.org#@#.advert_area
 ||trendlewiggery.top^
 ||trenhsmp.com^
 ||trenpyle.com^
+||trepanstaunch.com^
 ||trespassapologies.com^
 ||tresultofthepla.com^
 ||treycircle.com^
@@ -44051,6 +44065,7 @@ browsershots.org#@#.advert_area
 ||audience.io^$third-party
 ||audience2media.com^$third-party
 ||audiencerun.com^$third-party
+||audiensi.com^$third-party
 ||autoads.asia^$third-party
 ||automatad.com^$third-party
 ||axiaffiliates.com^$third-party
@@ -58576,6 +58591,7 @@ asmag.com,tiresandparts.net##.top_banner
 joebucsfan.com##.top_banner_cont
 archaeology.org##.top_black
 searchenginejournal.com##.top_lead
+fandom.com##.top_leaderboard-odyssey-wrapper
 justjared.com,justjaredjr.com##.top_rail_shell
 fark.com##.top_right_container
 allnigerianrecipes.com,antimusic.com,roadtests.com##.topad
@@ -60239,6 +60255,7 @@ slickdeals.net##.frontpageGrid__feedItem:has(.dealCardBadge--promoted)
 tumblr.com##.ge_yK:has(.hM19_)
 bestbuy.com##.generic-morpher:has(.spns-label)
 sainsburys.co.uk##.gridItem:has(.citrusAdproduct)
+pstream.org##.group > .border-buttons-purple:has(> button[aria-label="Dismiss ad"])
 fortune.com##.homepage:has(> div[id^="InStream"])
 manomano.co.uk,manomano.de,manomano.es,manomano.fr,manomano.it##.hrHZYT:has([data-testid="popoverTriggersponsoredLabel"])
 dollargeneral.com##.image__desktop-container:has([data-track-image*="|P&G|Gain|"])
@@ -60675,6 +60692,7 @@ freethesaurus.com###qk1
 freethesaurus.com###qk2
 freethesaurus.com###qk5
 realclearpolitics.com###realclear_jwplayer_container
+mashable.com###related-video
 whoer.net###render-big-banners
 ispreview.co.uk###sidebar-slot-5
 wideopencountry.com###sv-video-container

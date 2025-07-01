@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: rtXHnMZ52WFVJk3WH1nOEA
-! Version: 202507011601
+! Checksum: 27ev5ml5AgnS4e0qMgxy4g
+! Version: 202507011801
 ! Title: EasyList
-! Last modified: 01 Jul 2025 16:01 UTC
+! Last modified: 01 Jul 2025 18:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -17511,6 +17511,7 @@ browsershots.org#@#.advert_area
 ||aghqbxxooumzt.com^
 ||agileskincareunrented.com^
 ||agingravenous.com^
+||agipnllerotwte.com^
 ||agisdayra.com^
 ||agitatechampionship.com^
 ||agitatedparquetscam.com^
@@ -28713,6 +28714,7 @@ browsershots.org#@#.advert_area
 ||jmyodtbw.com^
 ||jmyqivmk.com^
 ||jmyrmuozbor.com^
+||jndcdxcoqjroj.store^
 ||jnhjpdayvpzj.com^
 ||jnlzxpnxynucc.com^
 ||jnnjthg.com^
@@ -31999,6 +32001,7 @@ browsershots.org#@#.advert_area
 ||nbottkauyy.com^
 ||nceneverdreamsofc.org^
 ||nceyeykhnltr.com^
+||ncikugowxotj.com^
 ||ncipledeclinerybel.org^
 ||ncojkokhi.com^
 ||ncovakia.shop^
@@ -39254,6 +39257,7 @@ browsershots.org#@#.advert_area
 ||teaspoonbrave.com^
 ||teaspoondaffodilcould.com^
 ||teatyoverput.top^
+||tececoungooboa.com^
 ||techiesbelsire.shop^
 ||techiteration.com^
 ||technicalityindependencesting.com^
@@ -41478,6 +41482,7 @@ browsershots.org#@#.advert_area
 ||vxqfsuwnda.com^
 ||vxsdibhjeyvwf.space^
 ||vxtehkhkv.com^
+||vxtgnbxrhqirjv.com^
 ||vxwmkbtkhtpru.today^
 ||vyebzzqlojjry.top^
 ||vyfrxuytzn.com^

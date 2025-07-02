@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: fG0OeXyOnV+7fwp7IPSI2w
-! Version: 202507020301
+! Checksum: o/kD5n0uMoYbjGZXXaTLRw
+! Version: 202507020411
 ! Title: EasyPrivacy
-! Last modified: 02 Jul 2025 03:01 UTC
+! Last modified: 02 Jul 2025 04:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html

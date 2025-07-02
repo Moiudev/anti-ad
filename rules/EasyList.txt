@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: XlWXlKG3Wf9jZuMv1ao8YQ
-! Version: 202507021201
+! Checksum: ahCWvYe376+c6BDU09TLaQ
+! Version: 202507021401
 ! Title: EasyList
-! Last modified: 02 Jul 2025 12:01 UTC
+! Last modified: 02 Jul 2025 14:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -18004,6 +18004,7 @@ browsershots.org#@#.advert_area
 ||amputeeblk.top^
 ||ampxchange.com^
 ||amshroomishan.com^
+||amsoniajoon.top^
 ||amtgqceeirm.com^
 ||amtracking01.com^
 ||amtropiusr.com^
@@ -18462,6 +18463,7 @@ browsershots.org#@#.advert_area
 ||ashetandrew.com^
 ||ashhgo.com^
 ||ashlarinaugur.com^
+||ashmbgbktnp.com^
 ||ashobzshava.com^
 ||ashoupsu.com^
 ||ashrivetgulped.com^
@@ -19131,6 +19133,7 @@ browsershots.org#@#.advert_area
 ||banetabbeetroot.com^
 ||bangedtelexes.top^
 ||bangtyranclank.com^
+||bangyounding.top^
 ||banhq.com^
 ||banisterslighten.com^
 ||bankerconcludeshare.com^
@@ -23912,6 +23915,7 @@ browsershots.org#@#.advert_area
 ||eidoscruster.com^
 ||eighthpowerfully.com^
 ||eikegolehem.com^
+||eipvcuvqmkkwlqh.com^
 ||eirbrightscarletcl.com^
 ||eisasbeautifulas.com^
 ||eiteribesshaints.com^
@@ -25529,6 +25533,7 @@ browsershots.org#@#.advert_area
 ||furniturehurt.com^
 ||furstraitsbrowse.com^
 ||furtherbasketballoverwhelming.com^
+||furweyzuewxng.com^
 ||furyprosecutionkitchen.com^
 ||furzetshi.com^
 ||fuse-cloud.com^
@@ -25582,6 +25587,7 @@ browsershots.org#@#.advert_area
 ||fxjpbpxvfofa.com^
 ||fxjqswmipvok.com^
 ||fxmnba.com^
+||fxorpwlszobqu.space^
 ||fxpqcygxjib.com^
 ||fxthjlhiybnyf.space^
 ||fxvvraqymwsjmmq.com^
@@ -27459,6 +27465,7 @@ browsershots.org#@#.advert_area
 ||hrmdw8da.net^
 ||hrogrpee.de^
 ||hrqvjugcolghi.com^
+||hrskntmxsuu.com^
 ||hrtennaarn.com^
 ||hrtyc.com^
 ||hrtye.com^
@@ -27731,6 +27738,7 @@ browsershots.org#@#.advert_area
 ||ieqyiojt.com^
 ||ietyofedinj89yewtburgh.com^
 ||iewixvvsbfkwd.world^
+||iexedyiiytvfv.store^
 ||ieyipznx.art^
 ||ieyri61b.xyz^
 ||iezxmddndn.com^
@@ -28723,6 +28731,7 @@ browsershots.org#@#.advert_area
 ||jksmaafnkdyni.store^
 ||jktabzfgykmxa.top^
 ||jkuxishhikp.com^
+||jkyawbmyvvzl.top^
 ||jkzakzazloaby.top^
 ||jkzakzazlojbl.top^
 ||jkzakzazlojvz.top^
@@ -28834,6 +28843,7 @@ browsershots.org#@#.advert_area
 ||jpmpwwmtw.com^
 ||jpooavwizlvf.com^
 ||jptobfdvxtady.online^
+||jqbwkzmboonv.top^
 ||jqilyjagezcqk.site^
 ||jqjpwocbgtxlkw.com^
 ||jqmebveabqvb.top^
@@ -29367,6 +29377,7 @@ browsershots.org#@#.advert_area
 ||kllwynbybjlyb.top^
 ||klmainprost.com^
 ||klmmnd.com^
+||klocxwoucx.com^
 ||klonedaset.org^
 ||kloperd.com^
 ||kloshambaris.top^
@@ -31831,6 +31842,7 @@ browsershots.org#@#.advert_area
 ||mutedfarmer.pro^
 ||mutedpoetry.com^
 ||mutenessdollyheadlong.com^
+||muthwhcjuwela.store^
 ||mutsjeamenism.com^
 ||muvdibasgsedy.store^
 ||muwgqcms.com^
@@ -34947,6 +34959,7 @@ browsershots.org#@#.advert_area
 ||princesinistervirus.com^
 ||pringed.space^
 ||printergrandchildrencanteen.com^
+||priorhirers.top^
 ||priscanvarify.top^
 ||priseremugweed.shop^
 ||prismlacers.top^
@@ -35533,6 +35546,7 @@ browsershots.org#@#.advert_area
 ||qbljkbmhpybdl.space^
 ||qblllqzqezlvv.top^
 ||qblllqzqezlyz.top^
+||qbnpxulgsfftrys.xyz^
 ||qbnvdctsmxqhr.website^
 ||qbrzvovrozkez.top^
 ||qbtwdxvdqcksyl.com^
@@ -35767,6 +35781,7 @@ browsershots.org#@#.advert_area
 ||qsvbi.space^
 ||qswqmdejpptbp.space^
 ||qtbqqrypghmme.store^
+||qtdfxjlbnojnc.com^
 ||qtoxhaamntfi.com^
 ||qtozipscid.com^
 ||qtpwhuodcsbtt.space^
@@ -39605,6 +39620,7 @@ browsershots.org#@#.advert_area
 ||thootipheguph.com^
 ||thoriccastral.top^
 ||thorimbed.top^
+||thoriteineptly.top^
 ||thorny-candle.pro^
 ||thoroughlyhoraceclip.com^
 ||thoroughlyripepedigree.com^
@@ -41579,6 +41595,7 @@ browsershots.org#@#.advert_area
 ||vygwmjgwwjanl.top^
 ||vyhxugizkaktg.tech^
 ||vyignfjyiuznx.online^
+||vykkvhyywtpvi.com^
 ||vymybkyrzvoyq.top^
 ||vymybkyrzvwky.top^
 ||vymybkyrzvwyj.top^

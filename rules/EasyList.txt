@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: FIVVErL5XptN4Q+W0MRHag
-! Version: 202507020411
+! Checksum: Dnm0mYRhFCm6fmqDQ71ybA
+! Version: 202507020601
 ! Title: EasyList
-! Last modified: 02 Jul 2025 04:11 UTC
+! Last modified: 02 Jul 2025 06:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -28003,6 +28003,7 @@ browsershots.org#@#.advert_area
 ||indoincaserne.top^
 ||indooritalian.com^
 ||indor.site^
+||indueskonini.top^
 ||indweltdegases.top^
 ||indyadvertising.com^
 ||ineffectivenaive.com^
@@ -29612,6 +29613,7 @@ browsershots.org#@#.advert_area
 ||kwfrroescqswc.com^
 ||kwgkkhcv.com^
 ||kwgladkr.com^
+||kwlffagustmoadc.com^
 ||kwlnds.com^
 ||kwqmugaonqtqa.com^
 ||kwqpnwxoygwh.com^
@@ -35891,6 +35893,7 @@ browsershots.org#@#.advert_area
 ||qzfcqddxkdliy.top^
 ||qzrjtvaxpkl.com^
 ||qzyxavtiltko.com^
+||qzyztuwulo.com^
 ||qzzzzzzzzzqq.com^
 ||r-gpasegz.vip^
 ||r-q-e.com^
@@ -40801,6 +40804,7 @@ browsershots.org#@#.advert_area
 ||upkpezmxsosqa.today^
 ||uplickoreman.shop^
 ||upliftsearch.com^
+||uplskcroxjqpv.online^
 ||upodaitie.net^
 ||uponflannelsworn.com^
 ||uponomanytetor.com^
@@ -41831,6 +41835,7 @@ browsershots.org#@#.advert_area
 ||wg-aff.com^
 ||wgchrrammzv.com^
 ||wgdmxncvikpcc.fun^
+||wgiuboquccyxe.site^
 ||wgmenxpvnxnbs.space^
 ||wguqjqreoxaa.com^
 ||wgvqa.club^
@@ -42507,6 +42512,7 @@ browsershots.org#@#.advert_area
 ||xtaooroiinxo.com^
 ||xtcpooexxvutu.xyz^
 ||xtdztyiqyhmet.global^
+||xtitjpiaoedam.space^
 ||xtraserp.com^
 ||xtremeviewing.com^
 ||xtrgqmnflnfnj.buzz^

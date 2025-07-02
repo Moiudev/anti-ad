@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 8Axpdc7CQ5A1cE/X2gtzOA
-! Version: 202507020951
+! Checksum: XlWXlKG3Wf9jZuMv1ao8YQ
+! Version: 202507021201
 ! Title: EasyList
-! Last modified: 02 Jul 2025 09:51 UTC
+! Last modified: 02 Jul 2025 12:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -17064,6 +17064,7 @@ browsershots.org#@#.advert_area
 ||adpartner.pro^
 ||adpass.co.uk^
 ||adpatrof.com^
+||adpefeoxlvfqtm.com^
 ||adperium.com^
 ||adpicmedia.net^
 ||adpinion.com^
@@ -22846,6 +22847,7 @@ browsershots.org#@#.advert_area
 ||dharnaslaked.top^
 ||dhbahdqxomxesch.com^
 ||dhbfsbanlrmqm.website^
+||dhdpetbxs.com^
 ||dhepuldufahr.com^
 ||dheqzygafg.com^
 ||dhertouchingthe.org^
@@ -24195,6 +24197,7 @@ browsershots.org#@#.advert_area
 ||epicclicks.net^
 ||epidermispushupvariable.com^
 ||epigeantaygeta.shop^
+||epigonijibes.shop^
 ||epkkeumsxbnc.com^
 ||epldjrxblnvpa.store^
 ||eplndhtrobl.com^
@@ -26380,6 +26383,7 @@ browsershots.org#@#.advert_area
 ||gravityhobby.shop^
 ||graywithingrope.com^
 ||grazingmarrywomanhood.com^
+||grbsgqafqhkux.store^
 ||greatasesetito.com^
 ||greatdexchange.com^
 ||greatlifebargains2024.com^
@@ -37046,6 +37050,7 @@ browsershots.org#@#.advert_area
 ||rukensjh.com^
 ||rukkyydtqyzgp.online^
 ||rukskijruza.com^
+||ruktaslhu.com^
 ||rukxnkfjxge.com^
 ||rulroompaulooth.net^
 ||rum39bxk.fun^
@@ -38517,6 +38522,7 @@ browsershots.org#@#.advert_area
 ||spylees.com^
 ||spyluhqarm.com^
 ||spymhuab.com^
+||spyzvcviywdva.space^
 ||sqapyecbhvkdw.store^
 ||sqbjrevvtnqlz.space^
 ||sqdjorykqfqoc.icu^
@@ -41218,6 +41224,7 @@ browsershots.org#@#.advert_area
 ||vfgjzkrchtdaj.space^
 ||vfgte.com^
 ||vfgtg.com^
+||vfjkrktoqhmoy.space^
 ||vfl81ea28aztw7y3.pro^
 ||vfqejeazinwis.site^
 ||vfqgmtqglqxkd.xyz^
@@ -41462,6 +41469,7 @@ browsershots.org#@#.advert_area
 ||voyagessansei.com^
 ||vpbigdsnehwam.today^
 ||vpbpb.com^
+||vphfcftukjmnf.site^
 ||vpico.com^
 ||vpipi.com^
 ||vpldfujttsdfj.com^

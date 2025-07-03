@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: kgubfYnY9or7afjmhfDSJg
-! Version: 202507031001
+! Checksum: iLTLRAzfQ+2IMxXgqS4pWQ
+! Version: 202507031201
 ! Title: EasyList
-! Last modified: 03 Jul 2025 10:01 UTC
+! Last modified: 03 Jul 2025 12:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -20345,6 +20345,7 @@ browsershots.org#@#.advert_area
 ||bupatp.com^
 ||bupnjndj.com^
 ||buqkrzbrucz.com^
+||buqvtirjzs.com^
 ||buram.xyz^
 ||burbarkholpen.com^
 ||bureautrickle.com^
@@ -21779,6 +21780,7 @@ browsershots.org#@#.advert_area
 ||coogoanu.net^
 ||coohauwhob.net^
 ||coojohoaboapee.xyz^
+||cookeryshed.com^
 ||cookieless-data.com^
 ||cookingsorting.com^
 ||cool-meetlovers.com^
@@ -25978,6 +25980,7 @@ browsershots.org#@#.advert_area
 ||gigsmanhowls.top^
 ||gihehazfdm.com^
 ||giirlforyou.com^
+||gikwhxotzqqzc.site^
 ||gilarditus.com^
 ||gildshone.com^
 ||gillspaste.com^
@@ -26055,6 +26058,7 @@ browsershots.org#@#.advert_area
 ||glaigaunsoroogh.com^
 ||glaikrolsoa.com^
 ||glaiksoachou.com^
+||glailaitheecmi.com^
 ||glairsbecchi.top^
 ||glaiwhee.net^
 ||glaixich.net^
@@ -27042,6 +27046,7 @@ browsershots.org#@#.advert_area
 ||hereofcineols.com^
 ||hereonline.online^
 ||heresanothernicemess.com^
+||hereshexace.shop^
 ||heretopgirls.net^
 ||heritageamyconstitutional.com^
 ||herma-tor.com^
@@ -31334,6 +31339,7 @@ browsershots.org#@#.advert_area
 ||mhhr.cloud^
 ||mhiiopll.net^
 ||mhjpxihovyjwti.com^
+||mhlezkarznvwe.site^
 ||mhusnegshd.xyz^
 ||mhvllvgrefplg.com^
 ||mhwpwcj.com^
@@ -32334,6 +32340,7 @@ browsershots.org#@#.advert_area
 ||nfdxprxptlubs.buzz^
 ||nffmuvludurqc.com^
 ||nfgxadlbfzuy.click^
+||nfnbyewhgo.com^
 ||nfvetkycvdkaw.life^
 ||ngcghsdvjfcpp.club^
 ||ngedwmfkrkvh.com^
@@ -32462,6 +32469,7 @@ browsershots.org#@#.advert_area
 ||nmwjlaywnozwj.vip^
 ||nmyfedath.com^
 ||nncdtquddmjjb.site^
+||nncistcbohnbt.com^
 ||nnerventualkentin.org^
 ||nnkjgbdsiq.com^
 ||nnlnoklsrwbuljf.com^
@@ -32892,6 +32900,7 @@ browsershots.org#@#.advert_area
 ||obeysatman.com^
 ||obfkfdxpymlxr.website^
 ||obflgjaytofk.com^
+||obiaheroid.top^
 ||objective-wright-961fed.netlify.com^
 ||objectlesslatterdissolved.com^
 ||obkrwyfmsoajc.space^
@@ -33655,6 +33664,7 @@ browsershots.org#@#.advert_area
 ||ostrichmustardalloy.com^
 ||osumpdfciiptn.online^
 ||oswapjmzeacv.com^
+||oswowcpped.com^
 ||oswtgthglq.com^
 ||oszlnxwqlc.com^
 ||otalktohershallilov.com^
@@ -33875,6 +33885,7 @@ browsershots.org#@#.advert_area
 ||oxlzcyjzypi.com^
 ||oxmoonlint.com^
 ||oxnkahofpki.com^
+||oxoyqtgnlcoth.com^
 ||oxpjoalpyhr.com^
 ||oxpvsmbv.com^
 ||oxtahgtz.com^
@@ -40546,6 +40557,7 @@ browsershots.org#@#.advert_area
 ||twrdzmduxxfjm.world^
 ||twrmnd.com^
 ||twtad.com^
+||twxuipjaefov.com^
 ||txbwpztu-oh.site^
 ||txfkdsxfwvjsgu.com^
 ||txgilxtxczsfus.com^
@@ -40736,6 +40748,7 @@ browsershots.org#@#.advert_area
 ||ulmoyc.com^
 ||ulmqfhgfjrxbj.site^
 ||ulnhz.site^
+||ultaxvuxpgryi.site^
 ||ulteriorthemselves.com^
 ||ultimatefatiguehistorical.com^
 ||ultimatelydiscourse.com^
@@ -42428,6 +42441,7 @@ browsershots.org#@#.advert_area
 ||wroahqavna.com^
 ||wronginside.pro^
 ||wrongwayfarer.com^
+||wrppoldzkxbqo.space^
 ||wrufer.com^
 ||wrywowser.shop^
 ||ws5ujgqkp.com^
@@ -42549,6 +42563,7 @@ browsershots.org#@#.advert_area
 ||xads.top^
 ||xadsmart.com^
 ||xaea12play.xyz^
+||xafchwatapczo.space^
 ||xafrzicbixitc.today^
 ||xahttwmfmyji.com^
 ||xalawpqfa.com^

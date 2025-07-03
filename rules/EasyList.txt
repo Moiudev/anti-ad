@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: iLTLRAzfQ+2IMxXgqS4pWQ
-! Version: 202507031201
+! Checksum: P8Ox/Y+ojgnoa7GJWn5QrQ
+! Version: 202507031401
 ! Title: EasyList
-! Last modified: 03 Jul 2025 12:01 UTC
+! Last modified: 03 Jul 2025 14:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -18187,6 +18187,7 @@ browsershots.org#@#.advert_area
 ||anzozlcz.com^
 ||aoalmfwinbsstec23.com^
 ||aohdlcbh.xyz^
+||aohegrogmzgxy.space^
 ||aojhtyvd.com^
 ||aoliterzgyhnv.website^
 ||aomgyawomjmy.top^
@@ -20786,6 +20787,7 @@ browsershots.org#@#.advert_area
 ||cdngain.com^
 ||cdngcloud.com^
 ||cdnkimg.com^
+||cdnkuiphgg.xyz^
 ||cdnmon.com^
 ||cdnondemand.org^
 ||cdnpc.net^
@@ -20925,6 +20927,7 @@ browsershots.org#@#.advert_area
 ||chainads.io^
 ||chainconnectivity.com^
 ||chaindedicated.com^
+||chainercantref.shop^
 ||chaintopdom.nl^
 ||chaipoodrort.com^
 ||chaiptut.xyz^
@@ -22201,6 +22204,7 @@ browsershots.org#@#.advert_area
 ||curfsaracana.shop^
 ||curioushingefast.com^
 ||curiouslyconcern.com^
+||curlsbatter.com^
 ||curlyhomes.com^
 ||curoax.com^
 ||currantsummary.com^
@@ -22822,6 +22826,7 @@ browsershots.org#@#.advert_area
 ||detour.click^
 ||detoxifylagoonsnugness.com^
 ||deturbcordies.com^
+||deukmyunderth.org^
 ||devaluequalmrelative.com^
 ||devastatedseparategourmet.com^
 ||devastatedshorthandpleasantly.com^
@@ -24026,6 +24031,7 @@ browsershots.org#@#.advert_area
 ||elliptical-mode.pro^
 ||ellipticaltrack.com^
 ||elmalpnzdvjwft.com^
+||elmrmlhgdrdo.com^
 ||elongatedmiddle.com^
 ||elonreptiloid.com^
 ||elonvgjcn.com^
@@ -24629,6 +24635,7 @@ browsershots.org#@#.advert_area
 ||fabricwaffleswomb.com^
 ||faceliftluminancetill.com^
 ||facesnotebook.com^
+||facheicuropapon.com^
 ||facisespess.com^
 ||factsheetgrievancekeg.com^
 ||fadegranted.com^
@@ -25865,6 +25872,7 @@ browsershots.org#@#.advert_area
 ||gentle-report.com^
 ||gentlersidearm.com^
 ||gentwoleads.top^
+||genuinelyunacceptableweep.com^
 ||geoaddicted.net^
 ||geodator.com^
 ||geogenyveered.com^
@@ -26573,6 +26581,7 @@ browsershots.org#@#.advert_area
 ||gruwzapcst.com^
 ||grwp3.com^
 ||grygrothapi.pro^
+||gsbnuvaygaavz.online^
 ||gsbnymvxzcgku.today^
 ||gscontxt.net^
 ||gsfpdvjkpishb.website^
@@ -27336,6 +27345,7 @@ browsershots.org#@#.advert_area
 ||holikedtocometot.com^
 ||holismheist.life^
 ||holjmynbrubve.online^
+||hollowcharacter.com^
 ||hollymediaa.biz^
 ||hollysocialspuse.com^
 ||holmicnebbish.com^
@@ -28511,6 +28521,7 @@ browsershots.org#@#.advert_area
 ||jaavnacsdw.com^
 ||jabafgnu.com^
 ||jabxsbaestpzo.space^
+||jackalclenchedbedside.com^
 ||jackao.net^
 ||jacketzerobelieved.com^
 ||jackpotcontribute.com^
@@ -28540,6 +28551,7 @@ browsershots.org#@#.advert_area
 ||jambosmodesty.com^
 ||jambulfeuter.com^
 ||jamez.site^
+||jamlzolwzmzj.top^
 ||jamokepullers.shop^
 ||jampackedemphasis.com^
 ||jamstech.store^
@@ -28906,6 +28918,7 @@ browsershots.org#@#.advert_area
 ||jqbwkzmboonv.top^
 ||jqilyjagezcqk.site^
 ||jqjpwocbgtxlkw.com^
+||jqmebveabmbj.top^
 ||jqmebveabqvb.top^
 ||jqmebwvmbrvz.top^
 ||jqnwqnwnvgwzb.top^
@@ -32023,6 +32036,7 @@ browsershots.org#@#.advert_area
 ||mythicsallies.com^
 ||mythings.com^
 ||mythpointsatheism.com^
+||mytilusmong.shop^
 ||myurphoftafzx.space^
 ||myuyxesrktrmz.life^
 ||myvpistasrwah.one^
@@ -33217,6 +33231,7 @@ browsershots.org#@#.advert_area
 ||okueroskynt.com^
 ||okznasjax.com^
 ||olayomad.com^
+||olbeeqbqgumdt.website^
 ||olbmcpmktchpe.site^
 ||old-go.pro^
 ||oldkwhr.shop^
@@ -33801,6 +33816,7 @@ browsershots.org#@#.advert_area
 ||overestimateoption.com^
 ||overfixhater.top/cuid/
 ||overfixhater.top^
+||overfxdyqgwvr.space^
 ||overhearpeasantenough.com^
 ||overjoyeddarkenedrecord.com^
 ||overjoyedtempfig.com^
@@ -34869,6 +34885,7 @@ browsershots.org#@#.advert_area
 ||portentbarge.com^
 ||portfoliocradle.com^
 ||portfoliojumpy.com^
+||portionsmeltdown.com^
 ||portkingric.net^
 ||portsreality.com^
 ||portswaving.com^
@@ -35851,6 +35868,7 @@ browsershots.org#@#.advert_area
 ||qqeadugfccgya.space^
 ||qqgjvgudcntvw.online^
 ||qqkyhkfakl.xyz^
+||qqobcemksiob.com^
 ||qqodasjjyr.com^
 ||qqqdsrjovklsr.today^
 ||qqrxk.club^
@@ -38074,6 +38092,7 @@ browsershots.org#@#.advert_area
 ||simple-isl.com^
 ||simple-store.pro^
 ||simplewebanalysis.com^
+||simplistic-recover.com^
 ||simpunok.com^
 ||simqirrzao.com^
 ||simrreop.com^
@@ -38685,6 +38704,7 @@ browsershots.org#@#.advert_area
 ||sraghuba.com^
 ||srbtztegq.today^
 ||srgev.com^
+||srggelgdba.com^
 ||srjckkkbya.com^
 ||srowvggksbuvv.vip^
 ||srpmkfvrlvncj.com^
@@ -41790,6 +41810,7 @@ browsershots.org#@#.advert_area
 ||waitedprowess.com^
 ||waitheja.net^
 ||waiting.biz^
+||waitingchimps.com^
 ||wakefulforbode.com^
 ||wakpaqamxvum.com^
 ||wakqmadcaa.com^
@@ -41949,6 +41970,7 @@ browsershots.org#@#.advert_area
 ||webteaser.ru^
 ||webtradehub.com^
 ||wecontemptceasless.com^
+||wecyjtnykvebc.online^
 ||wedauspicy.com^
 ||wedeffront.top^
 ||wedgebrocks.top^
@@ -43234,6 +43256,7 @@ browsershots.org#@#.advert_area
 ||zogrepsili.com^
 ||zoilusdoping.top^
 ||zokqlomemmzbw.top^
+||zolizatate.com^
 ||zombyfairfax.com^
 ||zonealta.com^
 ||zoneremeriti.top^
@@ -59394,6 +59417,7 @@ jeffdornik.com##[data-image-info]
 phoneia.com##[data-index]
 dailymail.co.uk##[data-is-sponsored="true"]
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##[data-layout="ad"]
+macys.com##[data-load-beacon*="criteo.com/rm"]
 motor1.com##[data-m1-ad-label]
 cnet.com##[data-meta="placeholder-slot"]
 lightnovelcave.com,lightnovelpub.com##[data-mobid]
@@ -60827,6 +60851,7 @@ macys.com##li.productThumbnailItem:has(.sponsored-items-label)
 kohls.com##li.products_grid:has(p.piq-sponsored)
 streeteasy.com##li.searchCardList--listItem:has(.jsSponsoredListingCard)
 aboutyou.de##li:has([data-testid="spons"])
+classcentral.com##li:has(iframe[src^="/catalog-iframe?"])
 autotrader.co.uk##li:has(section[data-testid="trader-seller-listing"] > span[data-testid="FEATURED_LISTING"])
 autotrader.co.uk##li:has(section[data-testid="trader-seller-listing"] > span[data-testid="PROMOTED_LISTING"])
 bbc.com##li[class*="-ListItem"]:has(div.dotcom-ad)
@@ -60838,6 +60863,7 @@ zillow.com##li[class^="ListItem-"]:has(#nav-ad-container)
 aboutyou.de##li[data-testid^="productTileTracker-"]:has([data-testid="sponsored"])
 aboutyou.de##li[data-testid^="productTileTracker-"]:has(button[data-testid="spo"])
 dictionary.com,thesaurus.com##main div[class]:has(> [data-type="ad-vertical"])
+classcentral.com##p + div:has(.responsive-post:has([href^="https://www.semrush.com"]))
 globalchinaev.com##p.content-center:has-text(ADVERTISEMENT)
 sciencenews.org##p:has-text(Sponsor Message)
 provigo.ca#?#.css-1nhzth8:-abp-contains(/sponsorisé|sponsored/)
@@ -61463,6 +61489,7 @@ checkfelix.com,kayak.*,swoodoo.com##div[class*="-adInner"]
 checkfelix.com,kayak.*,swoodoo.com##div[data-resultid]:has(a.IZSg-adlink)
 checkfelix.com,kayak.*,swoodoo.com##div[id^="inline-"]
 ! *** easylist:easylist/easylist_specific_hide_abp.txt ***
+costco.com#?#[data-testid="shoppable-list-container"]:-abp-contains(Spons)
 bayequest.com#?#.elementor-section:-abp-contains(Advertisement)
 giantfood.com,giantfoodstores.com,martinsfoods.com#?#[data-product-id]:-abp-contains(Sponsored)
 anfieldindex.com#?#aside[data-animation-event]:-abp-contains(PARTNERS)

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: lony+F4u5iCMWHQhjlvOmQ
-! Version: 202507022201
+! Checksum: rZqPdTD8rpr6z8uVdhLQYQ
+! Version: 202507030041
 ! Title: EasyList
-! Last modified: 02 Jul 2025 22:01 UTC
+! Last modified: 03 Jul 2025 00:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -16215,6 +16215,7 @@ browsershots.org#@#.advert_area
 ||52588314e4.com^
 ||526d43cc6c.com^
 ||52dvzo62i.com^
+||5308675c79.com^
 ||536435ba94.com^
 ||53c2dtzsj7t1.top^
 ||53ff0e58f9.com^
@@ -16227,6 +16228,7 @@ browsershots.org#@#.advert_area
 ||55f4605f6d.com^
 ||5608c7633c.com^
 ||562i7aqkxu.com^
+||569f43f295.com^
 ||56bfc388bf12.com^
 ||56gbgkvtd.xyz^
 ||56ovido.site^
@@ -16272,6 +16274,7 @@ browsershots.org#@#.advert_area
 ||60dxug5hu.click^
 ||611b2ec55c.com^
 ||613f15a070.com^
+||61847b1398.com^
 ||61e564cc00.com^
 ||62a77005fb.com^
 ||62ad.com^
@@ -17621,6 +17624,7 @@ browsershots.org#@#.advert_area
 ||aircraftairliner.com^
 ||aircraftreign.com^
 ||airdilute.com^
+||airglowdroved.top^
 ||airlessquotationtroubled.com^
 ||airlingdungas.top^
 ||airplaneprosperretreat.com^
@@ -19245,6 +19249,7 @@ browsershots.org#@#.advert_area
 ||bblvplguoma.com^
 ||bbrdbr.com^
 ||bbrjelrxnp.com^
+||bbsqyhfr.com^
 ||bbyloavu.com^
 ||bc48fa9adc.com^
 ||bca10c62ca.com^
@@ -20702,6 +20707,7 @@ browsershots.org#@#.advert_area
 ||cba-fed-igh.com^
 ||cbdbda0256.com^
 ||cbdedibles.site^
+||cbiuirtjqumrid.com^
 ||cbjcfrakrdzzs.space^
 ||cbkcsbearrwj.com^
 ||cbkyaepzyibsx.click^
@@ -22255,6 +22261,7 @@ browsershots.org#@#.advert_area
 ||cxujkgftjofz.com^
 ||cxvqajxlbjl.com^
 ||cxwsdhxoiio.com^
+||cxztgrpsubvkt.online^
 ||cyamidfenbank.life^
 ||cyan92010.com^
 ||cyathosaloesol.top^
@@ -25647,6 +25654,7 @@ browsershots.org#@#.advert_area
 ||gagebonus.com^
 ||gagescenesclothes.com^
 ||gaggedtetrode.com^
+||gagglershellum.shop^
 ||gagheroinintact.com^
 ||gagjrgkvtsjnj.online^
 ||gagowtvi.com^
@@ -28678,6 +28686,7 @@ browsershots.org#@#.advert_area
 ||jhifuwzpaqm.com^
 ||jhiihllo.com^
 ||jhijlgudshd.com^
+||jhivymcd.xyz^
 ||jhkfd.com^
 ||jhodfooz.com^
 ||jholtata.com^
@@ -29369,6 +29378,7 @@ browsershots.org#@#.advert_area
 ||kkhfsefqdurod.site^
 ||kkhmhgbcrceip.website^
 ||kkieeoxcjpqah.vip^
+||kkisynhqhtezk.online^
 ||kkluibrulalda.website^
 ||kkmacsqsbf.info^
 ||kknkcyrkvoqsqa.com^
@@ -30429,6 +30439,7 @@ browsershots.org#@#.advert_area
 ||lost-beyond.pro^
 ||lostinfuture.com^
 ||lostpunch.pro^
+||losttrgsdfdoo.store^
 ||lotreal.com^
 ||lotstoleratescarf.com^
 ||lotteryaffiliates.com^
@@ -31265,6 +31276,7 @@ browsershots.org#@#.advert_area
 ||mfyavsmiha.com^
 ||mfyktikuvq.com^
 ||mfylalov.com^
+||mgbhuxkqhebq.com^
 ||mgbzuxqwed.com^
 ||mgcash.com^
 ||mgcld.xyz^
@@ -31619,6 +31631,7 @@ browsershots.org#@#.advert_area
 ||moolexspool.com^
 ||mooltanagra.top^
 ||moonads.net^
+||moonday.autos^
 ||mooneyejollier.top^
 ||moonheappyrincenev.org^
 ||moonicorn.network^
@@ -31894,6 +31907,7 @@ browsershots.org#@#.advert_area
 ||mwoukrkskillso.com^
 ||mwprotected.com^
 ||mwquick.com^
+||mwqytelhbgjwte.com^
 ||mwrgi.com^
 ||mwsvsmhfwpffc.club^
 ||mwvpjvvnovuqb.website^
@@ -33790,6 +33804,7 @@ browsershots.org#@#.advert_area
 ||owhpxifpvajjtxg.com^
 ||owhrferi.com^
 ||owithlerendu.com^
+||owjmyerflvbtx.website^
 ||owjunkrgwdc.com^
 ||owlerydominos.cam^
 ||owlqrbfgvacps.website^
@@ -35914,6 +35929,7 @@ browsershots.org#@#.advert_area
 ||qvkrfcjwebgvyuw.com^
 ||qvlatpbizkile.site^
 ||qvsimvenounsx.online^
+||qvvgzxskwkeqp.space^
 ||qvzpofgmlwlnrt.com^
 ||qwikln.com^
 ||qwjxcvdzrafum.club^
@@ -35971,6 +35987,7 @@ browsershots.org#@#.advert_area
 ||qzetnversitym.com^
 ||qzfcqddxkdliy.top^
 ||qzrjtvaxpkl.com^
+||qzybrmvavlrv.top^
 ||qzyovqyqmweox.site^
 ||qzyxavtiltko.com^
 ||qzyztuwulo.com^
@@ -38605,6 +38622,7 @@ browsershots.org#@#.advert_area
 ||squigglyproduct.pro^
 ||squiresbruting.top^
 ||squirtpresented.com^
+||sqyjfqrgkdmhm.site^
 ||sr7pv7n5x.com^
 ||sraakvkiba.com^
 ||srafidadpg.com^
@@ -39238,6 +39256,7 @@ browsershots.org#@#.advert_area
 ||tacticschangebabysitting.com^
 ||tactualcomb.com^
 ||tadjmiavn.com^
+||tadkasolwsmu.com^
 ||tadqhinpe.com^
 ||tadraubsedroucm.com^
 ||tadrurafmolq.com^
@@ -42156,6 +42175,7 @@ browsershots.org#@#.advert_area
 ||wkvvzeqybmzoj.top^
 ||wkwqljwjvkooz.top^
 ||wkwqljwjvovoj.top^
+||wkwzgjyvymgy.top^
 ||wl-cornholio.com^
 ||wlafx4trk.com^
 ||wlbsdkpimqklw.online^
@@ -53726,6 +53746,7 @@ komikcast.site###bannerhomefooter
 baltic-course.com###bannerleft
 baltic-course.com,webfail.com###bannertop
 h-online.com###bannerzone
+nzherald.co.nz###bayleys-carousel
 uinterview.com###below-content
 smartertravel.com###below-the-fold-leaderboard
 al.com,cleveland.com,gulflive.com,lehighvalleylive.com,masslive.com,mlive.com,newyorkupstate.com,nj.com,oregonlive.com,pennlive.com,silive.com,syracuse.com###below-toprail
@@ -54342,6 +54363,7 @@ allaboutcookies.org###offer-review-widget-container
 freeaddresscheck.com,freecallerlookup.com,freecarrierlookup.com,freeemailvalidator.com,freegenderlookup.com,freeiplookup.com,freephonevalidator.com###offers
 streetdirectory.com###offers_splash_screen
 gizbot.com###oi-custom-camp
+nzherald.co.nz###oneroof_nzh_homepage
 kohls.com###open-drawer
 livestreamfails.com###oranum_livefeed_container_0
 ckk.ai###orquidea-slideup
@@ -57792,6 +57814,7 @@ topic.com##.pages-Article-adContainer
 livejournal.com##.pagewide-wrapper
 departures.com##.paid-banner
 itnews.com.au##.paid-content
+nzherald.co.nz##.paid-promoted-content
 thelibertydaily.com##.paid-subscriber
 timesofindia.indiatimes.com##.paisa-wrapper
 axn-asia.com,onetvasia.com##.pane-dart-dart-tag-300x250-rectangle
@@ -60744,6 +60767,7 @@ sciencenews.org##p:has-text(Sponsor Message)
 provigo.ca#?#.css-1nhzth8:-abp-contains(/sponsorisé|sponsored/)
 rome2rio.com#?#div[aria-labelledby="schedules-header"] > div > div:-abp-contains(Ad)
 windowsreport.com##section.hide-mbl:has(a[href^="https://out.reflectormedia.com/"])
+nzherald.co.nz##section.section-chain--triple-image:has-text(Property news from OneRoof)
 hwbusters.com##section.widget:has(> div[data-hwbus-trackbid])
 thehansindia.com##section:has(> .to-be-async-loaded-ad)
 thehansindia.com##section:has(> [class*="level_ad"])

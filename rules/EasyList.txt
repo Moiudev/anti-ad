@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: rZqPdTD8rpr6z8uVdhLQYQ
-! Version: 202507030041
+! Checksum: 3ubrJKd5hb48r4oK4v7ZSQ
+! Version: 202507030301
 ! Title: EasyList
-! Last modified: 03 Jul 2025 00:41 UTC
+! Last modified: 03 Jul 2025 03:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -23420,6 +23420,7 @@ browsershots.org#@#.advert_area
 ||dropdoneraining.com^
 ||dropletevaporateumpire.com^
 ||droppingprofessionmarine.com^
+||drossesareca.com^
 ||drovedkooky.com^
 ||drowndchow.top^
 ||drowneddicing.com^
@@ -26659,6 +26660,7 @@ browsershots.org#@#.advert_area
 ||gvmogilshxbdg.store^
 ||gvt2.com^
 ||gvyptfvufegymdd.com^
+||gvzwwszgvswnew.com^
 ||gwallet.com^
 ||gwalpecawo.com^
 ||gwamirfz.com^
@@ -26707,6 +26709,7 @@ browsershots.org#@#.advert_area
 ||gyxkmpf.com^
 ||gyxqygvvqa.com^
 ||gzapigxf.com^
+||gzbzbugvtylg.com^
 ||gzclatfhwvpsk.space^
 ||gzenzuapgf.com^
 ||gzglmoczfzf.com^
@@ -28456,6 +28459,7 @@ browsershots.org#@#.advert_area
 ||ixtzexgnofhym.space^
 ||ixxbfwbdeq.com^
 ||iy8yhpmgrcpwkcvh.pro^
+||iyaxioaifbrvt.site^
 ||iybgsvdqqrtxp.online^
 ||iyfbodn.com^
 ||iyfnz.com^
@@ -28583,6 +28587,7 @@ browsershots.org#@#.advert_area
 ||jbmmqpmrdjnsn.global^
 ||jbmwrorfwmsle.online^
 ||jbqefmxaqivyblv.com^
+||jbtofybppj.com^
 ||jbtul.com^
 ||jbucljxqgbgzk.icu^
 ||jbvoejzmaqmeq.top^
@@ -30601,6 +30606,7 @@ browsershots.org#@#.advert_area
 ||luhoysvkxsewc.xyz^
 ||luizsycwgzmkg.website^
 ||lukeinoffensive.com^
+||lulhytnnulroggd.com^
 ||lullabybeneath.com^
 ||lullfork.com^
 ||lumaktoys.com^
@@ -32936,6 +32942,7 @@ browsershots.org#@#.advert_area
 ||octopuspop.com^
 ||ocuwyfarlvbq.com^
 ||ocvrulo.digital^
+||ocwutmrfbsrwy.store^
 ||oczdiibgmu.com^
 ||odalrevaursartu.net^
 ||odchpubtaop.com^
@@ -38172,6 +38179,7 @@ browsershots.org#@#.advert_area
 ||slimelump.com^
 ||slimeslangiel.com^
 ||slimespell.com^
+||slimmedguarded.com^
 ||slimymouth.pro^
 ||slimytree.com^
 ||slinkhub.com^
@@ -38646,6 +38654,7 @@ browsershots.org#@#.advert_area
 ||srvtensz.com^
 ||srvtrck.com^
 ||srvupads.com^
+||srwhoxkyksvql.site^
 ||srxy.xyz^
 ||sryfmerwefrwj.icu^
 ||srysvqjjcjwjc.xyz^
@@ -38794,6 +38803,7 @@ browsershots.org#@#.advert_area
 ||sthevoyager.org^
 ||sthoutte.com^
 ||sticalsdebaticalfe.info^
+||stickendexter.top^
 ||stickerevanid.top^
 ||stickingbeef.com^
 ||stickyadstv.com^
@@ -39539,6 +39549,7 @@ browsershots.org#@#.advert_area
 ||tfla.xyz^
 ||tfnavbefnmrpd.online^
 ||tfosrv.com^
+||tfpgeqtammnlr.site^
 ||tfrectkfp.com^
 ||tftrm.com^
 ||tfvmwbjiyjnx.com^
@@ -40991,6 +41002,7 @@ browsershots.org#@#.advert_area
 ||usenetpassport.com^
 ||usersmorrow.com^
 ||usertag.online^
+||usfptiapjcaxy.store^
 ||usingageghoaft.net^
 ||usisedprivatedqua.org^
 ||usix-udlnseb.space^
@@ -41264,6 +41276,7 @@ browsershots.org#@#.advert_area
 ||venkrana.com^
 ||venomouslife.com^
 ||ventrequmus.com^
+||venttclrhkx.com^
 ||venturead.com^
 ||ventureclamourtotally.com^
 ||venturepeasant.com^
@@ -41790,6 +41803,7 @@ browsershots.org#@#.advert_area
 ||waterwithhiswing.com^
 ||watwait.com^
 ||waubibubaiz.com^
+||wauchlestiffen.top^
 ||waudeesestew.com^
 ||waufooke.com^
 ||wauhoawheephouk.net^
@@ -44051,6 +44065,7 @@ browsershots.org#@#.advert_area
 ||adatrix.com^$third-party
 ||adbard.net^$third-party
 ||adbasket.net^$third-party
+||adbeacon.com^$third-party
 ||adbetclickin.pink^$third-party
 ||adbetnetwork.com^$third-party
 ||adbit.biz^$third-party

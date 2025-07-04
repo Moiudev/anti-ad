@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: asUcN+HsiB+k2PaeUib/Vg
-! Version: 202507041801
+! Checksum: rcN9xEp/SMkt98xWy2fYKw
+! Version: 202507042001
 ! Title: EasyList
-! Last modified: 04 Jul 2025 18:01 UTC
+! Last modified: 04 Jul 2025 20:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -18024,6 +18024,7 @@ browsershots.org#@#.advert_area
 ||ampqpyvhof.com^
 ||amputeeblk.top^
 ||ampxchange.com^
+||amqkuedsdsube.site^
 ||amshroomishan.com^
 ||amsoniajoon.top^
 ||amtgqceeirm.com^
@@ -22317,6 +22318,7 @@ browsershots.org#@#.advert_area
 ||cwsbrxarjnaav.space^
 ||cxbxnfqtraxecbb.com^
 ||cxikfjqfiwxta.vip^
+||cxjtsybhvpsfl.space^
 ||cxnbgyadiqscl.click^
 ||cxornpyay.com^
 ||cxtjtdryscqfh.store^
@@ -23518,6 +23520,7 @@ browsershots.org#@#.advert_area
 ||ds4de1.com^
 ||ds6n6c.com^
 ||ds7hds92.de^
+||ds8ect.com^
 ||dsadghrthysdfadwr3sdffsdaghedsa2gf.xyz^
 ||dsau5u.com^
 ||dsb68d.com^
@@ -24009,6 +24012,7 @@ browsershots.org#@#.advert_area
 ||eidoscruster.com^
 ||eighthpowerfully.com^
 ||eikegolehem.com^
+||einfmxudckhxd.xyz^
 ||eipvcuvqmkkwlqh.com^
 ||eirbrightscarletcl.com^
 ||eisasbeautifulas.com^
@@ -24033,6 +24037,7 @@ browsershots.org#@#.advert_area
 ||ekaacdiilusiw.space^
 ||ekamsply.com^
 ||ekbuvvtbx.com^
+||ekctohqd.com^
 ||ekdllcgoehbht.store^
 ||ekdthfqecpmjp.click^
 ||ekexwkwmu.com^
@@ -27930,6 +27935,7 @@ browsershots.org#@#.advert_area
 ||iiacavdeuqxr.com^
 ||iiasjrqypbbob.online^
 ||iicheewi.com^
+||iicwmzxgqsjfu.space^
 ||iigirlslove.com^
 ||iigmlx.com^
 ||iihlctgte.com^
@@ -30698,6 +30704,7 @@ browsershots.org#@#.advert_area
 ||lqfiznzqv.com^
 ||lqgenuq-j.life^
 ||lqjfhehcrkatj.xyz^
+||lqllisdlizrix.site^
 ||lqrjuhhbzagoq.online^
 ||lqtbsflvsaqiy.store^
 ||lqtiwevsan.com^
@@ -31082,6 +31089,7 @@ browsershots.org#@#.advert_area
 ||mansudee.net^
 ||manteelclanned.com^
 ||mantonofftake.top^
+||manualchaosmartial.com^
 ||manualpeasantconnoisseur.com^
 ||manualquiet.com^
 ||manukamandats.shop^
@@ -33955,6 +33963,7 @@ browsershots.org#@#.advert_area
 ||ouyflgaswts.xyz^
 ||ouyoohwfpphakwe.com^
 ||ovardu.com^
+||ovayjmnammmba.top^
 ||ovdimin.buzz^
 ||ovenbifaces.cam^
 ||overavesofefineg.org^
@@ -34236,6 +34245,7 @@ browsershots.org#@#.advert_area
 ||paravaprese.com^
 ||pardaotopazes.shop^
 ||pardhanlouvred.com^
+||pardstubulet.top^
 ||pardyprofer.shop^
 ||paregospeltheir.com^
 ||parentlargevia.com^
@@ -37094,6 +37104,7 @@ browsershots.org#@#.advert_area
 ||roamapheejub.com^
 ||roapsoogaiz.net^
 ||roastoup.com^
+||robalolexic.shop^
 ||robazi.xyz^
 ||robberyinscription.com^
 ||robberynominal.com^
@@ -40836,6 +40847,7 @@ browsershots.org#@#.advert_area
 ||u5lddcsi.xyz^
 ||u9axpzf50.com^
 ||uaaftpsy.com^
+||uabwqgsjfbcsu.com^
 ||uacugnyezgqvp.site^
 ||uads.cc^
 ||uads.guru^
@@ -41950,6 +41962,7 @@ browsershots.org#@#.advert_area
 ||vv8h9vyjgnst.com^
 ||vvabjoqrbmavl.top^
 ||vvewkblbvezmq.top^
+||vvlqbmzlmmmol.top^
 ||vvmkzawomebbz.top^
 ||vvmkzawomeywq.top^
 ||vvprcztaw.com^

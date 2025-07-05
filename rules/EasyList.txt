@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: yr82pitITFRZRMlxjvIRNA
-! Version: 202507051401
+! Checksum: h8bv/IFcdZQ5fx+6Bz93og
+! Version: 202507051601
 ! Title: EasyList
-! Last modified: 05 Jul 2025 14:01 UTC
+! Last modified: 05 Jul 2025 16:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -19610,6 +19610,7 @@ browsershots.org#@#.advert_area
 ||bgkec.global^
 ||bgmovoyzmnzo.top^
 ||bgwafghjtwywv.online^
+||bgxpnkwsikhkdnn.xyz^
 ||bgykufdn.xyz^
 ||bgyrhxxcxwcih.site^
 ||bh3.net^
@@ -22384,6 +22385,7 @@ browsershots.org#@#.advert_area
 ||czaraptitude.com^
 ||czarmishap.com^
 ||czh5aa.xyz^
+||czhplaacakpki.website^
 ||czowadbcoog.com^
 ||cztmmijwxiafu.click^
 ||czuawlppipi.com^
@@ -25215,6 +25217,7 @@ browsershots.org#@#.advert_area
 ||flashb.id^
 ||flashnetic.com^
 ||flat-ads.com^
+||flat-car.pro^
 ||flatepicbats.com^
 ||flathell.pro^
 ||flatjeep.com^
@@ -27237,6 +27240,7 @@ browsershots.org#@#.advert_area
 ||hetbvptffmxgj.site^
 ||hetchoujaltituz.net^
 ||hetnu.com^
+||heuyooqwsds.com^
 ||hevc.site^
 ||hewomenentail.com^
 ||hexagynjewing.top^
@@ -28568,6 +28572,7 @@ browsershots.org#@#.advert_area
 ||istlnkbn.com^
 ||istumufodathoos.com^
 ||iswhatappyouneed.net^
+||isyimywasmedru.com^
 ||italianbeepimpediment.com^
 ||italianexpecting.com^
 ||italianforesee.com^
@@ -29798,6 +29803,7 @@ browsershots.org#@#.advert_area
 ||kqesuetg.com^
 ||kqhgjmap.com^
 ||kqhi97lf.de^
+||kqipyqhxkrzlr.site^
 ||kqiuernncywj.xyz^
 ||kqmmlqbuwmksm.store^
 ||kqntarwfonstf.online^
@@ -33154,6 +33160,7 @@ browsershots.org#@#.advert_area
 ||obiaheroid.top^
 ||objective-wright-961fed.netlify.com^
 ||objectlesslatterdissolved.com^
+||objmadvsuerde.com^
 ||obkrwyfmsoajc.space^
 ||oblapdnhiz.com^
 ||oblfhahmy.com^
@@ -34906,6 +34913,7 @@ browsershots.org#@#.advert_area
 ||platesnervous.com^
 ||platformsrat.com^
 ||platinumsnatchable.com^
+||platterlokshen.shop^
 ||plausiblemarijuana.com^
 ||plaxd.com^
 ||play-lg.com^
@@ -35001,6 +35009,7 @@ browsershots.org#@#.advert_area
 ||pncloudfl.com^
 ||pncvaoh.com^
 ||pnd.gs^
+||pndvdeojbvrtm.store^
 ||pnhorlcjtrfau.vip^
 ||pnjejlve.com^
 ||pnkeawquys.com^
@@ -38624,6 +38633,7 @@ browsershots.org#@#.advert_area
 ||smartytech.io^
 ||smashedpractice.com^
 ||smasheswamefou.com^
+||smbttxpafponx.store^
 ||smctmxdeoz.com^
 ||smeartoassessment.com^
 ||smellyredirect.click^

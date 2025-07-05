@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: vFI6Zl7J1VETOtpZsy/jHA
-! Version: 202507050751
+! Checksum: w/GJQ3nigUCHK+xDgaYO0g
+! Version: 202507051001
 ! Title: EasyList
-! Last modified: 05 Jul 2025 07:51 UTC
+! Last modified: 05 Jul 2025 10:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -18250,6 +18250,7 @@ browsershots.org#@#.advert_area
 ||apologiesneedleworkrising.com^
 ||apologyspent.com^
 ||aporodiko.com^
+||apovijhthowgb.store^
 ||app2up.info^
 ||appads.com^
 ||appealjinxed.top^
@@ -21636,6 +21637,7 @@ browsershots.org#@#.advert_area
 ||comitalmows.com^
 ||commastick.com^
 ||commendhalf.com^
+||commentaryblame.com^
 ||commercefrugal.com^
 ||commercialvalue.org^
 ||commission-junction.com^
@@ -27011,6 +27013,7 @@ browsershots.org#@#.advert_area
 ||hauboisphenols.com^
 ||hauchiwu.com^
 ||haughtydistinct.com^
+||haukarithad.net^
 ||hauledforewordsentimental.com^
 ||hauledresurrectiongosh.com^
 ||hauledskirmish.com^
@@ -29377,6 +29380,7 @@ browsershots.org#@#.advert_area
 ||kbbypzmkjpulx.online^
 ||kbhgnyiogmrcl.store^
 ||kbjn-sibltg.icu^
+||kbkbcpavcqffo.online^
 ||kbmetcacunqgq.store^
 ||kbnmnl.com^
 ||kbqihabjlufvf.club^
@@ -29710,6 +29714,7 @@ browsershots.org#@#.advert_area
 ||koasinky.top^
 ||koawipheela.xyz^
 ||kochiayaboo.top^
+||kogkljgjaonmq.top^
 ||kohiseewhatm.com^
 ||koiaripolymny.com^
 ||koindut.com^
@@ -30866,6 +30871,7 @@ browsershots.org#@#.advert_area
 ||luronews.com^
 ||lurriessinaloa.top^
 ||lurutsocma.net^
+||lurxrrhej.com^
 ||lusfusvawov.com^
 ||lushcrush.com^
 ||lusinlepading.com^
@@ -31349,6 +31355,7 @@ browsershots.org#@#.advert_area
 ||mechanicalcardiac.com^
 ||mechanicladenthereby.com^
 ||mecoxdcdexemf.store^
+||medalschapon.top^
 ||medbzvejdlkxe.today^
 ||meddlespeckers.top^
 ||meddlingwager.com^
@@ -32201,6 +32208,7 @@ browsershots.org#@#.advert_area
 ||mydzcajckvmzp.website^
 ||myeasetrack.com^
 ||myeasyvpn.com^
+||myelinepettier.com^
 ||myeswglq-m.online^
 ||myfastcdn.com^
 ||myflirtfantasy.com^
@@ -34102,6 +34110,7 @@ browsershots.org#@#.advert_area
 ||ownthmorningb.org^
 ||owosbxbyim.com^
 ||owrkwilxbw.com^
+||owrtlcegkq.xyz^
 ||owuywfbqc.com^
 ||owvgisbanc.com^
 ||owvhheaq.com^
@@ -35640,6 +35649,7 @@ browsershots.org#@#.advert_area
 ||pub2srv.com^
 ||pubadx.one^
 ||pubaka5.com^
+||pubcoderace.com^
 ||pubertybloatgrief.com^
 ||pubfruitlesswording.com^
 ||pubfuture-ad.com^
@@ -36010,6 +36020,7 @@ browsershots.org#@#.advert_area
 ||qidnujocmf.com^
 ||qihpwojcazrje.website^
 ||qijpoaplprskvo.com^
+||qikuvoffdjwpawt.com^
 ||qimnubohcapb.com^
 ||qimphywwej.com^
 ||qingolor.com^
@@ -36330,6 +36341,7 @@ browsershots.org#@#.advert_area
 ||rabblevalenone.com^
 ||racecadettyran.com^
 ||racedinvict.com^
+||raceusid.com^
 ||racialdetrimentbanner.com^
 ||racingorchestra.com^
 ||racismseamanstuff.com^
@@ -40241,6 +40253,7 @@ browsershots.org#@#.advert_area
 ||tlkhivxrvlrcb.store^
 ||tlklwtqqewceq.world^
 ||tlootas.org^
+||tlqjonbqwuwmp.online^
 ||tlrkcj17.de^
 ||tlswzfbujtgzi.buzz^
 ||tlysearchingforanop.com^
@@ -42604,6 +42617,7 @@ browsershots.org#@#.advert_area
 ||wkvvzeqybmmlv.top^
 ||wkvvzeqybmqmw.top^
 ||wkvvzeqybmzoj.top^
+||wkwqljwjvkomr.top^
 ||wkwqljwjvkooz.top^
 ||wkwqljwjvovoj.top^
 ||wkwzgjyvymgy.top^
@@ -43068,6 +43082,7 @@ browsershots.org#@#.advert_area
 ||xoxyxaxtgkryj.club^
 ||xpfsmgxc.com^
 ||xpicpefsaxhqs.website^
+||xpnezjinizzcy.online^
 ||xpollo.com^
 ||xporn.in^
 ||xpuoijjhvzsb.com^
@@ -43250,6 +43265,7 @@ browsershots.org#@#.advert_area
 ||yhorw.rocks^
 ||yhqebnyrxckhp.online^
 ||yibivacaji.com^
+||yicyjxpdvltfe.store^
 ||yieldads.com^
 ||yieldbuild.com^
 ||yieldlab.net^

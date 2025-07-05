@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: GLDEYL+722gKUKchbHZpzA
-! Version: 202507051801
+! Checksum: mM3xmbvnDJrZVKSWK6eFtQ
+! Version: 202507052001
 ! Title: EasyList
-! Last modified: 05 Jul 2025 18:01 UTC
+! Last modified: 05 Jul 2025 20:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -18126,6 +18126,7 @@ browsershots.org#@#.advert_area
 ||aninter.net^
 ||anisoinmetrize.top^
 ||anjanstarved.com^
+||anjmfijuiuxgul.com^
 ||ankdoier.com^
 ||ankolisiloam.com^
 ||anlqrktcwmasw.space^
@@ -19669,6 +19670,7 @@ browsershots.org#@#.advert_area
 ||bigincomplete.com^
 ||bigotstatuewider.com^
 ||bigrourg.net^
+||bigsdbmcpgvyq.website^
 ||bigstoreminigames.space^
 ||bihazgoxs.com^
 ||bihoxqpfiown.com^
@@ -21003,6 +21005,7 @@ browsershots.org#@#.advert_area
 ||chairmansmile.com^
 ||chairsgliosis.com^
 ||chaiserepiece.com^
+||chaiwnaoytjig.site^
 ||chalaips.com^
 ||chalconvex.top^
 ||chaliceguzzlerlandlord.com^
@@ -24089,6 +24092,7 @@ browsershots.org#@#.advert_area
 ||ekovsuztvtobn.site^
 ||ekrpjrrovubka.club^
 ||eksqtfco.com^
+||ekulsoulrosa.net^
 ||ekvalqwmly.com^
 ||ekxyrwvoegb.xyz^
 ||eladove.com^
@@ -28775,6 +28779,7 @@ browsershots.org#@#.advert_area
 ||javjean.fun^
 ||javlicense11.fun^
 ||javmanager11.fun^
+||javmg.com^
 ||javmust.fun^
 ||javnine.fun^
 ||javpremium11.fun^
@@ -29670,6 +29675,7 @@ browsershots.org#@#.advert_area
 ||kmfkiwghhe.xyz^
 ||kmggmylakjko.top^
 ||kmhmmhmj.com^
+||kmjettvuhwhad.com^
 ||kmjveezxebpqs.website^
 ||kmlastitytyea.org^
 ||kmlnllmoajnwa.top^
@@ -30951,6 +30957,7 @@ browsershots.org#@#.advert_area
 ||lw2dplgt8.com^
 ||lwbjbbnbnvqmw.top^
 ||lwdfqzckybcsl.online^
+||lwecmzkeqjyag.online^
 ||lwgadm.com^
 ||lwiarsocx.com^
 ||lwioszfmupt.com^
@@ -31936,6 +31943,7 @@ browsershots.org#@#.advert_area
 ||mopemodelingfrown.com^
 ||mopesrubelle.com^
 ||mopiwhoisqui.com^
+||moplahflisky.top^
 ||mordeegroo.net^
 ||mordentmyxoma.com^
 ||mordoops.com^
@@ -34115,6 +34123,7 @@ browsershots.org#@#.advert_area
 ||ovjgithud.com^
 ||ovjoffam.com^
 ||ovowkbtrrrsaawe.com^
+||ovozkjajvoqon.top^
 ||ovpxqdfxdi.com^
 ||ovrhufsadsca.com^
 ||ovtflklfxbrgo.today^
@@ -35763,6 +35772,7 @@ browsershots.org#@#.advert_area
 ||purpleads.io^
 ||purpleflag.net^
 ||purplepatch.online^
+||purplesomewhere.pro^
 ||purposelynextbinary.com^
 ||purposeparking.com^
 ||purrrrrrrr.net^
@@ -35897,6 +35907,7 @@ browsershots.org#@#.advert_area
 ||pxbairohsckfa.online^
 ||pxdigewdhxhuyen.com^
 ||pxeqopwyoml.com^
+||pxidvmtbx.com^
 ||pxls4gm.space^
 ||pxltrck.com^
 ||pxvjgcsbmpjywh.xyz^
@@ -36187,6 +36198,7 @@ browsershots.org#@#.advert_area
 ||qrgip.xyz^
 ||qrifhajtabcy.com^
 ||qrigusakqa.com^
+||qrjyjhdyvobsity.xyz^
 ||qrkwvooljbmov.top^
 ||qrlsx.com^
 ||qrprobopassor.com^
@@ -38485,6 +38497,7 @@ browsershots.org#@#.advert_area
 ||sizierrowting.top^
 ||sizzling-stop.pro^
 ||sjarpeojsx.com^
+||sjbnwzwwmcubf.site^
 ||sjcgdxbzd.com^
 ||sjetnf-oizyo.buzz^
 ||sjgtsqnmrqswz.space^
@@ -39833,6 +39846,7 @@ browsershots.org#@#.advert_area
 ||teachmewind.com^
 ||teads.tv^
 ||teadwightshaft.com^
+||teaecrtvfe.com^
 ||tealeryinsurer.top^
 ||tealsgenevan.com^
 ||teamagonan.com^
@@ -41442,6 +41456,7 @@ browsershots.org#@#.advert_area
 ||usbrowserspeed.com^
 ||useful-fear.pro^
 ||usefulcontentsites.com^
+||usefulknife.pro^
 ||usefullybruiseddrunken.com^
 ||usefullyinheritdenying.com^
 ||useless-diamond.pro^
@@ -42123,6 +42138,7 @@ browsershots.org#@#.advert_area
 ||vv8h9vyjgnst.com^
 ||vvabjoqrbmavl.top^
 ||vvajkvnynnbmz.top^
+||vvewkblbverez.top^
 ||vvewkblbvezmq.top^
 ||vvlqbmzlmmmol.top^
 ||vvmkzawomebbz.top^
@@ -43500,6 +43516,7 @@ browsershots.org#@#.advert_area
 ||yvzgazds6d.com^
 ||ywaopskepixw.com^
 ||ywdyawksjecjv.store^
+||ywexnakh.com^
 ||ywronwasthetron.com^
 ||ywusfyjhnpflr.top^
 ||ywxtspmmd.com^

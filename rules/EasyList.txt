@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: h8bv/IFcdZQ5fx+6Bz93og
-! Version: 202507051601
+! Checksum: GLDEYL+722gKUKchbHZpzA
+! Version: 202507051801
 ! Title: EasyList
-! Last modified: 05 Jul 2025 16:01 UTC
+! Last modified: 05 Jul 2025 18:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -19206,6 +19206,7 @@ browsershots.org#@#.advert_area
 ||banyaikipe.top^
 ||baobabsruesome.com^
 ||baptizespadeaccompanying.com^
+||baqvnzyzjmajj.top^
 ||baqvnzyzjmalo.top^
 ||barbarasacredassort.com^
 ||barbetsnervure.top^
@@ -20982,6 +20983,7 @@ browsershots.org#@#.advert_area
 ||cgpnhjatakwqnjd.xyz^
 ||cgpuepafsneu.com^
 ||cgthnxnovsmml.xyz^
+||cgttllxxolj.com^
 ||cgtwccqrpbota.global^
 ||cgtwpoayhmqi.online^
 ||chabadokor.com^
@@ -24939,6 +24941,7 @@ browsershots.org#@#.advert_area
 ||feechoojaigeep.net^
 ||feed-ads.com^
 ||feed-xml.com^
+||feedbinfanwort.shop^
 ||feedboiling.com^
 ||feedfinder23.info^
 ||feedyourheadmag.com^
@@ -27516,6 +27519,7 @@ browsershots.org#@#.advert_area
 ||homicidelumpforensic.com^
 ||hommerunfolerewer.com^
 ||homosexualfordtriggers.com^
+||homseengex.com^
 ||honanniggun.com^
 ||hondaskashga.shop^
 ||honestlydeploy.com^
@@ -29631,6 +29635,7 @@ browsershots.org#@#.advert_area
 ||klcndmckonkw.com^
 ||kleak.life^
 ||klenhosnc.com^
+||klexbhjo.com^
 ||klh3j19w.xyz^
 ||klhswcxt-o.icu^
 ||klik-disini-aja.site^
@@ -30566,6 +30571,7 @@ browsershots.org#@#.advert_area
 ||lmqvowejalyqm.top^
 ||lmtusbjtmgxb.com^
 ||lmukstyn.xyz^
+||lmvrjabakemkk.top^
 ||lmvrjabakemzq.top^
 ||lmyvafkazblue.site^
 ||lmzhpzoycxjfn.top^
@@ -32419,6 +32425,7 @@ browsershots.org#@#.advert_area
 ||ndfaafrrjgjei.website^
 ||ndha4sding6gf.com^
 ||ndingcouncerne.org^
+||ndirwpiexf.com^
 ||nditingdecord.com^
 ||ndjelsefd.com^
 ||ndlesexwrecko.org^
@@ -33190,6 +33197,7 @@ browsershots.org#@#.advert_area
 ||obuqhpqiqfgoe.love^
 ||obvdcylwtpaaa.tech^
 ||obviousestate.com^
+||obviousruin.pro^
 ||obwduxtal.com^
 ||obwfriomlobc.com^
 ||obwwbbfcjwpd.com^
@@ -39966,6 +39974,7 @@ browsershots.org#@#.advert_area
 ||tfnavbefnmrpd.online^
 ||tfosrv.com^
 ||tfpgeqtammnlr.site^
+||tfqdwbrhyazkf.online^
 ||tfrectkfp.com^
 ||tftrm.com^
 ||tfvmwbjiyjnx.com^
@@ -42887,6 +42896,7 @@ browsershots.org#@#.advert_area
 ||wttpwvlurczpe.rocks^
 ||wtyankriwnza.com^
 ||wtyovtolwg.com^
+||wtzhojihnziam.space^
 ||wucbtiahka.com^
 ||wuci1.xyz^
 ||wuczmaorkqaz.com^
@@ -43039,6 +43049,7 @@ browsershots.org#@#.advert_area
 ||xepsygfqsvyyv.tech^
 ||xerasiasoled.top^
 ||xerdivqzcmi.com^
+||xfazwswahnaqf.store^
 ||xfbjiyqezmwew.space^
 ||xfdmihlzrmks.com^
 ||xfhknzocnbcux.buzz^
@@ -43198,6 +43209,7 @@ browsershots.org#@#.advert_area
 ||xxioelflyiggv.site^
 ||xxivzamarra.shop^
 ||xxltr.com^
+||xxsdgoojiympj.site^
 ||xxxbannerswap.com^
 ||xxxex.com^
 ||xxxiijmp.com^
@@ -43466,6 +43478,7 @@ browsershots.org#@#.advert_area
 ||yuearanceofam.info^
 ||yuhuads.com^
 ||yuintbradshed.com^
+||yukmgwqbtiwuq.space^
 ||yumenetworks.com^
 ||yummy-status.pro^
 ||yummyadvertiseexploded.com^
@@ -43535,6 +43548,7 @@ browsershots.org#@#.advert_area
 ||zatnoh.com^
 ||zauphozaucou.net^
 ||zautfqxtmfvjr.buzz^
+||zaxnfilceaz.com^
 ||zaxonoax.com^
 ||zbmzkxmensplm.club^
 ||zcnphmujdzzqg.site^

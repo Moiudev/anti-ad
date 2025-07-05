@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: mM3xmbvnDJrZVKSWK6eFtQ
-! Version: 202507052001
+! Checksum: ODVEYPfRPphfOA/fXGeJTw
+! Version: 202507052201
 ! Title: EasyList
-! Last modified: 05 Jul 2025 20:01 UTC
+! Last modified: 05 Jul 2025 22:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -20357,6 +20357,7 @@ browsershots.org#@#.advert_area
 ||bukusukses.com^
 ||bulbofficial.com^
 ||bulbusscabish.shop^
+||bulgdckmtntossc.com^
 ||bulgejambee.shop^
 ||bulginglair.com^
 ||bulgingquintet.top^
@@ -23675,6 +23676,7 @@ browsershots.org#@#.advert_area
 ||dupingareoles.top^
 ||dupsyduckom.com^
 ||dupy-hsjctyn.icu^
+||durantdenaro.top^
 ||duringcereal.com^
 ||duringherenurew.com^
 ||durith.com^
@@ -29727,6 +29729,7 @@ browsershots.org#@#.advert_area
 ||knowmakeshalfmoon.com^
 ||known-table.pro^
 ||knownamount.com^
+||knownnatural.pro^
 ||knownwarn.com^
 ||knpfx.life^
 ||kntqxwhr.com^
@@ -32217,6 +32220,7 @@ browsershots.org#@#.advert_area
 ||mxfpthek.com^
 ||mxgaxuxgitqav.online^
 ||mxjhpbfoh.com^
+||mxjitbllqcxli.store^
 ||mxjwznfcryxli.life^
 ||mxmkhyrmup.com^
 ||mxptint.net^
@@ -33690,6 +33694,7 @@ browsershots.org#@#.advert_area
 ||onsuchasricew.com^
 ||onsukultingecauyuk.com^
 ||ontj.com^
+||ontjwwafahig.com^
 ||ontosocietyweary.com^
 ||ontrklnk.com^
 ||onubxlgiol.com^
@@ -35211,6 +35216,7 @@ browsershots.org#@#.advert_area
 ||postrelease.com^
 ||postthieve.com^
 ||postureunlikeagile.com^
+||potable-vast.pro^
 ||potailvine.com^
 ||potassgriph.top^
 ||potatoesejection.com^
@@ -35271,6 +35277,7 @@ browsershots.org#@#.advert_area
 ||pqvpcahwuvfo.life^
 ||pqvzlltzxbs.global^
 ||pqwvvqlklwbkng.com^
+||pqybiuubsheqv.online^
 ||pqyydjswkyc.com^
 ||pqzyzircitnva.top^
 ||pr3tty-fly-4.net^
@@ -35918,6 +35925,7 @@ browsershots.org#@#.advert_area
 ||pygmiesfaisan.com^
 ||pykije.com^
 ||pyknrhm5c.com^
+||pynhtpjgflnph.online^
 ||pyrenaasthma.top^
 ||pyriticpremie.com^
 ||pyroidscarphs.top^
@@ -35939,6 +35947,7 @@ browsershots.org#@#.advert_area
 ||pzmeblamivop.world^
 ||pzmwfmovjmqib.site^
 ||pzvai.site^
+||pzwzitvbdhpiw.website^
 ||pzxjjwbdvxxbi.store^
 ||q1-tdsge.com^
 ||q2i8kd5n.de^
@@ -41824,6 +41833,7 @@ browsershots.org#@#.advert_area
 ||vhmshtfdbqouapb.com^
 ||vhngny-cfwm.life^
 ||vhqdzoxpepcem.store^
+||vhqepwfkyosx.xyz^
 ||vhyrtemq.xyz^
 ||vi-serve.com^
 ||viabeldumchan.com^
@@ -42138,6 +42148,7 @@ browsershots.org#@#.advert_area
 ||vv8h9vyjgnst.com^
 ||vvabjoqrbmavl.top^
 ||vvajkvnynnbmz.top^
+||vvbawlolmlnqj.top^
 ||vvewkblbverez.top^
 ||vvewkblbvezmq.top^
 ||vvlqbmzlmmmol.top^
@@ -43166,6 +43177,7 @@ browsershots.org#@#.advert_area
 ||xqldndcgi.com^
 ||xqwcchybybnro.com^
 ||xqwrdegbmdfrv.top^
+||xqxgcdhfkccgg.site^
 ||xritipdme.com^
 ||xroabnrze.com^
 ||xrrdi.com^
@@ -43741,6 +43753,7 @@ browsershots.org#@#.advert_area
 ||zorsophulroo.com^
 ||zouloafi.net^
 ||zovidree.com^
+||zoykzjajvjmwq.top^
 ||zoykzjajvjmye.top^
 ||zoykzjajvjoyo.top^
 ||zpfmqfxgrtttb.icu^

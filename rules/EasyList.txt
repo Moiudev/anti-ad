@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: QuP8Cp5JtsluBeS/AS6/zw
-! Version: 202507072001
+! Checksum: G3PmRTTy9flKS1Xs8gUZqA
+! Version: 202507072141
 ! Title: EasyList
-! Last modified: 07 Jul 2025 20:01 UTC
+! Last modified: 07 Jul 2025 21:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -20399,6 +20399,7 @@ browsershots.org#@#.advert_area
 ||bucksawcarline.top^
 ||bucksmawger.com^
 ||buckumoore.com^
+||buddedbotoyan.shop^
 ||buddyguests.com^
 ||budfduwa.xyz^
 ||budgepenitent.com^
@@ -20631,6 +20632,7 @@ browsershots.org#@#.advert_area
 ||cabhwq.com^
 ||cabnnr.com^
 ||cabombaskopets.life^
+||cabotswherret.top^
 ||cachegorilla.com^
 ||cachuadirked.top^
 ||cacklegrievingtank.com^
@@ -22186,6 +22188,7 @@ browsershots.org#@#.advert_area
 ||creedthrough.com^
 ||creeksettingbates.com^
 ||creepy-frame.com^
+||creepy-party.pro^
 ||creepybuzzing.com^
 ||creis.site^
 ||crengate.com^
@@ -22321,6 +22324,7 @@ browsershots.org#@#.advert_area
 ||ctgubxnyylv.com^
 ||cthin.site^
 ||ctm-media.com^
+||ctnhpfxk.com^
 ||ctnjvucsbtqduo.com^
 ||ctnsnet.com^
 ||ctosrd.com^
@@ -24393,6 +24397,7 @@ browsershots.org#@#.advert_area
 ||enhclxug.xyz^
 ||enherappedo.cc^
 ||enhhwenysfcmg.online^
+||enifonlook.top^
 ||enigmacrabwind.com^
 ||enigmahazesalt.com^
 ||enigmamedicine.com^
@@ -24976,6 +24981,7 @@ browsershots.org#@#.advert_area
 ||farteniuson.com^
 ||fartmoda.com^
 ||fascespro.com^
+||fascialdarkies.shop^
 ||fasfsv-sli.love^
 ||fasgazazxvi.com^
 ||fashionablegangsterexplosion.com^
@@ -25681,6 +25687,7 @@ browsershots.org#@#.advert_area
 ||franecki.net^
 ||franeski.net^
 ||frap.site^
+||frascoglairs.shop^
 ||fraudulentintrusive.com^
 ||frayedperformance.pro^
 ||frayforms.com^
@@ -25830,6 +25837,7 @@ browsershots.org#@#.advert_area
 ||fullmworkhovdi.org^
 ||fulltraffic.net^
 ||fullylustreenjoyed.com^
+||fullyslape.shop^
 ||fulotnatk.com^
 ||fulrrlddcjqlk.fun^
 ||fulupatinkle.com^
@@ -27890,6 +27898,7 @@ browsershots.org#@#.advert_area
 ||htanothingfruit.com^
 ||htcwyzu.bar^
 ||htdvt.com^
+||htebiwvtofb.com^
 ||htgclhssrgikf.buzz^
 ||htggtwdsuzkpp.store^
 ||htidutntayqzo.website^
@@ -28138,6 +28147,7 @@ browsershots.org#@#.advert_area
 ||idleslowish.shop^
 ||idolismsupari.top^
 ||idolsstars.com^
+||idoteadislink.shop^
 ||idovhqjupirbo.com^
 ||idreamed.com^
 ||idrfvtcl.com^
@@ -28209,6 +28219,7 @@ browsershots.org#@#.advert_area
 ||ijhweandthepe.info^
 ||ijhxe.com^
 ||ijhyugb.com^
+||ijijraqlcjjk.com^
 ||ijjbtolmmnoas.space^
 ||ijjorsrnydjcwx.com^
 ||ijlzykbl.com^
@@ -36091,6 +36102,7 @@ browsershots.org#@#.advert_area
 ||punrbligpisll.life^
 ||puntingdeg.com^
 ||pupilarouranos.com^
+||pupilarstylli.shop^
 ||puppyderisiverear.com^
 ||pupspu.com^
 ||pupur.net^
@@ -38468,6 +38480,7 @@ browsershots.org#@#.advert_area
 ||sennitsdeashes.top^
 ||senonsiatinus.com^
 ||senorjervia.shop^
+||senorssycoses.shop^
 ||sensationtwigpresumptuous.com^
 ||senscirrascul.co.in^
 ||sensifyfugged.com^
@@ -38795,6 +38808,7 @@ browsershots.org#@#.advert_area
 ||sigloiexedent.com^
 ||signalassure.com^
 ||signalspotsharshly.com^
+||signalsriels.shop^
 ||signamentswithd.com^
 ||signcalamity.com^
 ||significantdoubloons.com^
@@ -38817,6 +38831,7 @@ browsershots.org#@#.advert_area
 ||simabaalgific.top^
 ||simahtkk.com^
 ||simapirrmaw.shop^
+||simasgaley.top^
 ||simbachassis.top^
 ||similaramount.pro^
 ||similarpresence.com^
@@ -39755,6 +39770,7 @@ browsershots.org#@#.advert_area
 ||stucktimeoutvexed.com^
 ||stucmaijibsa.net^
 ||studads.com^
+||studdlenee.shop^
 ||studdynegate.top^
 ||studious-make.com^
 ||studscrissal.top^
@@ -40007,6 +40023,7 @@ browsershots.org#@#.advert_area
 ||swinegraveyardlegendary.com^
 ||swingdeceive.com^
 ||swingelcalfish.com^
+||swingfallal.shop^
 ||swinity.com^
 ||swirlspikers.top^
 ||switch1266.fun^
@@ -41690,6 +41707,7 @@ browsershots.org#@#.advert_area
 ||unhealthy-standard.pro^
 ||unhealthyshirt.pro^
 ||unheardspeans.shop^
+||unherosozine.top^
 ||unicornpride123.com^
 ||unifieddataconnect.click^
 ||unifini.de^
@@ -41829,6 +41847,7 @@ browsershots.org#@#.advert_area
 ||uplickoreman.shop^
 ||upliftsearch.com^
 ||uplskcroxjqpv.online^
+||upnockycsfxbm.site^
 ||upodaitie.net^
 ||uponflannelsworn.com^
 ||uponomanytetor.com^
@@ -42361,6 +42380,7 @@ browsershots.org#@#.advert_area
 ||viralmediatech.com^
 ||viralnewsbd.xyz^
 ||viralnewssystems.com^
+||virecoxwain.shop^
 ||virelon.com^
 ||vireshrill.top^
 ||virginityneutralsouls.com^
@@ -42742,6 +42762,7 @@ browsershots.org#@#.advert_area
 ||wastedclassmatemay.com^
 ||wastefuljellyyonder.com^
 ||wastefulrope.com^
+||wasteresents.shop^
 ||watboost.shop^
 ||watch-now.club^
 ||watchcpm.com^
@@ -43591,6 +43612,7 @@ browsershots.org#@#.advert_area
 ||xkacs5av.xyz^
 ||xkpbcd.com^
 ||xkspgkdejobec.site^
+||xkxynfnlutmwi.site^
 ||xliirdr.com^
 ||xlirdr.com^
 ||xlivesex.com^

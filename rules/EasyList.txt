@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: vOU6pK0Reizr9WEI4yVW4A
-! Version: 202507070801
+! Checksum: 3SlrAuT3VQ7ZbnlUc+UD2Q
+! Version: 202507071001
 ! Title: EasyList
-! Last modified: 07 Jul 2025 08:01 UTC
+! Last modified: 07 Jul 2025 10:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -24997,6 +24997,7 @@ browsershots.org#@#.advert_area
 ||fcldwrolugp.com^
 ||fcpkqyfjvyhg.com^
 ||fcqkfnxepdhrq.love^
+||fcrfxxxydltzy.store^
 ||fcswogrcyplcs.space^
 ||fcujajhfq.com^
 ||fd5orie8e.com^
@@ -29265,6 +29266,7 @@ browsershots.org#@#.advert_area
 ||jqnwqnwnvgwzb.top^
 ||jqpuqbkbauung.xyz^
 ||jqskyncpqpqtb.site^
+||jqsqkahtnz.com^
 ||jqtfoe92.com^
 ||jqtqoknktzy.space^
 ||jqtree.com^
@@ -29946,6 +29948,7 @@ browsershots.org#@#.advert_area
 ||koutobey.net^
 ||koutoowekoa.net^
 ||kouunrov.xyz^
+||kovmgkwnknqwa.top^
 ||koyshxlxljv.com^
 ||kpaagnosdzih.com^
 ||kpaamldootvpw.global^
@@ -30010,6 +30013,7 @@ browsershots.org#@#.advert_area
 ||ktilahosxv.com^
 ||ktkgtwthbvzte.online^
 ||ktkjmp.com^
+||ktldjkvzcxpmv.online^
 ||ktpcsqnij.com^
 ||kttollman.top^
 ||ktwxgrfj.com^
@@ -32165,6 +32169,7 @@ browsershots.org#@#.advert_area
 ||motionspots.com^
 ||motivatingother.com^
 ||motsardi.net^
+||moucoustiso.net^
 ||moujeekeedil.com^
 ||moukewelaimaiho.net^
 ||moulsreink.top^
@@ -33663,6 +33668,7 @@ browsershots.org#@#.advert_area
 ||oiziuuioqli.com^
 ||ojarfqpwi.com^
 ||ojbnjknowngbg.top^
+||ojcxvljnykqbvc.com^
 ||ojepsahainekse.net^
 ||ojfaxtavjdt.com^
 ||ojfowfsij.com^
@@ -35806,6 +35812,7 @@ browsershots.org#@#.advert_area
 ||psegeevalrat.net^
 ||psergete.com^
 ||psestoofoub.com^
+||psgddusxwtmgj.online^
 ||pshb.me^
 ||pshmetrk.com^
 ||pshqumvrasdlspe.com^
@@ -37840,6 +37847,7 @@ browsershots.org#@#.advert_area
 ||rutatmosphericdetriment.com^
 ||ruthwoof.com^
 ||ruttierpacer.top^
+||ruuumlgtgekm.xyz^
 ||ruvqitlilqi.com^
 ||ruvrkunta.com^
 ||ruxacwdfu.com^
@@ -37874,6 +37882,7 @@ browsershots.org#@#.advert_area
 ||rworljrkawloj.top^
 ||rworljrkawlqq.top^
 ||rwoscaonf.com^
+||rwqavyocxonqvu.com^
 ||rwqovmoezrmvq.top^
 ||rwqovmoezrvrv.top^
 ||rwsxhquiakqjt.store^
@@ -40645,6 +40654,7 @@ browsershots.org#@#.advert_area
 ||tobaccoearnestnessmayor.com^
 ||tobaccosturgeon.com^
 ||tobaltoyon.com^
+||tobibivjxqy.com^
 ||tobipovsem.com^
 ||toboads.com^
 ||tocometothepoin.com^
@@ -40995,6 +41005,7 @@ browsershots.org#@#.advert_area
 ||trixblocka.com^
 ||trizoicaequi.com^
 ||trjwraxkfkm.com^
+||trjyhdpxtiyia.store^
 ||trk-aspernatur.com^
 ||trk-consulatu.com^
 ||trk-epicurei.com^
@@ -43005,6 +43016,7 @@ browsershots.org#@#.advert_area
 ||wjzrzwyvzbrjr.top^
 ||wjzrzwyvzbzbj.top^
 ||wkamwqeoqoazr.top^
+||wkamwqeoqorev.top^
 ||wkamwqeoqozzm.top^
 ||wkdexqtjblukb.store^
 ||wkhqruwtrcxb.xyz^
@@ -43764,6 +43776,7 @@ browsershots.org#@#.advert_area
 ||yonelectrikeer.com^
 ||yonhelioliskor.com^
 ||yonsandileer.com^
+||yonsorgtd.com^
 ||yoomanies.com^
 ||yopard.com^
 ||yorgagetnizatio.com^

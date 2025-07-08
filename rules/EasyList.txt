@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: nyFIvb22m98B3jXP++2dvA
-! Version: 202507080601
+! Checksum: W7FGG0OXLvl/fkOpXNYpLA
+! Version: 202507080801
 ! Title: EasyList
-! Last modified: 08 Jul 2025 06:01 UTC
+! Last modified: 08 Jul 2025 08:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -17477,6 +17477,7 @@ browsershots.org#@#.advert_area
 ||afireraptril.com^
 ||afjnjewdimqwb.com^
 ||afkwa.com^
+||aflamecheetul.shop^
 ||aflatrt.top^
 ||afm01.com^
 ||afnhc.com^
@@ -19072,6 +19073,7 @@ browsershots.org#@#.advert_area
 ||azimechgirosol.top^
 ||azjmp.com^
 ||azjuilzwebhss.com^
+||azjwnwbblnzjy.top^
 ||azjwnwbblnzqq.top^
 ||azkwwrejomwzv.top^
 ||azkwwrejomzbj.top^
@@ -20152,6 +20154,7 @@ browsershots.org#@#.advert_area
 ||bountyformseedlings.com^
 ||boupeeli.com^
 ||boupsugotu.com^
+||bouquetdaft.com^
 ||bourgsfairy.com^
 ||bourrepardale.com^
 ||boustahe.com^
@@ -21987,6 +21990,7 @@ browsershots.org#@#.advert_area
 ||coolserving.com^
 ||coolstreamsearch.com^
 ||coolthewomanonline.com^
+||coonermon.shop^
 ||coonouptiphu.xyz^
 ||coonsapodema.top^
 ||cooperationdungfrugal.com^
@@ -25179,6 +25183,7 @@ browsershots.org#@#.advert_area
 ||fevhviqave.xyz^
 ||few-politics.com^
 ||fewergkit.com^
+||fewtermoltten.shop^
 ||fexyop.com^
 ||feyauknalyticafr.com^
 ||feybeahwffvzt.website^
@@ -25933,6 +25938,7 @@ browsershots.org#@#.advert_area
 ||fuyhvgvvhyp.com^
 ||fuywsmvxhtg.com^
 ||fuzakumpaks.com^
+||fuzesrabic.top^
 ||fv-bpmnrzkv.vip^
 ||fvchjvaiisuxrpb.com^
 ||fvcm.net^
@@ -29696,6 +29702,7 @@ browsershots.org#@#.advert_area
 ||kbhgnyiogmrcl.store^
 ||kbjn-sibltg.icu^
 ||kbkbcpavcqffo.online^
+||kbkqmnta.com^
 ||kbmetcacunqgq.store^
 ||kbnmnl.com^
 ||kbqihabjlufvf.club^
@@ -32534,6 +32541,7 @@ browsershots.org#@#.advert_area
 ||musiccampusmanure.com^
 ||musicnote.info^
 ||mussilytalwar.top^
+||mustardbespy.shop^
 ||mustersvyrnwy.top^
 ||mustunsognouft.net^
 ||mutablebackcap.shop^
@@ -37696,6 +37704,7 @@ browsershots.org#@#.advert_area
 ||rmyfiwopdzf.com^
 ||rmygfurfa.com^
 ||rmzkqkvvrqmww.top^
+||rmzkqkvvrqmza.top^
 ||rmzsglng.com^
 ||rndambipoma.com^
 ||rndchandelureon.com^
@@ -39618,6 +39627,7 @@ browsershots.org#@#.advert_area
 ||stackmultiple.com^
 ||stackprotectnational.com^
 ||staffdisgustedducked.com^
+||stafferarnica.shop^
 ||stagedswots.top^
 ||stagepopkek.com^
 ||stageseshoals.com^
@@ -40077,6 +40087,7 @@ browsershots.org#@#.advert_area
 ||sveltsturin.shop^
 ||svjjmdcdykykx.site^
 ||svntrk.com^
+||svqqunzgzsren.space^
 ||svrgcqgtpe.com^
 ||svswyokrievoe.space^
 ||svyksa.info^
@@ -41887,6 +41898,7 @@ browsershots.org#@#.advert_area
 ||unsrzlaqfttxa.website^
 ||unstantleran.com^
 ||unsteadyneat.pro^
+||unsteelpon.top^
 ||unsuccessfultesttubepeerless.com^
 ||unsung-horror.pro^
 ||unsungpolicy.com^
@@ -41908,6 +41920,7 @@ browsershots.org#@#.advert_area
 ||unusualvirus.pro^
 ||unuwiltoud.com^
 ||unwantedpointingwaspish.com^
+||unwarptroaked.shop^
 ||unwaryunpegs.top^
 ||unwelcomegardenerinterpretation.com^
 ||unwelcomehurry.com^
@@ -42008,6 +42021,7 @@ browsershots.org#@#.advert_area
 ||urinousbiriba.com^
 ||urkbgdfhuc.global^
 ||urkghdiaqxfcm.online^
+||urlarcarders.shop^
 ||urldelivery.com^
 ||urlgone.com^
 ||urlhausa.com^
@@ -42561,6 +42575,7 @@ browsershots.org#@#.advert_area
 ||vloahkelmykyd.top^
 ||vlogerads.com^
 ||vlpvhsxsqmnqkm.com^
+||vlqrxyowfn.xyz^
 ||vlry5l4j5gbn.com^
 ||vluwqsrlqy.com^
 ||vlwjbqqovvugf.site^
@@ -43544,6 +43559,7 @@ browsershots.org#@#.advert_area
 ||wuzbhjpvsf.com^
 ||wvbzvwllkywyn.top^
 ||wvhba6470p.com^
+||wvhuwiuvvgibn.space^
 ||wvkgyqwvwygjg.top^
 ||wvlkloyavwzgq.top^
 ||wvomzgawkwnak.top^
@@ -43710,6 +43726,7 @@ browsershots.org#@#.advert_area
 ||xhutheasb.com^
 ||xihlzozifgt.com^
 ||xijafgfl.com^
+||xiksuffisszoz.site^
 ||ximybkpxwu.com^
 ||xineday.com^
 ||xiofispycoaxadn.com^
@@ -43840,6 +43857,7 @@ browsershots.org#@#.advert_area
 ||xvzyyzix.com^
 ||xweblaxbwsinuji.com^
 ||xwiashrkcpvns.love^
+||xwklwkrgxgfvx.online^
 ||xwlketvkzf.com^
 ||xwmcxqcxipcln.site^
 ||xwqea.com^
@@ -43918,6 +43936,7 @@ browsershots.org#@#.advert_area
 ||yawnupsps.top^
 ||ybcemprwcstsjun.com^
 ||ybhyziittfg.com^
+||ybonlmqmbxrx.com^
 ||ybs2ffs7v.com^
 ||ybsqqegmkdonc.life^
 ||ybtkzjm.com^
@@ -44100,6 +44119,7 @@ browsershots.org#@#.advert_area
 ||yqp-oxzxjecq.world^
 ||yqrpbzgfbkwom.store^
 ||yqvnmluzxjqmp.site^
+||yralpspdvnqaqv.com^
 ||yremovementxvi.org^
 ||yresumeformor.com^
 ||yrhnw7h63.com^

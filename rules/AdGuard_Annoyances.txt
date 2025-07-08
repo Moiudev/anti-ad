@@ -43760,6 +43760,9 @@ alfastrah.ru,turkishairlines.com,atmos-tokyo.com,radarbox.com,ciceksepeti.com,ra
 !
 !
 !
+[$path=/mein-magenta-kundencenter]telekom.de#$#div[id]:has(> .ODSDialog-Dim:first-child) { display: none !important; }
+[$path=/mein-magenta-kundencenter]telekom.de#$#body { overflow: auto !important; }
+[$path=/mein-magenta-kundencenter]telekom.de#$#html { overflow: auto !important; }
 is.fi##.ab-test-app-download-banner
 creditkarma.com##.overlay-popup
 m.mobile.de#%#//scriptlet('set-cookie', 'w2a', '1')
@@ -51784,6 +51787,8 @@ www.kinopoisk.ru##div[class^="trailer-promo"]
 !
 ! SECTION: Self-promo - Regular rules
 !
+thewrap.com##.entry-content > div.wp-block-spacer
+thewrap.com##.entry-content > div.wp-block-spacer + div.wp-block-group.has-global-padding
 ||creatives-promo.telegraaf.nl^
 atptour.com##.atp_article > p:has(> a[href^="https://www.atptour.com/"][href$="/news/it-all-adds-up-hub"])
 atptour.com##.atp_article > p:has(> a[href^="https://www.atptour.com/"][href$="/news/atp-number-one-club"])

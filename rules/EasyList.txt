@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: A8fCltetkroUNiG/fJ3ziw
-! Version: 202507090601
+! Checksum: 8tselPMJjZrCvhjmY0uqdQ
+! Version: 202507090801
 ! Title: EasyList
-! Last modified: 09 Jul 2025 06:01 UTC
+! Last modified: 09 Jul 2025 08:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -16808,6 +16808,7 @@ browsershots.org#@#.advert_area
 ||acoossz.top^
 ||acorncranberrycrayfish.com^
 ||acornedavolate.top^
+||acouasmamazia.top^
 ||acqpizkpo.com^
 ||acqtfeofpa.com^
 ||acquaintance213.fun^
@@ -18184,6 +18185,7 @@ browsershots.org#@#.advert_area
 ||anjmfijuiuxgul.com^
 ||ankdoier.com^
 ||ankolisiloam.com^
+||anlacecartful.shop^
 ||anlqrktcwmasw.space^
 ||anlytics.co^
 ||anmazwvszsqub.com^
@@ -18202,6 +18204,7 @@ browsershots.org#@#.advert_area
 ||annussleys.com^
 ||annxwustakf.com^
 ||annzaqakg.com^
+||anokyqqkambkn.top^
 ||anonymousads.com^
 ||anonymoustrunk.com^
 ||anopportunitytost.com^
@@ -19302,6 +19305,7 @@ browsershots.org#@#.advert_area
 ||barelydonkeysteed.com^
 ||bargainintake.com^
 ||bargedale.com^
+||barhopgifture.top^
 ||bariumdroger.top^
 ||barkanpickee.com^
 ||barlo.xyz^
@@ -20121,6 +20125,7 @@ browsershots.org#@#.advert_area
 ||boomouso.xyz^
 ||boomsshhcifdi.com^
 ||booneeptou.net^
+||boontortrix.shop^
 ||booseed.com^
 ||boost-next.co.jp^
 ||boostaubeehy.net^
@@ -21287,6 +21292,7 @@ browsershots.org#@#.advert_area
 ||chinaslauras.com^
 ||chinesskraigh.shop^
 ||chingbicched.top^
+||chinlescupcake.top^
 ||chiolxkuzji.com^
 ||chioursorspolia.com^
 ||chipleader.com^
@@ -22550,6 +22556,7 @@ browsershots.org#@#.advert_area
 ||cwoapffh.com^
 ||cwoonpowxvi.com^
 ||cwpnnceaolies.global^
+||cwqctcmhswrth.online^
 ||cwqktsudigdtq.com^
 ||cwqljsecvr.com^
 ||cwsbrxarjnaav.space^
@@ -26053,6 +26060,7 @@ browsershots.org#@#.advert_area
 ||fuzakumpaks.com^
 ||fuzesrabic.top^
 ||fv-bpmnrzkv.vip^
+||fvahbwnlcqvaf.site^
 ||fvchjvaiisuxrpb.com^
 ||fvcm.net^
 ||fvcwqkkqmuv.com^
@@ -29115,6 +29123,7 @@ browsershots.org#@#.advert_area
 ||jaahqjqnkzlpb.site^
 ||jaavnacsdw.com^
 ||jabafgnu.com^
+||jabslasa.shop^
 ||jabxsbaestpzo.space^
 ||jackalclenchedbedside.com^
 ||jackao.net^
@@ -32076,6 +32085,7 @@ browsershots.org#@#.advert_area
 ||mevarabon.com^
 ||mewgzllnsp.com^
 ||mewiththeb.com^
+||mewscornel.top^
 ||mfadsrvr.com^
 ||mfbvgcjkqpxup.xyz^
 ||mfcewkrob.com^
@@ -34060,6 +34070,7 @@ browsershots.org#@#.advert_area
 ||ojkfmoackqp.com^
 ||ojkopkorzlce.com^
 ||ojoooaogovqbn.top^
+||ojpnkbxxdkoytrd.com^
 ||ojrq.net^
 ||ojsxtysilofk.com^
 ||ojszakvutv.com^
@@ -34316,6 +34327,7 @@ browsershots.org#@#.advert_area
 ||oomougnoltaifto.net^
 ||oompahmoniker.com^
 ||oonsouque.com^
+||oophoreoutsee.shop^
 ||ooqtjsubfcppe.life^
 ||oorgaithaigast.net^
 ||oorgooteckax.com^
@@ -37809,6 +37821,7 @@ browsershots.org#@#.advert_area
 ||ricoslpcovu.com^
 ||riddedgarle.top^
 ||riddleloud.com^
+||ridiestreallot.top^
 ||ridmilestone.com^
 ||ridxvydxlhiej.online^
 ||riffingwiener.com^
@@ -38142,6 +38155,7 @@ browsershots.org#@#.advert_area
 ||rqcmbaquc.com^
 ||rqeenaenswlwnyv.com^
 ||rqejawwjlazlv.top^
+||rqejawwjlovjq.top^
 ||rqgiwrjyicatp.site^
 ||rqigjxtwszork.store^
 ||rqmfspdplqzmxu.com^
@@ -39671,6 +39685,7 @@ browsershots.org#@#.advert_area
 ||spadelack.com^
 ||spaderonium.com^
 ||spadsync.com^
+||spaitlitter.shop^
 ||spaitopacate.shop^
 ||spaitwhitter.shop^
 ||spamimpunity.com^
@@ -40122,6 +40137,7 @@ browsershots.org#@#.advert_area
 ||streamsearchclub.com^
 ||streamtoclick.com^
 ||streamyourvid.com^
+||streckmatinal.shop^
 ||street-datetop.com^
 ||streetgrieveddishonour.com^
 ||streetmonumentemulate.com^
@@ -40176,6 +40192,7 @@ browsershots.org#@#.advert_area
 ||stummedperca.top^
 ||stunliver.com^
 ||stunning-lift.com^
+||stunning-version.pro^
 ||stunsbarbola.website^
 ||stuntedtetrix.top^
 ||stunthypocrisy.com^
@@ -40408,6 +40425,7 @@ browsershots.org#@#.advert_area
 ||sweltering-development.com^
 ||sweptomphacy.shop^
 ||swesomepop.com^
+||swgvmflsg.com^
 ||swidprxaafwha.store^
 ||swiftbytes.store^
 ||swiftlybloodlesseconomic.com^
@@ -40982,6 +41000,7 @@ browsershots.org#@#.advert_area
 ||thoughtfulbill.pro^
 ||thoughtleadr.com^
 ||thoukouxou.net^
+||thounekoaw.net^
 ||thouprepositionsquall.com^
 ||thoupsuk.net^
 ||thousandinvoluntary.com^
@@ -41963,6 +41982,7 @@ browsershots.org#@#.advert_area
 ||uglawhigruzeehy.net^
 ||ugopkl.com^
 ||ugroocuw.net^
+||ugyokhycezstl.site^
 ||uhaadzwxo.com^
 ||uhalwxtwy.com^
 ||uhdokoq5ocmk.com^
@@ -42724,6 +42744,7 @@ browsershots.org#@#.advert_area
 ||vgzglvykuyclh.store^
 ||vhabwaoh.com^
 ||vhacakzwegu.com^
+||vhbhlkkaixibch.xyz^
 ||vhfeerzufoebx.site^
 ||vhjhmsvosxius.click^
 ||vhjifggl.com^
@@ -43119,6 +43140,7 @@ browsershots.org#@#.advert_area
 ||vzeakntvvkc.one^
 ||vzhdsjjfnuquz.online^
 ||vzigttqgqx.com^
+||vzldnxgdbhyle.website^
 ||vzoahlod.com^
 ||vzoogvcarot.com^
 ||vzoqn.buzz^
@@ -61844,7 +61866,7 @@ momondo.*##[class$="-result-item-container"]:has([aria-label="Ad disclaimer"])
 momondo.*##[class$="result-item-container"]:has([class$="provider-ad-badge"])
 momondo.*##[class*="mod-pres-default"]:has(div[class*="ad-badge"])
 momondo.*##div[role="button"][tabindex="0"]:has(div.c_3eP-badge-content)
-pinterest.*##div[data-grid-item]:has([data-test-pin-id] [data-test-id^="one-tap-desktop"] > a[href^="http"][rel="nofollow"]):not(body > div)
+pinterest.com##div[data-grid-item]:has([data-test-pin-id] [data-test-id^="one-tap-desktop"] > a[href^="http"][rel="nofollow"]):not(body > div)
 pv-magazine.*,pv-magazine-usa.com,pv-magazine-australia.com###home-top-rectangle-wrap-1
 pv-magazine.*,pv-magazine-usa.com,pv-magazine-australia.com###home-top-rectangle-wrap-2
 pv-magazine.*,pv-magazine-usa.com,pv-magazine-australia.com###home-top-rectangle-wrap-3
@@ -64744,12 +64766,6 @@ gamcore.com##li.d-md-block > a[rel]
 @@||peacocktv.com^$generichide
 @@||photos.google.com^$generichide
 @@||pinterest.com^$generichide
-@@||pinterest.de^$generichide
-@@||pinterest.es^$generichide
-@@||pinterest.fr^$generichide
-@@||pinterest.it^$generichide
-@@||pinterest.jp^$generichide
-@@||pinterest.ph^$generichide
 @@||playcode.io^$generichide
 @@||proton.me^$generichide
 @@||publicwww.com^$generichide

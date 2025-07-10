@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ifPtLLKMOMD7j8O9bEmRmw
-! Version: 202507100041
+! Checksum: WbuWzQYhYGAD0Rv8Lps0hw
+! Version: 202507100301
 ! Title: EasyList
-! Last modified: 10 Jul 2025 00:41 UTC
+! Last modified: 10 Jul 2025 03:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -18728,6 +18728,7 @@ browsershots.org#@#.advert_area
 ||athyimemediates.org^
 ||ationforeahyouglas.com^
 ||ationforeathyougla.com^
+||atjbbflsi.com^
 ||atjigglypuffor.com^
 ||atjogdfzivre.com^
 ||atjtzuva.com^
@@ -18895,6 +18896,7 @@ browsershots.org#@#.advert_area
 ||avalanchetremorunfilled.com^
 ||avancelanated.top^
 ||avanyurictus.shop^
+||avaricious-nerve.pro^
 ||avatarthree.lol^
 ||avaulroocke.com^
 ||avazu.net^
@@ -20920,6 +20922,7 @@ browsershots.org#@#.advert_area
 ||catastropheillusive.com^
 ||catchymorselguffaw.com^
 ||catelslurban.top^
+||catgutssendal.top^
 ||catherinebrochure.com^
 ||cathodecynodon.shop^
 ||catholicprevalent.com^
@@ -21780,6 +21783,7 @@ browsershots.org#@#.advert_area
 ||cohereproceedingsspark.com^
 ||cohibitegos.com^
 ||cohtsfkwaa.com^
+||coifingpicong.shop^
 ||coinad.media^
 ||coinadster.com^
 ||coincideadventure.com^
@@ -22745,6 +22749,7 @@ browsershots.org#@#.advert_area
 ||dannyuncoach.com^
 ||dantaradiohd.net^
 ||dantbritingd.club^
+||danubebushboy.shop^
 ||danzhallfes.com^
 ||daokapok.com^
 ||daphnews.com^
@@ -23851,6 +23856,7 @@ browsershots.org#@#.advert_area
 ||dsau5u.com^
 ||dsb68d.com^
 ||dsbohcqqdvbyt.site^
+||dsduvoaoim.com^
 ||dseveralmefarketi.com^
 ||dsfvmx.click^
 ||dsgmegsukgslc.com^
@@ -25212,6 +25218,7 @@ browsershots.org#@#.advert_area
 ||faugrich.info^
 ||faugstat.info^
 ||faultsmtge.com^
+||fautonoacasogly.com^
 ||favoredkuwait.top^
 ||fawhosyma.pro^
 ||faxbfxhkdjoma.icu^
@@ -27615,6 +27622,7 @@ browsershots.org#@#.advert_area
 ||heedetiquettedope.com^
 ||heedlessplanallusion.com^
 ||heedmicroscope.com^
+||heenojouwofoupt.com^
 ||heflewrounda.org^
 ||heflewroundandr.com^
 ||hegemonjujus.shop^
@@ -30357,6 +30365,7 @@ browsershots.org#@#.advert_area
 ||kousjcignye.com^
 ||koutobey.net^
 ||koutoowekoa.net^
+||koutunagreeh.com^
 ||kouunrov.xyz^
 ||kovmgkwnknqwa.top^
 ||koyshxlxljv.com^
@@ -31247,6 +31256,7 @@ browsershots.org#@#.advert_area
 ||lodgesweet.com^
 ||loeqrqbaejaq.top^
 ||loftyeliteseparate.com^
+||logiaoceanid.shop^
 ||logicdate.com^
 ||logicschort.com^
 ||logilycathop.shop^
@@ -32160,6 +32170,7 @@ browsershots.org#@#.advert_area
 ||merig.xyz^
 ||meristana.pro^
 ||meritsbunn.top^
+||merligogippy.top^
 ||merterpazar.com^
 ||merzqdnhuli.com^
 ||meshsensorcuriosity.com^
@@ -32900,6 +32911,7 @@ browsershots.org#@#.advert_area
 ||mwbzdzmuviwtf.website^
 ||mwclanfwvgkje.com^
 ||mwdsuxowqdr.com^
+||mwehrmpertjfc.store^
 ||mwlptoirxkkmsvr.xyz^
 ||mwoukrkskillso.com^
 ||mwowoshszibzo.space^
@@ -36935,6 +36947,7 @@ browsershots.org#@#.advert_area
 ||qituduwios.com^
 ||qivaiw.com^
 ||qivpnfus.com^
+||qixmzogwiblhf.store^
 ||qizjkwx9klim.com^
 ||qjbtdidrobmmo.love^
 ||qjinyuopnitjq.com^
@@ -37917,6 +37930,7 @@ browsershots.org#@#.advert_area
 ||rfihub.com^
 ||rfihub.net^
 ||rfity.com^
+||rfqjpyrqurtje.online^
 ||rftslb.com^
 ||rganizationsuch.com^
 ||rgatxxblwvt.com^
@@ -38055,6 +38069,7 @@ browsershots.org#@#.advert_area
 ||riverhit.com^
 ||riversideseizingtightness.com^
 ||riverstressful.com^
+||rivetedkibbeh.shop^
 ||rivetrearrange.com^
 ||rivne.space^
 ||riwhssuoploai.buzz^
@@ -39111,6 +39126,7 @@ browsershots.org#@#.advert_area
 ||sevrftcxtlrbm.com^
 ||sewersneaky.com^
 ||sewparamedic.com^
+||sewsemagram.shop^
 ||sex-and-flirt.com^
 ||sex-chat.me^
 ||sexbuggishbecome.info^
@@ -42422,6 +42438,7 @@ browsershots.org#@#.advert_area
 ||unseamssafes.com^
 ||unseenreport.com^
 ||unseenshingle.com^
+||unselfish-communication.pro^
 ||unshellbrended.com^
 ||unshopragwork.shop^
 ||unsigilyphor.com^
@@ -42549,6 +42566,7 @@ browsershots.org#@#.advert_area
 ||uquhuahi.com^
 ||uqwcaaiwfqfwy.com^
 ||uqzoyikxsfhdr.space^
+||uranianfulgora.shop^
 ||urauvipsidu.com^
 ||urechar.com^
 ||urencenes.com^
@@ -42747,6 +42765,7 @@ browsershots.org#@#.advert_area
 ||vaqykqyvvazbz.top^
 ||vaqykqyvvazwm.top^
 ||vardsusyseinpo.com^
+||variable-accident.pro^
 ||variablehour.com^
 ||variationsradio.com^
 ||variedpretenceclasped.com^
@@ -56600,7 +56619,6 @@ gumtree.com.au###view-item-page__leaderboard-wrapper
 playstationtrophies.org,xboxachievements.com###vnt-lb-a
 counselheal.com,mobilenapps.com###vplayer_large
 browserleaks.com###vpn_text
-1337x.to###vpnvpn2
 w2g.tv###w2g-square-ad
 igberetvnews.com,mediaweek.com.au,nextnewssource.com###wallpaper
 eeweb.com###wallpaper_image
@@ -61239,6 +61257,7 @@ phandroid.com##[href^="https://howl.link/"]
 imagetwist.com##[href^="https://imagetwist.com/pxt/"]
 topfiveforex.com##[href^="https://iqoption.com/"]
 theburningplatform.com##[href^="https://libertasbella.com/collections/"]
+1337x.to##[href^="https://limeiptv.to"]
 topfiveforex.com##[href^="https://luckyfish.io/"]
 crypto-news-flash.com##[href^="https://mollars.com/"]
 abovetopsecret.com,thelibertydaily.com##[href^="https://mypatriotsupply.com/"]

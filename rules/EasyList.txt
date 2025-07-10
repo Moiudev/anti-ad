@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: rAMb//qCYVKHOTVMQJL6Sw
-! Version: 202507100411
+! Checksum: 7qU2LZBd8JEvk6WEvsrcSw
+! Version: 202507100611
 ! Title: EasyList
-! Last modified: 10 Jul 2025 04:11 UTC
+! Last modified: 10 Jul 2025 06:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -17893,6 +17893,7 @@ browsershots.org#@#.advert_area
 ||alleygoat.com^
 ||allfb8dremsiw09oiabhboolsebt29jhe3setn.com^
 ||allfreecounter.com^
+||allgoodwasters.shop^
 ||alliancefurs.com^
 ||alliancejoyousbloat.com^
 ||allicinarenig.com^
@@ -22353,6 +22354,7 @@ browsershots.org#@#.advert_area
 ||criminalalcovebeacon.com^
 ||criminalmention.pro^
 ||criminalweightforetaste.com^
+||criminihaulse.com^
 ||crinetsistern.com^
 ||criolloflatten.top^
 ||crippledwingant.com^
@@ -23327,6 +23329,7 @@ browsershots.org#@#.advert_area
 ||dimfarlow.com^
 ||diminrankers.shop^
 ||dimlmhowvkrag.xyz^
+||dimmerinport.shop^
 ||dimmerlingowashable.com^
 ||dimnaamebous.com^
 ||dimnessinvokecorridor.com^
@@ -23603,6 +23606,7 @@ browsershots.org#@#.advert_area
 ||doddetalage.top^
 ||dodgyfactoidprecut.com^
 ||dodgyresources.com^
+||dodunkmucopus.top^
 ||doflygonan.com^
 ||dogheegnaunim.net^
 ||dogicgqi.com^
@@ -23619,6 +23623,7 @@ browsershots.org#@#.advert_area
 ||dolekaraokeoversleep.com^
 ||dolhuvumjpzwv.website^
 ||doljqrkgovqce.website^
+||dollgoasila.shop^
 ||dolmansunhose.top^
 ||dolohen.com^
 ||dolphincdn.xyz^
@@ -23665,6 +23670,7 @@ browsershots.org#@#.advert_area
 ||doorbanker.com^
 ||doorwaystanes.top^
 ||doostozoa.net^
+||doovejoath.com^
 ||dopansearor.com^
 ||dophirtoozeego.net^
 ||dopor.info^
@@ -24459,6 +24465,7 @@ browsershots.org#@#.advert_area
 ||elkunbalanceunfounded.com^
 ||elkwgyav.com^
 ||elkwoodbiggin.top^
+||ellingepayable.top^
 ||elliptical-mode.pro^
 ||ellipticaltrack.com^
 ||ellsconuses.com^
@@ -25280,6 +25287,7 @@ browsershots.org#@#.advert_area
 ||feastfirefly.shop^
 ||featuremedicine.com^
 ||feazecarpels.top^
+||feazesexuvia.shop^
 ||febads.shop^
 ||februarybogus.com^
 ||februaryinjectionproudly.com^
@@ -25606,6 +25614,7 @@ browsershots.org#@#.advert_area
 ||flcwuythduzvu.store^
 ||fldes6fq.de^
 ||fleahat.com^
+||fleckerbractea.shop^
 ||fleckfound.com^
 ||fleenaive.com^
 ||fleetenreplevy.com^
@@ -26170,6 +26179,7 @@ browsershots.org#@#.advert_area
 ||fxpqcygxjib.com^
 ||fxthjlhiybnyf.space^
 ||fxvvraqymwsjmmq.com^
+||fxxnyksafitsz.online^
 ||fycdnhwmaitdg.online^
 ||fyglovilo.pro^
 ||fyitxmpooaf.com^
@@ -27249,6 +27259,7 @@ browsershots.org#@#.advert_area
 ||gungaultabie.com^
 ||gunjahjapetus.com^
 ||gunnerabakula.top^
+||gunsterpokey.shop^
 ||gunzblazingpromo.com^
 ||guofbdtsgepvjh.com^
 ||guqeeflwaxjec.today^
@@ -27419,6 +27430,7 @@ browsershots.org#@#.advert_area
 ||hammamfehmic.com^
 ||hammamnotself.com^
 ||hammereternal.com^
+||hamwo.cloud^
 ||hamzascoxwain.top^
 ||hamzassofty.shop^
 ||hanagxgpu.com^
@@ -27954,6 +27966,7 @@ browsershots.org#@#.advert_area
 ||hoalaicheey.com^
 ||hoanoola.net^
 ||hoanooludaini.com^
+||hoapsoumaipt.net^
 ||hoardjan.com^
 ||hoardpastimegolf.com^
 ||hoardsmirkly.top^
@@ -30035,6 +30048,7 @@ browsershots.org#@#.advert_area
 ||kelekkraits.com^
 ||kelopronto.com^
 ||kelpiesregna.com^
+||kelpingarise.shop^
 ||kelticsully.guru^
 ||kemaz.xyz^
 ||kemoachoubsosti.xyz^
@@ -32880,6 +32894,7 @@ browsershots.org#@#.advert_area
 ||murmursutta.shop^
 ||murolwsi.com^
 ||murozwuddtow.com^
+||murralgursh.top^
 ||musalsneaker.top^
 ||musedemeanouregyptian.com^
 ||musersantonio.shop^
@@ -34954,6 +34969,7 @@ browsershots.org#@#.advert_area
 ||owvgisbanc.com^
 ||owvhheaq.com^
 ||owvobdogd.com^
+||owwmbcdlguyke.store^
 ||ox4h1dk85.com^
 ||oxado.com^
 ||oxamateborrel.shop^
@@ -34973,6 +34989,7 @@ browsershots.org#@#.advert_area
 ||oxmoonlint.com^
 ||oxnkahofpki.com^
 ||oxoyqtgnlcoth.com^
+||oxpiyjmfwn.com^
 ||oxpjoalpyhr.com^
 ||oxpvsmbv.com^
 ||oxtahgtz.com^
@@ -35488,6 +35505,7 @@ browsershots.org#@#.advert_area
 ||pfmpvqqvrfujgd.com^
 ||pfoafhojpdf.com^
 ||pfoogwcc.com^
+||pfsrjzffspqoh.online^
 ||pftselngpwaxt.vip^
 ||pftufoszjdneq.online^
 ||pfuxksjzeccih.top^
@@ -35638,6 +35656,7 @@ browsershots.org#@#.advert_area
 ||pilotstracking.com^
 ||pilrirsempoord.com^
 ||pilsarde.net^
+||pimarictypps.shop^
 ||pimpledshivey.top^
 ||pinaffectionatelyaborigines.com^
 ||pincersnap.com^
@@ -37379,6 +37398,7 @@ browsershots.org#@#.advert_area
 ||raspedexsculp.com^
 ||rasurescaribou.com^
 ||ratanawaft.shop^
+||ratansharst.top^
 ||ratebilaterdea.com^
 ||ratebilaterdeall.com^
 ||rategruntcomely.com^
@@ -37958,6 +37978,7 @@ browsershots.org#@#.advert_area
 ||rhasonbugs.com^
 ||rhasonimbrown.top^
 ||rhatlgah.com^
+||rheatukulor.top^
 ||rhendam.com^
 ||rheneapfg.com^
 ||rheoembrica.top^
@@ -39166,6 +39187,7 @@ browsershots.org#@#.advert_area
 ||sftapi.com^
 ||sftnepcynceye.store^
 ||sfulylydeveloped.org^
+||sfuzekmfxn.com^
 ||sfwssbztoikhx.online^
 ||sfwwzmtlhrajx.website^
 ||sgad.site^
@@ -40893,6 +40915,7 @@ browsershots.org#@#.advert_area
 ||tcucadojvogr.com^
 ||tcwgmjsjgtsrm.space^
 ||td5xffxsx4.com^
+||tdayxwkkjpayva.com^
 ||tdbcctiulenif.site^
 ||tdetkdcubbyhf.com^
 ||tdfqtdmuioqxl.store^
@@ -41708,6 +41731,7 @@ browsershots.org#@#.advert_area
 ||tramuptownpeculiarity.com^
 ||trandgid.com^
 ||trandlife.info^
+||trankersylphon.shop^
 ||trankumbogland.top^
 ||transactionsbeatenapplication.com^
 ||transcriptswarm.com^
@@ -41905,6 +41929,7 @@ browsershots.org#@#.advert_area
 ||tsbck.com^
 ||tsbehqkihkd.com^
 ||tseconomousw.org^
+||tsepyk.com^
 ||tsfxmladbkkdm.space^
 ||tsguwdaubbqgs.world^
 ||tshxxhgmjgut.com^
@@ -42004,6 +42029,7 @@ browsershots.org#@#.advert_area
 ||turbulentimpuresoul.com^
 ||turbulentobject.com^
 ||turbulentupstairs.pro^
+||turcofeckful.shop^
 ||tureukworektob.info^
 ||turibrooder.shop^
 ||turkeychoice.com^
@@ -44314,6 +44340,7 @@ browsershots.org#@#.advert_area
 ||xelllwrite.com^
 ||xeltq.com^
 ||xemwmuayozxti.space^
+||xenqowqjmhgo.com^
 ||xenylclio.com^
 ||xepsygfqsvyyv.tech^
 ||xerasiasoled.top^
@@ -61086,6 +61113,7 @@ igraal.com##[data-ig-ga-cat="Ad"]
 jeffdornik.com##[data-image-info]
 phoneia.com##[data-index]
 dailymail.co.uk##[data-is-sponsored="true"]
+duckduckgo.com##[data-layout$="_ads"]
 duckduckgo.com,duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion##[data-layout="ad"]
 macys.com##[data-load-beacon*="criteo.com/rm"]
 motor1.com##[data-m1-ad-label]
@@ -65285,6 +65313,7 @@ gamcore.com##li.d-md-block > a[rel]
 @@||suntory.co.jp/beer/kinmugi/img/ad/$image,~third-party
 @@||tdn.da-services.ch/libs/prebid8.$script,domain=20min.ch
 @@||tenki.jp/storage/static-images/top-ad/
+@@||totalvene.fi/media/yendifvideoshare/adverts/$~third-party
 @@||tpc.googlesyndication.com/archive/$image,subdocument,xmlhttprequest,domain=adstransparency.google.com
 @@||tpc.googlesyndication.com/archive/sadbundle/$image,domain=tpc.googlesyndication.com
 @@||tpc.googlesyndication.com/pagead/js/$domain=googleads.g.doubleclick.net

@@ -2494,8 +2494,6 @@ timesofindia.indiatimes.com#@#style[type="text/css"] + div[class]:not([id]):not(
 ! Fixing Google Search ads when HTTPS filtering is disabled
 @@://googleadservices.com^|
 @@://www.googleadservices.com^|
-! https://github.com/AdguardTeam/AdguardFilters/issues/4317
-@@||films.imhonet.ru^$jsinject
 ! https://github.com/AdguardTeam/AdguardFilters/issues/4243
 @@||bc.marfeel.com/statics/marfeel/gardac.js$domain=elperiodico.com
 ! https://github.com/AdguardTeam/AdguardFilters/issues/4096
@@ -2690,6 +2688,7 @@ sp.manga.nicovideo.jp##div[style^="--ads-width:"]
 !
 ! SECTION: Regular rules
 !
+epey.com##.tab:has(> div.cell > span.sponsormetni)
 toy1972.hatenablog.com###entry-footer-primary-modules
 world.hatenastaff.com#$?#.ad-online-afc { remove: true; }
 newsweekjapan.jp###ad_nw_under_title_insert_mobile

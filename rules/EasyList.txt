@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: G/mnaPRNAsGjXQ2LV+9RMw
-! Version: 202507111211
+! Checksum: rJQRVcKlg7xuf2eHUV3O+A
+! Version: 202507111401
 ! Title: EasyList
-! Last modified: 11 Jul 2025 12:11 UTC
+! Last modified: 11 Jul 2025 14:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -18114,6 +18114,7 @@ browsershots.org#@#.advert_area
 ||amsoniajoon.top^
 ||amtgqceeirm.com^
 ||amtmenlana.com^
+||amtmenrescous.life^
 ||amtracking01.com^
 ||amtropiusr.com^
 ||amuletsourcemadden.com^
@@ -19407,6 +19408,7 @@ browsershots.org#@#.advert_area
 ||bathepoliteness.com^
 ||batheunits.com^
 ||baticalfelixstown.org^
+||batlercroydon.cyou^
 ||batomqsmoocc.com^
 ||battepush.com^
 ||battiesnarras.com^
@@ -19807,6 +19809,7 @@ browsershots.org#@#.advert_area
 ||bidbrain.app^
 ||bidclickmedia.com^
 ||bidderads.com^
+||bidderyuprises.cyou^
 ||biddingfitful.com^
 ||bidiology.com^
 ||bidster.net^
@@ -21500,6 +21503,7 @@ browsershots.org#@#.advert_area
 ||cinderycandor.com^
 ||cinema1266.fun^
 ||cintercandiru.top^
+||cinterflipper.digital^
 ||cinujikroptjl.com^
 ||cinuraarrives.com^
 ||cinvetica.com^
@@ -23848,6 +23852,7 @@ browsershots.org#@#.advert_area
 ||dpkpnzbtbkqmg.buzz^
 ||dpmsrv.com^
 ||dpmtcyfonye.com^
+||dppxjnchvfoae.website^
 ||dprivatedquali.org^
 ||dpseympatijgpaw.com^
 ||dptwwmktgta.com^
@@ -24315,6 +24320,7 @@ browsershots.org#@#.advert_area
 ||ecxgjqjjkpsx.com^
 ||ecywolaajvjpm.tech^
 ||ecyyrthlmidze.space^
+||eczmkgrzdluhe.store^
 ||ed097cf04b.com^
 ||edaciousedacioushandkerchiefcol.com^
 ||edaightutaitlastwe.info^
@@ -25149,6 +25155,7 @@ browsershots.org#@#.advert_area
 ||extsoft.info^
 ||exurbdaimiel.com^
 ||exurgezoilus.top^
+||exuviafigged.qpon^
 ||exvrbxjy.com^
 ||exweuxkvvckho.website^
 ||exwuebnswyqdfvy.com^
@@ -26628,6 +26635,7 @@ browsershots.org#@#.advert_area
 ||gfuhjxhpkwger.space^
 ||gfxdn.pics^
 ||gfxetkgqti.xyz^
+||gfykxolidowgko.com^
 ||ggbxcidvjkel.com^
 ||ggbzqyoxkbunx.online^
 ||ggefuxallzkow.space^
@@ -27614,6 +27622,7 @@ browsershots.org#@#.advert_area
 ||haqodkabbxmo.com^
 ||harassmenttrolleyculinary.com^
 ||haraxong.xyz^
+||harboralloyed.life^
 ||harborjavgg124.fun^
 ||hardabbuy.live^
 ||hardcoretrayversion.com^
@@ -27688,6 +27697,7 @@ browsershots.org#@#.advert_area
 ||hawkyeye5ssnd.com^
 ||hawsuffer.com^
 ||haychalk.com^
+||haycockazoxime.shop^
 ||hazelhideous.com^
 ||hazellylemanea.shop^
 ||hazelmarks.com^
@@ -29757,6 +29767,7 @@ browsershots.org#@#.advert_area
 ||jmyodtbw.com^
 ||jmyqivmk.com^
 ||jmyrmuozbor.com^
+||jnazbbqjgykln.top^
 ||jndcdxcoqjroj.store^
 ||jneiwnga.com^
 ||jngqqljojzlzv.top^
@@ -30090,6 +30101,7 @@ browsershots.org#@#.advert_area
 ||jzqbyykjormjl.top^
 ||jzqbyykjormlw.top^
 ||jzqbyykjorqkq.top^
+||jzqbyykjorwez.top^
 ||jzqscvqlgasxh.buzz^
 ||jztwidpixa.icu^
 ||jzvwawvwkwawj.top^
@@ -30571,6 +30583,7 @@ browsershots.org#@#.advert_area
 ||koutoowekoa.net^
 ||koutunagreeh.com^
 ||kouunrov.xyz^
+||kouvoaloogla.com^
 ||kovmgkwnknqwa.top^
 ||koyshxlxljv.com^
 ||kpaagnosdzih.com^
@@ -34503,6 +34516,7 @@ browsershots.org#@#.advert_area
 ||oktranhfyfa.com^
 ||oktsweoth.com^
 ||okueroskynt.com^
+||okxxfggfjrljb.com^
 ||okznasjax.com^
 ||olayomad.com^
 ||olbeeqbqgumdt.website^
@@ -37488,6 +37502,7 @@ browsershots.org#@#.advert_area
 ||qvjqbtbt.com^
 ||qvkrfcjwebgvyuw.com^
 ||qvlatpbizkile.site^
+||qvqgfzhh.com^
 ||qvsimvenounsx.online^
 ||qvvgzxskwkeqp.space^
 ||qvzpofgmlwlnrt.com^
@@ -38786,6 +38801,7 @@ browsershots.org#@#.advert_area
 ||runetki.co^
 ||rungdefendantfluent.com^
 ||runingamgladt.com^
+||runitedefy.cfd^
 ||runnerbesiegerelative.com^
 ||runningdestructioncleanliness.com^
 ||runny-forever.pro^
@@ -38986,6 +39002,7 @@ browsershots.org#@#.advert_area
 ||saltsarchlyseem.com^
 ||saltsleaseholder.com^
 ||saltsupbrining.com^
+||saltumtirsurtie.com^
 ||saluteenfold.com^
 ||salutetutortwiddling.com^
 ||salvagefloat.com^
@@ -40344,6 +40361,7 @@ browsershots.org#@#.advert_area
 ||spotxcdn.com^
 ||spotxchange.com^
 ||spoutable.com^
+||sppfhunfldwbgp.xyz^
 ||sppopups.com^
 ||sppynxuilxodo.icu^
 ||sprangsugar.com^
@@ -41455,6 +41473,7 @@ browsershots.org#@#.advert_area
 ||thedreamofus.xyz^
 ||theehouho.xyz^
 ||theekedgleamed.com^
+||theekerbongo.qpon^
 ||theelreekrumten.com^
 ||theepsie.com^
 ||theeptoah.com^
@@ -42078,6 +42097,7 @@ browsershots.org#@#.advert_area
 ||trasre.com^
 ||trasupr.com^
 ||trasyaircrew.top^
+||traumatic-campaign.pro^
 ||traumaticweakness.pro^
 ||traumavirus.com^
 ||travelscream.com^
@@ -42408,6 +42428,7 @@ browsershots.org#@#.advert_area
 ||twilightsuburbmill.com^
 ||twinadsrv.com^
 ||twinboutjuly.com^
+||twinedshoval.click^
 ||twinelandlord.com^
 ||twinfill.com^
 ||twingesvampers.top^
@@ -44727,6 +44748,7 @@ browsershots.org#@#.advert_area
 ||xfwblpomxc.com^
 ||xfxssqakis.com^
 ||xg-jbpmnru.online^
+||xggyplmoexttkx.com^
 ||xgolyqyfjuuwn.online^
 ||xgraph.net^
 ||xgsxkzscxapvj.online^
@@ -45266,6 +45288,7 @@ browsershots.org#@#.advert_area
 ||zarpop.com^
 ||zasestoshe.com^
 ||zatnoh.com^
+||zauhithophauja.net^
 ||zauphozaucou.net^
 ||zautfqxtmfvjr.buzz^
 ||zaxnfilceaz.com^
@@ -45334,6 +45357,7 @@ browsershots.org#@#.advert_area
 ||zgukxyhzquesk.love^
 ||zgwgoxzayjmqc.store^
 ||zhaner.xyz^
+||zhltqavcadylt.site^
 ||zhoyyibwywgev.one^
 ||zhtiqbietjwhb.fun^
 ||zhtndfplsmcqt.global^
@@ -45504,6 +45528,7 @@ browsershots.org#@#.advert_area
 ||zttwclmcpesce.xyz^
 ||ztulcrynw.online^
 ||ztumuvofzbfe.com^
+||ztzrkqhoxurmt.space^
 ||zubivu.com^
 ||zubsaignishu.com^
 ||zuchaunsaxouy.net^

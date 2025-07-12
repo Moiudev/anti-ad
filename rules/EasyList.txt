@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: TMB/32NjeRbPvuaFjMERAQ
-! Version: 202507120801
+! Checksum: 84QqJDf0gIp67JpdmQMCLQ
+! Version: 202507121001
 ! Title: EasyList
-! Last modified: 12 Jul 2025 08:01 UTC
+! Last modified: 12 Jul 2025 10:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -17718,6 +17718,7 @@ browsershots.org#@#.advert_area
 ||aixukiwaikra.com^
 ||aiycauofyfrbg.space^
 ||aizledoorway.top^
+||aizleshinty.cyou^
 ||aj1070.online^
 ||aj1090.online^
 ||aj1432.online^
@@ -19576,6 +19577,7 @@ browsershots.org#@#.advert_area
 ||behoppipan.com^
 ||beingajoytow.com^
 ||bejesusplasmic.shop^
+||bekkoisoptic.shop^
 ||bekrookodilechan.com^
 ||belamicash.com^
 ||belattercel.cfd^
@@ -22482,6 +22484,7 @@ browsershots.org#@#.advert_area
 ||criesplucker.top^
 ||criesstarch.com^
 ||crimeagc.com^
+||criminal-forever.pro^
 ||criminalalcovebeacon.com^
 ||criminalmention.pro^
 ||criminalweightforetaste.com^
@@ -24575,6 +24578,7 @@ browsershots.org#@#.advert_area
 ||ejnrfzsbvwqwj.online^
 ||ejsgmeirtaumd.store^
 ||ejuiashsateampl.info^
+||ejulatesmither.help^
 ||ejymvnquqvrf.com^
 ||ekaacdiilusiw.space^
 ||ekamsply.com^
@@ -25377,6 +25381,7 @@ browsershots.org#@#.advert_area
 ||faqirsgoliard.top^
 ||faqkfuxadok.com^
 ||faqlikbid.com^
+||farcersontal.click^
 ||farceurincurve.com^
 ||farcivinage.shop^
 ||fardasub.xyz^
@@ -25960,6 +25965,7 @@ browsershots.org#@#.advert_area
 ||foiblespesage.shop^
 ||foilunflaweduproot.com^
 ||fojbhjrtewebp.com^
+||fokkerneedly.qpon^
 ||fokyrhaczcxbu.com^
 ||folbwkw.com^
 ||foldedaddress.com^
@@ -30726,6 +30732,7 @@ browsershots.org#@#.advert_area
 ||kqdqqkflpf.com^
 ||kqejazglxkwta.space^
 ||kqesuetg.com^
+||kqfslhjxwfbox.xyz^
 ||kqhgjmap.com^
 ||kqhi97lf.de^
 ||kqipyqhxkrzlr.site^
@@ -30849,6 +30856,7 @@ browsershots.org#@#.advert_area
 ||kvxjxbrsxhgw.xyz^
 ||kvzbonvsutara.website^
 ||kw3y5otoeuniv7e9rsi.com^
+||kwaqgkjkwmwqq.top^
 ||kwbgmufi.com^
 ||kwdflqos.com^
 ||kwflibbcns.com^
@@ -31244,6 +31252,7 @@ browsershots.org#@#.advert_area
 ||letqejcjo.xyz^
 ||letsbegin.online^
 ||letstry69.xyz^
+||letternfpsps.qpon^
 ||letterwolves.com^
 ||lettingsneak.com^
 ||lettuceqn.shop^
@@ -31697,6 +31706,7 @@ browsershots.org#@#.advert_area
 ||lotreal.com^
 ||lotstoleratescarf.com^
 ||lotteryaffiliates.com^
+||loubaizirou.com^
 ||louchaug.com^
 ||louderpregnantshabby.com^
 ||louderwalnut.com^
@@ -33231,6 +33241,7 @@ browsershots.org#@#.advert_area
 ||muhlywinches.top^
 ||mukasrvm.com^
 ||mukindwouldm.org^
+||mulchesdrats.cfd^
 ||mulecleared.com^
 ||mulesto.com^
 ||mulleyhoer.shop^
@@ -33279,6 +33290,7 @@ browsershots.org#@#.advert_area
 ||mustersvyrnwy.top^
 ||mustunsognouft.net^
 ||mutablebackcap.shop^
+||mutasesprefix.world^
 ||mutcheng.net^
 ||muted-closet.pro^
 ||mutedfarmer.pro^
@@ -33383,6 +33395,7 @@ browsershots.org#@#.advert_area
 ||myscontactonlines.com^
 ||mysearchhotdatings.com^
 ||mysterious-sentence.pro^
+||mysterious-sink.pro^
 ||mysticmatebiting.com^
 ||mysticomen.com^
 ||mysweet-flirts-hubs.com^
@@ -33432,6 +33445,7 @@ browsershots.org#@#.advert_area
 ||nads.io^
 ||naehqgcanrh.xyz^
 ||naewynn.com^
+||nafrewayle.shop^
 ||naggingjellretreat.com^
 ||nagnailmobcap.shop^
 ||nagoansurducmy.com^
@@ -36088,6 +36102,7 @@ browsershots.org#@#.advert_area
 ||pinionsmamry.top^
 ||pinklabel.com^
 ||pinkleo.pro^
+||pinkoesmobsmen.shop^
 ||pinkotri.com^
 ||pinnaemangily.top^
 ||pinnulepagedom.com^
@@ -37602,6 +37617,7 @@ browsershots.org#@#.advert_area
 ||qtozipscid.com^
 ||qtpwhuodcsbtt.space^
 ||quackedchevage.top^
+||quacklepoppa.shop^
 ||quackupsilon.com^
 ||quagfa.com^
 ||quaichczarian.top^
@@ -39810,6 +39826,7 @@ browsershots.org#@#.advert_area
 ||shhfxzcywzdnt.space^
 ||shikarsfrecket.top^
 ||shikroux.net^
+||shiksesinsipid.qpon^
 ||shilfamush.shop^
 ||shiltaupsy.com^
 ||shimmering-spot.com^
@@ -40514,6 +40531,7 @@ browsershots.org#@#.advert_area
 ||spicyresource.pro^
 ||spikearsonembroider.com^
 ||spileechoed.shop^
+||spilerterrene.world^
 ||spilldemolitionarrangement.com^
 ||spin83qr.com^
 ||spinaemetreme.top^
@@ -41174,6 +41192,7 @@ browsershots.org#@#.advert_area
 ||svqqunzgzsren.space^
 ||svrgcqgtpe.com^
 ||svswyokrievoe.space^
+||svtefnjwxtoto.site^
 ||svyksa.info^
 ||swabskissers.top^
 ||swackenshoat.top^
@@ -42164,6 +42183,7 @@ browsershots.org#@#.advert_area
 ||torioluor.com^
 ||torngetawaycurious.com^
 ||tororango.com^
+||torpifyckw.life^
 ||torpsol.com^
 ||torrango.com^
 ||torrent-protection.com^
@@ -42199,6 +42219,7 @@ browsershots.org#@#.advert_area
 ||touroumu.com^
 ||toursignabo.com^
 ||tourukaustoglee.net^
+||toushupoaje.net^
 ||toushupostabie.com^
 ||toutsneskhi.com^
 ||tovespiquener.com^
@@ -42697,6 +42718,7 @@ browsershots.org#@#.advert_area
 ||txgilxtxczsfus.com^
 ||txgpgszrhedyl.online^
 ||txinulin.top^
+||txogxhncykusn.website^
 ||txojrnpkfo.com^
 ||txpwmpgveftnm.com^
 ||txuilxmdfyror.space^
@@ -42882,6 +42904,7 @@ browsershots.org#@#.advert_area
 ||ukenthasmeetu.com^
 ||ukgqdpte.asia^
 ||ukjrlrjypavpa.com^
+||uklcmtgeco.com^
 ||uklitukydteamw.com^
 ||ukmlastityty.info^
 ||ukmlastitytyeastf.com^
@@ -43081,6 +43104,7 @@ browsershots.org#@#.advert_area
 ||unseenreport.com^
 ||unseenshingle.com^
 ||unselfish-communication.pro^
+||unserestumps.rest^
 ||unshellbrended.com^
 ||unshopragwork.shop^
 ||unsigilyphor.com^
@@ -44317,6 +44341,7 @@ browsershots.org#@#.advert_area
 ||wetsireoverload.com^
 ||wetterspaquet.top^
 ||weveqbemj.com^
+||wevrwqjqemerr.top^
 ||wevrwqjqemeyz.top^
 ||wevrwqjqemkrm.top^
 ||wevrwqjqemkyj.top^
@@ -44855,6 +44880,7 @@ browsershots.org#@#.advert_area
 ||wvhuwiuvvgibn.space^
 ||wvkgyqwvwygjg.top^
 ||wvlkloyavwzgq.top^
+||wvmvpjlguwapy.online^
 ||wvomzgawkwnak.top^
 ||wvwaerpeqvzpb.fun^
 ||wvwjdrli.com^
@@ -45299,6 +45325,7 @@ browsershots.org#@#.advert_area
 ||yghaatttm.com^
 ||ygimeqcpvbtci.rocks^
 ||ygmkcuj3v.com^
+||ygycrytvdhaphv.com^
 ||ygytagwykabfst.com^
 ||yhbcii.com^
 ||yhgio.com^
@@ -45717,6 +45744,7 @@ browsershots.org#@#.advert_area
 ||znzfvmdtklsvv.xyz^
 ||zoachoar.net^
 ||zoachops.com^
+||zoadovachounu.com^
 ||zoagajethathoo.net^
 ||zoagremo.net^
 ||zoawufoy.net^

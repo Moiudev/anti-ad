@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: c6XOwxq6vANenHakGAnTEw
-! Version: 202507122001
+! Checksum: afEnGzcf3pokERqtX0Jvmg
+! Version: 202507122201
 ! Title: EasyList
-! Last modified: 12 Jul 2025 20:01 UTC
+! Last modified: 12 Jul 2025 22:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -18073,6 +18073,7 @@ browsershots.org#@#.advert_area
 ||amiabledelinquent.com^
 ||amidonmonolog.shop^
 ||amidoxypochard.com^
+||aminateresoak.cyou^
 ||aminopay.net^
 ||amjllwblmloba.top^
 ||amjllwblmlwqw.top^
@@ -19385,6 +19386,7 @@ browsershots.org#@#.advert_area
 ||barelydonkeysteed.com^
 ||bargainintake.com^
 ||bargedale.com^
+||barhalcoulie.qpon^
 ||barhopgifture.top^
 ||bariumdroger.top^
 ||barkanpickee.com^
@@ -19837,6 +19839,7 @@ browsershots.org#@#.advert_area
 ||biaseddocumentationacross.com^
 ||biasedpushful.com^
 ||biassedsapan.top^
+||biatcrsqdiusny.xyz^
 ||biaxalstiles.com^
 ||biblecollation.com^
 ||bichosdamiana.com^
@@ -22279,6 +22282,7 @@ browsershots.org#@#.advert_area
 ||corinblypes.shop^
 ||corjlougqaicc.top^
 ||corkerscusin.top^
+||cormelsflneur.shop^
 ||corneey.com^
 ||corneredsedatetedious.com^
 ||corneredtomb.com^
@@ -23076,6 +23080,7 @@ browsershots.org#@#.advert_area
 ||dcfnihzg81pa.com^
 ||dcgjpojm.space^
 ||dcgnheouhmnlx.online^
+||dchknoomjquk.com^
 ||dchqgrxioyyfmbk.com^
 ||dciuocgwopyla.website^
 ||dcjrrglrieycgj.com^
@@ -24826,6 +24831,7 @@ browsershots.org#@#.advert_area
 ||eniza.site^
 ||enjaaiwix.com^
 ||enjeurmqkrch.com^
+||enjewelairmass.click^
 ||enjoygrandmothercaricature.com^
 ||enkcyenrat.club^
 ||enkraalspouse.com^
@@ -27079,6 +27085,7 @@ browsershots.org#@#.advert_area
 ||gmlnnqpxlgc.com^
 ||gmndebilw.com^
 ||gmolrrrxnryck.com^
+||gmtbkdpyc.com^
 ||gmtipburn.shop^
 ||gmxdyrieikifv.store^
 ||gmxvmvptfm.com^
@@ -27542,6 +27549,7 @@ browsershots.org#@#.advert_area
 ||guineasbufo.top^
 ||guineashock.top^
 ||guitarjavgg124.fun^
+||gujqjoqszgwkv.online^
 ||gukakzaf.com^
 ||gukmodukuleqasfo.com^
 ||gukmodukuleqasfors.org^
@@ -29755,6 +29763,7 @@ browsershots.org#@#.advert_area
 ||jeestauglahity.net^
 ||jeeteebittie.top^
 ||jeetyetmedia.com^
+||jeezeestoo.com^
 ||jegoypoabxtrp.com^
 ||jegrbkenarvan.website^
 ||jehobsee.com^
@@ -31708,6 +31717,7 @@ browsershots.org#@#.advert_area
 ||lommockdamsite.shop^
 ||lonea.pro^
 ||loneinner.com^
+||lonelylove.pro^
 ||lonerprevailed.com^
 ||long1x.xyz^
 ||longarctic.com^
@@ -32052,6 +32062,7 @@ browsershots.org#@#.advert_area
 ||lwvgordcyuudsxa.com^
 ||lwxegrybymzah.love^
 ||lwxuo.com^
+||lwzzgwonlrvgr.site^
 ||lx2rv.com^
 ||lxiapwwqfcbms.tech^
 ||lxjppakmqs.com^
@@ -33990,6 +34001,7 @@ browsershots.org#@#.advert_area
 ||noclef.com^
 ||noconversationh.com^
 ||nocturnal-employer.pro^
+||nodoseshamus.rest^
 ||noelsdoc.cam^
 ||nohowsankhya.com^
 ||noisesperusemotel.com^
@@ -34714,6 +34726,7 @@ browsershots.org#@#.advert_area
 ||oignvddu.com^
 ||oihqicgerrfoo.site^
 ||oijsncvhg.com^
+||oileddipper.cyou^
 ||oilyishbabbage.cfd^
 ||oinkedbowls.com^
 ||ointmentapathetic.com^
@@ -35425,6 +35438,7 @@ browsershots.org#@#.advert_area
 ||ovgohkmh.com^
 ||ovibospeseta.com^
 ||ovidchoop.shop^
+||oviratoush.net^
 ||ovjagtxasv.com^
 ||ovjgithud.com^
 ||ovjoffam.com^
@@ -36056,6 +36070,7 @@ browsershots.org#@#.advert_area
 ||phaivaju.com^
 ||phallisbirdeen.top^
 ||pharmcash.com^
+||phasiccynical.help^
 ||phasmidaiawong.top^
 ||phastoag.com^
 ||phaulsomtounel.com^
@@ -36155,6 +36170,7 @@ browsershots.org#@#.advert_area
 ||picturesquesizedisabled.com^
 ||picudobeams.shop^
 ||pidsnbtigntdi.vip^
+||piecelieder.world^
 ||piercepavilion.com^
 ||piercing-distribution.pro^
 ||piercingtotal.pro^
@@ -36722,6 +36738,7 @@ browsershots.org#@#.advert_area
 ||prefecturesuggestions.com^
 ||preferablycarbon.com^
 ||preferencenail.com^
+||preferkenned.help^
 ||preferouter.com^
 ||prefleks.com^
 ||preformbiunial.com^
@@ -37608,6 +37625,7 @@ browsershots.org#@#.advert_area
 ||qmrelvevwlwlw.top^
 ||qmryzbpwvcodw.website^
 ||qmslgwdr.com^
+||qmylpjdpecivdau.com^
 ||qmyzawzrqryjj.top^
 ||qmyzawzrqrymr.top^
 ||qmzikvkk.business^
@@ -38504,6 +38522,7 @@ browsershots.org#@#.advert_area
 ||rettornrhema.com^
 ||retundatman.help^
 ||retunesmoils.shop^
+||retzianmorphos.cfd^
 ||reukandthisany.com^
 ||reusevoyages.shop^
 ||rev-stripe.com^
@@ -38573,6 +38592,7 @@ browsershots.org#@#.advert_area
 ||rfity.com^
 ||rfqjpyrqurtje.online^
 ||rftslb.com^
+||rfzjyoayftjgb.website^
 ||rganizationsuch.com^
 ||rgatxxblwvt.com^
 ||rgavvimsecmbo.life^
@@ -39556,6 +39576,7 @@ browsershots.org#@#.advert_area
 ||scufflebarefootedstrew.com^
 ||scuftockster.com^
 ||sculptorpound.com^
+||scurdygrizel.help^
 ||scurra.space^
 ||scurrilidylian.shop^
 ||scutesneatest.com^
@@ -40569,6 +40590,7 @@ browsershots.org#@#.advert_area
 ||souvenirsconsist.com^
 ||sovietransom.com^
 ||soviettreasures.com^
+||sovivfnvafpilp.com^
 ||sowelfucoses.top^
 ||sowfairytale.com^
 ||sowp.cloud^
@@ -41134,6 +41156,7 @@ browsershots.org#@#.advert_area
 ||subbasejigman.shop^
 ||subcrelxjcejvy.com^
 ||subdatejutties.com^
+||subdued-breakfast.pro^
 ||subduedfilthloot.com^
 ||subduedgrainchip.com^
 ||subduegrape.com^
@@ -43605,6 +43628,7 @@ browsershots.org#@#.advert_area
 ||vaultwrite.com^
 ||vauphwgisneug.life^
 ||vavuwetus.com^
+||vavywfsfldhpb.space^
 ||vawk0ap3.xyz^
 ||vax-boost.com^
 ||vax-now.com^
@@ -44155,6 +44179,7 @@ browsershots.org#@#.advert_area
 ||vvtwasjebvswf.website^
 ||vvuttotofvazt.site^
 ||vwahacrubri.com^
+||vwawakgqgvyvj.top^
 ||vwbbphonljgrr.website^
 ||vwfqfdkvj.com^
 ||vwmdzetaikxvc.site^
@@ -45677,6 +45702,7 @@ browsershots.org#@#.advert_area
 ||yvkuvrsmuvqshb.com^
 ||yvmads.com^
 ||yvoria.com^
+||yvpklxmdwedw.com^
 ||yvpswmiipjhni.life^
 ||yvzgazds6d.com^
 ||ywaopskepixw.com^
@@ -45693,6 +45719,7 @@ browsershots.org#@#.advert_area
 ||yxyrblnpmtahz.world^
 ||yy9s51b2u05z.com^
 ||yydwkkxhjb.com^
+||yyfseleoi.com^
 ||yygrgnpgr.com^
 ||yyidbueudlkcw.love^
 ||yyjvimo.com^
@@ -46049,6 +46076,7 @@ browsershots.org#@#.advert_area
 ||zyyt-tevos.click^
 ||zyzqkbkeyqajw.top^
 ||zyzqkbkeyqrzz.top^
+||zzkzklrwroeoq.top^
 ||zzkzklrwroyae.top^
 ||zzkzklrwroyoz.top^
 ||zzqolojveoozq.top^

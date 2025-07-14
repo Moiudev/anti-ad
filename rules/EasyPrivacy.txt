@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: 1QbengSiP6xSfjSJck67CA
-! Version: 202507140421
+! Checksum: eI7zkhRO5Owqtmji5v+qLg
+! Version: 202507140611
 ! Title: EasyPrivacy
-! Last modified: 14 Jul 2025 04:21 UTC
+! Last modified: 14 Jul 2025 06:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -51785,6 +51785,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||piccy.org.ua/c?
 ||remp.nv.ua^
 ||sport.ua/pixel/
+||stats.itc.ua^
 ||target.ukr.net^
 ! Vietnamese
 ||analytics.aita.gov.vn^

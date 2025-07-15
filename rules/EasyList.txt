@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: +h3djf9Ykcao/fhu4Ty1uQ
-! Version: 202507151211
+! Checksum: qaEsPlqMomgp3mFEJzw3gg
+! Version: 202507151401
 ! Title: EasyList
-! Last modified: 15 Jul 2025 12:11 UTC
+! Last modified: 15 Jul 2025 14:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -16590,6 +16590,7 @@ browsershots.org#@#.advert_area
 ||abadit5rckb.com^
 ||abadit5rckd.com^
 ||abaftscarved.shop^
+||abakaculotte.rest^
 ||abamatoyer.com^
 ||abandspaned.top^
 ||abanicdypnone.shop^
@@ -19521,6 +19522,7 @@ browsershots.org#@#.advert_area
 ||bavxkkujnctplq.com^
 ||bawixi.xyz^
 ||bawovzjweqhi.com^
+||baxebejoaglumoa.net^
 ||bayfoxtrot.top^
 ||baygpuglqgzoi.store^
 ||bayshorline.com^
@@ -21185,6 +21187,7 @@ browsershots.org#@#.advert_area
 ||cathodecynodon.shop^
 ||catholicprevalent.com^
 ||cathrynslues.com^
+||catjanghenware.top^
 ||catlikeelissa.rest^
 ||cattailpectinselected.com^
 ||cattleforcedlit.com^
@@ -21707,6 +21710,7 @@ browsershots.org#@#.advert_area
 ||cidqzahi.com^
 ||cidrukosjmf.com^
 ||cidrulj.com^
+||ciesports.rest^
 ||cigfhaztaqu.com^
 ||cigoadrouz.com^
 ||ciiecknd.com^
@@ -23582,6 +23586,7 @@ browsershots.org#@#.advert_area
 ||devildrawbar.top^
 ||devisetangham.top^
 ||deviseusing.com^
+||devonssabins.shop^
 ||devotedspree.com^
 ||devoteegibberishsinister.com^
 ||devotionhesitatemarmalade.com^
@@ -25776,6 +25781,7 @@ browsershots.org#@#.advert_area
 ||fcrfxxxydltzy.store^
 ||fcswogrcyplcs.space^
 ||fcujajhfq.com^
+||fcwxlbsrhajo.com^
 ||fd5orie8e.com^
 ||fdawdnh.com^
 ||fdbdzwnpffxcg.space^
@@ -30233,6 +30239,7 @@ browsershots.org#@#.advert_area
 ||jfsysurbajap.com^
 ||jftobitbxg.com^
 ||jfyjowocrokkt.online^
+||jgagkabmqyyyz.top^
 ||jgfuxnrloev.com^
 ||jggleds.shop^
 ||jggylqznkyjab.top^
@@ -30428,6 +30435,7 @@ browsershots.org#@#.advert_area
 ||jopel.site^
 ||joplxewzuektu.com^
 ||joqowqymkrowl.top^
+||joqowqymkrrrb.top^
 ||joqowqymkrywy.top^
 ||joqpqwdsbjkpr.com^
 ||jorbfstarn.com^
@@ -30841,6 +30849,7 @@ browsershots.org#@#.advert_area
 ||keauwobihhkxc.space^
 ||kedasensiblemot.com^
 ||kedgerlites.life^
+||kedgxztugonrg.space^
 ||kedrevenuedurin.com^
 ||keefoocauby.com^
 ||keegoagrauptach.net^
@@ -34572,6 +34581,7 @@ browsershots.org#@#.advert_area
 ||nookwiser.com^
 ||noolt.com^
 ||noondaylingers.com^
+||noonsseclude.cyou^
 ||noopoacogoa.net^
 ||noosediscloseposter.com^
 ||nooserpiffero.digital^
@@ -35787,6 +35797,7 @@ browsershots.org#@#.advert_area
 ||osamanamana.com^
 ||osamapk.com^
 ||osamara.com^
+||osaraesqjx.com^
 ||osarmapa.net^
 ||osculereddles.top^
 ||osdhkyor.com^
@@ -38072,6 +38083,7 @@ browsershots.org#@#.advert_area
 ||qaklbrqyzyjqz.top^
 ||qakqvajmhdpzd.store^
 ||qakzfubfozaj.com^
+||qamhngalamvbl.site^
 ||qanqizywghyna.xyz^
 ||qaqhmmyex.com^
 ||qarewien.com^
@@ -38875,6 +38887,7 @@ browsershots.org#@#.advert_area
 ||recordingadventurouswildest.com^
 ||recoupsamakebe.com^
 ||recovernosebleed.com^
+||recrushnutter.rest^
 ||rectresultofthep.com^
 ||recurseagin.com^
 ||recyclehorridleading.com^
@@ -40813,6 +40826,7 @@ browsershots.org#@#.advert_area
 ||sidfclwryxnr.com^
 ||sierradissolved.com^
 ||sievepalmful.com^
+||sifcbavqjaxbn.website^
 ||sifenews.com^
 ||siftdivorced.com^
 ||sightdisintegrate.com^
@@ -41116,6 +41130,7 @@ browsershots.org#@#.advert_area
 ||smokeorganizervideo.com^
 ||smokeshiphalt.click^
 ||smokestallyho.com^
+||smooth-association.pro^
 ||smooth-marriage.com^
 ||smooth-street.pro^
 ||smotherpeppermint.com^
@@ -42487,6 +42502,7 @@ browsershots.org#@#.advert_area
 ||teeming-service.com^
 ||teemmachinerydiffer.com^
 ||teemooge.net^
+||teenersobelus.life^
 ||teensexgfs.com^
 ||teentitsass.com^
 ||teepsoamoph.net^
@@ -44833,6 +44849,7 @@ browsershots.org#@#.advert_area
 ||vivvuvkra.com^
 ||vixentycckwtz.buzz^
 ||vixzkewa.com^
+||vizierspavan.com^
 ||vizoalygrenn.com^
 ||vizoredcheerly.com^
 ||vjajkbewrmlby.top^
@@ -45867,6 +45884,7 @@ browsershots.org#@#.advert_area
 ||wow-click.click^
 ||wowlnk.com^
 ||wowrapidly.com^
+||woyawayregale.cyou^
 ||wp3advesting.com^
 ||wp3qhtu5.pro^
 ||wpadmngr.com^
@@ -46067,6 +46085,7 @@ browsershots.org#@#.advert_area
 ||x4pollyxxpush.com^
 ||x5vw0y8h70804254.cfd^
 ||x7r3mk6ldr.com^
+||xaacmotxhjji.xyz^
 ||xabqllfkhj.com^
 ||xad.com^
 ||xadcentral.com^

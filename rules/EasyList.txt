@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: HbnbxBVNmg8mzw5T0R65aQ
-! Version: 202507161601
+! Checksum: H2qjlZtVHjorQqguGcWBfQ
+! Version: 202507161801
 ! Title: EasyList
-! Last modified: 16 Jul 2025 16:01 UTC
+! Last modified: 16 Jul 2025 18:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -17327,6 +17327,7 @@ browsershots.org#@#.advert_area
 ||aestheticpenitentdownright.com^
 ||aetkjmyqjgig.com^
 ||aetvellt.net^
+||aewjrptrslhf.com^
 ||af305e6c77.com^
 ||af30ee9e36.com^
 ||afahivar.coom^
@@ -19025,6 +19026,7 @@ browsershots.org#@#.advert_area
 ||baldappetizingun.com^
 ||baldo-toj.com^
 ||baletingo.com^
+||balldomdossels.shop^
 ||ballisticforgotten.com^
 ||balloencoccyx.com^
 ||ballotjavgg124.fun^
@@ -20399,6 +20401,7 @@ browsershots.org#@#.advert_area
 ||cacaliafarles.shop^
 ||cachegorilla.com^
 ||cachuadirked.top^
+||cackedfenchyl.cfd^
 ||cacklegrievingtank.com^
 ||cackoorsoltin.net^
 ||cactusheadroomscaling.com^
@@ -20545,6 +20548,7 @@ browsershots.org#@#.advert_area
 ||carotoltissued.top^
 ||carotteelds.top^
 ||carpenterexplorerdemolition.com^
+||carpsglycyl.cfd^
 ||carpuslarrups.com^
 ||carratskibby.qpon^
 ||carrellageable.com^
@@ -21668,6 +21672,7 @@ browsershots.org#@#.advert_area
 ||corinblypes.shop^
 ||corjlougqaicc.top^
 ||corkerscusin.top^
+||corkitefoveole.cyou^
 ||cormelsflneur.shop^
 ||corneey.com^
 ||corneredsedatetedious.com^
@@ -21741,6 +21746,7 @@ browsershots.org#@#.advert_area
 ||cowweedthane.shop^
 ||coxalgylydia.shop^
 ||coxiesthubble.com^
+||coxsoyajnvesrd.com^
 ||coyuremuriate.top^
 ||cozenimpinge.top^
 ||cpa-optimizer.online^
@@ -30006,6 +30012,7 @@ browsershots.org#@#.advert_area
 ||luizsycwgzmkg.website^
 ||lukeinoffensive.com^
 ||lulavcymbium.shop^
+||lulavimtactive.rest^
 ||lulhytnnulroggd.com^
 ||lullabybeneath.com^
 ||lullfork.com^
@@ -30981,6 +30988,7 @@ browsershots.org#@#.advert_area
 ||mollesscar.top^
 ||mollygretel.shop^
 ||molpewere.top^
+||moltenkeratto.top^
 ||molttenglobins.casa^
 ||molucheendome.top^
 ||molypsigry.pro^
@@ -31098,6 +31106,7 @@ browsershots.org#@#.advert_area
 ||moumaiphuch.net^
 ||mountaincaller.top^
 ||mouphouglug.net^
+||moupphocal.rest^
 ||moupustuglaiwoo.com^
 ||mourncohabit.com^
 ||mournedtribune.qpon^
@@ -32522,6 +32531,7 @@ browsershots.org#@#.advert_area
 ||oktoqhabwj.com^
 ||oktranhfyfa.com^
 ||oktsweoth.com^
+||okttarmkygak.com^
 ||okueroskynt.com^
 ||okxxfggfjrljb.com^
 ||okznasjax.com^
@@ -32715,6 +32725,7 @@ browsershots.org#@#.advert_area
 ||oo00.biz^
 ||ooavnnwlgqkln.top^
 ||ooawsxkdrm.club^
+||oobaiphughignop.net^
 ||oocecmauhe.net^
 ||oodrampi.com^
 ||oofptbhbdb.com^
@@ -36612,6 +36623,7 @@ browsershots.org#@#.advert_area
 ||sattiostiounper.com^
 ||saturatemadman.com^
 ||saturdaymarryspill.com^
+||saubaheefah.net^
 ||sauchaihoo.net^
 ||saucingdispart.top^
 ||saudoafeefabauk.net^
@@ -38012,6 +38024,7 @@ browsershots.org#@#.advert_area
 ||storyrelatively.com^
 ||storystaffrings.com^
 ||stossucmephouft.net^
+||stourseyelike.qpon^
 ||stoursowhol.net^
 ||stovearmpitagreeable.com^
 ||stpd.cloud^
@@ -41319,6 +41332,7 @@ browsershots.org#@#.advert_area
 ||widowsliebig.shop^
 ||wifescamara.click^
 ||wigetmedia.com^
+||wighthwy.top^
 ||wijnavoqca.com^
 ||wijvziputcul.com^
 ||wijwunrcoo.com^
@@ -41870,6 +41884,7 @@ browsershots.org#@#.advert_area
 ||xg-jbpmnru.online^
 ||xggkcsmizhqbs.store^
 ||xggyplmoexttkx.com^
+||xglyqyolxhcsw.com^
 ||xgolyqyfjuuwn.online^
 ||xgraph.net^
 ||xgsxkzscxapvj.online^
@@ -42641,6 +42656,7 @@ browsershots.org#@#.advert_area
 ||zorbklqyoabvj.top^
 ||zorbklqyoalbq.top^
 ||zordaustewhoh.com^
+||zouaveheed.life^
 ||zouloafi.net^
 ||zouzupsurocho.net^
 ||zovidree.com^

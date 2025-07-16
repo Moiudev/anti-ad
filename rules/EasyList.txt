@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: EPg2t0ySaOTTp+4907Cf6Q
-! Version: 202507162001
+! Checksum: JIz8RfduOSIO37AzkfMuIg
+! Version: 202507162201
 ! Title: EasyList
-! Last modified: 16 Jul 2025 20:01 UTC
+! Last modified: 16 Jul 2025 22:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -18532,6 +18532,7 @@ browsershots.org#@#.advert_area
 ||ate60vs7zcjhsjo5qgv8.com^
 ||ateamplayera.com^
 ||ateaudiblydriving.com^
+||atechnycaudal.cyou^
 ||ateetersnots.cyou^
 ||atefpurga.top^
 ||aterhouseoyope.com^
@@ -18672,6 +18673,7 @@ browsershots.org#@#.advert_area
 ||aurtotoomp.net^
 ||aurumneutron.life^
 ||ausculttaraf.top^
+||ausformurva.top^
 ||ausoafab.net^
 ||ausomsup.net^
 ||auspiceguile.com^
@@ -20935,6 +20937,7 @@ browsershots.org#@#.advert_area
 ||chestgoingpunch.com^
 ||chethgentman.live^
 ||chetiftaphoa.net^
+||chettikferigee.top^
 ||chevenscrinia.click^
 ||chewhaidroub.net^
 ||chezoams.com^
@@ -20998,7 +21001,9 @@ browsershots.org#@#.advert_area
 ||choconart.com^
 ||chokeweaknessheat.com^
 ||cholatetapalos.com^
+||chomerperten.help^
 ||choodrawiwa.net^
+||choodsaingalo.net^
 ||chooftookikip.net^
 ||choogeet.net^
 ||choongedsoo.com^
@@ -25022,6 +25027,7 @@ browsershots.org#@#.advert_area
 ||forworksyconus.com^
 ||foryanmachan.com^
 ||forzubatr.com^
+||foshauxoalie.net^
 ||fossorplumper.com^
 ||fotmrrwfgprar.fun^
 ||fotoompi.com^
@@ -25285,6 +25291,7 @@ browsershots.org#@#.advert_area
 ||fvmiafwauhy.fun^
 ||fvohyywkbc.com^
 ||fvqmmhyhrtdsu.space^
+||fvqueffvjvcxp.com^
 ||fvziwdycvudxd.tech^
 ||fwbntw.com^
 ||fwcavwstvmekw.online^
@@ -26112,6 +26119,7 @@ browsershots.org#@#.advert_area
 ||griksoorgaultoo.xyz^
 ||griksoud.net^
 ||grillcheekunfinished.com^
+||grillymujiks.shop^
 ||grimfulataxic.cfd^
 ||grimlycask.com^
 ||grimtetsisi.com^
@@ -26345,6 +26353,7 @@ browsershots.org#@#.advert_area
 ||gzbzbugvtylg.com^
 ||gzclatfhwvpsk.space^
 ||gzefeydgsckbj.online^
+||gzeiucbgx.com^
 ||gzgejhwjeoufd.store^
 ||gzglmoczfzf.com^
 ||gzhqowygyvfnx.space^
@@ -26430,6 +26439,7 @@ browsershots.org#@#.advert_area
 ||haoriofflet.shop^
 ||happedfraps.qpon^
 ||happeningflutter.com^
+||happierfaceup.rest^
 ||happinessunderneathmotion.com^
 ||happy-davinci-53144f.netlify.com^
 ||happy2dates.com^
@@ -30916,6 +30926,7 @@ browsershots.org#@#.advert_area
 ||mng-ads.com^
 ||mnhjk.com^
 ||mnhjkl.com^
+||mnmerqvmxbpiup.xyz^
 ||mnpuxygfpkvey.online^
 ||mnpxmcrlmvdok.website^
 ||mnqyjjbitxdvr.club^
@@ -37485,6 +37496,7 @@ browsershots.org#@#.advert_area
 ||snivelingaudience.pro^
 ||snjssjiivamkt.website^
 ||snkubtsnnqde.xyz^
+||snobberdrave.life^
 ||snobdomfores.top^
 ||snomoneyandf.com^
 ||snoopundesirable.com^
@@ -37578,6 +37590,7 @@ browsershots.org#@#.advert_area
 ||solubleallusion.com^
 ||solujav.my^
 ||sombes.com^
+||somdieloho.qpon^
 ||somegreatt.com^
 ||somehowluxuriousreader.com^
 ||somentibrot.com^
@@ -39948,6 +39961,7 @@ browsershots.org#@#.advert_area
 ||unripewar.com^
 ||unrotomon.com^
 ||unrulymedia.com^
+||unsameswisser.click^
 ||unsavedbaruch.top^
 ||unseaminoax.click^
 ||unseamssafes.com^
@@ -40301,6 +40315,7 @@ browsershots.org#@#.advert_area
 ||vazouxaghalou.net^
 ||vazticlkivi.com^
 ||vazypteke.pro^
+||vbaalbovaakyq.top^
 ||vbeeeleyevroz.top^
 ||vbeeeleyevrqq.top^
 ||vbjscvdspd.com^
@@ -41909,6 +41924,7 @@ browsershots.org#@#.advert_area
 ||xgyitlealttmt.website^
 ||xhcpnhre.com^
 ||xhkzrtolqfcvn.site^
+||xhouhwnanoucpn.com^
 ||xhskoszdinatr.space^
 ||xhstfdnhkcgec.online^
 ||xhulafpup.com^
@@ -42784,6 +42800,7 @@ browsershots.org#@#.advert_area
 ||zyf03k.xyz^
 ||zygoseshammier.click^
 ||zyiis.net^
+||zykkjyaokklew.top^
 ||zymasebandle.rest^
 ||zymasebesigh.top^
 ||zymicdirgy.click^

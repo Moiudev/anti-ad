@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: piq2vywhVbenPZ9R1gc86A
-! Version: 202507161211
+! Checksum: bykwWxAGn3dUviujeII8Fw
+! Version: 202507161401
 ! Title: EasyList
-! Last modified: 16 Jul 2025 12:11 UTC
+! Last modified: 16 Jul 2025 14:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -17974,6 +17974,7 @@ browsershots.org#@#.advert_area
 ||amunfezanttor.com^
 ||amusedcirrous.com^
 ||amusinghump.com^
+||amusingrole.pro^
 ||amvbwlerkvjbj.top^
 ||amvbwlerkvqba.top^
 ||amvbwlerkvqqr.top^
@@ -18299,6 +18300,7 @@ browsershots.org#@#.advert_area
 ||arenousinjust.digital^
 ||arepushedadorn.com^
 ||aresfreyja.shop^
+||arewdandily.rest^
 ||argenabovethe.com^
 ||arglingpistole.com^
 ||argosdauby.cfd^
@@ -19441,6 +19443,7 @@ browsershots.org#@#.advert_area
 ||bfxytxdpnk.com^
 ||bg4nxu2u5t.com^
 ||bghxhsfhrfqhr.website^
+||bgjnajhwfqx.xyz^
 ||bgkec.global^
 ||bgmovoyzmnzo.top^
 ||bgwafghjtwywv.online^
@@ -19920,6 +19923,7 @@ browsershots.org#@#.advert_area
 ||boustahe.com^
 ||bouwehee.xyz^
 ||bovechiefer.shop^
+||bovineengines.cyou^
 ||bovinetimingunsaddle.com^
 ||boweddemand.com^
 ||bowermisrule.com^
@@ -22373,6 +22377,7 @@ browsershots.org#@#.advert_area
 ||ddrsemxv.com^
 ||ddtvskish.com^
 ||ddzk5l3bd.com^
+||dead-management.com^
 ||dead-put.com^
 ||deadlyfeasible.com^
 ||deadmentionsunday.com^
@@ -22455,6 +22460,7 @@ browsershots.org#@#.advert_area
 ||definitial.com^
 ||definitive-priority.com^
 ||defogelders.cyou^
+||defoullevants.cfd^
 ||defpush.com^
 ||defraudfallace.shop^
 ||defroststringbenignity.com^
@@ -25005,6 +25011,7 @@ browsershots.org#@#.advert_area
 ||fouwiphy.net^
 ||fovbxmvsgkhnl.icu^
 ||fovealkiters.com^
+||foxfiremalled.click^
 ||foxlikecometot.org^
 ||foxpush.io^
 ||foybdfdodvgva.rocks^
@@ -25421,6 +25428,7 @@ browsershots.org#@#.advert_area
 ||gautley.top^
 ||gauvaiho.net^
 ||gavearsonistclever.com^
+||gawainsocii.top^
 ||gayadpros.com^
 ||gaytiiaghzhks.com^
 ||gaz-help.ru^
@@ -25497,6 +25505,7 @@ browsershots.org#@#.advert_area
 ||geniusdexchange.com^
 ||geniusonclick.com^
 ||geniusoutset.com^
+||genizahpithos.cyou^
 ||genoiseacarida.world^
 ||genrepuls.top^
 ||gensonal.com^
@@ -26074,6 +26083,7 @@ browsershots.org#@#.advert_area
 ||griksoorgaultoo.xyz^
 ||griksoud.net^
 ||grillcheekunfinished.com^
+||grimfulataxic.cfd^
 ||grimlycask.com^
 ||grimtetsisi.com^
 ||grimy-project.pro^
@@ -28157,6 +28167,7 @@ browsershots.org#@#.advert_area
 ||jgfuxnrloev.com^
 ||jggylqznkyjab.top^
 ||jgkbbvqvqvmz.top^
+||jgoabbmlmkgav.top^
 ||jgqaainj.buzz^
 ||jgtjw.com^
 ||jgubbpypmlxbk.one^
@@ -28321,6 +28332,7 @@ browsershots.org#@#.advert_area
 ||jousteevoofooge.net^
 ||jouteetu.net^
 ||jouwaikekaivep.net^
+||jovqyymemwoql.top^
 ||jovqyymemwozw.top^
 ||jovqyymemwzzj.top^
 ||jowlishdiviner.com^
@@ -30726,6 +30738,7 @@ browsershots.org#@#.advert_area
 ||milnhghbwgyco.site^
 ||miltlametta.com^
 ||miluwo.com^
+||mimamsaslews.com^
 ||mimekitab.shop^
 ||mimerestates.top^
 ||mimicbeeralb.com^
@@ -33983,6 +33996,7 @@ browsershots.org#@#.advert_area
 ||polishenvoyvital.com^
 ||polite1266.fun^
 ||political-effort.com^
+||politicalhost.com^
 ||politicallyartisticsocks.com^
 ||politicalspare.pro^
 ||pollingramblefunctions.com^
@@ -35100,6 +35114,7 @@ browsershots.org#@#.advert_area
 ||quagsfumaryl.cfd^
 ||quaichczarian.top^
 ||quaighscavings.top^
+||quaintanywhere.com^
 ||quaizoa.xyz^
 ||quakilyimmi.top^
 ||qualiclicks.com^
@@ -35406,6 +35421,7 @@ browsershots.org#@#.advert_area
 ||rcdzwigpbbcxx.com^
 ||rcf3occ8.de^
 ||rcinksfpvdfgb.store^
+||rcowylsgnqitid.com^
 ||rculnoesuwigxc.com^
 ||rcvarwsudnwxa.website^
 ||rcvlink.com^
@@ -37519,6 +37535,7 @@ browsershots.org#@#.advert_area
 ||son-in-lawmorbid.com^
 ||songishneater.cyou^
 ||songtopbrand.com^
+||sonlessmaestri.shop^
 ||sonnerie.net^
 ||sonnyadvertise.com^
 ||sonnymagicalsnack.com^
@@ -40823,6 +40840,7 @@ browsershots.org#@#.advert_area
 ||wafflesquaking.com^
 ||waflibeeler.digital^
 ||wafmedia6.com^
+||wagedfriezer.shop^
 ||wagerjoint.com^
 ||wagerprocuratorantiterrorist.com^
 ||wagershare.com^
@@ -40920,6 +40938,7 @@ browsershots.org#@#.advert_area
 ||wauchlenutmeg.click^
 ||wauchlestiffen.top^
 ||waudeesestew.com^
+||waudoozookaupt.net^
 ||waufooke.com^
 ||wauhoawheephouk.net^
 ||waukingmuriate.top^
@@ -41923,6 +41942,7 @@ browsershots.org#@#.advert_area
 ||xritipdme.com^
 ||xrixoympautym.space^
 ||xrjeesxalurbym.com^
+||xrjemlwtnjelxm.com^
 ||xroabnrze.com^
 ||xrrdi.com^
 ||xrrncmyx.com^
@@ -54643,6 +54663,7 @@ gbnews.com,smithsonianmag.com,tasty.co##.ad-wrapper
 uncrate.com##.ad-wrapper-970
 insurancebusinessmag.com##.ad-wrapper-billboard-v2
 gamingdeputy.com##.ad-wrapper-parent-video
+robtex.com##.ad0c
 allscrabblewords.com,famously-dead.com,famouslyarrested.com,famouslyscandalous.com,gamesadshopper.com,iamgujarat.com,mpog100.com,newszop.com,samayam.com,timesofindia.com,vijaykarnataka.com##.ad1
 ukclimbing.com##.ad12195
 ukclimbing.com##.ad12249
@@ -55939,6 +55960,7 @@ azscore.com##.email-popup-container
 worldscreen.com##.embdad
 phys.org##.embed-responsive-trendmd
 autostraddle.com##.end-of-article-ads
+robtex.com##.endl
 endtimeheadlines.org##.endti-widget
 floridianpress.com##.enhanced-text-widget
 cathstan.org##.enticement-link

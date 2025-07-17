@@ -93,6 +93,14 @@ def is_valid_domain(domain):
     return re.match(pattern, domain) is not None
 
 
+# 标准化域名
+def normalize_domain(domain):
+    domain = domain.lower()
+    if domain.startswith("www."):
+        return domain[4:]
+    return domain
+
+
 # 下载单个规则源
 def download_single(url, cache):
     try:
@@ -172,17 +180,18 @@ def classify_rule(rule_str):
     if rule.startswith("||") and rule.endswith("^"):
         domain = rule[2:-1]
         if domain and is_valid_domain(domain):
-            return ("suffix", domain.lower())
+            # 标准化域名并作为后缀规则
+            return ("suffix", normalize_domain(domain))
 
-    # 处理完整域名规则
+    # 处理完整域名规则 - 转换为后缀规则
     if is_valid_domain(rule):
-        return ("exact", rule.lower())
+        return ("suffix", normalize_domain(rule))
 
-    # 处理 hosts 格式规则
+    # 处理hosts格式规则
     if re.match(r"^\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}\s+", rule):
         domains = re.split(r"\s+", rule)[1:]
         return [
-            ("exact", d.lower())
+            ("suffix", normalize_domain(d))
             for d in domains
             if d and not d.startswith(("#", "!")) and is_valid_domain(d)
         ]
@@ -199,19 +208,19 @@ def classify_rule(rule_str):
 
     # 处理域名后缀规则 (*.example.com)
     if rule.startswith("*.") and is_valid_domain(rule[2:]):
-        return ("suffix", rule[2:].lower())
+        return ("suffix", normalize_domain(rule[2:]))
 
     # 处理通配符域名规则
     if "*" in rule and "." in rule and not any(c in rule for c in ["/", ":", "!", "#"]):
         # 尝试转换为域名后缀
         if rule.startswith("*.") and is_valid_domain(rule[2:]):
-            return ("suffix", rule[2:].lower())
+            return ("suffix", normalize_domain(rule[2:]))
 
         # 尝试转换为正则表达式
         try:
             # 将通配符转换为正则表达式
             regex_pattern = rule.replace(".", r"\.").replace("*", ".*")
-            re.compile(regex_pattern)
+            re.compile(regex_pattern)  # 验证有效性
             return ("regex", regex_pattern)
         except re.error:
             return None
@@ -221,7 +230,6 @@ def classify_rule(rule_str):
 
 # 处理所有规则文件
 def process_rules():
-    exact_rules = set()
     suffix_rules = set()
     regex_rules = set()
 
@@ -231,7 +239,7 @@ def process_rules():
 
     if total_files == 0:
         print("警告: 没有找到任何规则文件！")
-        return {"exact": [], "suffix": [], "regex": []}
+        return {"suffix": [], "regex": []}
 
     print(f"开始处理 {total_files} 个规则文件...")
 
@@ -248,28 +256,21 @@ def process_rules():
                     if isinstance(result, list):
                         for item in result:
                             rule_type, value = item
-                            if rule_type == "exact":
-                                exact_rules.add(value)
-                            elif rule_type == "suffix":
+                            if rule_type == "suffix":
                                 suffix_rules.add(value)
                             elif rule_type == "regex":
                                 regex_rules.add(value)
                     else:
                         rule_type, value = result
-                        if rule_type == "exact":
-                            exact_rules.add(value)
-                        elif rule_type == "suffix":
+                        if rule_type == "suffix":
                             suffix_rules.add(value)
                         elif rule_type == "regex":
                             regex_rules.add(value)
         except Exception as e:
             print(f"处理文件 {file.name} 时出错: {str(e)}")
 
-    return {
-        "exact": sorted(exact_rules),
-        "suffix": sorted(suffix_rules),
-        "regex": sorted(regex_rules),
-    }
+    # 返回处理后的规则
+    return {"suffix": sorted(suffix_rules), "regex": sorted(regex_rules)}
 
 
 def main():
@@ -281,6 +282,14 @@ def main():
 
     print("----- 生成规则集 -----")
     convert_to_json(rules_dict, OUTPUT_JSON)
+
+    # 打印统计信息
+    suffix_count = len(rules_dict["suffix"])
+    regex_count = len(rules_dict["regex"])
+    total = suffix_count + regex_count
+    print(
+        f"规则统计: 域名后缀 - {suffix_count}, 正则表达式 - {regex_count}, 总计 - {total}"
+    )
     print("处理完成！🎉🎉🎉")
 
 

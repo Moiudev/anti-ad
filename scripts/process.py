@@ -1,14 +1,31 @@
+import hashlib
+import idna
+import json
+import os
 import re
 import requests
-import os
 import shutil
-from pathlib import Path
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from converter import convert_to_json
+from pathlib import Path
 
+
+# 基础路径配置
 BASE_DIR = Path(__file__).parent.parent
 SOURCES_DIR = BASE_DIR / "rules"
 SOURCES_LIST = BASE_DIR / "sources.txt"
 OUTPUT_JSON = BASE_DIR / "ad.json"
+HASH_CACHE = BASE_DIR / "hash_cache.json"
+
+# 请求头配置
+REQUEST_HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+    "Accept": "text/plain, */*",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Connection": "keep-alive",
+    "Cache-Control": "no-cache",
+    "Pragma": "no-cache",
+}
 
 # 规则源的名称映射
 FRIENDLY_NAME_MAP = {
@@ -39,11 +56,13 @@ FRIENDLY_NAME_MAP = {
 }
 
 
+# 加载规则源列表
 def load_sources():
     with open(SOURCES_LIST, "r", encoding="utf-8") as f:
         return [line.strip() for line in f if line.strip() and not line.startswith("#")]
 
 
+# 生成安全的文件名
 def safe_filename(url):
     if url in FRIENDLY_NAME_MAP:
         return FRIENDLY_NAME_MAP[url]
@@ -53,77 +72,113 @@ def safe_filename(url):
     return filename or "unnamed.txt"
 
 
-def download_rules():
-    # 如果目录存在，完全删除整个目录
-    if SOURCES_DIR.exists():
-        try:
-            shutil.rmtree(SOURCES_DIR)
-            print(f"已删除整个目录: {SOURCES_DIR}")
-        except Exception as e:
-            print(f"删除目录失败 {SOURCES_DIR}: {str(e)}")
+# 验证域名是否有效 (支持 IDN 域名)
+def is_valid_domain(domain):
+    # 检查基本长度限制
+    if len(domain) > 253 or len(domain) < 1:
+        return False
 
-    # 重新创建目录
+    # 检查首尾字符
+    if domain.startswith(".") or domain.endswith("."):
+        return False
+
+    # 尝试处理国际化域名 (IDN)
     try:
-        SOURCES_DIR.mkdir(parents=True, exist_ok=True)
-        print(f"已创建目录: {SOURCES_DIR}")
+        domain = idna.encode(domain).decode("ascii")
+    except idna.IDNAError:
+        return False
+
+    # 验证域名结构
+    pattern = r"^([a-z0-9]|[a-z0-9][a-z0-9\-]{0,61}[a-z0-9])(\.([a-z0-9]|[a-z0-9][a-z0-9\-]{0,61}[a-z0-9]))*$"
+    return re.match(pattern, domain) is not None
+
+
+# 下载单个规则源
+def download_single(url, cache):
+    try:
+        filename = safe_filename(url)
+        filepath = SOURCES_DIR / filename
+
+        print(f"下载中: {url}")
+        response = requests.get(url, headers=REQUEST_HEADERS, timeout=25)
+        response.raise_for_status()
+
+        # 计算内容哈希
+        content = response.text
+        content_hash = hashlib.md5(content.encode("utf-8")).hexdigest()
+
+        # 检查是否需要更新
+        if url in cache and cache[url] == content_hash and filepath.exists():
+            print(f"跳过未更新: {filename}")
+            return url, None
+
+        # 保存文件
+        with open(filepath, "w", encoding="utf-8") as f:
+            f.write(content)
+
+        print(f"下载成功: {filename}")
+        return url, content_hash
+    except requests.exceptions.Timeout:
+        print(f"下载超时 [{url}]")
+        return url, None
     except Exception as e:
-        print(f"创建目录失败 {SOURCES_DIR}: {str(e)}")
-        return
+        print(f"下载失败 [{url}]: {str(e)}")
+        return url, None
+
+
+# 下载所有规则源 (支持增量更新)
+def download_rules():
+    # 确保目录存在
+    SOURCES_DIR.mkdir(parents=True, exist_ok=True)
+
+    # 加载哈希缓存
+    try:
+        with open(HASH_CACHE, "r", encoding="utf-8") as f:
+            cache = json.load(f)
+    except:
+        cache = {}
 
     rule_sources = load_sources()
     total = len(rule_sources)
 
-    print(f"开始下载 {total} 个规则源...")
+    print(f"开始处理 {total} 个规则源...")
 
-    for i, url in enumerate(rule_sources, 1):
-        try:
-            print(f"下载中 ({i}/{total}): {url}")
-            response = requests.get(url, timeout=25)
-            response.raise_for_status()
+    # 使用线程池并行下载
+    updated_cache = cache.copy()
+    with ThreadPoolExecutor(max_workers=5) as executor:
+        futures = [executor.submit(download_single, url, cache) for url in rule_sources]
 
-            filename = safe_filename(url)
-            filepath = SOURCES_DIR / filename
+        for future in as_completed(futures):
+            url, new_hash = future.result()
+            if new_hash:
+                updated_cache[url] = new_hash
 
-            with open(filepath, "w", encoding="utf-8") as f:
-                f.write(response.text)
-            print(f"下载成功: {filename}")
-        except requests.exceptions.Timeout:
-            print(f"下载超时 [{url}]")
-        except Exception as e:
-            print(f"下载失败 [{url}]: {str(e)}")
+    # 保存更新后的缓存
+    with open(HASH_CACHE, "w", encoding="utf-8") as f:
+        json.dump(updated_cache, f, indent=2)
 
-    print("所有规则源下载完成！")
+    print("所有规则源处理完成！")
 
 
-def is_valid_domain(domain):
-    """验证域名是否有效"""
-    pattern = r"^([a-zA-Z0-9-]{1,63}\.)+[a-zA-Z]{2,}$"
-    return re.match(pattern, domain) is not None
-
-
+# 将规则分类为完整域名、域名后缀或正则表达式
 def classify_rule(rule_str):
-    """
-    将规则分类为完整域名匹配
-    返回元组 ("exact", domain) 或 None
-    """
     rule = rule_str.strip()
 
     # 跳过注释和例外规则
     if not rule or rule.startswith(("!", "#", "@@", "//", "[")) or "##" in rule:
         return None
 
-    # 处理 ||domain^ 格式 - 转换为完整域名
+    # 处理 ||domain^ 格式 - 转换为域名后缀匹配
     if rule.startswith("||") and rule.endswith("^"):
         domain = rule[2:-1]
         if domain and is_valid_domain(domain):
-            # 作为完整域名添加到规则集
-            return ("exact", domain.lower())
+            return ("suffix", domain.lower())
 
     # 处理完整域名规则
     if is_valid_domain(rule):
         return ("exact", rule.lower())
 
-    # 处理hosts格式规则
+    # 处理 hosts 格式规则
     if re.match(r"^\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}\s+", rule):
         domains = re.split(r"\s+", rule)[1:]
         return [
@@ -132,16 +187,43 @@ def classify_rule(rule_str):
             if d and not d.startswith(("#", "!")) and is_valid_domain(d)
         ]
 
-    # 处理纯域名规则
-    if '.' in rule and ' ' not in rule and not any(c in rule for c in ['/', ':', '!', '#']):
-        if is_valid_domain(rule):
-            return ("exact", rule.lower())
+    # 处理正则表达式规则
+    if rule.startswith("/") and rule.endswith("/"):
+        regex_pattern = rule[1:-1]
+        # 简单验证正则表达式有效性
+        try:
+            re.compile(regex_pattern)
+            return ("regex", regex_pattern)
+        except re.error:
+            return None
+
+    # 处理域名后缀规则 (*.example.com)
+    if rule.startswith("*.") and is_valid_domain(rule[2:]):
+        return ("suffix", rule[2:].lower())
+
+    # 处理通配符域名规则
+    if "*" in rule and "." in rule and not any(c in rule for c in ["/", ":", "!", "#"]):
+        # 尝试转换为域名后缀
+        if rule.startswith("*.") and is_valid_domain(rule[2:]):
+            return ("suffix", rule[2:].lower())
+
+        # 尝试转换为正则表达式
+        try:
+            # 将通配符转换为正则表达式
+            regex_pattern = rule.replace(".", r"\.").replace("*", ".*")
+            re.compile(regex_pattern)
+            return ("regex", regex_pattern)
+        except re.error:
+            return None
 
     return None
 
 
+# 处理所有规则文件
 def process_rules():
     exact_rules = set()
+    suffix_rules = set()
+    regex_rules = set()
 
     # 获取所有规则文件
     rule_files = list(SOURCES_DIR.glob("*"))
@@ -149,7 +231,7 @@ def process_rules():
 
     if total_files == 0:
         print("警告: 没有找到任何规则文件！")
-        return {"exact": []}
+        return {"exact": [], "suffix": [], "regex": []}
 
     print(f"开始处理 {total_files} 个规则文件...")
 
@@ -162,19 +244,32 @@ def process_rules():
                     if not result:
                         continue
 
+                    # 处理单条规则或多条规则
                     if isinstance(result, list):
                         for item in result:
-                            match_type, value = item
-                            if match_type == "exact":
+                            rule_type, value = item
+                            if rule_type == "exact":
                                 exact_rules.add(value)
+                            elif rule_type == "suffix":
+                                suffix_rules.add(value)
+                            elif rule_type == "regex":
+                                regex_rules.add(value)
                     else:
-                        match_type, value = result
-                        if match_type == "exact":
+                        rule_type, value = result
+                        if rule_type == "exact":
                             exact_rules.add(value)
+                        elif rule_type == "suffix":
+                            suffix_rules.add(value)
+                        elif rule_type == "regex":
+                            regex_rules.add(value)
         except Exception as e:
             print(f"处理文件 {file.name} 时出错: {str(e)}")
 
-    return {"exact": sorted(exact_rules)}
+    return {
+        "exact": sorted(exact_rules),
+        "suffix": sorted(suffix_rules),
+        "regex": sorted(regex_rules),
+    }
 
 
 def main():
@@ -183,10 +278,6 @@ def main():
 
     print("----- 处理规则内容 -----")
     rules_dict = process_rules()
-
-    exact_count = len(rules_dict["exact"])
-
-    print(f"规则统计: 完整域名匹配 - {exact_count}")
 
     print("----- 生成规则集 -----")
     convert_to_json(rules_dict, OUTPUT_JSON)

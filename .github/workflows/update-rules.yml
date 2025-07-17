@@ -103,7 +103,7 @@ jobs:
         #   ad.srs - 编译后的规则集
         #   ad.json - 原始规则集
         #   rules/* - 下载的规则源文件
-        git add ad.srs ad.json rules/*
+        git add ad.srs ad.json rules/* hash_cache.json
 
         # 获取当前北京时间，用于提交信息
         TIMESTAMP=$(TZ="Asia/Shanghai" date +"%Y-%m-%d %H:%M")

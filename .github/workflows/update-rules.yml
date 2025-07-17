@@ -3,12 +3,16 @@ name: Update Rules
 on:
   schedule:   # 设置定时任务，每 2 小时运行一次
     - cron: "0 */2 * * *"
-  workflow_dispatch:   # 允许手动触发，允许在 GitHub 界面手动运行工作流
+
+  workflow_dispatch:   # 允许手动触发，可在 GitHub 界面手动运行工作流
 
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 20
+
+    env:
+      PYTHONUNBUFFERED: 1  # 实时输出 Python 日志
 
     steps:
     - name: Checkout repository
@@ -23,15 +27,20 @@ jobs:
       with:
         python-version: "3.13"
 
+    # 缓存依赖
+    - name: Cache dependencies
+      uses: actions/cache@v3
+      with:
+        path: |
+          ~/.cache/pip
+          ${{ github.workspace }}/hash_cache.json
+        key: ${{ runner.os }}-py-${{ hashFiles('scripts/requirements.txt') }}
+
     # 安装 Python 依赖
     - name: Install dependencies
       run: |
         pip install --upgrade pip
         pip install -r scripts/requirements.txt
-
-    # 安装 jq 工具，用于处理 JSON 数据
-    - name: Install jq
-      run: sudo apt install -y jq
 
     # 运行处理脚本，用于生成 anti-ad.json
     - name: Run processing script
@@ -40,7 +49,7 @@ jobs:
     # 下载 sing-box 工具
     - name: Download sing-box
       run: |
-        # 获取 sing-box 最新版本号
+        # 通过 GitHub API 获取 sing-box 最新版本号
         LATEST_VERSION=$(curl -sL "https://api.github.com/repos/SagerNet/sing-box/releases/latest" | jq -r '.tag_name' | sed 's/v//')
 
         # 下载最新版本的 sing-box
@@ -58,24 +67,51 @@ jobs:
     # 编译规则集
     - name: Compile rule set
       run: |
-        chmod +x sing-box  # 添加执行权限
-        ./sing-box rule-set compile --output ad.srs ad.json  # 编译 JSON 规则集为 SRS 格式
+        # 添加执行权限
+        chmod +x sing-box
 
-    # 提交变更到仓库
-    - name: Commit changes
+        # 编译 JSON 规则集为 SRS 格式
+        ./sing-box rule-set compile --output ad.srs ad.json
+
+    #  检查是否有变更
+    - name: Check for changes
+      id: check-changes
       run: |
-        # 配置 Git 用户信息，使用 GitHub Actions 的默认身份
+        # 使用 git add -N 将未跟踪文件标记为"待添加"状态
+        git add -N .
+
+        # 检查工作区是否有变更
+        if ! git diff --quiet; then
+          # 检测到变更：设置输出变量 changes_detected=true
+          echo "changes_detected=true" >> $GITHUB_OUTPUT
+          echo "✅ 检测到变更，将提交更新"
+        else
+          # 没有变更：设置输出变量changes_detected=false
+          echo "changes_detected=false" >> $GITHUB_OUTPUT
+          echo "ℹ️ 未检测到变更，跳过提交"
+        fi
+
+    # 提交并推送变更，仅在检测到变更时执行
+    - name: Commit and push changes
+      if: steps.check-changes.outputs.changes_detected == 'true'
+      run: |
+        # 配置 Git 用户信息，使用 GitHub Actions 默认身份
         git config user.name "GitHub Actions"
         git config user.email "actions@github.com"
 
-        # 添加变更文件（SRS 规则集、JSON 规则集和 rules 目录下的文件）
+        # 添加变更文件：
+        #   ad.srs - 编译后的规则集
+        #   ad.json - 原始规则集
+        #   rules/* - 下载的规则源文件
         git add ad.srs ad.json rules/*
 
-        # 获取当前时间（北京时间）
+        # 获取当前北京时间，用于提交信息
         TIMESTAMP=$(TZ="Asia/Shanghai" date +"%Y-%m-%d %H:%M")
 
         # 提交变更
-        git commit -m "规则更新于 $TIMESTAMP" || echo "无变化"
+        git commit -m "规则更新于 $TIMESTAMP"
 
-        # 推送变更到仓库
-        git push || true
+        # 推送变更到当前分支
+        git push
+
+        echo "🚀 变更已提交并推送！"

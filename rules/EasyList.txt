@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: MhNeIAtDEyAzIkOs0AR33w
-! Version: 202507171211
+! Checksum: g/GKrpeDWTn8O4rPziEUYw
+! Version: 202507171401
 ! Title: EasyList
-! Last modified: 17 Jul 2025 12:11 UTC
+! Last modified: 17 Jul 2025 14:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -19735,6 +19735,7 @@ browsershots.org#@#.advert_area
 ||blurbreimbursetrombone.com^
 ||blursverism.com^
 ||blushetfirth.top^
+||blvuwgejhs.com^
 ||blwviknoqfpij.online^
 ||blxddjwomsump.store^
 ||blyqvidllwukv.website^
@@ -21008,6 +21009,7 @@ browsershots.org#@#.advert_area
 ||chlziaue.xyz^
 ||chmnebon.top^
 ||chnkgnctdimfu.space^
+||choalsaitche.com^
 ||choalsegroa.xyz^
 ||choapsulroo.net^
 ||choargobsadsa.net^
@@ -21037,6 +21039,7 @@ browsershots.org#@#.advert_area
 ||chouftak.net^
 ||choupsee.com^
 ||chouraip.com^
+||chouxatchaibse.net^
 ||choyendecha.world^
 ||chpadblock.com^
 ||chrantary-vocking.com^
@@ -22219,6 +22222,7 @@ browsershots.org#@#.advert_area
 ||dagxmuxiza.com^
 ||daicoaky.net^
 ||daidlepulps.top^
+||daidlypipile.help^
 ||daileezokojasu.net^
 ||daily-datehere.com^
 ||daily-info.live^
@@ -23994,6 +23998,7 @@ browsershots.org#@#.advert_area
 ||epartoukfarepu.com^
 ||epaulebeardie.com^
 ||epededonemile.com^
+||epeesblench.rest^
 ||epersaonwhois.com^
 ||ephebeaauronal.help^
 ||ephebedori.life^
@@ -24119,6 +24124,7 @@ browsershots.org#@#.advert_area
 ||estatueofthea.info^
 ||estaupsaim.net^
 ||estpeopleshouldth.org^
+||estuousdrier.top^
 ||esusaryproced.com^
 ||eswfsinghtywb.website^
 ||etaminumbra.top^
@@ -25335,6 +25341,7 @@ browsershots.org#@#.advert_area
 ||fwciiqsskqyih.site^
 ||fwedzajar.com^
 ||fwmrm.net^
+||fwqoepqtodn.com^
 ||fwtmxfwijnpok.com^
 ||fwtrck.com^
 ||fwvelzkaeqosm.online^
@@ -26432,6 +26439,7 @@ browsershots.org#@#.advert_area
 ||haggaiarabana.shop^
 ||haggingmasha.top^
 ||hagnutrient.com^
+||hagweeddrib.qpon^
 ||haigouthaizik.net^
 ||haikcarlage.com^
 ||haincard.com^
@@ -28181,6 +28189,7 @@ browsershots.org#@#.advert_area
 ||jbbyyryolqvvb.top^
 ||jbdijlqfuxlnlbn.com^
 ||jbdndmgsfrmpxea.xyz^
+||jbgnwogznynvj.top^
 ||jbib-hxyf.icu^
 ||jbiokwloncerp.club^
 ||jbjydrxjfseii.store^
@@ -28630,6 +28639,7 @@ browsershots.org#@#.advert_area
 ||jyoyqnyjymgmz.top^
 ||jyozavobzrekb.top^
 ||jyozavobzrlkz.top^
+||jyozavobzrzlj.top^
 ||jypndtjmdqcnj.online^
 ||jyqekzzlmymab.top^
 ||jyqekzzlmymzy.top^
@@ -30202,6 +30212,7 @@ browsershots.org#@#.advert_area
 ||lxiapwwqfcbms.tech^
 ||lxjppakmqs.com^
 ||lxjymxar.com^
+||lxkvsjyljs.com^
 ||lxkzcss.xyz^
 ||lxqjy-obtr.love^
 ||lxrsappgom.com^
@@ -30422,6 +30433,7 @@ browsershots.org#@#.advert_area
 ||manuscriptfelt.com^
 ||manvupcsyxsfk.com^
 ||manwaybawneen.com^
+||manwcivslx.xyz^
 ||maocsjbcjljog.online^
 ||maoeoa.xyz^
 ||mapamnni.com^
@@ -31890,6 +31902,7 @@ browsershots.org#@#.advert_area
 ||nkmsite.com^
 ||nknkwypfjrregtj.com^
 ||nkredir.com^
+||nkrfktgxpojct.com^
 ||nkrhqjihmeho.com^
 ||nkybzumaqr.com^
 ||nkyzsgitgjdam.space^
@@ -35438,6 +35451,7 @@ browsershots.org#@#.advert_area
 ||ragerraches.cfd^
 ||rageryedison.top^
 ||raggedstriking.com^
+||raggetytineman.com^
 ||raggyiowans.shop^
 ||raglassofrum.cc^
 ||ragofkanc.com^
@@ -36348,6 +36362,7 @@ browsershots.org#@#.advert_area
 ||roytglutei.shop^
 ||rozamimo9za10.com^
 ||rozumnarcose.com^
+||rpasgucandpcro.com^
 ||rpazaa.xyz^
 ||rpbielpssuigs.space^
 ||rpbntwsarxb.com^
@@ -36462,6 +36477,7 @@ browsershots.org#@#.advert_area
 ||rubyblu.com^
 ||rudderleisurelyobstinate.com^
 ||ruddy-pass.com^
+||ruderalmooder.shop^
 ||rudesbytransp.click^
 ||rudishtremolo.top^
 ||ruefuluphill.com^
@@ -37241,6 +37257,7 @@ browsershots.org#@#.advert_area
 ||shooterofficially.com^
 ||shootoax.com^
 ||shopmonthtravel.com^
+||shopnooks.cfd^
 ||shoppinglifestyle.biz^
 ||shopsonnies.top^
 ||shorantonto.com^
@@ -37739,6 +37756,7 @@ browsershots.org#@#.advert_area
 ||sottiselindy.click^
 ||sotyolhnvfkjqbs.xyz^
 ||soujajuzauziby.com^
+||souledgumboil.click^
 ||soumehoo.net^
 ||souocvjmfccpx.store^
 ||souplemedalet.top^
@@ -39936,6 +39954,7 @@ browsershots.org#@#.advert_area
 ||umbrasglumose.digital^
 ||umbrellaepisode.com^
 ||umbriankubanka.top^
+||umbriltimbrel.top^
 ||umebella.com^
 ||umedadelemp.com^
 ||umexalim.com^
@@ -54118,7 +54137,7 @@ ip-tracker.org###rekl
 tapatalk.com###relatedblogbar
 plurk.com###resp_banner_ads
 immoweb.be###result-list-header
-homedepot.com###revjet_container
+homedepot.com,nordstrom.com###revjet_container
 10minutemail.net,eel.surf7.net.my###right
 msguides.com###right-bottom-camp
 comicbookrealm.com###right-rail > .module
@@ -58832,6 +58851,7 @@ romhustler.org##[class^="leaderboard_ad"]
 filmibeat.com##[class^="oiad"]
 nofilmschool.com##[class^="rblad-nfs_content"]
 nagpurtoday.in##[class^="sgpb-"]
+bestbuy.ca##[class^="sponsoredProdBoxGridArea"]
 cmswire.com##[class^="styles_ad-block"]
 cmswire.com##[class^="styles_article__text-ad"]
 cmswire.com##[class^="styles_article__top-ad-wrapper"]
@@ -60049,6 +60069,7 @@ homedepot.com##.browse-search__pod:has([id^="plp_pod_sponsored"])
 haveibeenpwned.com##.card-glow:has-text(Sponsored)
 bws.com.au##.card-list-item:has(.productTile.is-Sponsored)
 truecar.com##.card:has([href*="marketplace&sponsored"])
+bloomingdales.com##.carousel-container:has(.header-sponsored-label)
 doordash.com##.carousel-virtual-wrapper:has([href*="collection_type=sponsored_brand"])
 doordash.com##.ccdtLs:has([data-testid="sponsored:Sponsored"])
 dexscreener.com##.chakra-link:has-text(Advertise)

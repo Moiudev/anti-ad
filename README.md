@@ -6,6 +6,12 @@
 ```json
 {
   "route": {
+    "rules": [
+      {
+        "rule_set": "anti-ad",
+        "action": "reject"
+      }
+    ],
     "rule_set": [
       {
         "type": "remote",

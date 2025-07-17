@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: JIz8RfduOSIO37AzkfMuIg
-! Version: 202507162201
+! Checksum: lMDsBy81UW3n21pJgavAcA
+! Version: 202507170041
 ! Title: EasyList
-! Last modified: 16 Jul 2025 22:01 UTC
+! Last modified: 17 Jul 2025 00:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -16220,6 +16220,7 @@ browsershots.org#@#.advert_area
 ||53ff0e58f9.com^
 ||540252a00b.com^
 ||540484935e.com^
+||540f8cca2b.com^
 ||548f23e472.com^
 ||551ba6c442.com^
 ||554koaylwga7.top^
@@ -16400,6 +16401,7 @@ browsershots.org#@#.advert_area
 ||88eq7spm.de^
 ||892azz.xyz^
 ||89sa.com^
+||8a53b29c07.com^
 ||8ab16250fe.com^
 ||8bfc9cbcbe.com^
 ||8d46e91bf0.com^
@@ -16454,6 +16456,7 @@ browsershots.org#@#.advert_area
 ||995be54914.com^
 ||9996777888.com^
 ||999aae0fa7.com^
+||99d5318452.com^
 ||99ef859a06.com^
 ||99gt8.com^
 ||9a4f937e0f.com^
@@ -17183,7 +17186,6 @@ browsershots.org#@#.advert_area
 ||adsvolume.com^
 ||adsvzkuzfcfbz.one^
 ||adswam.com^
-||adswizz.com^
 ||adsxtits.com^
 ||adsxtits.pro^
 ||adsxyz.com^
@@ -24004,6 +24006,7 @@ browsershots.org#@#.advert_area
 ||eravesofefinegoldf.com^
 ||ercockremarke.org^
 ||ercoeteasacom.com^
+||erdvarkerica.digital^
 ||ereandhthrew.org^
 ||eredrubygsworlo.com^
 ||erehollowcrave.com^
@@ -24820,6 +24823,7 @@ browsershots.org#@#.advert_area
 ||flightglancing.com^
 ||flightsjabbed.com^
 ||flimsy-beat.com^
+||flimsydepth.pro^
 ||flinchham.com^
 ||flingforyou.com^
 ||flintdepreciate.com^
@@ -24847,6 +24851,7 @@ browsershots.org#@#.advert_area
 ||florinsqrs.top^
 ||flounderaway.com^
 ||flousecuprate.top^
+||flousepraeses.top^
 ||flower1266.fun^
 ||flowsearch.info^
 ||flowwiththetide.xyz^
@@ -25462,6 +25467,7 @@ browsershots.org#@#.advert_area
 ||gauvaiho.net^
 ||gavearsonistclever.com^
 ||gawainsocii.top^
+||gawmoiler.qpon^
 ||gayadpros.com^
 ||gaytiiaghzhks.com^
 ||gaz-help.ru^
@@ -26291,6 +26297,7 @@ browsershots.org#@#.advert_area
 ||gutwortdishpan.top^
 ||guvmmaolnk.com^
 ||guvnumnm.com^
+||guvpkobhylu.com^
 ||guwupmxscowhp.online^
 ||guxidrookr.com^
 ||guypane.com^
@@ -26523,6 +26530,7 @@ browsershots.org#@#.advert_area
 ||hawsuffer.com^
 ||haychalk.com^
 ||haycockazoxime.shop^
+||hayerbalkier.top^
 ||hayrakebedusk.shop^
 ||hazelhideous.com^
 ||hazellylemanea.shop^
@@ -27075,6 +27083,7 @@ browsershots.org#@#.advert_area
 ||hpmstr.com^
 ||hpnkctxx.buzz^
 ||hppfyrdeuangi.website^
+||hptjkhqpriiaby.xyz^
 ||hpyjmp.com^
 ||hpyrdr.com^
 ||hqerddmneojvl.online^
@@ -27579,6 +27588,7 @@ browsershots.org#@#.advert_area
 ||incendlaser.qpon^
 ||incentivenebulous.com^
 ||inceptactins.shop^
+||incestscowlike.world^
 ||inclinedenemiesastray.com^
 ||incloak.com^
 ||incloseinterest.com^
@@ -27964,6 +27974,7 @@ browsershots.org#@#.advert_area
 ||iufwfajqsycomf.com^
 ||iugbhsu.com^
 ||iunismkwstgdf.site^
+||iuosyjdflfm.com^
 ||iupyamyi.com^
 ||iuwzdf.com^
 ||iv-akuifxp.love^
@@ -29540,6 +29551,7 @@ browsershots.org#@#.advert_area
 ||lianova.space^
 ||lianzl.xyz^
 ||liaoptse.net^
+||liatrisrooti.click^
 ||libertycdn.com^
 ||libertystmedia.com^
 ||libidosdegass.shop^
@@ -30439,6 +30451,7 @@ browsershots.org#@#.advert_area
 ||matiro.com^
 ||matloomreconcile.com^
 ||matlowredneck.shop^
+||matsirsapupte.net^
 ||matterforiwa.org^
 ||matterpalekept.com^
 ||matterssharplyraw.com^
@@ -32001,6 +32014,7 @@ browsershots.org#@#.advert_area
 ||npyzxhbzwxosr.space^
 ||nqcgdvuuyxwj.com^
 ||nqgokpyktbkbm.space^
+||nqlhwsln.com^
 ||nqmtzldnhcree.store^
 ||nqn7la7.de^
 ||nqqncdeniixdo.online^
@@ -34928,6 +34942,7 @@ browsershots.org#@#.advert_area
 ||qbqtzdpqjjgbed.com^
 ||qbriwdmdxcmo.com^
 ||qbrzvovrozkez.top^
+||qbrzvovrozkzv.top^
 ||qbtwdxvdqcksyl.com^
 ||qbwebebwkeqar.top^
 ||qbwebebwkeqob.top^
@@ -36546,6 +36561,7 @@ browsershots.org#@#.advert_area
 ||safestsniffingconfessed.com^
 ||safesync.com^
 ||safewarns.com^
+||safflowgrinter.cfd^
 ||safflowlu.top^
 ||safsdvc.com^
 ||saftsordes.shop^
@@ -36643,6 +36659,7 @@ browsershots.org#@#.advert_area
 ||satisfied-politics.com^
 ||satorisccoya.top^
 ||sattiostiounper.com^
+||saturadialed.cyou^
 ||saturatemadman.com^
 ||saturdaymarryspill.com^
 ||saubaheefah.net^
@@ -37047,6 +37064,7 @@ browsershots.org#@#.advert_area
 ||shameless-date.com^
 ||shamelessappellation.com^
 ||shamelessnullneutrality.com^
+||shammedminnow.digital^
 ||shanaurg.net^
 ||shanorin.com^
 ||shapo.fun^
@@ -37399,6 +37417,7 @@ browsershots.org#@#.advert_area
 ||slivmux.com^
 ||slloidjg.com^
 ||sllqlohjenqyg.site^
+||slobberpythias.world^
 ||slockertummies.com^
 ||sloddeburse.shop^
 ||sloeri.com^
@@ -37828,6 +37847,7 @@ browsershots.org#@#.advert_area
 ||squaredkarthli.qpon^
 ||squashwithholdcame.com^
 ||squdgyclavier.top^
+||squiggly-fill.pro^
 ||squigglyindustry.pro^
 ||squigglyproduct.pro^
 ||squiresbruting.top^
@@ -38797,6 +38817,7 @@ browsershots.org#@#.advert_area
 ||thikoowoult.net^
 ||thikraik.net^
 ||thimblehaltedbounce.com^
+||thimblewakon.click^
 ||thinkerbarbas.qpon^
 ||thinkingaccommodate.com^
 ||thinksclingingentertainment.com^
@@ -39017,6 +39038,7 @@ browsershots.org#@#.advert_area
 ||tnzlmhzidwjzq.fun^
 ||toapz.xyz^
 ||toarathaujooy.net^
+||toashuthushu.com^
 ||toawaups.net^
 ||toawhulo.com^
 ||tobaccoearnestnessmayor.com^
@@ -39059,6 +39081,7 @@ browsershots.org#@#.advert_area
 ||tolerant126.fun^
 ||tolerantignorancepicturesque.com^
 ||tolidinlurries.digital^
+||tolterhorreum.cfd^
 ||tomarnamki.shop^
 ||tomatoitch.com^
 ||tomatoqqamber.click^
@@ -40377,6 +40400,7 @@ browsershots.org#@#.advert_area
 ||veezljzkrjakz.top^
 ||veezljzkrjrbl.top^
 ||veezljzkrjrwj.top^
+||veftotchoarga.net^
 ||veghxkdqfrfj.com^
 ||vehiclepatsyacacia.com^
 ||vehosw.com^
@@ -41450,6 +41474,7 @@ browsershots.org#@#.advert_area
 ||wjljwqbzjjvkw.top^
 ||wjljwqbzjjvqj.top^
 ||wjpqpglffeyodsa.xyz^
+||wjtitmlvinur.com^
 ||wjugygvvdouyk.space^
 ||wjvavwjyaso.com^
 ||wjvyorryojawm.top^
@@ -41818,6 +41843,7 @@ browsershots.org#@#.advert_area
 ||wywtpkeai.com^
 ||wzcuinglezyz.one^
 ||wzeofdkmyo.com^
+||wzgkyqygqkoky.top^
 ||wzhraonifqvig.space^
 ||wzijtuxzut.com^
 ||wzldwwpbij.com^
@@ -42613,6 +42639,7 @@ browsershots.org#@#.advert_area
 ||zjdac.com^
 ||zjfowaspawuza.store^
 ||zjfsjzzquhdcw.online^
+||zjihnfuxlyiof.com^
 ||zjjxp.online^
 ||zkarinoxmq.com^
 ||zkcvb.com^
@@ -43768,6 +43795,7 @@ browsershots.org#@#.advert_area
 ||adstuna.com^$third-party
 ||adsummos.net^$third-party
 ||adsvert.com^$third-party
+||adswizz.com^$third-party
 ||adsync.tech^$third-party
 ||adtarget.com.tr^$third-party
 ||adtarget.market^$third-party

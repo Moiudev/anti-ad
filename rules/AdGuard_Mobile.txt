@@ -2686,6 +2686,9 @@ sp.manga.nicovideo.jp##div[style^="--ads-width:"]
 !
 ! SECTION: Regular rules
 !
+lurenewsr.com##.sp_article_footeroverlay_wrapper
+buhitter.com##aside.row:has(> div[id^="div_fam8_async"])
+rollingstonejapan.com###ad25_42650_box
 j-cast.com###sp_j-cast_overlay_mov
 news4vip.livedoor.biz##img[src^="//ir-jp.amazon-adsystem.com/"]
 news4vip.livedoor.biz##span[style="display: block; margin: 12px auto;"]
@@ -4748,7 +4751,6 @@ moviewalker.jp##div[style*="min-width:320px;"]
 business.nikkei.com##.dag_rectangle
 a-eroland.net###fam_rectp
 nyahentai.re##.__isboostOverlay
-hentai-cosplays.com,hentai-gif-anime.com,hentai-img.com,porn-images-xxx.com###adsense_center
 parismatch.com##.lmn-habmob
 blogterest.net###glkab
 the-sun.com##.amp-adv-wrapper

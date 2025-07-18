@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: eh6Ce3G5Cke3SLZ6vxyYJg
-! Version: 202507180801
+! Checksum: ZJ+NTPECBpsutR9McSlkDw
+! Version: 202507181001
 ! Title: EasyList
-! Last modified: 18 Jul 2025 08:01 UTC
+! Last modified: 18 Jul 2025 10:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -19230,6 +19230,7 @@ browsershots.org#@#.advert_area
 ||beardyapii.com^
 ||bearscutte.com^
 ||beastssmuggleimpatiently.com^
+||beaterarche.cfd^
 ||beatforumsubstitute.com^
 ||beatifulllhistory.com^
 ||beautifulintention.pro^
@@ -20247,6 +20248,7 @@ browsershots.org#@#.advert_area
 ||bulky-battle.com^
 ||bulletadopt.com^
 ||bulletproxy.ch^
+||bulletyretack.click^
 ||bullfeeding.com^
 ||bullionglidingscuttle.com^
 ||bullionyield.com^
@@ -27389,6 +27391,7 @@ browsershots.org#@#.advert_area
 ||hycantyoubeliketh.com^
 ||hydrialocklet.top^
 ||hyeninebawsint.shop^
+||hyeninecymbel.cfd^
 ||hygeistagua.com^
 ||hyimemediatesup.com^
 ||hymeniacrouch.com^
@@ -27555,6 +27558,7 @@ browsershots.org#@#.advert_area
 ||ii9g0qj9.de^
 ||iiacavdeuqxr.com^
 ||iiasjrqypbbob.online^
+||iibvgtav.com^
 ||iicheewi.com^
 ||iicwmzxgqsjfu.space^
 ||iigirlslove.com^
@@ -29362,6 +29366,7 @@ browsershots.org#@#.advert_area
 ||kzfslblsahnou.life^
 ||kzgogkbovaklb.top^
 ||kzgwhioswkztt.one^
+||kzlmbgolollqg.top^
 ||kzoixqlmnwtjg.space^
 ||kzqjctpvdjmwc.store^
 ||kzsppytiznamy.online^
@@ -30644,6 +30649,7 @@ browsershots.org#@#.advert_area
 ||matsirsapupte.net^
 ||matterforiwa.org^
 ||matterpalekept.com^
+||mattersratfink.digital^
 ||matterssharplyraw.com^
 ||mattockpackall.com^
 ||mattressashamed.com^
@@ -30872,6 +30878,7 @@ browsershots.org#@#.advert_area
 ||meristana.pro^
 ||meritsbunn.top^
 ||merligogippy.top^
+||meropspipals.top^
 ||merterpazar.com^
 ||meshsensorcuriosity.com^
 ||mesialcixiid.com^
@@ -34875,6 +34882,7 @@ browsershots.org#@#.advert_area
 ||ptoossoafoast.net^
 ||ptootchailtay.net^
 ||ptootseegle.net^
+||ptoovoognairti.net^
 ||ptoptaglyphi.com^
 ||ptougeegnep.net^
 ||ptouglaiksiky.net^
@@ -35304,6 +35312,7 @@ browsershots.org#@#.advert_area
 ||qixmzogwiblhf.store^
 ||qizjkwx9klim.com^
 ||qjbtdidrobmmo.love^
+||qjiapoaiph.com^
 ||qjjqhcqxcyfex.tech^
 ||qjldydelwreqn.click^
 ||qjlyfestjozoo.site^
@@ -40179,6 +40188,7 @@ browsershots.org#@#.advert_area
 ||umbrellaepisode.com^
 ||umbriankubanka.top^
 ||umbriltimbrel.top^
+||umbrousbepile.qpon^
 ||umebella.com^
 ||umedadelemp.com^
 ||umexalim.com^
@@ -40862,6 +40872,7 @@ browsershots.org#@#.advert_area
 ||viatepigan.com^
 ||vic-m.co^
 ||vicesus.com^
+||vicinepulsed.cyou^
 ||viciousarea.pro^
 ||victorrapider.top^
 ||victoryrugbyumbrella.com^
@@ -41754,6 +41765,7 @@ browsershots.org#@#.advert_area
 ||wimblesmurgavi.top^
 ||wimxvpcbsfhyz.store^
 ||win-bidding.com^
+||winbetas.rest^
 ||winbuyer.com^
 ||windfallcleaningarrange.com^
 ||windindelicateexclusive.com^
@@ -42075,6 +42087,7 @@ browsershots.org#@#.advert_area
 ||wscfuskopxtri.website^
 ||wsentativesathya.org^
 ||wsjlbbqemr23.com^
+||wslkplcxsl.xyz^
 ||wspfskknmnzvq.rocks^
 ||wspsbhvnjk.com^
 ||wsshehasnomoney.com^
@@ -42168,6 +42181,7 @@ browsershots.org#@#.advert_area
 ||wylin.ai^
 ||wylmzwklkljav.top^
 ||wylmzwklkljwr.top^
+||wylmzwklkllrw.top^
 ||wylmzwklkllyk.top^
 ||wylmzwklklyaz.top^
 ||wylmzwklklywm.top^

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: zYjCONPbjEdyybwUWipqNw
-! Version: 202507211601
+! Checksum: CJf0YlHLmgXZ+GIkn0XSCA
+! Version: 202507211751
 ! Title: EasyList
-! Last modified: 21 Jul 2025 16:01 UTC
+! Last modified: 21 Jul 2025 17:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -16567,6 +16567,7 @@ browsershots.org#@#.advert_area
 ||aawdlvr.com^
 ||aawfewvoclrhp.online^
 ||aaxads.com^
+||aaxqvatpzvmpuz.com^
 ||ab0fbb66ba.com^
 ||ab1n.net^
 ||ab8c7b1863.com^
@@ -19348,6 +19349,7 @@ browsershots.org#@#.advert_area
 ||bedodrioon.com^
 ||bedrapiona.com^
 ||bedriftkations.top^
+||bedsungoak.net^
 ||beegotou.net^
 ||beegrenugoz.com^
 ||beegruwhoazoa.net^
@@ -19911,6 +19913,7 @@ browsershots.org#@#.advert_area
 ||bnmkl.com^
 ||bnmqtggqjoqic.buzz^
 ||bnp3.com^
+||bnqagjwbvglmv.top^
 ||bnqagjwbvglnj.top^
 ||bnr.sys.lv^
 ||bnrdom.com^
@@ -25165,6 +25168,7 @@ browsershots.org#@#.advert_area
 ||fjojdlcz.com^
 ||fjrrltjo.com^
 ||fkacazvha.com^
+||fkadisxwaacs.com^
 ||fkbkun.com^
 ||fkbwtoopwg.com^
 ||fkewaplwlcnmk.com^
@@ -26940,6 +26944,7 @@ browsershots.org#@#.advert_area
 ||handtub.com^
 ||handy-mind.pro^
 ||handy-tab.com^
+||hangmenpernio.top^
 ||hangoverknock.com^
 ||hankttillman.top^
 ||hanoembolum.com^
@@ -28212,6 +28217,7 @@ browsershots.org#@#.advert_area
 ||infatuated-difference.pro^
 ||infaunageosid.shop^
 ||infectedrepentearl.com^
+||infeoffbigeyes.digital^
 ||infeofflarkers.shop^
 ||inferiorkate.com^
 ||infestsspirals.shop^
@@ -29296,6 +29302,7 @@ browsershots.org#@#.advert_area
 ||katecrochetvanity.com^
 ||katerigordas.pro^
 ||kathesygri.com^
+||katipopoucer.shop^
 ||katsupdibbing.top^
 ||kaubapsy.com^
 ||kaupsomauphe.com^
@@ -29445,6 +29452,7 @@ browsershots.org#@#.advert_area
 ||khngkkcwtlnu.com^
 ||khovdiminated.org^
 ||khqnsoskqmqlr.site^
+||kialeebiltong.shop^
 ||kiaughsviner.com^
 ||kibjpawncwgyd.com^
 ||kiblacauma.world^
@@ -32823,6 +32831,7 @@ browsershots.org#@#.advert_area
 ||npykxfaypqrtf.love^
 ||npyzxhbzwxosr.space^
 ||nqcgdvuuyxwj.com^
+||nqelooikvxcqw.space^
 ||nqgokpyktbkbm.space^
 ||nqlhwsln.com^
 ||nqmtzldnhcree.store^
@@ -32991,6 +33000,7 @@ browsershots.org#@#.advert_area
 ||nwwais.com^
 ||nwwbyxlnpgaxi.today^
 ||nwwrtbbit.com^
+||nxbpxlxxcr.com^
 ||nxcygebmxxuo.com^
 ||nxfaswayrubuc.xyz^
 ||nxgzeejhs.com^
@@ -33312,6 +33322,7 @@ browsershots.org#@#.advert_area
 ||ogojnnyabwowy.top^
 ||ogorsepebtvor.site^
 ||ogqanrasl.com^
+||ogqbkcfyvycna.space^
 ||ogqgtodm.com^
 ||ogrepsougie.net^
 ||ogsbpoofzlk.com^
@@ -33386,6 +33397,7 @@ browsershots.org#@#.advert_area
 ||okaidsotsah.com^
 ||okakyamoguvampom.com^
 ||okanwoesgsogw.website^
+||okavitis.help^
 ||okdigital.me^
 ||okdjakskmgpk.com^
 ||okeezyxflelvs.website^
@@ -33778,6 +33790,7 @@ browsershots.org#@#.advert_area
 ||orkwithcatukhy.com^
 ||orlglnaldates.net^
 ||orlowedonhisdhilt.info^
+||ormazdcoupons.shop^
 ||ornatecomputer.com^
 ||ornisguna.world^
 ||ornisoutblew.shop^
@@ -35547,6 +35560,7 @@ browsershots.org#@#.advert_area
 ||ptangortoaz.net^
 ||ptapjmp.com^
 ||ptatzrucj.com^
+||ptaucaipsie.net^
 ||ptaufefagn.net^
 ||ptaugnolru.net^
 ||ptaukaufa.net^
@@ -37708,6 +37722,7 @@ browsershots.org#@#.advert_area
 ||sandyrecordingmeet.com^
 ||sanereply.com^
 ||sangarmuting.shop^
+||sangeicalaber.shop^
 ||sanggilregard.com^
 ||sanhpaox.xyz^
 ||sanitybead.com^
@@ -38344,6 +38359,7 @@ browsershots.org#@#.advert_area
 ||siberiabecrush.com^
 ||sibilantsuccess.com^
 ||sibohqoc.com^
+||sibucaouruisg.life^
 ||sicesweirdy.shop^
 ||sicewongaugloxe.net^
 ||sickbedjibboom.com^
@@ -38790,6 +38806,7 @@ browsershots.org#@#.advert_area
 ||soordpulayan.top^
 ||soorkylarixin.com^
 ||soosooka.com^
+||sootycofinal.shop^
 ||sopalk.com^
 ||sophomoreclassicoriginally.com^
 ||sophomorelink.com^
@@ -41051,6 +41068,7 @@ browsershots.org#@#.advert_area
 ||uhdokoq5ocmk.com^
 ||uhedsplo.com^
 ||uhegarberetrof.com^
+||uheorhihin.com^
 ||uhfdsplo.com^
 ||uhgdkwhtrob.com^
 ||uhhrvnstvttg.com^
@@ -41560,6 +41578,7 @@ browsershots.org#@#.advert_area
 ||vacuomedogeys.com^
 ||vacwrite.com^
 ||vaebard.com^
+||vagallybayard.help^
 ||vagaryduffels.digital^
 ||vagnerapedesis.top^
 ||vagrejaba.com^
@@ -42146,6 +42165,7 @@ browsershots.org#@#.advert_area
 ||vrldejvphpidi.online^
 ||vrmkkrfxvaixf.space^
 ||vrqdzfzzlyalb.space^
+||vrslcvpctrwju.space^
 ||vrtzads.com^
 ||vruaskogjsu.com^
 ||vryarrqcyta.com^
@@ -43672,6 +43692,7 @@ browsershots.org#@#.advert_area
 ||yghaatttm.com^
 ||ygimeqcpvbtci.rocks^
 ||ygmkcuj3v.com^
+||ygncvlnvzvsco.website^
 ||ygycrytvdhaphv.com^
 ||yhbcii.com^
 ||yhctstnmqupeija.com^
@@ -43898,6 +43919,7 @@ browsershots.org#@#.advert_area
 ||yvpswmiipjhni.life^
 ||yvzgazds6d.com^
 ||ywaopskepixw.com^
+||ywbpzuqu.com^
 ||ywcpuyoqiwpsq.website^
 ||ywdyawksjecjv.store^
 ||ywexnakh.com^
@@ -43964,6 +43986,7 @@ browsershots.org#@#.advert_area
 ||zaxonoax.com^
 ||zayatstipula.top^
 ||zbmzkxmensplm.club^
+||zbuztpvgfghmu.space^
 ||zchjzrtbrvpvq.website^
 ||zcnphmujdzzqg.site^
 ||zcode17.com^

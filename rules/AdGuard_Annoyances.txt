@@ -176,7 +176,7 @@
 ##.footer-lgpd
 ###footer-lgpd
 ###cookie-bg
-##.cookiealert.show
+##body .cookiealert.show
 ###cm-cookie-window
 ##aside[data-role="gdpr-cookie-container"]
 ###machete_cookie_container
@@ -2519,6 +2519,8 @@ kraemer-it.de,teslawissen.ch,scootertechno.com,mysize.ch,aeotec.com,geschichte-w
 !
 ! NOTE: Regular rules
 !
+sberhealth.ru##.cguixmd
+reso.ru##.container-personal-info
 lhv.ee#$##lhv-cookie-dialog { display: none !important; }
 lhv.ee#$#body[style*="overflow"] { overflow: auto !important; }
 qrplanet.com##.keckse
@@ -4842,7 +4844,7 @@ pkgs.org###consent_notice
 pangleglobal.com##.CookieBannerComponent
 marbosport.de,basiclab.shop,fritz-shop.eu,upleder.de#$#.iai_cookie { display: none !important; }
 marbosport.de,basiclab.shop,fritz-shop.eu,upleder.de#$#body.--cookie-overflow { overflow: auto !important; }
-hakobura.jp##.approval-required-fix-balloon
+izumi-navi.jp,hakobura.jp##.approval-required-fix-balloon
 propertyguru.com.my,ddproperty.com##.cookie-banner-section-root
 softube.com##.sui-cookie-warning
 patek.com##.cookies.modal_mask
@@ -15554,7 +15556,7 @@ instagram.com#%#//scriptlet('trusted-click-element', 'div[role="dialog"] div[sty
 ! On facebookcareers.com remove-class cannot be used, because
 ! it breaks search function (it's incorrectly displayed when class "_31e" is removed)
 meta.com#%#//scriptlet('trusted-click-element', 'body > div[class="x1n2onr6 x1vjfegm"] div[aria-hidden="false"] div[class]:last-child > div[aria-hidden="true"] + div div[role="button"] > div[role="none"][class^="x1ja2u2z"][class*="xtvsq51"]')
-messenger.com,workplace.com,about.meta.com#%#//scriptlet('trusted-click-element', 'button[data-cookiebanner="accept_only_essential_button"]')
+messenger.com,workplace.com,about.meta.com#%#//scriptlet('trusted-click-element', '.hasCookieBanner button[data-cookiebanner="accept_only_essential_button"]')
 meta.ai#%#//scriptlet('trusted-click-element', 'body > div[class*="x1n2onr6 x1vjfegm"] div[aria-hidden="true"] + div div[role="button"] > div[role="none"][class^="x1ja2u2z"][class*="x1oktzhs"]', '!cookie:wd')
 llama.com#%#//scriptlet('trusted-click-element', 'body > div[class="x1n2onr6 x1vjfegm"] div[aria-hidden="false"] > .x1o1ewxj div[class]:last-child > div[aria-hidden="true"] + div div[role="button"] > div[role="none"][class^="x1ja2u2z"][class*="xtvsq51"]')
 facebook.com,facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion#%#//scriptlet('trusted-click-element', 'div[class]:not([aria-hidden]) > div[aria-label*="cookie" i][role="button"]:not([aria-label*="picture"]):not([data-mcomponent="ImageArea"]):not([aria-label*="story"])')
@@ -26824,6 +26826,7 @@ sanalkurs.net###toast-container > .toast-error[aria-live="assertive"]
 /cmp/cmp.*.js
 /cmp/cmp.js
 !
+||static.groobee.io^
 ||sdk.postscript.io^$third-party
 ||cdn.wheelio-app.com^$third-party
 ||pop.unitedgate.co.jp^$third-party
@@ -35718,6 +35721,10 @@ gaugau.futabanet.jp,newscientist.com,jiji.com,edp24.co.uk,technologyreview.com,n
 !
 ! SECTION: Subscriptions - Regular rules
 !
+||f-sal.com/wp-content/uploads/2025/03/SAL%E5%BF%9C%E6%8F%B4%E3%83%95%E3%82%9A%E3%83%A9%E3%83%B3%E3%83%8F%E3%82%99%E3%83%8A%E3%83%BC.png
+f-sal.com##.abemaBanner
+f-sal.com##.lowerContent > div.newsBox:has(> p.newsImg > a[href^="https://sal.buyshop.jp/items/"])
+malls.ru##article > table:has(> tbody > tr > td > b > a[href="https://t.me/mallsru"])
 newtambov.ru##.contentRightMainBanner
 dwarkesh.com#%#//scriptlet('trusted-set-local-storage-item', 'pub-69345-subscribe-prompt-next-shown-at', '99999999999999')
 mayonews.ie##.register_button
@@ -43902,6 +43909,8 @@ alfastrah.ru,turkishairlines.com,atmos-tokyo.com,radarbox.com,ciceksepeti.com,ra
 !
 !
 !
+sberhealth.ru###mobileAppBanner
+reso.ru##.main-mobileApps-bunner
 apkpure.com#%#//scriptlet('trusted-set-cookie-reload', 'login_download_management_pop', 'close')
 focustaiwan.tw###jsAppInfo
 aftership.com###InstallAppBar
@@ -51875,6 +51884,9 @@ disk.yandex.by,disk.yandex.com,disk.yandex.com.tr,disk.yandex.fr,disk.yandex.kz,
 disk.yandex.by,disk.yandex.com,disk.yandex.com.tr,disk.yandex.fr,disk.yandex.kz,disk.yandex.ru,yadi.sk#$#body[style="padding-right: 0px; overflow: hidden;"] > div[class*="Fullscreen_root_"] { display: none !important; }
 disk.yandex.ru#$#.InfoSpace__Footer > button.InfoSpace__Button { display: none !important; }
 disk.yandex.ru#%#//scriptlet('remove-attr', 'href', '.InfoSpace[href^="https://360.yandex."][href*="/premium-plans?"]')
+!
+! Yandex.Forms
+forms.yandex.*##.Promo
 !
 ! Yandex.Images
 [$path=/images]ya.ru,yandex.*##.ImagesViewer-Products

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ek9SS2FjoTGJMXtps0mkGw
-! Version: 202507220041
+! Checksum: GC8ymj3K66erMuyzNG7UPA
+! Version: 202507220311
 ! Title: EasyList
-! Last modified: 22 Jul 2025 00:41 UTC
+! Last modified: 22 Jul 2025 03:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -18644,6 +18644,7 @@ browsershots.org#@#.advert_area
 ||atgluskifaz.com^
 ||atgogmvi.com^
 ||athauvutefeka.net^
+||athenapagnes.shop^
 ||athin.site^
 ||athitmontopon.com^
 ||athletedebride.top^
@@ -20817,6 +20818,7 @@ browsershots.org#@#.advert_area
 ||caunuscoagel.com^
 ||cauoushvvsopk.com^
 ||cauquiboguing.cyou^
+||causaeaketon.shop^
 ||causingguard.com^
 ||causingparameterfavour.com^
 ||causlesscauslessshowerconventional.com^
@@ -21201,6 +21203,7 @@ browsershots.org#@#.advert_area
 ||chipspasteprowl.com^
 ||chiptbsp.com^
 ||chiralboutons.top^
+||chiroavenin.life^
 ||chiselhld.top^
 ||chisledtomjohn.shop^
 ||chitchaudsoax.net^
@@ -21604,6 +21607,7 @@ browsershots.org#@#.advert_area
 ||cockysnailleather.com^
 ||coconutsoftenedput.com^
 ||cocoonelectronicsconfined.com^
+||cocoonspeony.qpon^
 ||cocuizaeluding.cfd^
 ||codedexchange.com^
 ||codefund.io^
@@ -23452,6 +23456,7 @@ browsershots.org#@#.advert_area
 ||dpmtcyfonye.com^
 ||dpnknkozlmyqf.space^
 ||dppxjnchvfoae.website^
+||dpqnvaywvjwgr.space^
 ||dprivatedquali.org^
 ||dpseympatijgpaw.com^
 ||dpsplgwcglwnn.space^
@@ -23731,6 +23736,7 @@ browsershots.org#@#.advert_area
 ||dyedmurders.com^
 ||dyerbossier.top^
 ||dyeroratory.top^
+||dyhvynxklhnwy.store^
 ||dyinglyhowking.top^
 ||dyingtrolleynick.com^
 ||dyipkcuro.rocks^
@@ -26477,6 +26483,7 @@ browsershots.org#@#.advert_area
 ||goourl.me^
 ||gophykopta.com^
 ||gopypteti.com^
+||goralsdowdy.shop^
 ||goraps.com^
 ||gorblekeepers.qpon^
 ||gorclck.com^
@@ -27776,6 +27783,7 @@ browsershots.org#@#.advert_area
 ||hunter-hub.com^
 ||hunterlead.com^
 ||hunyakkelder.top^
+||hupaiowicog.com^
 ||hupevcuchmeuu.com^
 ||hupot.site^
 ||hurarwjrirti.com^
@@ -32288,6 +32296,7 @@ browsershots.org#@#.advert_area
 ||mzol7lbm.com^
 ||mzqzelmmcqlyp.store^
 ||mzsantsemsgll.website^
+||mzscparkeayvs.site^
 ||n0299.com^
 ||n0355.com^
 ||n0400.com^
@@ -32591,6 +32600,7 @@ browsershots.org#@#.advert_area
 ||nfdxprxptlubs.buzz^
 ||nfgxadlbfzuy.click^
 ||nfnbyewhgo.com^
+||nftognhkculllrx.com^
 ||nfvetkycvdkaw.life^
 ||ngapibap.shop^
 ||ngcghsdvjfcpp.club^
@@ -36913,6 +36923,7 @@ browsershots.org#@#.advert_area
 ||rescueambassadorupward.com^
 ||researchhappenedequipment.com^
 ||researchingdestroy.com^
+||reseatjessie.top^
 ||resentreaccotia.com^
 ||reservoirvine.com^
 ||resewedlesgh.shop^
@@ -38266,6 +38277,7 @@ browsershots.org#@#.advert_area
 ||shareresults.com^
 ||sharesceral.uno^
 ||sharkfirelife.com^
+||sharp-field.pro^
 ||sharp-special.pro^
 ||sharplycatholicconfirmed.com^
 ||sharplyhidesingular.com^
@@ -39310,6 +39322,7 @@ browsershots.org#@#.advert_area
 ||stockingsight.com^
 ||stodgedhurtled.top^
 ||stoffformic.top^
+||stokesnoachic.shop^
 ||stoksaigaifa.net^
 ||stoledmowt.top^
 ||stonierteddy.com^
@@ -39393,6 +39406,7 @@ browsershots.org#@#.advert_area
 ||stsaepsm.com^
 ||stscczovfaipx.website^
 ||stsejehaurbpx.site^
+||sttaudcnsyifn.site^
 ||stthykerewasn.com^
 ||stubbedrebawl.shop^
 ||stucmaijibsa.net^
@@ -39711,6 +39725,7 @@ browsershots.org#@#.advert_area
 ||ta3nfsordd.com^
 ||taabwatts.click^
 ||taaqhr6axacd2um.com^
+||tabbiesupgazes.shop^
 ||tabici.com^
 ||tablerquods.shop^
 ||tablhtwrkoo.xyz^
@@ -41067,6 +41082,7 @@ browsershots.org#@#.advert_area
 ||uaivqzpqzehth.love^
 ||uajjjjktfslnz.com^
 ||uakarisigneur.com^
+||uanmyfsssisst.store^
 ||uaojhvzlcwitb.online^
 ||uaxezwpfaghym.store^
 ||ubbfpm.com^
@@ -42371,6 +42387,7 @@ browsershots.org#@#.advert_area
 ||vz.7vid.net^
 ||vzakrwqsbbsro.site^
 ||vzeakntvvkc.one^
+||vzgkwzcemmkcj.store^
 ||vzhdsjjfnuquz.online^
 ||vzigttqgqx.com^
 ||vzldnxgdbhyle.website^
@@ -42771,6 +42788,7 @@ browsershots.org#@#.advert_area
 ||wheredsolon.top^
 ||whereres.com^
 ||wherevertogo.com^
+||wherryinwound.shop^
 ||whesulsejortoag.net^
 ||wheyaback.top^
 ||wheyeychalcid.shop^
@@ -42854,6 +42872,7 @@ browsershots.org#@#.advert_area
 ||wicopymastery.com^
 ||wicory.com^
 ||wide-area.pro^
+||wide-mine.pro^
 ||wideaplentyinsurance.com^
 ||wideeyed-painting.com^
 ||widenaccident.com^
@@ -43048,6 +43067,7 @@ browsershots.org#@#.advert_area
 ||wmtten.com^
 ||wmtvlrwiiehwly.com^
 ||wmwwmblvqjqk.top^
+||wmyenypqxnplf.website^
 ||wmzlbovlwrrok.top^
 ||wnmklafq.com^
 ||wnouncrrippleshiswa.org^

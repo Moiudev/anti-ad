@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: DItrV25RQLK2UJsUbbzdsg
-! Version: 202507230421
+! Checksum: U7WpVFkfmjVgfqQk9N8XGg
+! Version: 202507230601
 ! Title: EasyList
-! Last modified: 23 Jul 2025 04:21 UTC
+! Last modified: 23 Jul 2025 06:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -19982,6 +19982,7 @@ browsershots.org#@#.advert_area
 ||boccieroguy.shop^
 ||bockouphourgait.net^
 ||bodgertyphous.top^
+||bodhvbqci.com^
 ||bodieshomicidal.com^
 ||bodilysubtractoversight.com^
 ||bodilywondering.com^
@@ -20414,6 +20415,7 @@ browsershots.org#@#.advert_area
 ||bulkbodegas.com^
 ||bulkconflictpeculiarities.com^
 ||bulkererudit.qpon^
+||bulkuplook.shop^
 ||bulky-battle.com^
 ||bulletadopt.com^
 ||bulletproxy.ch^
@@ -22701,6 +22703,7 @@ browsershots.org#@#.advert_area
 ||dawingfawnier.world^
 ||dawnfilthscribble.com^
 ||dawplm.com^
+||dawtielegwork.life^
 ||dawtittalky.shop^
 ||dawurtinsumpoaz.net^
 ||daybookslims.rest^
@@ -23908,6 +23911,7 @@ browsershots.org#@#.advert_area
 ||eastmanpained.shop^
 ||eastrk-dn.com^
 ||eastrk-lg.com^
+||easurra.help^
 ||easy-contact-club.com^
 ||easy-dating.org^
 ||easy-love-zone.com^
@@ -26371,6 +26375,7 @@ browsershots.org#@#.advert_area
 ||glecmaim.net^
 ||gleedsodrobeel.net^
 ||gleeful-fold.pro^
+||gleeglaposh.net^
 ||gleegrossaulro.com^
 ||gleejoad.net^
 ||gleeltukaweetho.xyz^
@@ -26639,6 +26644,7 @@ browsershots.org#@#.advert_area
 ||gqckjiewg.com^
 ||gqfuf.com^
 ||gqgqdkfcylzqz.store^
+||gqhtxrbtolim.com^
 ||gqihdorufksiq.online^
 ||gqjdweqs.com^
 ||gqmacifyutqtx.xyz^
@@ -27047,6 +27053,7 @@ browsershots.org#@#.advert_area
 ||hagweeddrib.qpon^
 ||haigouthaizik.net^
 ||haikcarlage.com^
+||hainanvisited.life^
 ||haincard.com^
 ||hainoruz.com^
 ||haircutlocally.com^
@@ -27461,6 +27468,7 @@ browsershots.org#@#.advert_area
 ||highspeedads.top^
 ||highwaycpmrevenue.com^
 ||higrigake.com^
+||hihoorgoar.com^
 ||hihphcmh.com^
 ||hiidevelelastic.com^
 ||hiiona.com^
@@ -27568,6 +27576,7 @@ browsershots.org#@#.advert_area
 ||hmazuxhikosj.com^
 ||hmeqpjky.xyz^
 ||hmgsnucopfzwv.space^
+||hmifsgmfrkquz.online^
 ||hmkwhhnflgg.space^
 ||hmntf.com^
 ||hmqphmhktywbq.space^
@@ -29636,6 +29645,7 @@ browsershots.org#@#.advert_area
 ||khngkkcwtlnu.com^
 ||khovdiminated.org^
 ||khqnsoskqmqlr.site^
+||kiaatexpo.top^
 ||kialeebiltong.shop^
 ||kiaughsviner.com^
 ||kibjpawncwgyd.com^
@@ -31473,6 +31483,7 @@ browsershots.org#@#.advert_area
 ||mbvsm.com^
 ||mc7clurd09pla4nrtat7ion.com^
 ||mcfstats.com^
+||mcgengegvbodx.online^
 ||mcgo2.com^
 ||mciymtdlsatav.world^
 ||mcizas.com^
@@ -31481,6 +31492,7 @@ browsershots.org#@#.advert_area
 ||mcmtkawyoc.com^
 ||mcocayxlebnuv.space^
 ||mcowpusi.com^
+||mcoxwaajhri.com^
 ||mcppsh.com^
 ||mcpuwpsh.com^
 ||mcqmfeiuntlwk.space^
@@ -37255,6 +37267,7 @@ browsershots.org#@#.advert_area
 ||revenuewasadire.com^
 ||revenuewasadirect.com^
 ||reverenceenrapture.com^
+||reverieredeed.cyou^
 ||reversespelling.com^
 ||revfusion.net^
 ||revimedia.com^
@@ -37424,6 +37437,7 @@ browsershots.org#@#.advert_area
 ||rissoletrendel.shop^
 ||ristailraikree.com^
 ||ritoohepoah.net^
+||ritzesarneb.digital^
 ||ritzilypigless.top^
 ||riverdin.com^
 ||riverhit.com^
@@ -38098,6 +38112,7 @@ browsershots.org#@#.advert_area
 ||sawd.cloud^
 ||sawdustreives.top^
 ||sawloginfang.click^
+||sawnebfriarly.click^
 ||sawp.cloud^
 ||sayableconder.com^
 ||sayelo.xyz^
@@ -40035,6 +40050,7 @@ browsershots.org#@#.advert_area
 ||takseetsesty.net^
 ||talckyslodder.top^
 ||talcoidsakis.com^
+||talcslabbed.shop^
 ||talented3452.fun^
 ||talentednowhere.com^
 ||talesapricot.com^
@@ -43788,6 +43804,7 @@ browsershots.org#@#.advert_area
 ||xenylclio.com^
 ||xepsygfqsvyyv.tech^
 ||xeqmmtcqpccf.com^
+||xerahhhwhpcey.online^
 ||xerarchvinland.cfd^
 ||xerasiasoled.top^
 ||xerdivqzcmi.com^
@@ -44451,6 +44468,7 @@ browsershots.org#@#.advert_area
 ||zdawvocofpfcr.vip^
 ||zdkgxeeykuhs.today^
 ||zdmufwejb.com^
+||zdpkpobbbekiz.website^
 ||zdscmmifqgprd.store^
 ||zduegcarpuloe.site^
 ||zdvtuadwafljw.global^
@@ -44527,6 +44545,7 @@ browsershots.org#@#.advert_area
 ||zhefyeudpc.com^
 ||zhltqavcadylt.site^
 ||zhoyyibwywgev.one^
+||zhpbpprqhaifd.website^
 ||zhtiqbietjwhb.fun^
 ||zhtndfplsmcqt.global^
 ||zhuboltfqg.com^

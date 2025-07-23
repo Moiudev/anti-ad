@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: A1rNdnJQ84VbkikSwhZCXA
-! Version: 202507231402
+! Checksum: usf4I00zqWJFRP4wEAfX9Q
+! Version: 202507231601
 ! Title: EasyList
-! Last modified: 23 Jul 2025 14:02 UTC
+! Last modified: 23 Jul 2025 16:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -19725,6 +19725,7 @@ browsershots.org#@#.advert_area
 ||biotiteneer.top^
 ||bipbclsvkvjbcmi.com^
 ||biphic.com^
+||biplanekeach.digital^
 ||bipontprowl.shop^
 ||biptoakrolaimte.xyz^
 ||biqxarzky.com^
@@ -19949,6 +19950,7 @@ browsershots.org#@#.advert_area
 ||bngrol.com^
 ||bngtrak.com^
 ||bngwlt.com^
+||bngzomowyjbob.top^
 ||bnhtml.com^
 ||bnmkl.com^
 ||bnmqtggqjoqic.buzz^
@@ -22037,6 +22039,7 @@ browsershots.org#@#.advert_area
 ||corveseiren.com^
 ||coscettsktsks.top^
 ||cosedluteo.com^
+||coseierbegrave.digital^
 ||cosetengarb.com^
 ||coshafvl.com^
 ||cosmeticsgenerosity.com^
@@ -22052,6 +22055,7 @@ browsershots.org#@#.advert_area
 ||cotchcopyboy.com^
 ||coticoffee.com^
 ||cotomucaro.com^
+||cotoroscathole.shop^
 ||cotrck.com^
 ||cottoncabbage.com^
 ||cotulascott.world^
@@ -24281,6 +24285,7 @@ browsershots.org#@#.advert_area
 ||emblemexceptionscorer.com^
 ||embloomdiphyes.top^
 ||embogsoarers.com^
+||embogtangier.shop^
 ||embowelpail.top^
 ||embowerdatto.com^
 ||embracetrace.com^
@@ -24339,6 +24344,7 @@ browsershots.org#@#.advert_area
 ||encashturmit.world^
 ||encbwfnmvktfn.store^
 ||enchanted-stretch.pro^
+||enchantfrowze.click^
 ||enchantshot-fever.com^
 ||encirclesheriffemit.com^
 ||encoachmealier.top^
@@ -27384,6 +27390,7 @@ browsershots.org#@#.advert_area
 ||heroespostel.top^
 ||herofherlittleboyw.com^
 ||heroinshavies.qpon^
+||heroizenighty.qpon^
 ||heromainland.com^
 ||herpassages.com^
 ||herpessneery.cyou^
@@ -29264,6 +29271,7 @@ browsershots.org#@#.advert_area
 ||jpmkbcgx-o.buzz^
 ||jpojrkwzofpxn.space^
 ||jpooavwizlvf.com^
+||jpstslxiwrp.xyz^
 ||jptobfdvxtady.online^
 ||jqbwkzmboonv.top^
 ||jqilyjagezcqk.site^
@@ -30677,6 +30685,7 @@ browsershots.org#@#.advert_area
 ||ljhdcdian.com^
 ||ljoaqeqwbkeqk.top^
 ||ljoaqeqwbkyar.top^
+||ljoaqeqwbkyqy.top^
 ||ljoblgmqkkngz.top^
 ||ljqefskxsiek.com^
 ||ljsr-ijbcxvq.online^
@@ -32544,6 +32553,7 @@ browsershots.org#@#.advert_area
 ||mzqzelmmcqlyp.store^
 ||mzsantsemsgll.website^
 ||mzscparkeayvs.site^
+||mzvjugwokrbyc.website^
 ||n0299.com^
 ||n0355.com^
 ||n0400.com^
@@ -33345,6 +33355,7 @@ browsershots.org#@#.advert_area
 ||nytkpwlrqtswcdh.com^
 ||nytrng.com^
 ||nyvzocirybwts.website^
+||nyzutyzsollwd.website^
 ||nzdtbadbjtiva.store^
 ||nzedgbyp.com^
 ||nzitcuftiofh.com^
@@ -35170,6 +35181,7 @@ browsershots.org#@#.advert_area
 ||pkrkoicypvnsq.com^
 ||pkuscuncykeql.life^
 ||pkwyscreaks.qpon^
+||pkxaeqqq.com^
 ||pkycugri.com^
 ||pkydtotuhcw.com^
 ||placcolionic.com^
@@ -35196,6 +35208,7 @@ browsershots.org#@#.advert_area
 ||plantalwauk.top^
 ||plantationexhaust.com^
 ||planyourbackup.co^
+||plassoncarnary.click^
 ||plasticquiet.pro^
 ||plastleislike.com^
 ||platedmanlily.com^
@@ -37849,6 +37862,7 @@ browsershots.org#@#.advert_area
 ||rtpmaotsw.xyz^
 ||rtrgt2.com^
 ||rtrhit.com^
+||rtsmmmnqlyyga.site^
 ||rtty.in^
 ||rtuinrjezwkj.love^
 ||rtunitytostaracaree.com^
@@ -38453,6 +38467,7 @@ browsershots.org#@#.advert_area
 ||semitaehecte.digital^
 ||semqraso.net^
 ||semsicou.net^
+||senciontyloses.qpon^
 ||sendconter.shop^
 ||senditfast.cloud^
 ||sendmepush.com^
@@ -38488,6 +38503,7 @@ browsershots.org#@#.advert_area
 ||serch26.biz^
 ||sereanstanza.com^
 ||sergeigagor.top^
+||seriatenoddles.shop^
 ||seriousdates.net^
 ||sermonsbleeder.top^
 ||sermosollar.rest^
@@ -38979,6 +38995,7 @@ browsershots.org#@#.advert_area
 ||slgtpdabmy.com^
 ||slicedpickles.com^
 ||slickgoalenhanced.com^
+||slickketchup.click^
 ||slickspikeagency.com^
 ||slideff.com^
 ||slietap.com^
@@ -41991,6 +42008,7 @@ browsershots.org#@#.advert_area
 ||ustnates.top^
 ||usuallyformal.com^
 ||usuretholi.top^
+||usurpspigboat.digital^
 ||usurv.com^
 ||uswgjyclbvtjj.space^
 ||utaidette.digital^
@@ -42458,6 +42476,7 @@ browsershots.org#@#.advert_area
 ||viniesttrotlet.help^
 ||vinit.cloud^
 ||vintagerespectful.com^
+||vinylcommune.qpon^
 ||vinyonclever.cyou^
 ||violetsdentals.qpon^
 ||vionito.com^
@@ -42968,6 +42987,7 @@ browsershots.org#@#.advert_area
 ||wawhoufteedaksu.com^
 ||waxapushlite.com^
 ||waxerthammuz.shop^
+||waxhawares.rest^
 ||waxierowldom.help^
 ||waxkawltix.com^
 ||waxqutxaotutu.life^
@@ -43723,6 +43743,7 @@ browsershots.org#@#.advert_area
 ||wugroansaghadry.com^
 ||wumufama.com^
 ||wunishamjch.com^
+||wupobzmkjncka.space^
 ||wuporg.com^
 ||wuqttehuhs.com^
 ||wurqaz.com^
@@ -44117,6 +44138,7 @@ browsershots.org#@#.advert_area
 ||xwqvytuiko.com^
 ||xwreckontur.com^
 ||xwrkuvsogacx.com^
+||xwushnftqx.com^
 ||xwutkfgtzevzh.online^
 ||xwxludcukzfer.rocks^
 ||xwxmasihzkjoj.online^
@@ -53050,6 +53072,7 @@ browsershots.org#@#.advert_area
 ||api.bluerunningshadow.com^
 ||api.dancedogwhisper.com^
 ||api.fastmoonclimbed.com^
+||app.189tutors.com^
 ||app.phimvu.app^
 ||apps.dfgtfv.com^
 ||apu.hentaibox.xyz^
@@ -63912,7 +63935,7 @@ xnxxvideos.rest##.refr
 svscomics.com##.regi
 nuvid.com##.rel_right
 cockdude.com##.related-boxes-footer-ver2
-bestjavporn.com,javhdporn.net##.related-native-banner
+bestjavporn.com,javdock.com,javhdporn.net##.related-native-banner
 cumlouder.com##.related-sites
 sexhd.pics##.relativebottom
 pervclips.com,vikiporn.com##.remove-spots

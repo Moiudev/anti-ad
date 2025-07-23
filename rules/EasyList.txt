@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: D/LMmyKGxMyOnT9132aqag
-! Version: 202507230801
+! Checksum: ua+JttnZPfkLj8F7J+tO9g
+! Version: 202507230951
 ! Title: EasyList
-! Last modified: 23 Jul 2025 08:01 UTC
+! Last modified: 23 Jul 2025 09:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -19253,6 +19253,7 @@ browsershots.org#@#.advert_area
 ||baseporno.com^
 ||basepush.com^
 ||basheighthnumerous.com^
+||basherreeker.top^
 ||bashfulleadsock.com^
 ||bashnourish.com^
 ||basicallyspacecraft.com^
@@ -20077,6 +20078,7 @@ browsershots.org#@#.advert_area
 ||boreaddingobserve.com^
 ||boreasnetsuke.com^
 ||boredhippie.com^
+||borerspreface.digital^
 ||boreusorgans.top^
 ||borfaulx.top^
 ||borhaj.com^
@@ -21669,6 +21671,7 @@ browsershots.org#@#.advert_area
 ||coconutsoftenedput.com^
 ||cocoonelectronicsconfined.com^
 ||cocoonspeony.qpon^
+||cocoonspiqu.world^
 ||cocuizaeluding.cfd^
 ||codedexchange.com^
 ||codefund.io^
@@ -23822,6 +23825,7 @@ browsershots.org#@#.advert_area
 ||dyedmurders.com^
 ||dyerbossier.top^
 ||dyeroratory.top^
+||dyersecede.rest^
 ||dyhvynxklhnwy.store^
 ||dyinglyhowking.top^
 ||dyingtrolleynick.com^
@@ -23919,6 +23923,7 @@ browsershots.org#@#.advert_area
 ||eastmanpained.shop^
 ||eastrk-dn.com^
 ||eastrk-lg.com^
+||eastrosales.top^
 ||easurra.help^
 ||easy-contact-club.com^
 ||easy-dating.org^
@@ -24126,6 +24131,7 @@ browsershots.org#@#.advert_area
 ||egjtmguxueesf.xyz^
 ||egmjqaoequdsv.site^
 ||egoitybaler.top^
+||egopiyqfyhuvf.site^
 ||egosdelire.digital^
 ||egpdbp6e.de^
 ||egqhbuyfdpswm.space^
@@ -25352,6 +25358,7 @@ browsershots.org#@#.advert_area
 ||fleahat.com^
 ||fleckerbractea.shop^
 ||fleenaive.com^
+||fleerexstill.shop^
 ||fleetingtrustworthydreams.com^
 ||flepquix.com^
 ||fleraprt.com^
@@ -26455,6 +26462,7 @@ browsershots.org#@#.advert_area
 ||glousoonomsy.xyz^
 ||gloutanacard.com^
 ||gloutchi.com^
+||glouvoabsel.com^
 ||gloveroadmap.com^
 ||glowdot.com^
 ||glowedhyalins.com^
@@ -27559,6 +27567,7 @@ browsershots.org#@#.advert_area
 ||hjwqvivxoymvw.site^
 ||hjxajf.com^
 ||hkcqpidtxaqkl.online^
+||hkfwgdlnmjwwb.online^
 ||hkichmshwxfgz.site^
 ||hkilops.com^
 ||hkjfukkhwfepo.club^
@@ -28158,6 +28167,7 @@ browsershots.org#@#.advert_area
 ||iibvgtav.com^
 ||iicheewi.com^
 ||iicwmzxgqsjfu.space^
+||iidpomfgxqpgx.online^
 ||iigirlslove.com^
 ||iiglgkaxhfrkv.website^
 ||iigmlx.com^
@@ -29720,6 +29730,7 @@ browsershots.org#@#.advert_area
 ||kiyala.uno^
 ||kizan.cloud^
 ||kjaznqqznjvgm.top^
+||kjbqbgzabyylo.top^
 ||kjgnidnhlxugm.icu^
 ||kjixkjmned.xyz^
 ||kjkdhqhjjla.xyz^
@@ -30905,6 +30916,7 @@ browsershots.org#@#.advert_area
 ||lpmcr1h7z.com^
 ||lpmugcevks.com^
 ||lppgwovqwhwpc.store^
+||lprgcuewbzwdd.store^
 ||lptrak.com^
 ||lptrck.com^
 ||lpuafmkidvm.com^
@@ -31958,6 +31970,7 @@ browsershots.org#@#.advert_area
 ||mnhjk.com^
 ||mnhjkl.com^
 ||mnmerqvmxbpiup.xyz^
+||mnmodtxtv.com^
 ||mnpuxygfpkvey.online^
 ||mnpxmcrlmvdok.website^
 ||mnqyjjbitxdvr.club^
@@ -32820,6 +32833,7 @@ browsershots.org#@#.advert_area
 ||ngshospicalada.com^
 ||ngsinspiringtga.info^
 ||ngupfromavi.org^
+||ngwdljgbshhof.site^
 ||ngwgkhtdykzzz.online^
 ||nhcgucgrsnupg.online^
 ||nhdukjcn.com^
@@ -38004,6 +38018,7 @@ browsershots.org#@#.advert_area
 ||safsdvc.com^
 ||saftsordes.shop^
 ||sagcoreedge.com^
+||sagoscomte.digital^
 ||sagrahagweed.rest^
 ||sahofqal.com^
 ||sahotchilape.net^
@@ -38056,6 +38071,7 @@ browsershots.org#@#.advert_area
 ||samvinva.info^
 ||sanchocaudles.top^
 ||sancontr.com^
+||sandboxcommon.rest^
 ||sandcomemunica.com^
 ||sandelf.com^
 ||sandmakingsilver.info^
@@ -39092,6 +39108,7 @@ browsershots.org#@#.advert_area
 ||socmankenlore.shop^
 ||socmooksaiheel.net^
 ||sodallay.com^
+||soddyjambing.cfd^
 ||sodefender.pro^
 ||sodiumcupboard.com^
 ||sodiumendlesslyhandsome.com^
@@ -39212,6 +39229,7 @@ browsershots.org#@#.advert_area
 ||soutenugiantly.top^
 ||southedtottie.shop^
 ||southflannelclassic.com^
+||souushdopa.click^
 ||souvamoo.net^
 ||sovietransom.com^
 ||soviettreasures.com^
@@ -41125,6 +41143,7 @@ browsershots.org#@#.advert_area
 ||trucelabwits.com^
 ||trucesenode.cyou^
 ||trucestaff.com^
+||trucialkouros.help^
 ||truckwinding.com^
 ||true-independent.pro^
 ||true-sweets-dreampartner.com^
@@ -41178,6 +41197,7 @@ browsershots.org#@#.advert_area
 ||tskinguncaned.shop^
 ||tskingunslept.world^
 ||tslamrzckfctp.icu^
+||tslbxngrhdylp.com^
 ||tslegbmgm.com^
 ||tslomhfys.com^
 ||tslzggdkpwvyk.online^
@@ -43360,6 +43380,7 @@ browsershots.org#@#.advert_area
 ||wjvyorryojzaj.top^
 ||wjwkvlkgagwjg.top^
 ||wjzrzwyvzbabz.top^
+||wjzrzwyvzbblk.top^
 ||wjzrzwyvzbrbv.top^
 ||wjzrzwyvzbrjr.top^
 ||wjzrzwyvzbzbj.top^
@@ -43429,6 +43450,7 @@ browsershots.org#@#.advert_area
 ||wmober.com^
 ||wmocvmuwxk.com^
 ||wmothandhadb.com^
+||wmowhsydmbyol.xyz^
 ||wmpgsdwxxehn.xyz^
 ||wmpset.com^
 ||wmptcd.com^
@@ -44111,8 +44133,10 @@ browsershots.org#@#.advert_area
 ||yarransuer.digital^
 ||yasesumedadele.com^
 ||yashi.com^
+||yassherris.shop^
 ||yaszcbffjnfak.today^
 ||yatytentioniau.org^
+||yaudsluthier.shop^
 ||yauperstote.top^
 ||yauponbotone.com^
 ||yavli.com^

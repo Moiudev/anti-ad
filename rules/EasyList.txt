@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 4bhgo2uycHqegh7MRj3XGQ
-! Version: 202507241211
+! Checksum: 9mIeB4sE8Fm1VumbQdfhQA
+! Version: 202507241401
 ! Title: EasyList
-! Last modified: 24 Jul 2025 12:11 UTC
+! Last modified: 24 Jul 2025 14:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -17146,6 +17146,7 @@ browsershots.org#@#.advert_area
 ||adsbar.online^
 ||adsbeard.com^
 ||adsbetnet.com^
+||adsbgusvt.com^
 ||adsblockersentinel.info^
 ||adsbtrk.com^
 ||adsbuddy.net^
@@ -18989,6 +18990,7 @@ browsershots.org#@#.advert_area
 ||aws-itcloud.net^
 ||awsurveys.com^
 ||awtfkaracoc.com^
+||awtunmmlmobnq.site^
 ||awutephoksousou.net^
 ||awwprjafmfjbvt.xyz^
 ||axaldobl.top^
@@ -20038,6 +20040,7 @@ browsershots.org#@#.advert_area
 ||boffinsoft.com^
 ||boffoadsfeeds.com^
 ||bofuckoastails.net^
+||bogfernallo.cfd^
 ||boggyrapter.qpon^
 ||bogrodius.com^
 ||bogus-disk.com^
@@ -23471,6 +23474,7 @@ browsershots.org#@#.advert_area
 ||doflygonan.com^
 ||dofrhyluyqtex.online^
 ||doggieagist.world^
+||doggingvrother.shop^
 ||dogheegnaunim.net^
 ||dogiemormon.shop^
 ||dogrotleer.com^
@@ -24222,6 +24226,7 @@ browsershots.org#@#.advert_area
 ||egeemsob.com^
 ||eggcupsxylan.shop^
 ||eggplantgapmatter.com^
+||eggvkzypd.com^
 ||egighbqdtgyen.rocks^
 ||egjtmguxueesf.xyz^
 ||egmjqaoequdsv.site^
@@ -24819,6 +24824,7 @@ browsershots.org#@#.advert_area
 ||exaltedsleep.com^
 ||examplehibernatescientific.com^
 ||exarchswimbrel.life^
+||exauntryouts.qpon^
 ||excavatenearbywand.com^
 ||exceedinglytells.com^
 ||excellenceads.com^
@@ -25556,6 +25562,7 @@ browsershots.org#@#.advert_area
 ||fmksnfjldgpls.buzz^
 ||fmlabsonline.com^
 ||fmljbodtnweou.com^
+||fmmnotstql.xyz^
 ||fmoezqerkepc.com^
 ||fmpub.net^
 ||fmsads.com^
@@ -25759,6 +25766,7 @@ browsershots.org#@#.advert_area
 ||fragrancenemesisprovolone.com^
 ||fragrantanger.com^
 ||framb.site^
+||framerswu.rest^
 ||framessemicolonought.com^
 ||framochas.top^
 ||francoistsjacqu.info^
@@ -29449,6 +29457,7 @@ browsershots.org#@#.advert_area
 ||jrtyi.club^
 ||jrvrkzrjrmomb.top^
 ||jrvrkzrjrmoyy.top^
+||jrvrkzrjrmyyj.top^
 ||jrxccqmxg.com^
 ||jrxgcthoussjz.store^
 ||jrzrqi0au.com^
@@ -29584,6 +29593,7 @@ browsershots.org#@#.advert_area
 ||jygvbyvwzbjma.top^
 ||jygvbyvwzbwbk.top^
 ||jynuvagjoxnin.space^
+||jyoyqnyjymbbj.top^
 ||jyoyqnyjymgmz.top^
 ||jyozavobzrekb.top^
 ||jyozavobzrlkz.top^
@@ -29945,6 +29955,7 @@ browsershots.org#@#.advert_area
 ||kllpelaa.net^
 ||klltoghtuhydo.club^
 ||kllwynbybjlyb.top^
+||kllzuzuzuhggy.site^
 ||klmainprost.com^
 ||klmmnd.com^
 ||klocxwoucx.com^
@@ -33101,6 +33112,7 @@ browsershots.org#@#.advert_area
 ||nippona7n2theum.com^
 ||nippydeposit.pro^
 ||nirmhxlrrjvpp.xyz^
+||nishikinotelet.world^
 ||nishoagn.com^
 ||nismscoldnesfspu.com^
 ||nissoochou.com^
@@ -34207,6 +34219,7 @@ browsershots.org#@#.advert_area
 ||oppfamily.shop^
 ||opportunitysearch.net^
 ||oppoteammate.com^
+||oppressalme.digital^
 ||oppressiontheychore.com^
 ||oppressivethorn.com^
 ||opqhihiw.com^
@@ -34826,6 +34839,7 @@ browsershots.org#@#.advert_area
 ||pas-rahav.com^
 ||pasbstbovc.com^
 ||paseecoocm.net^
+||paseocecal.cyou^
 ||paservices.tech^
 ||paslsa.com^
 ||passagessixtyseeing.com^
@@ -35453,6 +35467,7 @@ browsershots.org#@#.advert_area
 ||plrst.com^
 ||plrthzxgifkgg.site^
 ||pltamaxr.com^
+||pludmanuary.top^
 ||plufdsa.com^
 ||plufdsb.com^
 ||pluffdoodah.com^
@@ -35877,6 +35892,7 @@ browsershots.org#@#.advert_area
 ||priscanvarify.top^
 ||priseremugweed.shop^
 ||prismlacers.top^
+||prissymiaul.help^
 ||pristine-creative.com^
 ||pristineexamination.pro^
 ||pritesol.com^
@@ -37053,6 +37069,7 @@ browsershots.org#@#.advert_area
 ||ratansharst.top^
 ||ratebilaterdea.com^
 ||ratebilaterdeall.com^
+||rathaenwoven.top^
 ||rationallyagreement.com^
 ||rattagerutting.top^
 ||ratterynubs.qpon^
@@ -37269,6 +37286,7 @@ browsershots.org#@#.advert_area
 ||redwingmagazine.com^
 ||reebr.com^
 ||reedsbullyingpastel.com^
+||reedsdues.world^
 ||reedsinterfering.com^
 ||reedthatm.biz^
 ||reefedkalong.shop^
@@ -38218,6 +38236,7 @@ browsershots.org#@#.advert_area
 ||ryeweaver.com^
 ||rygdzlvrladuc.store^
 ||ryiciyxfnjaof.store^
+||ryifzfdxgoatd.online^
 ||ryllae.com^
 ||rylrusvfeuewf.com^
 ||ryminos.com^
@@ -38747,6 +38766,7 @@ browsershots.org#@#.advert_area
 ||servtraff97.com^
 ||servw.bid^
 ||seselitale.cyou^
+||sesquirhexes.shop^
 ||sessfetchio.com^
 ||sestimold.top^
 ||sestonpomak.digital^
@@ -40461,6 +40481,7 @@ browsershots.org#@#.advert_area
 ||tatxbrshtjgfs.site^
 ||tauhoneept.com^
 ||taurauwhome.net^
+||taurinecinclus.life^
 ||taut-nature.com^
 ||tauvoojo.net^
 ||tauxqjyszug.com^
@@ -41580,6 +41601,7 @@ browsershots.org#@#.advert_area
 ||tunitytostara.org^
 ||tunneljig.shop^
 ||tunobwjyfcoad.online^
+||tunsseducer.digital^
 ||tuoeblgszfyut.store^
 ||tuoxyhlklkmpt.store^
 ||tupmanharking.shop^
@@ -41826,6 +41848,7 @@ browsershots.org#@#.advert_area
 ||uhodsplo.com^
 ||uhopdhvsatlvf.store^
 ||uhpdsplo.com^
+||uhqhipbmtgcrm.site^
 ||uhrvjjkbnucvb.today^
 ||uhsmmaq4l2n5.com^
 ||uhvsefglyttww.fun^
@@ -41940,6 +41963,7 @@ browsershots.org#@#.advert_area
 ||uncernedasesiumw.org^
 ||uncertainencouragement.com^
 ||uncertainfollow.com^
+||unchairitelmes.world^
 ||uncivilmotocar.shop^
 ||uncleaswail.top^
 ||uncleffaan.com^
@@ -42350,6 +42374,7 @@ browsershots.org#@#.advert_area
 ||vacuomedogeys.com^
 ||vacwrite.com^
 ||vaebard.com^
+||vaedpphkprxpd.website^
 ||vagallybayard.help^
 ||vagaryduffels.digital^
 ||vagnerapedesis.top^
@@ -44465,6 +44490,7 @@ browsershots.org#@#.advert_area
 ||yahdrctswmvax.space^
 ||yahuu.org^
 ||yajjppbbzrxfk.space^
+||yajnpfvxj.com^
 ||yakacompere.top^
 ||yakmakhond.top^
 ||yakonanabush.click^

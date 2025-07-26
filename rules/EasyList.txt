@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: HKdgj2TASaewDNJQ7xNLsg
-! Version: 202507260801
+! Checksum: y8Wjp+q4fG2wKToQqVDePg
+! Version: 202507261001
 ! Title: EasyList
-! Last modified: 26 Jul 2025 08:01 UTC
+! Last modified: 26 Jul 2025 10:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -18191,6 +18191,7 @@ browsershots.org#@#.advert_area
 ||anjmfijuiuxgul.com^
 ||ankdoier.com^
 ||ankolisiloam.com^
+||anlacebasinal.click^
 ||anlacecartful.shop^
 ||anlkjufvlkago.site^
 ||anlqrktcwmasw.space^
@@ -18285,6 +18286,7 @@ browsershots.org#@#.advert_area
 ||aohegrogmzgxy.space^
 ||aojhtyvd.com^
 ||aojlgmylzznyn.top^
+||aokgbiekzlqne.website^
 ||aoliterzgyhnv.website^
 ||aomgyawomjmy.top^
 ||aomxqfcj.global^
@@ -19347,6 +19349,7 @@ browsershots.org#@#.advert_area
 ||basiltweezes.shop^
 ||basketballshameless.com^
 ||bassaqueued.top^
+||bassistbaizas.cyou^
 ||baste-znl.com^
 ||bastsmorular.shop^
 ||batanwqwo.com^
@@ -21183,6 +21186,7 @@ browsershots.org#@#.advert_area
 ||ceriteloanin.life^
 ||cermetclothed.digital^
 ||cermetdynamos.top^
+||cermetneuron.qpon^
 ||ceryldelaine.com^
 ||ces2007.org^
 ||cesebsir.xyz^
@@ -21496,6 +21500,7 @@ browsershots.org#@#.advert_area
 ||ciaankzzhmcrz.click^
 ||cibnulivuw.com^
 ||cicamica.xyz^
+||cicutareffelt.cyou^
 ||cidqzahi.com^
 ||cidrukosjmf.com^
 ||ciesports.rest^
@@ -22448,6 +22453,7 @@ browsershots.org#@#.advert_area
 ||crrepbymiffa.com^
 ||crrepo.com^
 ||crsope.com^
+||crsphucnxuojo.website^
 ||crsspxl.com^
 ||crtracklink.com^
 ||crudenessfinishersacred.com^
@@ -22490,6 +22496,7 @@ browsershots.org#@#.advert_area
 ||csiiojbcgpf.com^
 ||cskcnipgkq.club^
 ||cskvctbhfzfxn.online^
+||csoaedqbdzjme.site^
 ||csqdjsesjbvav.rocks^
 ||cstwpush.com^
 ||csy8cjm7.xyz^
@@ -24563,6 +24570,7 @@ browsershots.org#@#.advert_area
 ||empireneithermovies.com^
 ||employmentpersons.com^
 ||empond.com^
+||emprizenevus.cfd^
 ||empty-advantage.pro^
 ||emptysale.pro^
 ||empusatenia.top^
@@ -26363,6 +26371,7 @@ browsershots.org#@#.advert_area
 ||gastphonol.top^
 ||gastreaviolate.top^
 ||gataflavors.shop^
+||gatdolmt.xyz^
 ||gateautriamid.top^
 ||gatejav12.fun^
 ||gateperfectly.com^
@@ -26812,6 +26821,7 @@ browsershots.org#@#.advert_area
 ||glxtest.site^
 ||glymanicale.com^
 ||glyparuha.com^
+||glyphskapa.help^
 ||glyshalimu.com^
 ||gmads.net^
 ||gmaringpoliticism.org^
@@ -27225,6 +27235,7 @@ browsershots.org#@#.advert_area
 ||gsmowdykncb.xyz^
 ||gsnblswkc.com^
 ||gsrctroclqloz.tech^
+||gsrdqdbyhyq.com^
 ||gssblcpzmvdzo.site^
 ||gssevyqzbvqgt.online^
 ||gt5tiybvn.com^
@@ -30220,6 +30231,7 @@ browsershots.org#@#.advert_area
 ||kllpelaa.net^
 ||klltoghtuhydo.club^
 ||kllwynbybjlyb.top^
+||kllwynbybjmjq.top^
 ||kllzuzuzuhggy.site^
 ||klmainprost.com^
 ||klmmnd.com^
@@ -30310,6 +30322,7 @@ browsershots.org#@#.advert_area
 ||koasinky.top^
 ||koboxuqc.com^
 ||kochiayaboo.top^
+||kodakbrique.click^
 ||kodaodrterxfj.site^
 ||kogkljgjaonmq.top^
 ||kohiseewhatm.com^
@@ -31074,6 +31087,7 @@ browsershots.org#@#.advert_area
 ||liquidfire.mobi^
 ||liracdn.com^
 ||lireadzwxtrbh.space^
+||lirotblickey.cyou^
 ||lispaircraftcraziness.com^
 ||lispedwried.digital^
 ||list-ads.com^
@@ -32520,6 +32534,7 @@ browsershots.org#@#.advert_area
 ||mobpushup.com^
 ||mobreach.com^
 ||mobshark.net^
+||mobsterbruet.help^
 ||mobstitialtag.com^
 ||mobtyb.com^
 ||mobulacamias.top^
@@ -32652,6 +32667,7 @@ browsershots.org#@#.advert_area
 ||mopemodelingfrown.com^
 ||mopiwhoisqui.com^
 ||moplahflisky.top^
+||mopokechoaty.shop^
 ||moraurban.help^
 ||morbosejembe.life^
 ||mordeegroo.net^
@@ -35974,6 +35990,7 @@ browsershots.org#@#.advert_area
 ||pondfullouise.qpon^
 ||pondmaninjure.cyou^
 ||pondov.cfd^
+||poneridbemixes.cfd^
 ||pongacananga.shop^
 ||ponk.pro^
 ||ponsloonier.cfd^
@@ -37069,6 +37086,7 @@ browsershots.org#@#.advert_area
 ||qmrelvevwlwlw.top^
 ||qmryzbpwvcodw.website^
 ||qmslgwdr.com^
+||qmxkbwpnodavccl.com^
 ||qmylpjdpecivdau.com^
 ||qmyzawzrqryjj.top^
 ||qmyzawzrqrymr.top^
@@ -38394,6 +38412,7 @@ browsershots.org#@#.advert_area
 ||rouwhapt.com^
 ||rovno.xyz^
 ||rowdierechoes.shop^
+||roxburyaspis.world^
 ||roxburyginners.shop^
 ||roxby.org^
 ||roxot-panel.com^
@@ -40166,6 +40185,7 @@ browsershots.org#@#.advert_area
 ||spunorientation.com^
 ||spuppeh.com^
 ||spuppeh.net^
+||spurallose.qpon^
 ||spyajsfa.com^
 ||spyboatbhavani.cyou^
 ||spyboatsticta.cyou^
@@ -40536,6 +40556,7 @@ browsershots.org#@#.advert_area
 ||stunsbarbola.website^
 ||stuntedtetrix.top^
 ||stunthypocrisy.com^
+||stuntshopple.rest^
 ||stupedfollis.top^
 ||sturdy-bus.pro^
 ||sturdyarrival.com^
@@ -42251,6 +42272,7 @@ browsershots.org#@#.advert_area
 ||tzarslegger.digital^
 ||tzegilo.com^
 ||tzepbopyvsdav.site^
+||tziecjqqntzkx.site^
 ||tzirtatakoqf.com^
 ||tzmupfzuwoqtl.space^
 ||tznrmqhnfindm.space^
@@ -44351,6 +44373,7 @@ browsershots.org#@#.advert_area
 ||wllebozbzjjbj.top^
 ||wllebozbzjlbz.top^
 ||wllebozbzjljm.top^
+||wllebozbzjmjr.top^
 ||wllebozbzjybk.top^
 ||wllhjebhtcrjz.space^
 ||wlmzymwbamkjl.top^
@@ -45208,6 +45231,7 @@ browsershots.org#@#.advert_area
 ||yieldselect.com^
 ||yieldtraffic.com^
 ||yieldtrk.com^
+||yieqjwkyo.com^
 ||yifata178.info^
 ||yijxujolpfvold.com^
 ||yiloaguwoauyd.site^
@@ -45478,6 +45502,7 @@ browsershots.org#@#.advert_area
 ||zaokko.com^
 ||zapfgyqcktakq.site^
 ||zapmlugpzaufk.website^
+||zapogentasofh.site^
 ||zapsoathagn.net^
 ||zarela.top^
 ||zarnecfetors.top^
@@ -45490,6 +45515,7 @@ browsershots.org#@#.advert_area
 ||zautfqxtmfvjr.buzz^
 ||zaxnfilceaz.com^
 ||zaxonoax.com^
+||zaxzijfoybgzs.online^
 ||zayatstipula.top^
 ||zbmzkxmensplm.club^
 ||zbuztpvgfghmu.space^

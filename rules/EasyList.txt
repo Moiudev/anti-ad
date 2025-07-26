@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ye2h75PgDPKrHVyzFsEGKg
-! Version: 202507261201
+! Checksum: KmnuKp66fpFUoyLv5PQTbg
+! Version: 202507261401
 ! Title: EasyList
-! Last modified: 26 Jul 2025 12:01 UTC
+! Last modified: 26 Jul 2025 14:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -17624,6 +17624,7 @@ browsershots.org#@#.advert_area
 ||ahsjmiov.com^
 ||ahukfcpfknenp.website^
 ||ahungrylally.help^
+||ahusylvas.world^
 ||ahvqydcujtjgo.website^
 ||ahvradotws.com^
 ||ahvskihu.com^
@@ -18204,6 +18205,7 @@ browsershots.org#@#.advert_area
 ||annesuspense.com^
 ||annfpioqvo.com^
 ||annihilatereduced.com^
+||annonasarna.com^
 ||annotationdiverse.com^
 ||announcement317.fun^
 ||announceproposition.com^
@@ -18848,6 +18850,7 @@ browsershots.org#@#.advert_area
 ||aumbiyruwf.com^
 ||aumsookr.com^
 ||aungitchee.net^
+||aunolqxdfnomehq.xyz^
 ||aunooviraubsoaw.com^
 ||aunsagoa.xyz^
 ||aunsaick.com^
@@ -19200,6 +19203,7 @@ browsershots.org#@#.advert_area
 ||backkeps.shop^
 ||backletseamen.com^
 ||backseatabundantpickpocket.com^
+||backsghee.click^
 ||backspinreentryupright.com^
 ||backwashcrowdstylized.com^
 ||badgeclodvariable.com^
@@ -21537,6 +21541,7 @@ browsershots.org#@#.advert_area
 ||circlejavgg124.fun^
 ||circularnational.pro^
 ||circulateramble.com^
+||circutscirl.shop^
 ||cirliwrigwu.com^
 ||cirrateremord.com^
 ||ciscoesfirring.guru^
@@ -21863,6 +21868,7 @@ browsershots.org#@#.advert_area
 ||cohibitegos.com^
 ||cohtsfkwaa.com^
 ||coifingpicong.shop^
+||coignsbeclip.world^
 ||coinad.media^
 ||coinadster.com^
 ||coincideadventure.com^
@@ -22314,6 +22320,7 @@ browsershots.org#@#.advert_area
 ||cqmgoxqbhsmgg.site^
 ||cqomjiajwczzf.online^
 ||cqqmjkrcwuetz.store^
+||cqrqudjmhslqh.website^
 ||cqrvwq.com^
 ||cqstbvkcpbqut.one^
 ||cquozcdrrbcua.online^
@@ -23322,6 +23329,7 @@ browsershots.org#@#.advert_area
 ||dieadi.com^
 ||diedpractitionerplug.com^
 ||dienesyntan.shop^
+||dietiesmayhems.help^
 ||diettrappeddestruction.com^
 ||dietythraves.top^
 ||difficultyanthonymode.com^
@@ -23625,6 +23633,7 @@ browsershots.org#@#.advert_area
 ||dogtiedaphne.qpon^
 ||dogwrite.com^
 ||doigttreats.digital^
+||doinlofldb.com^
 ||dokkvnqunhiwt.website^
 ||dokondigit.quest^
 ||dokrithauw.net^
@@ -24008,6 +24017,7 @@ browsershots.org#@#.advert_area
 ||dunnagesendle.shop^
 ||dunoneness.world^
 ||dunsathelia.click^
+||dunsoupholtopta.net^
 ||duo-zlhbjsld.buzz^
 ||duphkyabmh.com^
 ||dupingareoles.top^
@@ -24284,6 +24294,7 @@ browsershots.org#@#.advert_area
 ||edlilu.com^
 ||ednewsbd.com^
 ||ednfaugthrnuqs.xyz^
+||edolsbjawiinj.website^
 ||edprivatedqualize.org^
 ||edpwikvvdmetv.store^
 ||edralintheirbrights.com^
@@ -27518,6 +27529,7 @@ browsershots.org#@#.advert_area
 ||haqnabxijzte.com^
 ||haqodkabbxmo.com^
 ||harassmenttrolleyculinary.com^
+||haratinpeeved.help^
 ||haraxong.xyz^
 ||harboralloyed.life^
 ||harborjavgg124.fun^
@@ -28414,6 +28426,7 @@ browsershots.org#@#.advert_area
 ||hzdwoimhibxoh.website^
 ||hzlcmoheihapn.click^
 ||hzr0dm28m17c.com^
+||hztpibvstcrrz.site^
 ||hzychcvdmjo.com^
 ||hzzvfturvtdvt.store^
 ||i-svzgrtibs.rocks^
@@ -28857,6 +28870,7 @@ browsershots.org#@#.advert_area
 ||ingredientwritten.com^
 ||inhanceego.com^
 ||inherentdecide.com^
+||inheresdeeps.help^
 ||inheritedgeneralrailroad.com^
 ||inheritedunstable.com^
 ||inheritedvastpageant.com^
@@ -29369,6 +29383,7 @@ browsershots.org#@#.advert_area
 ||jbaqavqkrowyl.top^
 ||jbbyyryezqqvq.top^
 ||jbbyyryolmlbj.top^
+||jbbyyryolmlvq.top^
 ||jbbyyryolqvby.top^
 ||jbbyyryolqvvb.top^
 ||jbdijlqfuxlnlbn.com^
@@ -29914,6 +29929,7 @@ browsershots.org#@#.advert_area
 ||jzxouwszeyhrq.online^
 ||jzykizla.com^
 ||jzylponilwf.com^
+||jzzbbybgvmvoa.top^
 ||jzzbbybgvmvzj.top^
 ||jzzcyytskiojk.life^
 ||k-oggwkhhxt.love^
@@ -30525,6 +30541,7 @@ browsershots.org#@#.advert_area
 ||kvobmcyslpxwy.online^
 ||kvozsayiewspf.rocks^
 ||kvpjjewuoappu.store^
+||kvqtxphjipbki.website^
 ||kvtgl4who.com^
 ||kvum-bpelzw.icu^
 ||kvvpilxstphqz.space^
@@ -30922,6 +30939,7 @@ browsershots.org#@#.advert_area
 ||lettishdillue.top^
 ||leucinsgeleem.world^
 ||leucismbemata.help^
+||levefuldaw.rest^
 ||levefulitchy.top^
 ||levensonars.rest^
 ||levitercrocin.top^
@@ -30938,6 +30956,7 @@ browsershots.org#@#.advert_area
 ||lfdkpdjpbjvrc.com^
 ||lfelnkxiazxkx.store^
 ||lffspctcaa.com^
+||lfnwxpcbfpkcx.website^
 ||lfstmedia.com^
 ||lfufelegse.com^
 ||lfuraaju.com^
@@ -32590,6 +32609,7 @@ browsershots.org#@#.advert_area
 ||moksoxos.com^
 ||molciyjhyuhhh.online^
 ||moleconcern.com^
+||molerbehaved.cyou^
 ||moleya.click^
 ||molgulasool.digital^
 ||molikrebaumt.xyz^
@@ -32833,6 +32853,7 @@ browsershots.org#@#.advert_area
 ||msjukinogbtji.fun^
 ||mskpwqlppxham.life^
 ||mslascends.shop^
+||mslhvnakjrwgl.store^
 ||mslweiring.top^
 ||msqwborynxnqd.online^
 ||msrbojniwlloa.online^
@@ -34891,6 +34912,7 @@ browsershots.org#@#.advert_area
 ||outrotomr.com^
 ||outrpisote.cyou^
 ||outseeltor.com^
+||outsellscenas.click^
 ||outsetnormalwaited.com^
 ||outseylor.com^
 ||outsimiseara.com^
@@ -34956,6 +34978,7 @@ browsershots.org#@#.advert_area
 ||ovozxiftkxwtg.online^
 ||ovqds.com^
 ||ovrdhiogn.com^
+||ovrdrnva.com^
 ||ovrhufsadsca.com^
 ||ovtflklfxbrgo.today^
 ||ovtwiparr.com^
@@ -36423,6 +36446,7 @@ browsershots.org#@#.advert_area
 ||prorentisol.com^
 ||prorunappyrincev.com^
 ||proscholarshub.com^
+||prosectshrovy.digital^
 ||prosecutorremarkablegodforsaken.com^
 ||proselyaltars.com^
 ||prososeqq.click^
@@ -37491,6 +37515,7 @@ browsershots.org#@#.advert_area
 ||rarespeech.pro^
 ||raronpnimkuf.com^
 ||rarrfibuf.com^
+||rash-thanks.pro^
 ||rashcolonizeexpand.com^
 ||rashlyblowfly.com^
 ||rashlyhayrake.click^
@@ -38150,6 +38175,7 @@ browsershots.org#@#.advert_area
 ||riftingsouagga.com^
 ||righteousfainted.com^
 ||rightscarletcloaksa.com^
+||rightsskinkle.rest^
 ||rigid-draw.pro^
 ||rigidlykerel.click^
 ||rigidstiffnesszoning.com^
@@ -39644,6 +39670,7 @@ browsershots.org#@#.advert_area
 ||skatestooped.com^
 ||skdjppgwnfune.club^
 ||skdkjhpqkqave.space^
+||skedgecomplin.qpon^
 ||skeetads.com^
 ||skeletal-quiet.pro^
 ||skellatshrag.top^
@@ -42944,6 +42971,7 @@ browsershots.org#@#.advert_area
 ||uzvcffe-aw.vip^
 ||v2cigs.com^
 ||v6rxv5coo5.com^
+||vaatblif.com^
 ||vaatmetu.net^
 ||vaazarqvklew.top^
 ||vacaneedasap.com^

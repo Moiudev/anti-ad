@@ -1,17 +1,17 @@
 {
-  "https://easylist-downloads.adblockplus.org/easylist.txt": "91423f4c8b83d6f6f66cf9960a6eb068",
+  "https://easylist-downloads.adblockplus.org/easylist.txt": "8e47086146ae0203472b7222f888f2e4",
   "https://phishing.army/download/phishing_army_blocklist.txt": "74b8107ace7cff7d68165992c9d577d5",
-  "https://easylist-downloads.adblockplus.org/easylistchina.txt": "88cfac1f5ab9a4a6a81d2cdce4c339c2",
+  "https://easylist-downloads.adblockplus.org/easylistchina.txt": "d8568558f0adf2b6e9015693b6253366",
   "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt": "ea3623cf8fdbf06f8d95109553fce82c",
   "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt": "aa9be2fa3e2af0c2ccf5e1a9385180b6",
-  "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt": "81dbb8761750920ec1c13d95e4fd41a4",
+  "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt": "d05df1df82144a603ada20f60bd63f2e",
   "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt": "69aae08a4b8d4b587c666eb7891f4b19",
-  "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt": "95339a0ca247dd797dba3d6df50ab52c",
+  "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt": "41efb40f001d66a578ba358017a223d6",
   "https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt": "2e803c8d79ffef8ec514951f29f72c5b",
-  "https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/adblock.txt": "c9a9ef547f57ceb5bbbca18c3a956958",
+  "https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/adblock.txt": "e6c62dc8d111440dd830e6d5069aaf94",
   "https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt": "3fa684432cbacfc1780ae956cb157cf3",
   "https://raw.githubusercontent.com/damengzhu/banad/main/dnslist.txt": "b9deb6289e6f4f0d3ab444c5ae4ad4b4",
-  "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt": "697c269422e8aa3cad2ca570b013be47",
+  "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt": "be74a3570946e544ecbb801e59e5c761",
   "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt": "581a6722a9d21ffd11bdae31ce083232",
   "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling/hosts": "96233dfb8879faed0dd52b2a69573c7b",
   "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt": "ac731495a080ed3045ee5594048e375d",
@@ -21,6 +21,6 @@
   "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt": "cb7b6c87021571d0687f7f1e92d15ebe",
   "https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt": "08f6495beab40f10ddbefcce060d1162",
   "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/reject-list.txt": "c0568bde2d13ffd62b32e01bf1cc673f",
-  "https://easylist-downloads.adblockplus.org/easyprivacy.txt": "5eeb88e691b7e1d54a5b0ce13fe6013d",
-  "https://someonewhocares.org/hosts": "82d4b29fb1c8442b2f4e7262c3ebaba4"
+  "https://easylist-downloads.adblockplus.org/easyprivacy.txt": "7e2b182c5b0f9708403aca287e07e10c",
+  "https://someonewhocares.org/hosts": "49058e932fda3c8d84d5f94742d1a9a2"
 }

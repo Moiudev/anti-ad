@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: +jt3WuhqTgvtVbvQQ58edg
-! Version: 202507280321
+! Checksum: E0mfEoOq+idincbW+70aOg
+! Version: 202507280421
 ! Title: EasyList
-! Last modified: 28 Jul 2025 03:21 UTC
+! Last modified: 28 Jul 2025 04:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -16588,6 +16588,7 @@ browsershots.org#@#.advert_area
 ||aagmmrktriz.vip^
 ||aahpvdkakpska.online^
 ||aajhkzdwbmloi.today^
+||aalfpjfmmv.com^
 ||aarghclothy.com^
 ||aasssaa.com^
 ||aauedwmoofyox.buzz^
@@ -24823,6 +24824,7 @@ browsershots.org#@#.advert_area
 ||enrtx.com^
 ||ensaidhethisi.org^
 ||enseatgoosier.click^
+||enseeltucson.life^
 ||enserfunvague.shop^
 ||ensignpancreasrun.com^
 ||ensosignal.com^
@@ -29040,6 +29042,7 @@ browsershots.org#@#.advert_area
 ||indor.site^
 ||indueskonini.top^
 ||indweltdegases.top^
+||indweltdhuti.life^
 ||indyadvertising.com^
 ||indylictitler.top^
 ||inestimablereddencloset.com^
@@ -29057,6 +29060,7 @@ browsershots.org#@#.advert_area
 ||infiledeplant.top^
 ||infirmaryabundance.com^
 ||infirmiere-moyersoen.be^
+||infirmsbraced.click^
 ||infixedderere.com^
 ||inflationhumanity.com^
 ||inflationmileage.com^
@@ -30557,6 +30561,7 @@ browsershots.org#@#.advert_area
 ||knobbyaward.pro^
 ||knobwarriors.com^
 ||knockedcherries.com^
+||knoppedsatine.world^
 ||knowd.com^
 ||knowgrownupdoomed.com^
 ||knowing-membership.pro^
@@ -35979,6 +35984,7 @@ browsershots.org#@#.advert_area
 ||phoutsitchaun.net^
 ||phouvemp.net^
 ||phprdouhkyukn.space^
+||phqcpahckkoel.store^
 ||phrasalacomous.top^
 ||phraseoreburial.com^
 ||phsism.com^
@@ -45756,6 +45762,7 @@ browsershots.org#@#.advert_area
 ||ybcemprwcstsjun.com^
 ||ybhlsbfxpgt.com^
 ||ybhyziittfg.com^
+||ybjgdbcmispbe.store^
 ||ybonlmqmbxrx.com^
 ||ybrkzbrwrfp.com^
 ||ybs2ffs7v.com^

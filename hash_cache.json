@@ -1,11 +1,11 @@
 {
-  "https://easylist-downloads.adblockplus.org/easylist.txt": "1efc5fa306b5f8c1696f25e8bcbc6399",
+  "https://easylist-downloads.adblockplus.org/easylist.txt": "a19fe9e4ef12d3208742fb00f3f47a3a",
   "https://phishing.army/download/phishing_army_blocklist.txt": "62365df85814fba66dbae27f5ca09892",
-  "https://easylist-downloads.adblockplus.org/easylistchina.txt": "8d7272a6694404aed8bc8841765a91c5",
+  "https://easylist-downloads.adblockplus.org/easylistchina.txt": "e367f943780f1d13e0596ac5cc12382e",
   "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt": "f6ff379e7c4473eb47b4376a610730c6",
   "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt": "34e0d1bb2e8a05622734aaf48ac754b1",
-  "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt": "8a473ab52ae8197fd0aacac38c0694d6",
-  "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt": "8c3eab211b88c2df83e7d21b0c57c4b9",
+  "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt": "706a6b65890442fd303d75d4f581c2db",
+  "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_15_DnsFilter/filter.txt": "dc2c7648130db77e5bd9563be2d1240f",
   "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt": "c8fd3346fd63a62562a8c5c9053291a1",
   "https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt": "d0321a2f0f74eac3f60bd498663b6975",
   "https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/adblock.txt": "6d7af02cb98335b3e24d6777cbd51ebf",
@@ -21,6 +21,6 @@
   "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt": "cb7b6c87021571d0687f7f1e92d15ebe",
   "https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt": "5929dad48a29780bccb8f00a2f56f60b",
   "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/reject-list.txt": "83e0bf6df82238e06e151e2809e6c15a",
-  "https://easylist-downloads.adblockplus.org/easyprivacy.txt": "798eaac0298b7806523426af893fc0e5",
-  "https://someonewhocares.org/hosts": "9a2f93ab6bfbd53429da1c1b6ffeac1f"
+  "https://easylist-downloads.adblockplus.org/easyprivacy.txt": "972476d2168a02beae3263be0e35d860",
+  "https://someonewhocares.org/hosts": "5fc2b6ec7511147ef10160da224e93e9"
 }

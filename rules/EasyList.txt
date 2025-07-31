@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: XIQZIQaCsIhH7YodiGaRWw
-! Version: 202507311801
+! Checksum: LsPqHB5JWaR7ziKS6GDVUQ
+! Version: 202507312001
 ! Title: EasyList
-! Last modified: 31 Jul 2025 18:01 UTC
+! Last modified: 31 Jul 2025 20:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -23965,6 +23965,7 @@ browsershots.org#@#.advert_area
 ||dmarchemobbist.world^
 ||dmavtliwh.global^
 ||dmfnwurs.xyz^
+||dmgaasykf.com^
 ||dmhbbivu.top^
 ||dmiredindeed.com^
 ||dmjkpwliqxfh.com^
@@ -26798,6 +26799,7 @@ browsershots.org#@#.advert_area
 ||fynil.site^
 ||fynlbjdfwcsh.com^
 ||fynox.xyz^
+||fyojkxpgpsqll.space^
 ||fyqqigkeeceds.store^
 ||fyresumefo.com^
 ||fyttescremant.qpon^
@@ -27827,6 +27829,7 @@ browsershots.org#@#.advert_area
 ||gruvaphiwo.com^
 ||gruvomsoocky.net^
 ||gruwzapcst.com^
+||grvegwmgldpsh.online^
 ||grwp3.com^
 ||grygrothapi.pro^
 ||grylledem.qpon^
@@ -29329,6 +29332,7 @@ browsershots.org#@#.advert_area
 ||imaginary-struggle.com^
 ||imaginarymankindname.com^
 ||imaginaryspooky.com^
+||imagineboasts.life^
 ||imaginemothcurved.com^
 ||imagingkneelankiness.com^
 ||imagingprelawpuzzle.com^
@@ -31604,6 +31608,7 @@ browsershots.org#@#.advert_area
 ||lcaxqrksl.com^
 ||lccboyojtdwq.xyz^
 ||lcdclmeainuvhnk.com^
+||lcdsheqvltdie.website^
 ||lcfauizghtxzb.website^
 ||lchtraf.com^
 ||lcnmoccchdoij.vip^
@@ -33914,6 +33919,7 @@ browsershots.org#@#.advert_area
 ||mvjigogkqlgxo.icu^
 ||mvmzlg.xyz^
 ||mvvlsvwtgoxlj.space^
+||mvyeirpipobhxpr.com^
 ||mwaewcjql.xyz^
 ||mwaqupjdcvkxq.store^
 ||mwbzdzmuviwtf.website^
@@ -40604,6 +40610,7 @@ browsershots.org#@#.advert_area
 ||sftnepcynceye.store^
 ||sfulylydeveloped.org^
 ||sfuzekmfxn.com^
+||sfwngvmmlxeoths.xyz^
 ||sfwssbztoikhx.online^
 ||sfwwzmtlhrajx.website^
 ||sfzhpuxozrvdf.site^
@@ -44563,6 +44570,7 @@ browsershots.org#@#.advert_area
 ||varietywights.rest^
 ||variouscreativeformats.com^
 ||variousformatscontent.com^
+||varkelmbqlamq.top^
 ||varkelmbqlbrw.top^
 ||varshacundy.com^
 ||vartoken.com^
@@ -46740,6 +46748,7 @@ browsershots.org#@#.advert_area
 ||xupskiqab.com^
 ||xuqza.com^
 ||xurlctzwmnnxm.site^
+||xuzxfxznx.com^
 ||xvayntirbqohr.space^
 ||xvbbdgabhphcsy.com^
 ||xvegvlkqovqqr.online^

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: xqpPked2VDMgs6SnnsmOgw
-! Version: 202507310951
+! Checksum: RUi/va+PpSs862k6QCZsDA
+! Version: 202507311211
 ! Title: EasyList
-! Last modified: 31 Jul 2025 09:51 UTC
+! Last modified: 31 Jul 2025 12:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -19882,6 +19882,7 @@ browsershots.org#@#.advert_area
 ||beyanmaan.com^
 ||beyliksyowler.com^
 ||beyourxfriend.com^
+||bezoaroocysts.rest^
 ||bf-ad.net^
 ||bf002bbbbb.com^
 ||bf7472b795.com^
@@ -20445,6 +20446,7 @@ browsershots.org#@#.advert_area
 ||boudechoey.top^
 ||boudja.com^
 ||bouhoagy.net^
+||boukitmugging.click^
 ||bounceads.net^
 ||bouncebidder.com^
 ||bouncedmenkar.cyou^
@@ -21313,6 +21315,7 @@ browsershots.org#@#.advert_area
 ||cddtsecure.com^
 ||cdewlqey.com^
 ||cdhzzirkkgoce.website^
+||cdjsrnfjywxbq.com^
 ||cdn-adtech.com^
 ||cdn-adtrue.com^
 ||cdn-server.cc^
@@ -23012,6 +23015,7 @@ browsershots.org#@#.advert_area
 ||cwrsyyzfooqyh.online^
 ||cwsbrxarjnaav.space^
 ||cwvipsciqhuqi.site^
+||cwvxcmunccww.com^
 ||cxbxnfqtraxecbb.com^
 ||cxikfjqfiwxta.vip^
 ||cxilpslmblsb.com^
@@ -23134,6 +23138,7 @@ browsershots.org#@#.advert_area
 ||daizoode.com^
 ||dajtamnrat.com^
 ||dakhiniserbdom.com^
+||dakoityfylgjur.shop^
 ||dakotasboreens.top^
 ||daksenskied.top^
 ||daldk.com^
@@ -23218,6 +23223,7 @@ browsershots.org#@#.advert_area
 ||data852.click^
 ||data963.click^
 ||databoilrecommendation.com^
+||datanapodos.world^
 ||datapacstereos.shop^
 ||datatechdrift.com^
 ||datatechone.com^
@@ -23327,6 +23333,7 @@ browsershots.org#@#.advert_area
 ||dciuocgwopyla.website^
 ||dcmdquudzpmkc.store^
 ||dcmyatony.shop^
+||dcoatqha.com^
 ||dcqfcqywcdw.com^
 ||dcsakxvzsdiaz.space^
 ||dcssptrack.com^
@@ -24288,6 +24295,7 @@ browsershots.org#@#.advert_area
 ||drydwezfas.com^
 ||dryerhalfmoon.com^
 ||drylnk.com^
+||dryrotcajuput.click^
 ||drystershaper.com^
 ||ds0yue.com^
 ||ds3.biz^
@@ -24895,6 +24903,7 @@ browsershots.org#@#.advert_area
 ||elationsandindee.com^
 ||elaydark.com^
 ||eldestcontribution.com^
+||eleansewable.digital^
 ||eleavers.com^
 ||elechiduny.qpon^
 ||electnext.com^
@@ -25774,6 +25783,7 @@ browsershots.org#@#.advert_area
 ||fawninghaviors.cyou^
 ||faxbfxhkdjoma.icu^
 ||faxesscrewy.qpon^
+||fayencecouril.click^
 ||fayprjmlhxpnl.website^
 ||fazanppq.com^
 ||fazedwelsh.qpon^
@@ -28515,6 +28525,7 @@ browsershots.org#@#.advert_area
 ||hineyaes.world^
 ||hingleroofsge.org^
 ||hinkhimunpract.org^
+||hinsiptoagausoh.net^
 ||hintersmucosas.top^
 ||hintgroin.com^
 ||hip-97166b.com^
@@ -31022,6 +31033,7 @@ browsershots.org#@#.advert_area
 ||klzoyvykizjye.store^
 ||km-kryxqvt.site^
 ||kmbjerbaafdn.global^
+||kmblynalgqanb.top^
 ||kmdlkanc.com^
 ||kmfkiwghhe.xyz^
 ||kmggmylakjko.top^
@@ -33329,6 +33341,7 @@ browsershots.org#@#.advert_area
 ||mizytadpwfswa.world^
 ||mizzlesquarto.click^
 ||mjalrwpxdqcqpg.com^
+||mjdoepcbogrix.store^
 ||mjfcv.club^
 ||mjgxsmcfnddde.online^
 ||mjibyihlwjsww.com^
@@ -34585,6 +34598,7 @@ browsershots.org#@#.advert_area
 ||novemberinstallsplucky.com^
 ||novenasneoneds.top^
 ||novibet.partners^
+||novicefearing.digital^
 ||novidash.com^
 ||novitrk1.com^
 ||novitrk7.com^
@@ -34822,6 +34836,7 @@ browsershots.org#@#.advert_area
 ||nxtck.com^
 ||nxtddngeuiom.com^
 ||nxtpsh.top^
+||nxulrbjjvfrgk.site^
 ||nxvpgpsgbndgp.com^
 ||nxwrj.com^
 ||nxwugnuqhwxta.world^
@@ -35552,6 +35567,7 @@ browsershots.org#@#.advert_area
 ||operaserver.com^
 ||opfourpro.org^
 ||opgolan.com^
+||ophryshoking.click^
 ||opleshouldthink.com^
 ||opnachhihhp.com^
 ||opnvahohgcco.com^
@@ -36903,6 +36919,7 @@ browsershots.org#@#.advert_area
 ||pllah.com^
 ||pllosvdjkbsv.com^
 ||pllsadrp.net^
+||plmggovrsbdf.com^
 ||plmqlbihwqket.top^
 ||plmwsl.com^
 ||plocap.com^
@@ -37057,6 +37074,7 @@ browsershots.org#@#.advert_area
 ||polyad.net^
 ||polydarth.com^
 ||polyh-nce.com^
+||polyveshower.qpon^
 ||pomatumyurta.shop^
 ||pomodisedge.top^
 ||pon-prairie.com^
@@ -37489,6 +37507,7 @@ browsershots.org#@#.advert_area
 ||propertyswordmuttering.com^
 ||propgoservice.com^
 ||propjetacritol.shop^
+||proplexjackety.click^
 ||proposalkeptstaff.com^
 ||proposaloccupation.com^
 ||propositionpower.com^
@@ -37519,6 +37538,7 @@ browsershots.org#@#.advert_area
 ||proteininnovationpioneer.com^
 ||protoawe.com^
 ||protocolchainflow.com^
+||protohagmane.world^
 ||prototypeboats.com^
 ||protrckit.com^
 ||protrudesublimetroubling.com^
@@ -39434,6 +39454,7 @@ browsershots.org#@#.advert_area
 ||rlrxuaxclxeshd.com^
 ||rltjqqrufde.com^
 ||rluginhufbunhg.com^
+||rlvjbsvvlauty.store^
 ||rmaprpljhtvue.space^
 ||rmb-trf.net^
 ||rmbalnswelwcp.online^
@@ -40758,6 +40779,7 @@ browsershots.org#@#.advert_area
 ||shukriya90.com^
 ||shukvumpehy.com^
 ||shulugoo.net^
+||shumacsponsal.help^
 ||shumiksick.com^
 ||shusacem.net^
 ||shvsrrpkgjcuk.life^
@@ -42103,6 +42125,7 @@ browsershots.org#@#.advert_area
 ||svyksa.info^
 ||swabskissers.top^
 ||swackenshoat.top^
+||swagerinula.rest^
 ||swaggisaulge.cyou^
 ||swagtraffcom.com^
 ||swailsdhotee.rest^
@@ -42475,6 +42498,7 @@ browsershots.org#@#.advert_area
 ||techreviewtech.com^
 ||tecmugheksoa.com^
 ||tectureclod.top^
+||tecxgvbolvfdv.space^
 ||tedhilarlymcken.org^
 ||tedhoweverbu.org^
 ||tedurtathashis.net^
@@ -44317,6 +44341,7 @@ browsershots.org#@#.advert_area
 ||uthounie.com^
 ||utillib.xyz^
 ||utjjeiyxnfmvr.website^
+||utjxbwyshiohd.website^
 ||utkylagbtgg.com^
 ||utl-1.com^
 ||utm-campaign.com^
@@ -44428,6 +44453,7 @@ browsershots.org#@#.advert_area
 ||vainfulkmole.com^
 ||vainjav11.fun^
 ||vaitotoo.net^
+||vajrqqtmrbhnk.store^
 ||vajwbkkmklkvy.top^
 ||vajwbkkmklmvl.top^
 ||vajwbkkmklmzj.top^
@@ -46559,6 +46585,7 @@ browsershots.org#@#.advert_area
 ||xmlppcbuzz.com^
 ||xmlrtb.com^
 ||xmlwiz.com^
+||xmlwolf.com^
 ||xmodrhtqvbinumv.com^
 ||xmpoiotsmpkro.website^
 ||xms.lol^
@@ -46688,6 +46715,7 @@ browsershots.org#@#.advert_area
 ||xwzsskvlvohwl.top^
 ||xx-umomfzqik.today^
 ||xxccdshj.com^
+||xxcyyocinlkv.com^
 ||xxdfexbwv.top^
 ||xxioelflyiggv.site^
 ||xxivzamarra.shop^

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: w4K1p6QDaJzAjokdnaCPTA
-! Version: 202507311401
+! Checksum: 8gj5XBcO6K1vXwnru9/+HA
+! Version: 202507311601
 ! Title: EasyList
-! Last modified: 31 Jul 2025 14:01 UTC
+! Last modified: 31 Jul 2025 16:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -20533,6 +20533,7 @@ browsershots.org#@#.advert_area
 ||brahmansandix.life^
 ||braidrainhypocrite.com^
 ||braidsagria.com^
+||brainbotfilebeatsave.com^
 ||brainient.com^
 ||brainlyads.com^
 ||brakestrucksupporter.com^
@@ -23355,6 +23356,7 @@ browsershots.org#@#.advert_area
 ||dddomainccc.com^
 ||ddelqieomzyds.online^
 ||ddijapp.com^
+||ddmdpzhsbw.com^
 ||ddmwicctsqjhc.website^
 ||ddowlrjvlmkcy.website^
 ||ddrsemxv.com^
@@ -28203,6 +28205,7 @@ browsershots.org#@#.advert_area
 ||hawkabsurd.com^
 ||hawkergoury.top^
 ||hawkeysganged.cyou^
+||hawkeysgizzard.qpon^
 ||hawkeyunsame.qpon^
 ||hawkingtorvid.help^
 ||hawknutbiform.help^
@@ -28857,6 +28860,7 @@ browsershots.org#@#.advert_area
 ||hqkelsrnldxnx.icu^
 ||hqllyeygj.com^
 ||hqmwsnmnyxkyo.space^
+||hqownamptkoa.com^
 ||hqpass.com^
 ||hqqvjdttre.club^
 ||hqscene.com^
@@ -29086,6 +29090,7 @@ browsershots.org#@#.advert_area
 ||iagwirjtflb.com^
 ||iaibunpknqzvw.website^
 ||iaisvasxruxqv.life^
+||iajmqqkelj.xyz^
 ||ialvzcnykqyvk.website^
 ||iambistaskers.qpon^
 ||iamiraqi.com^
@@ -32307,6 +32312,7 @@ browsershots.org#@#.advert_area
 ||lqepkvudjwgwn.space^
 ||lqgenuq-j.life^
 ||lqjfhehcrkatj.xyz^
+||lqkkoozmakazq.top^
 ||lqllisdlizrix.site^
 ||lqotlgjojxelr.site^
 ||lqrjuhhbzagoq.online^
@@ -36989,6 +36995,7 @@ browsershots.org#@#.advert_area
 ||plxibyjobzgfn.site^
 ||plxserve.com^
 ||plyfoni.ru^
+||plymlvuj.com^
 ||plywoodmergenewspaper.com^
 ||plzeksdeejfd.com^
 ||pmc1201.com^
@@ -39516,6 +39523,7 @@ browsershots.org#@#.advert_area
 ||rndchandelureon.com^
 ||rndhaunteran.com^
 ||rndskittytor.com^
+||rnhtrtbfvqmyv.website^
 ||rnldustal.com^
 ||rnmd.net^
 ||rnmentoftheusys.com^
@@ -42054,6 +42062,7 @@ browsershots.org#@#.advert_area
 ||summitinfantry.com^
 ||sumpstweag.help^
 ||sumpterdampen.shop^
+||sumwdqykprdwj.online^
 ||sundekardu.life^
 ||sundrarespite.cfd^
 ||sundriequable.click^
@@ -45240,6 +45249,7 @@ browsershots.org#@#.advert_area
 ||vwwydixeuufec.tech^
 ||vwwzygltq.com^
 ||vwxfxcamyhpqq.online^
+||vwxplgrbgolqr.website^
 ||vxdndxqriwahmkc.com^
 ||vxhdyqaiubtmr.space^
 ||vxjvqlmd.xyz^
@@ -66487,10 +66497,12 @@ pornflix.cc,xnxx.army##.global-army
 bravoteens.com,bravotube.net##.good_list_wrap
 kbjfree.com##.h-\[250px\]
 amateur-vids.eu,bestjavporn.com,deepfucks.com,mature.community,milf.community,milf.plus##.happy-footer
-hdporn92.com,javflix.net,koreanstreamer.xyz##.happy-header
+ofansleaks.com##.happy-footer-mobile
+hdporn92.com,javflix.net,koreanstreamer.xyz,ofansleaks.com##.happy-header
 cheemsporn.com,criollasx.com,milfnut.com,nudeof.com,sexseeimage.com,yporn.tv##.happy-inside-player
 sexseeimage.com,thisav.me,thisav.video##.happy-player-beside
 sexseeimage.com,thisav.me,thisav.video##.happy-player-under
+ofansleaks.com##.happy-related-videos-mobile
 sexseeimage.com,thisav.me,thisav.video##.happy-section
 deepfake-porn.com,deepfucks.com,hdpornflix.com,sexkbj.com,vpornhd.com,x-picture.com##.happy-sidebar
 amateur-vids.eu,camgirl-video.com,mature.community,milf.community,milf.plus##.happy-under-player

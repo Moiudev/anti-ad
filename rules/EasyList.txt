@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: PLhKH2ltmQPR4goMlv6VsA
-! Version: 202508011001
+! Checksum: CyEO1Zh3Ne469QXtN5YDOg
+! Version: 202508011211
 ! Title: EasyList
-! Last modified: 01 Aug 2025 10:01 UTC
+! Last modified: 01 Aug 2025 12:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -16025,6 +16025,7 @@ browsershots.org#@#.advert_area
 ||2cnjuh34jbstar.com^
 ||2cvnmbxnc.com^
 ||2d1f81ac8e.com^
+||2d1x.com^
 ||2d439ab93e.com^
 ||2d5ac65613.com^
 ||2d6g0ag5l.de^
@@ -16638,6 +16639,7 @@ browsershots.org#@#.advert_area
 ||abashfireworks.com^
 ||abatersurat.digital^
 ||abb030d6a7.com^
+||abbasemi.life^
 ||abbassphagia.cfd^
 ||abberantdisheartenbandage.com^
 ||abberantpawnpalette.com^
@@ -17717,6 +17719,7 @@ browsershots.org#@#.advert_area
 ||aikat-vim.com^
 ||aikauftiltauks.net^
 ||aikraungoph.net^
+||aileenodist.cfd^
 ||ailieculebra.qpon^
 ||ailpyvmztfusn.one^
 ||aimakarkie.com^
@@ -19188,6 +19191,7 @@ browsershots.org#@#.advert_area
 ||aws-itcloud.net^
 ||awsurveys.com^
 ||awtfkaracoc.com^
+||awtguzoxc.com^
 ||awtunmmlmobnq.site^
 ||awutephoksousou.net^
 ||awwprjafmfjbvt.xyz^
@@ -19633,6 +19637,7 @@ browsershots.org#@#.advert_area
 ||beaxewr.com^
 ||bebatsirens.qpon^
 ||bebautvdrradc.world^
+||bebemovies.com^
 ||bebloommulvel.com^
 ||bebopstanzine.qpon^
 ||bebreloomr.com^
@@ -19845,6 +19850,7 @@ browsershots.org#@#.advert_area
 ||betabelive.digital^
 ||betads.xyz^
 ||betahit.click^
+||betaxedreduces.digital^
 ||betemolgar.com^
 ||beterrakionan.com^
 ||betgorebysson.club^
@@ -20970,6 +20976,7 @@ browsershots.org#@#.advert_area
 ||bzjxpfuuqpkzs.club^
 ||bzniungh.com^
 ||bzoodfalqge.online^
+||bzotdvlemnnvg.online^
 ||bzrbogvpueuwa.site^
 ||bzrnuixuklcew.space^
 ||bzydilasq.com^
@@ -26502,6 +26509,7 @@ browsershots.org#@#.advert_area
 ||fpadserver.com^
 ||fpbckekryivna.website^
 ||fpbpgoqubikzw.space^
+||fpdtilvopjnvi.space^
 ||fpgedsewst.com^
 ||fpgswbwrimkwhw.com^
 ||fphycqwimelhk.online^
@@ -28470,6 +28478,7 @@ browsershots.org#@#.advert_area
 ||heyyounow.my^
 ||hf5rbejvpwds.com^
 ||hfapkjltlabpe.store^
+||hfcibylpjevbf.website^
 ||hfdfyrqj-ws.club^
 ||hfdjmoedkjf.asia^
 ||hffxc.com^
@@ -28591,6 +28600,7 @@ browsershots.org#@#.advert_area
 ||himtothesieg.org^
 ||hinaprecentals.com^
 ||hinderelemong.cfd^
+||hindithreep.cyou^
 ||hindsightloyalmeter.com^
 ||hindspontiff.digital^
 ||hineyaes.world^
@@ -32721,6 +32731,7 @@ browsershots.org#@#.advert_area
 ||mahkjru.cam^
 ||mahmalbifer.top^
 ||mahoganyproductthat.com^
+||mahuadrawees.click^
 ||maideninfected.com^
 ||maidlyboychik.shop^
 ||maidr.pro^
@@ -34167,6 +34178,7 @@ browsershots.org#@#.advert_area
 ||nancydefiant.top^
 ||nanesbewail.com^
 ||nangalupeose.com^
+||nanhesitationhireling.com^
 ||nannyirrationalacquainted.com^
 ||nanylueddvrmcg.com^
 ||naos.ink^
@@ -34887,6 +34899,7 @@ browsershots.org#@#.advert_area
 ||nuryotzgl.com^
 ||nuschias.top^
 ||nuseek.com^
+||nuseiwbhiriez.online^
 ||nusjemcedhfgr.site^
 ||nuskt.directory^
 ||nutatedtriol.com^
@@ -35019,6 +35032,7 @@ browsershots.org#@#.advert_area
 ||oajeechouhouds.com^
 ||oakbustrp.com^
 ||oakchokerfumes.com^
+||oakesiapedata.qpon^
 ||oaljdplnjxxec.fun^
 ||oalrirootsi.net^
 ||oalsauwy.net^
@@ -36370,6 +36384,7 @@ browsershots.org#@#.advert_area
 ||particularundoubtedly.com^
 ||partion-ricism.xyz^
 ||partitionshawl.com^
+||partleyshut.cyou^
 ||partner-dateconnects.com^
 ||partnerbcgame.com^
 ||partners-show.com^
@@ -36817,6 +36832,7 @@ browsershots.org#@#.advert_area
 ||phupsaupsarse.net^
 ||phuruxoods.com^
 ||phygfasvnnjrg.life^
+||phyllinwyethia.click^
 ||physicalblueberry.com^
 ||physicaldividedcharter.com^
 ||physicalfront.pro^
@@ -39623,6 +39639,7 @@ browsershots.org#@#.advert_area
 ||rmtagvivdrbwd.icu^
 ||rmtpouusuokbh.space^
 ||rmuogjdip.com^
+||rmvcfjenkt.com^
 ||rmvvawqleqaoj.top^
 ||rmvvawqleqrov.top^
 ||rmwzbombkqbjw.top^
@@ -40758,6 +40775,7 @@ browsershots.org#@#.advert_area
 ||shamelessappellation.com^
 ||shamelessnullneutrality.com^
 ||shammedminnow.digital^
+||shamoisconkers.world^
 ||shanaurg.net^
 ||shanorin.com^
 ||shapo.fun^
@@ -40823,6 +40841,7 @@ browsershots.org#@#.advert_area
 ||sheriffshruglow.com^
 ||sheriffsiliqua.cfd^
 ||shespokheha.org^
+||sheughchunder.rest^
 ||shewaityou.net^
 ||shewninneity.shop^
 ||shfsdvc.com^
@@ -42368,6 +42387,7 @@ browsershots.org#@#.advert_area
 ||swwpush.com^
 ||swynulteojjg.com^
 ||sxdfhgniwzxzc.space^
+||sxdmitcjdkgiw.space^
 ||sxdsvaicpjnzg.website^
 ||sxeythdkvmjyl.online^
 ||sxhexeatew.com^
@@ -43958,6 +43978,7 @@ browsershots.org#@#.advert_area
 ||uandntzqoxyeg.online^
 ||uanmyfsssisst.store^
 ||uaojhvzlcwitb.online^
+||uarxokmu.com^
 ||uaxezwpfaghym.store^
 ||ubbfpm.com^
 ||ubeestis.net^
@@ -44854,6 +44875,7 @@ browsershots.org#@#.advert_area
 ||venttclrhkx.com^
 ||venturead.com^
 ||venturepeasant.com^
+||venturesymboldefend.com^
 ||venturyremove.com^
 ||venueartisticdisinterested.com^
 ||venueexpanded.com^
@@ -45254,6 +45276,7 @@ browsershots.org#@#.advert_area
 ||voyeurgibbol.shop^
 ||vpbigdsnehwam.today^
 ||vpbpb.com^
+||vpcdgafkvufc.com^
 ||vpcxpowqzvdz.com^
 ||vphfcftukjmnf.site^
 ||vpico.com^
@@ -46292,6 +46315,7 @@ browsershots.org#@#.advert_area
 ||woncherish.com^
 ||wondenthaitings.org^
 ||wonderhsjnsd.com^
+||wonderingtraverse.com^
 ||wondersgedact.top^
 ||wongahmalta.com^
 ||wongolsaigle.net^
@@ -65404,6 +65428,7 @@ ndtv.com##.TpGnAd_ad-cn
 hindustantimes.com##.ht_taboola
 financialexpress.com##.ie-network-taboola
 indianexpress.com##.o-taboola-story
+businesstoday.in##.right_side_tabola
 6abc.com,abcnews.go.com,goodmorningamerica.com##.taboola
 kotaku.com,theonion.com,theroot.com##.taboola-container
 firstpost.com##.taboola-div

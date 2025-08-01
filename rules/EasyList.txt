@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: e1oiHtipwX1UIfHZSteupg
-! Version: 202508011801
+! Checksum: Kxxeb00TQ8D/4sRbv0x2zA
+! Version: 202508012001
 ! Title: EasyList
-! Last modified: 01 Aug 2025 18:01 UTC
+! Last modified: 01 Aug 2025 20:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -23726,6 +23726,7 @@ browsershots.org#@#.advert_area
 ||dharnaslaked.top^
 ||dhbbfvljzjouy.website^
 ||dhbfsbanlrmqm.website^
+||dhcixpgdh.com^
 ||dhdpetbxs.com^
 ||dheheagbmhdfk.space^
 ||dheqzygafg.com^
@@ -24934,6 +24935,7 @@ browsershots.org#@#.advert_area
 ||ejidocinct.top^
 ||ejitmssx-rk.icu^
 ||ejkrtgyjxakrqk.com^
+||ejlqdcyrjsakh.site^
 ||ejnrfzsbvwqwj.online^
 ||ejsgmeirtaumd.store^
 ||ejtchpiqmhqle.com^
@@ -25047,6 +25049,7 @@ browsershots.org#@#.advert_area
 ||embloomdiphyes.top^
 ||embogsoarers.com^
 ||embogtangier.shop^
+||embossdoncy.world^
 ||embowelpail.top^
 ||embowerdatto.com^
 ||embpsubecawmj.website^
@@ -27055,6 +27058,7 @@ browsershots.org#@#.advert_area
 ||gbdkbtuzvqrun.fun^
 ||gbengene.com^
 ||gbfys.global^
+||gbhyhxkdwqzjf.site^
 ||gblcdn.com^
 ||gbmgukyvlwhgy.site^
 ||gbquersgilgpf.space^
@@ -30126,6 +30130,7 @@ browsershots.org#@#.advert_area
 ||jampackedemphasis.com^
 ||jamstech.store^
 ||janads.shop^
+||janapumcabiric.digital^
 ||janapumche.top^
 ||janchmjg.com^
 ||jandaqwe.com^
@@ -30313,6 +30318,7 @@ browsershots.org#@#.advert_area
 ||jgubbpypmlxbk.one^
 ||jguroejplzivn.site^
 ||jgwwszqkvyxcg.site^
+||jgybofeaubrxy.space^
 ||jgzmqlkqnkqvk.top^
 ||jhbjkqqykibyt.buzz^
 ||jhcccvxqnkdit.website^
@@ -30471,6 +30477,7 @@ browsershots.org#@#.advert_area
 ||joinedvalerin.shop^
 ||joiningalhagi.click^
 ||joinpropeller.com^
+||jokeydazy.shop^
 ||jolecyclist.com^
 ||jollilygranose.top^
 ||jollitysouple.digital^
@@ -32300,6 +32307,7 @@ browsershots.org#@#.advert_area
 ||loobyfleyed.com^
 ||loodongaro.shop^
 ||loodosofaina.net^
+||loofslensman.digital^
 ||loohaiturigavik.net^
 ||loohiwez.net^
 ||lookandfind.me^
@@ -32575,6 +32583,7 @@ browsershots.org#@#.advert_area
 ||luxupcdnc.com^
 ||luyten-98c.com^
 ||luzongixoo.net^
+||luzulacahuy.help^
 ||luzypntaczbig.website^
 ||lv9qr0g0.xyz^
 ||lvaazvwzylvbq.top^
@@ -32645,9 +32654,11 @@ browsershots.org#@#.advert_area
 ||lxylxwxvhffvm.vip^
 ||lybktpmhkskgh.website^
 ||lycoty.com^
+||lycuhejheahrr.store^
 ||lycykqrnprxjc.site^
 ||lydiacorneredreflect.com^
 ||lyexrcudpidrv.store^
+||lygaeidbrumes.cfd^
 ||lygjgjqbzzzqy.top^
 ||lyingleisurelycontagious.com^
 ||lylowerhughe.com^
@@ -34587,6 +34598,7 @@ browsershots.org#@#.advert_area
 ||nizkwvaqczcxj.space^
 ||njicuiabvwawm.one^
 ||njmhnurksjktt.buzz^
+||njtbmyyhwjaxo.online^
 ||njwfhenr.xyz^
 ||nkazicozqzaf.com^
 ||nkfinsdg.com^
@@ -34656,6 +34668,7 @@ browsershots.org#@#.advert_area
 ||noconversationh.com^
 ||noctuidprotege.digital^
 ||nocturnal-convert.pro^
+||nocuitytrpset.cyou^
 ||nodeapiintegrate.com^
 ||nodestimid.digital^
 ||nodoseshamus.rest^
@@ -35368,6 +35381,7 @@ browsershots.org#@#.advert_area
 ||ogvaqxjzfm-n.top^
 ||ogvomwvkygm.com^
 ||ogvwbovkgvbg.top^
+||ogvwbovkgwyy.top^
 ||ogxntutl.fun^
 ||ogyzawzjoqvla.top^
 ||ogz4n3ke.xyz^
@@ -36926,6 +36940,7 @@ browsershots.org#@#.advert_area
 ||pigtre.com^
 ||pihu.xxxpornhd.pro^
 ||piiqrmvymwue.world^
+||pijgiuonrl.com^
 ||pikulhttcwgtyj.com^
 ||pilafcres.qpon^
 ||pilarywelkin.top^
@@ -38022,6 +38037,7 @@ browsershots.org#@#.advert_area
 ||purplesomewhere.pro^
 ||purposelynextbinary.com^
 ||purrrrrrrr.net^
+||pursingtrampot.world^
 ||pursuingconjunction.com^
 ||puserving.com^
 ||push-news.click^
@@ -38247,6 +38263,7 @@ browsershots.org#@#.advert_area
 ||qazrvoyayvrjj.top^
 ||qazrvoyayvrmr.top^
 ||qbbalffoo.com^
+||qbcqlchttikmdv.xyz^
 ||qbechbzborhvf.space^
 ||qbkcpcer.com^
 ||qbkraweaoemer.top^
@@ -41058,6 +41075,7 @@ browsershots.org#@#.advert_area
 ||siftdivorced.com^
 ||sighssissier.cfd^
 ||sightdisintegrate.com^
+||sighteravital.life^
 ||sightshumble.com^
 ||siglgodbyafek.com^
 ||signalassure.com^
@@ -42546,6 +42564,7 @@ browsershots.org#@#.advert_area
 ||taetsiasnelly.shop^
 ||taffiaspeltz.qpon^
 ||tafswkglxfdl.com^
+||taftoatcheg.net^
 ||tagaloanger.top^
 ||tagd-otmhf.world^
 ||taggingarkab.top^
@@ -43178,6 +43197,7 @@ browsershots.org#@#.advert_area
 ||tionininanceena.com^
 ||tipestooth.top^
 ||tippingapelles.life^
+||tipplessowlth.rest^
 ||tippyoutsend.shop^
 ||tipreesigmate.com^
 ||tipsembankment.com^
@@ -44663,6 +44683,7 @@ browsershots.org#@#.advert_area
 ||uveitismaul.rest^
 ||uvfnhhyoyd.xyz^
 ||uvgaamfvwsgaa.online^
+||uvidpalla.cfd^
 ||uvifewktmtbck.store^
 ||uvkbjfypmoqf.xyz^
 ||uvnmfjwrbvkes.online^
@@ -45544,6 +45565,7 @@ browsershots.org#@#.advert_area
 ||vyqwljwberval.top^
 ||vyuaolnqfgoas.store^
 ||vyudlnwcwwkdl.space^
+||vyvjoevkyjqq.top^
 ||vyvjoevkyvoy.top^
 ||vywblbqoojbal.top^
 ||vywblbqoojwjj.top^
@@ -45688,6 +45710,7 @@ browsershots.org#@#.advert_area
 ||wasteresents.shop^
 ||wastescherty.shop^
 ||watapesgimlet.click^
+||watapsregalio.rest^
 ||watch-now.club^
 ||watchcpm.com^
 ||watchetifuters.cloud^

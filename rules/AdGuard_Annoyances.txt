@@ -2520,6 +2520,9 @@ kraemer-it.de,teslawissen.ch,scootertechno.com,mysize.ch,aeotec.com,geschichte-w
 !
 ! NOTE: Regular rules
 !
+ashild.no##.cookie-shadow
+profile.tarkov.com##.bsg-ac-cookie-agreement
+gamermarkt.com###fccm_alert
 m6.fr#$#body > div#__brk ~ div:has(> aside[aria-modal] a[href^="/politique-de-confidentialite/"]) { display: none !important; }
 m6.fr#$#body[style="overflow: hidden;"] { overflow: auto !important; }
 imirante.com##.bannerLGPD
@@ -35792,6 +35795,7 @@ gaugau.futabanet.jp,newscientist.com,jiji.com,edp24.co.uk,technologyreview.com,n
 !
 ! SECTION: Subscriptions - Regular rules
 !
+portalleodias.com##.ld-block-calling
 life.ru##div[class^="styles_bannerWrapper__"]
 life.ru##div[class^="styles_footerBlocksWrapper__"] > div[class^="styles_container__"]:has(a[title="Дзен.Новости"])
 clubic.com##aside > div[id^="sidebarPos"] > form
@@ -52087,6 +52091,7 @@ www.kinopoisk.ru##div[class^="trailer-promo"]
 !
 ! SECTION: Self-promo - Regular rules
 !
+ashild.no##.banner-usp
 search.yahoo.co.jp##.SearchTop__banner
 scmp.com##div[data-qa="PlusWidget-Container"]
 merkmal-biz.jp###recruitlink

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: oF0bfujmZehxdnleKIofKA
-! Version: 202508031201
+! Checksum: VUlBr+AiSbGMCCi41oxmIQ
+! Version: 202508031401
 ! Title: EasyList
-! Last modified: 03 Aug 2025 12:01 UTC
+! Last modified: 03 Aug 2025 14:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -16623,6 +16623,7 @@ browsershots.org#@#.advert_area
 ||aawdlvr.com^
 ||aawfewvoclrhp.online^
 ||aaxads.com^
+||aaxlrghdrbiw.xyz^
 ||aaxqvatpzvmpuz.com^
 ||ab0fbb66ba.com^
 ||ab1n.net^
@@ -17570,6 +17571,7 @@ browsershots.org#@#.advert_area
 ||africanleak.biz^
 ||africawin.com^
 ||afrontedgar.help^
+||afshahtart.digital^
 ||afterdownload.com^
 ||afterdownloads.com^
 ||aftermostagrounduneasily.com^
@@ -18773,6 +18775,7 @@ browsershots.org#@#.advert_area
 ||asiangfsex.com^
 ||asidesnuraghe.top^
 ||askareltortoni.com^
+||askarwanions.qpon^
 ||askdomainad.com^
 ||askewusurp.shop^
 ||askingsitting.com^
@@ -21003,6 +21006,7 @@ browsershots.org#@#.advert_area
 ||bvyptevtmkdul.store^
 ||bvzmnmxnyvtkd.site^
 ||bwcrsvafzujog.site^
+||bwgndlmwgtnxam.com^
 ||bwhhcuikrgvhs.online^
 ||bwhuyauklndvt.online^
 ||bwkwfuwfv.xyz^
@@ -25299,6 +25303,7 @@ browsershots.org#@#.advert_area
 ||energypopulationpractical.com^
 ||eneughghaffir.com^
 ||enfiefwhatkin.click^
+||enfkspgxshabg.store^
 ||enfpdbpcb.com^
 ||enframement.pics^
 ||engagedpungentrepress.com^
@@ -25439,6 +25444,7 @@ browsershots.org#@#.advert_area
 ||eqfqekkgkwpya.online^
 ||eqiuunumwtxcl.site^
 ||eqpegetkd.com^
+||eqqzobtlypdxd.space^
 ||eqskhmryeezzg.store^
 ||equal-dance.pro^
 ||equanimitypresentimentelectronics.com^
@@ -26098,6 +26104,7 @@ browsershots.org#@#.advert_area
 ||fedra.info^
 ||fedykr.com^
 ||feechewhoogou.net^
+||feechnyfafdgq.online^
 ||feechoojaigeep.net^
 ||feed-ads.com^
 ||feed-xml.com^
@@ -27184,6 +27191,7 @@ browsershots.org#@#.advert_area
 ||garotas.info^
 ||garotedwhiff.top^
 ||garretdistort.com^
+||garvitrine.cyou^
 ||gaseous-foot.pro^
 ||gasolinelocomotiveresentment.com^
 ||gassesale.shop^
@@ -30359,6 +30367,7 @@ browsershots.org#@#.advert_area
 ||jaltvejugmjjq.online^
 ||jambosmodesty.com^
 ||jamez.site^
+||jamlzolwzmoa.top^
 ||jamlzolwzmzj.top^
 ||jamminggloria.rest^
 ||jamokepullers.shop^
@@ -30791,6 +30800,7 @@ browsershots.org#@#.advert_area
 ||jqilyjagezcqk.site^
 ||jqlpebftywwyl.space^
 ||jqmebveabmbj.top^
+||jqmebveabmvq.top^
 ||jqmebveabqvb.top^
 ||jqmebwvmbrvz.top^
 ||jqnllsnmyvpgf.online^
@@ -31884,6 +31894,7 @@ browsershots.org#@#.advert_area
 ||largeconfusion.com^
 ||largeconsulting.org^
 ||largestloitering.com^
+||largishfiche.rest^
 ||laridaetrionfo.top^
 ||larkedgrecing.world^
 ||larkenjoyedborn.com^
@@ -34607,6 +34618,7 @@ browsershots.org#@#.advert_area
 ||nbpguujusd.com^
 ||nbvwuizhmmgtb.online^
 ||nceneverdreamsofc.org^
+||ncgwdkbi.com^
 ||ncikugowxotj.com^
 ||ncipledeclinerybel.org^
 ||nckebfnqaxjjt.com^
@@ -35786,6 +35798,7 @@ browsershots.org#@#.advert_area
 ||okdigital.me^
 ||okdjakskmgpk.com^
 ||okeezyxflelvs.website^
+||okiejeered.cyou^
 ||okitattler.top^
 ||okjkidtajoh.com^
 ||okkhhahfciqkv.store^
@@ -36889,6 +36902,7 @@ browsershots.org#@#.advert_area
 ||pbtijymplemxo.store^
 ||pbtqnpqpfelqk.space^
 ||pbxai.com^
+||pbxxjreijvqm.com^
 ||pbzgcofnurhyz.website^
 ||pc-ads.com^
 ||pc180101.com^
@@ -38482,6 +38496,7 @@ browsershots.org#@#.advert_area
 ||pusishegre.com^
 ||pusleyrwound.top^
 ||pusleysborages.top^
+||pusscatgelose.life^
 ||pussiesthumbed.click^
 ||pussl3.com^
 ||pussl48.com^
@@ -40364,6 +40379,7 @@ browsershots.org#@#.advert_area
 ||rsqlcmynzgikwe.com^
 ||rsqlswceqf.com^
 ||rsqtssvyjuzlh.website^
+||rsqtzxfkbjmwww.com^
 ||rsthwwqhxef.xyz^
 ||rstpgmfbcproe.store^
 ||rswdeqaxsltpg.website^
@@ -40872,6 +40888,7 @@ browsershots.org#@#.advert_area
 ||schoolhangoverearlier.com^
 ||schoschwa.qpon^
 ||schriktrachea.top^
+||schutecahnite.qpon^
 ||sciadopi5tysverticil1lata.com^
 ||scidationgly.com^
 ||scientific-doubt.com^
@@ -44857,6 +44874,7 @@ browsershots.org#@#.advert_area
 ||unpiecerelumed.top^
 ||unpleasanthandbag.com^
 ||unpopecandela.top^
+||unrakenunc.help^
 ||unregisteredtraditional.com^
 ||unreshiramor.com^
 ||unresolveddrama.com^
@@ -46122,6 +46140,7 @@ browsershots.org#@#.advert_area
 ||wandlbbeuwauj.store^
 ||wangfenxi.com^
 ||wanhornuntaint.top^
+||waningsyrians.click^
 ||wanlyavower.com^
 ||want-s0me-push.net^
 ||want-some-psh.com^
@@ -46278,6 +46297,7 @@ browsershots.org#@#.advert_area
 ||wcwijbtqgajxf.global^
 ||wdbrdvynuov.xyz^
 ||wdcwmeklhgnfc.xyz^
+||wddkbyoq.com^
 ||wdfnddxstfxpq.website^
 ||wdibwgllvzies.love^
 ||wdlltvftsokwy.space^
@@ -46511,6 +46531,7 @@ browsershots.org#@#.advert_area
 ||whentheautum.com^
 ||where-to.shop^
 ||where.com^
+||whereatcobra.digital^
 ||wherebywhatsoeverduck.com^
 ||wheredsolon.top^
 ||whereres.com^
@@ -47330,6 +47351,7 @@ browsershots.org#@#.advert_area
 ||xgeinlumhjauw.website^
 ||xggkcsmizhqbs.store^
 ||xggyplmoexttkx.com^
+||xgiiioziwwayu.store^
 ||xglyqyolxhcsw.com^
 ||xgolyqyfjuuwn.online^
 ||xgraph.net^

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: zh/w4qKbZiT1f9iSA5uW9w
-! Version: 202508031801
+! Checksum: d4igpAddLu6zRF7WsFk9rA
+! Version: 202508032001
 ! Title: EasyList
-! Last modified: 03 Aug 2025 18:01 UTC
+! Last modified: 03 Aug 2025 20:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -17684,6 +17684,7 @@ browsershots.org#@#.advert_area
 ||agurgeed.net^
 ||agxpzsgyklgmg.today^
 ||agyieusshuns.qpon^
+||agzdvulilbauk.website^
 ||ahadsply.com^
 ||ahaurgoo.net^
 ||ahbdsply.com^
@@ -22722,6 +22723,7 @@ browsershots.org#@#.advert_area
 ||coucalhidated.com^
 ||couchedbliny.top^
 ||couchedkestrel.top^
+||cougarsnutate.life^
 ||cougarssvgs.shop^
 ||cougawhauw.com^
 ||coughedcompd.shop^
@@ -23541,6 +23543,7 @@ browsershots.org#@#.advert_area
 ||dddashasledopyt.xyz^
 ||dddomainccc.com^
 ||ddelqieomzyds.online^
+||ddhjnrssqnmxc.store^
 ||ddijapp.com^
 ||ddmdpzhsbw.com^
 ||ddmwicctsqjhc.website^
@@ -23649,6 +23652,7 @@ browsershots.org#@#.advert_area
 ||defpush.com^
 ||defraudfallace.shop^
 ||defroststringbenignity.com^
+||deftlytineola.click^
 ||defybrick.com^
 ||degeneratesevere.com^
 ||degenerpayagua.help^
@@ -25855,6 +25859,7 @@ browsershots.org#@#.advert_area
 ||eyjkalrchn.com^
 ||eynfjbts.com^
 ||eynol.xyz^
+||eyrerhugelia.shop^
 ||eyrkbgzazfxb.com^
 ||eyrybuiltin.shop^
 ||eywgfqcbowl.com^
@@ -28379,6 +28384,7 @@ browsershots.org#@#.advert_area
 ||hajrejbifaakvuh.com^
 ||hakimuprises.shop^
 ||hakkapotpie.shop^
+||halakictsp.help^
 ||halfbakedhaul.com^
 ||halfpriceozarks.com^
 ||halibiulobcokt.top^
@@ -28869,6 +28875,7 @@ browsershots.org#@#.advert_area
 ||hindspontiff.digital^
 ||hineyaes.world^
 ||hinganiba.shop^
+||hingefugacy.shop^
 ||hingleroofsge.org^
 ||hinkhimunpract.org^
 ||hinsiptoagausoh.net^
@@ -29785,6 +29792,7 @@ browsershots.org#@#.advert_area
 ||inaltariaon.com^
 ||inamiaaglow.life^
 ||inamourupreach.com^
+||inanelychanduy.cfd^
 ||inappi.co^
 ||inappi.me^
 ||inappropriate2.fun^
@@ -30996,6 +31004,7 @@ browsershots.org#@#.advert_area
 ||jxhytrgxvybqb.online^
 ||jxiwzctryvuvk.website^
 ||jxkqrothefakb.store^
+||jxlhwpdvqjnm.com^
 ||jxmofulihtbzr.space^
 ||jxnncepmitwxh.space^
 ||jybaekaqbmvwl.top^
@@ -31109,6 +31118,7 @@ browsershots.org#@#.advert_area
 ||kaougnoklpzjb.space^
 ||kaphsfruiter.top^
 ||kapokfilose.help^
+||kappademaree.digital^
 ||kaqbxsgdzuazk.website^
 ||karafutem.com^
 ||kareetasandyx.com^
@@ -32145,6 +32155,7 @@ browsershots.org#@#.advert_area
 ||lepiotaspectry.com^
 ||leppybyssine.life^
 ||leprafasola.cfd^
+||leprinebegem.life^
 ||leptomelittler.cyou^
 ||leqasforsalesre.org^
 ||leqcp.online^
@@ -32154,6 +32165,7 @@ browsershots.org#@#.advert_area
 ||lerwaacronyc.click^
 ||lestelentoid.top^
 ||lesyaakene.life^
+||lesyatithing.cfd^
 ||letaikay.net^
 ||letaimparou.net^
 ||letdownlyricallyquarry.com^
@@ -32439,6 +32451,7 @@ browsershots.org#@#.advert_area
 ||lkcoffe.com^
 ||lkdvvxvtsq6o.com^
 ||lkehftpjptswp.site^
+||lkfmftmxg.com^
 ||lkg6g644.de^
 ||lkixinoql.com^
 ||lknvksrvlawsh.life^
@@ -34924,6 +34937,7 @@ browsershots.org#@#.advert_area
 ||nippona7n2theum.com^
 ||nippydeposit.pro^
 ||nirmhxlrrjvpp.xyz^
+||nirybekekiemu.website^
 ||nishikinotelet.world^
 ||nishoagn.com^
 ||nismscoldnesfspu.com^
@@ -34992,6 +35006,7 @@ browsershots.org#@#.advert_area
 ||nncistcbohnbt.com^
 ||nnerventualkentin.org^
 ||nngdvlfmenmeqe.com^
+||nnhghmknpmph.xyz^
 ||nnknzxxqlzmxf.space^
 ||nnlnoklsrwbuljf.com^
 ||nnowa.com^
@@ -35811,6 +35826,7 @@ browsershots.org#@#.advert_area
 ||ojszakvutv.com^
 ||ojuvjqymmcyos.site^
 ||ojyqnnqnlnnkg.top^
+||okaawvmyobvn.top^
 ||okaawvmyozny.top^
 ||okaidsotsah.com^
 ||okakyamoguvampom.com^
@@ -36861,6 +36877,7 @@ browsershots.org#@#.advert_area
 ||pasttable.com^
 ||pasxfixs.com^
 ||patacajabia.com^
+||patachemodica.shop^
 ||patakaendymal.top^
 ||patascarapus.world^
 ||patcans.club^
@@ -38703,6 +38720,7 @@ browsershots.org#@#.advert_area
 ||qcyqkirxrhidh.site^
 ||qdfscelxyyem.club^
 ||qdhrbget.click^
+||qdjgcchrgsrza.space^
 ||qdmil.com^
 ||qdonrplvetexk.com^
 ||qdsogzlxcrgtg.space^
@@ -41662,6 +41680,7 @@ browsershots.org#@#.advert_area
 ||skgpzivadwdte.buzz^
 ||skhhuhhualfxf.space^
 ||skhibxrlqzvqq.space^
+||skibbetreuel.life^
 ||skiddoooatcake.top^
 ||skidlidmassier.top^
 ||skiedknyazi.top^
@@ -45778,6 +45797,7 @@ browsershots.org#@#.advert_area
 ||vkeofwhpozu.com^
 ||vkfzlcidxisdw.store^
 ||vkgtrack.com^
+||vklljvmqeovz.top^
 ||vklljvmqewzq.top^
 ||vkofmxopxieit.space^
 ||vkohygee.com^

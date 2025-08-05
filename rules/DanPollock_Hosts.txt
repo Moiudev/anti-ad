@@ -43,7 +43,7 @@
 # See below for acknowledgements.
 
 # Please forward any additions, corrections or comments by email to
-# <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="e1898e929592a1928e8c848e8f8496898e8280938492cf8e9386">[email&#160;protected]</a>
+# <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="6b0304181f182b1804060e04050e1c0304080a190e184504190c">[email&#160;protected]</a>
 
 # Last updated: Sat, 02 Aug 2025 at 07:06:50 GMT
 
@@ -12158,7 +12158,7 @@ ff02::3		ip6-allhosts
 # kwadronaut for Windows 7 and Vista information
 # John Mueller and Lawrence H Smith for Mac Pre-OSX information
 # Jesse Baird for the Cisco IOS script
-</PRE></DIV><DIV CLASS="STAMP">Mon Aug  4 23:07:03 2025<SPAN CLASS="ARROW"><A HREF="#top"><IMG CLASS = ARROW SRC="/images/arrow.jpg" ALT="top"></A></SPAN></DIV>
+</PRE></DIV><DIV CLASS="STAMP">Tue Aug  5 00:04:10 2025<SPAN CLASS="ARROW"><A HREF="#top"><IMG CLASS = ARROW SRC="/images/arrow.jpg" ALT="top"></A></SPAN></DIV>
 <!-- Google tag (gtag.js) -->
 <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script async src="https://www.googletagmanager.com/gtag/js?id=G-2EH33CG0W9"></script>
 <script>

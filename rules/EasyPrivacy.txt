@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: d4Et5vXSlxMUxZaquendLw
-! Version: 202508051401
+! Checksum: Hpx1WIP36AV4o2YX4vfyEw
+! Version: 202508051601
 ! Title: EasyPrivacy
-! Last modified: 05 Aug 2025 14:01 UTC
+! Last modified: 05 Aug 2025 16:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3099,6 +3099,7 @@ _WebVitalsReporter_
 .recolution.de/tools/emails/open/$image
 .redsift.com/e/o/$image
 .revolut.com/q/$image
+.salesforce.com/servlet/servlet.ImageServer?$image
 .secureserver.net/bbimage.aspx?
 .sendcloud.net/track/$image
 .sendemail.gate.io/o/$image

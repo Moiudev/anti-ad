@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: awAVY5+lxsiFdi2Yx6G4hw
-! Version: 202508051801
+! Checksum: Pwz+NwzIHfpMKmcP94ko+A
+! Version: 202508052001
 ! Title: EasyList
-! Last modified: 05 Aug 2025 18:01 UTC
+! Last modified: 05 Aug 2025 20:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -17794,6 +17794,7 @@ browsershots.org#@#.advert_area
 ||airplaneprosperretreat.com^
 ||airthedbossy.shop^
 ||airtightcounty.com^
+||airtimegrumly.cyou^
 ||airyihltczmmq.online^
 ||aishuvongeel.com^
 ||aislesowlike.shop^
@@ -19591,6 +19592,7 @@ browsershots.org#@#.advert_area
 ||baqvnzyzjmajj.top^
 ||baqvnzyzjmalo.top^
 ||baqvnzyzjmllv.top^
+||baranipiquets.cfd^
 ||barbarasacredassort.com^
 ||barbaratta.digital^
 ||barbaryunsided.help^
@@ -21091,6 +21093,7 @@ browsershots.org#@#.advert_area
 ||bwoaslziha.com^
 ||bwoqusogsrar.com^
 ||bwortacmib.com^
+||bwqkqkhfvwppy.website^
 ||bwsddrebfiwvu.store^
 ||bwsitqjjam.com^
 ||bwtcilgll.com^
@@ -22315,6 +22318,7 @@ browsershots.org#@#.advert_area
 ||clubhouseimpunitysights.com^
 ||clueostensiblebureaucracy.com^
 ||clumperrucksey.life^
+||clunkedcoarse.world^
 ||clunkermerl.shop^
 ||clunksapiales.shop^
 ||clunkyentirelinked.com^
@@ -22933,6 +22937,7 @@ browsershots.org#@#.advert_area
 ||cracksingularstopper.com^
 ||cracowehousage.help^
 ||cradkiocdax.com^
+||craftevected.rest^
 ||craftilypendantwhinny.com^
 ||crafty-math.com^
 ||craharice.com^
@@ -24033,6 +24038,7 @@ browsershots.org#@#.advert_area
 ||dieadi.com^
 ||diedpractitionerplug.com^
 ||dienesyntan.shop^
+||diesesaffeir.world^
 ||dietarydesume.cyou^
 ||dietiesmayhems.help^
 ||diettrappeddestruction.com^
@@ -24515,6 +24521,7 @@ browsershots.org#@#.advert_area
 ||downstairsnegotiatebarren.com^
 ||dowseawald.top^
 ||doxbgawth.xyz^
+||doyensagonied.click^
 ||doyoudi.com^
 ||dozeende.cyou^
 ||dozenshallow.com^
@@ -24613,6 +24620,7 @@ browsershots.org#@#.advert_area
 ||droopancoral.top^
 ||droopcomate.top^
 ||droopingskilful.com^
+||drooptgyassa.life^
 ||droopy-management.com^
 ||droopy-thanks.pro^
 ||dropalcoholnarrow.com^
@@ -25647,6 +25655,7 @@ browsershots.org#@#.advert_area
 ||ero-cupid.com^
 ||ero-match.site^
 ||ero-vtuber.com^
+||erobilpbxvnf.xyz^
 ||eroderidge.top^
 ||eroidere.com^
 ||eromkjvzhpqfz.store^
@@ -29007,6 +29016,7 @@ browsershots.org#@#.advert_area
 ||hiedersirene.cfd^
 ||hiemaltamaroa.cyou^
 ||hiespekbk.com^
+||hieuwbkd.com^
 ||hifyfajnasttg.website^
 ||highconvertingformats.com^
 ||highcpmcreativeformat.com^
@@ -30597,6 +30607,7 @@ browsershots.org#@#.advert_area
 ||jacenspoleaxe.help^
 ||jackalclenchedbedside.com^
 ||jackao.net^
+||jacketsdistrix.cyou^
 ||jacketzerobelieved.com^
 ||jackingfistful.help^
 ||jacsrursc.com^
@@ -31851,6 +31862,7 @@ browsershots.org#@#.advert_area
 ||kopllowmotha.com^
 ||koranadipodid.top^
 ||korarea.com^
+||koraridiabase.cfd^
 ||korbthejethii.org^
 ||korexo.com^
 ||korgiejoinyou.com^
@@ -34319,6 +34331,7 @@ browsershots.org#@#.advert_area
 ||mojoaffiliates.com^
 ||mokihirhoda.com^
 ||moksoxos.com^
+||molarmodern.cfd^
 ||molciyjhyuhhh.online^
 ||moldermo.world^
 ||moleconcern.com^
@@ -35867,6 +35880,7 @@ browsershots.org#@#.advert_area
 ||oblfhahmy.com^
 ||oblgypgv.xyz^
 ||obligationdrummersculpture.com^
+||obligerentires.cyou^
 ||obliquecensortend.com^
 ||oblong-punch.com^
 ||oblonnqw.com^
@@ -35888,6 +35902,7 @@ browsershots.org#@#.advert_area
 ||obsoletepaddlevehicular.com^
 ||obtaintrout.com^
 ||obtendunwrung.digital^
+||obtvcrppxsfrf.site^
 ||obuiurpkd.xyz^
 ||obumlnwrmmewj.site^
 ||obuqhpqiqfgoe.love^
@@ -36921,6 +36936,7 @@ browsershots.org#@#.advert_area
 ||ovjoffam.com^
 ||ovljwbyqjmlnw.top^
 ||ovmknlzbmojzm.top^
+||ovozkjajvoqmm.top^
 ||ovozkjajvoqon.top^
 ||ovozxiftkxwtg.online^
 ||ovpnxxjvbpgpxdl.xyz^
@@ -40125,6 +40141,7 @@ browsershots.org#@#.advert_area
 ||remarkablycommunity.com^
 ||remarkedoneoftheo.org^
 ||remblaiblickie.top^
+||remblaibullit.click^
 ||remedyabruptness.com^
 ||remeetazaleas.rest^
 ||remeetstoa.life^
@@ -40847,6 +40864,7 @@ browsershots.org#@#.advert_area
 ||rrqwarwrewala.top^
 ||rrqwarwrewrlj.top^
 ||rruxvlycnmeko.xyz^
+||rrvbalbmn.com^
 ||rrxoysq.art^
 ||rs-stripe.com^
 ||rsalcch.com^
@@ -44918,6 +44936,7 @@ browsershots.org#@#.advert_area
 ||tugnrqywfwaup.store^
 ||tugpoise.com^
 ||tuhruqahto.com^
+||tuilygtcief.com^
 ||tuitivesahukar.top^
 ||tujourda.net^
 ||tukewops.top^
@@ -45767,6 +45786,7 @@ browsershots.org#@#.advert_area
 ||uwahagoyvuccd.website^
 ||uwfcqtdb.xyz^
 ||uwhejegrep.net^
+||uwhootofaugrep.net^
 ||uwmsywuekjbcr.site^
 ||uwnqfhnsmveti.icu^
 ||uwnytpkxxpueh.club^
@@ -46416,6 +46436,7 @@ browsershots.org#@#.advert_area
 ||vodobyve.pro^
 ||vofjcrkq.com^
 ||voguelift.biz^
+||vohaukrass.net^
 ||vohkgrsrahlwnh.xyz^
 ||voicedstart.com^
 ||voidthemhen.org^
@@ -46600,6 +46621,7 @@ browsershots.org#@#.advert_area
 ||vvajkvnynnyav.top^
 ||vvbawlolmlnqj.top^
 ||vvewkblbverez.top^
+||vvewkblbvermm.top^
 ||vvewkblbvezmq.top^
 ||vvgzakjbvozml.top^
 ||vvjmlbazqnvnv.top^
@@ -46796,6 +46818,7 @@ browsershots.org#@#.advert_area
 ||warriornyalas.life^
 ||warrokresidua.top^
 ||warslersoler.click^
+||warstheinie.life^
 ||wartiertanbark.top^
 ||warumbistdusoarm.space^
 ||warwickgph.top^
@@ -48162,6 +48185,7 @@ browsershots.org#@#.advert_area
 ||xsaheqapygdykxq.com^
 ||xsdlnhtmaulw.com^
 ||xsifzaieypxqr.global^
+||xslkieqjs.com^
 ||xsnolrwghvrhe.online^
 ||xsrs.com^
 ||xssqagquifueb.space^

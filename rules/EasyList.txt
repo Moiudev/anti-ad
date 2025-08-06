@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: fOG8oCx/elG8BimC26oKsg
-! Version: 202508061801
+! Checksum: dJoerrp5Z4D80Ew7/u4Bmg
+! Version: 202508062001
 ! Title: EasyList
-! Last modified: 06 Aug 2025 18:01 UTC
+! Last modified: 06 Aug 2025 20:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -19469,6 +19469,7 @@ browsershots.org#@#.advert_area
 ||bacchaenaggar.com^
 ||bacchuscobweb.help^
 ||baccysprawls.qpon^
+||bacilliacis.help^
 ||back-drag.pro^
 ||backachedimpleparalyses.com^
 ||backachegrudgesiamese.com^
@@ -21135,6 +21136,7 @@ browsershots.org#@#.advert_area
 ||bxbkh.love^
 ||bxdeaeieixgkf.store^
 ||bxewixjwwllvo.site^
+||bxglynwnlnrwa.website^
 ||bxpirsojnnuvq.xyz^
 ||bxrtwyavhyb.online^
 ||bxsprestly.life^
@@ -23381,6 +23383,7 @@ browsershots.org#@#.advert_area
 ||cycuratedhi.com^
 ||cyeitxjzgsmef.online^
 ||cyeqeewyr.com^
+||cyesesfiaunt.digital^
 ||cyg-byzlgtns.world^
 ||cygnetsdecapod.cfd^
 ||cygnineprunus.life^
@@ -27043,6 +27046,7 @@ browsershots.org#@#.advert_area
 ||freefromads.pro^
 ||freenightlady.com^
 ||freepopnews.skin^
+||freesiamantram.digital^
 ||freesoftwarelive.com^
 ||freestar.io^
 ||freetrckr.com^
@@ -27581,6 +27585,7 @@ browsershots.org#@#.advert_area
 ||geleemglair.shop^
 ||gelescu.cloud^
 ||gelhp.com^
+||gelidassurd.qpon^
 ||gellertbattle.cyou^
 ||gellyafgod.shop^
 ||gelnhamforma.com^
@@ -28780,6 +28785,7 @@ browsershots.org#@#.advert_area
 ||harrenmedianetwork.com^
 ||harrowliquid.com^
 ||harryjugglewhose.com^
+||harsherreequip.click^
 ||harshplant.com^
 ||harshshirt.pro^
 ||hartattenuate.com^
@@ -29892,6 +29898,7 @@ browsershots.org#@#.advert_area
 ||ieyzrxtaxfqpc.website^
 ||iezxmddndn.com^
 ||ifdbdp.com^
+||ifdlcsfuafvst.store^
 ||ifdmuggdky.com^
 ||ifdnzact.com^
 ||ifeckscountor.digital^
@@ -30899,6 +30906,7 @@ browsershots.org#@#.advert_area
 ||jeezeestoo.com^
 ||jegrbkenarvan.website^
 ||jehobsee.com^
+||jehupennew.rest^
 ||jekesjzv.com^
 ||jekzyyyljvbby.top^
 ||jekzyyyljvbvb.top^
@@ -32504,6 +32512,7 @@ browsershots.org#@#.advert_area
 ||learningcontractionpolling.com^
 ||learoydgibson.top^
 ||leaveoverwork.com^
+||leaverswavy.life^
 ||leaveundo.com^
 ||leavingaileen.com^
 ||lebesdelia.digital^
@@ -32745,6 +32754,7 @@ browsershots.org#@#.advert_area
 ||lijjk.space^
 ||lijoxnfpioqd.com^
 ||lijqfqpdavjhs.store^
+||likable-negotiation.pro^
 ||likablewelk.qpon^
 ||likeads.com^
 ||likelyguy.com^
@@ -33277,6 +33287,7 @@ browsershots.org#@#.advert_area
 ||luckilyhurry.com^
 ||luckyads.pro^
 ||luckybasket.pro^
+||luckydefinition.pro^
 ||luckyforbet.com^
 ||luckyprocedure.pro^
 ||luckypushh.com^
@@ -33510,6 +33521,7 @@ browsershots.org#@#.advert_area
 ||macaomoll.cfd^
 ||maccodj.digital^
 ||machinaagnatha.shop^
+||machinadopants.rest^
 ||machinerypostcardcollect.com^
 ||machineryvegetable.com^
 ||machmayhavedesc.org^
@@ -33892,6 +33904,7 @@ browsershots.org#@#.advert_area
 ||mcoxwaajhri.com^
 ||mcppsh.com^
 ||mcpuwpsh.com^
+||mcqbvomkbaqyl.store^
 ||mcqmfeiuntlwk.space^
 ||mcqtoqhynn.xyz^
 ||mctyoxdbcjart.space^
@@ -35047,6 +35060,7 @@ browsershots.org#@#.advert_area
 ||naggingarverni.cfd^
 ||naggingjellretreat.com^
 ||naghouphemt.net^
+||nagmaaldonne.help^
 ||nagnailmobcap.shop^
 ||nagraipsoagnoo.com^
 ||nagrande.com^
@@ -37107,6 +37121,7 @@ browsershots.org#@#.advert_area
 ||ovjagtxasv.com^
 ||ovjoffam.com^
 ||ovljwbyqjmlnw.top^
+||ovljwbyqjmnvg.top^
 ||ovmknlzbmojzm.top^
 ||ovozkjajvoqmm.top^
 ||ovozkjajvoqon.top^
@@ -42706,6 +42721,7 @@ browsershots.org#@#.advert_area
 ||softpopads.com^
 ||softresumesuperserver.com^
 ||sogapricey.digital^
+||sogeramides.qpon^
 ||soggy-personality.pro^
 ||sogropidy.com^
 ||soholfit.com^
@@ -44566,6 +44582,7 @@ browsershots.org#@#.advert_area
 ||tneca.com^
 ||tnfjlukzibewa.space^
 ||tnhxenqtdityte.com^
+||tnjdiwsltr.com^
 ||tnouemxzbmffs.site^
 ||tnpads.xyz^
 ||tntnjpusemycs.website^
@@ -45042,6 +45059,7 @@ browsershots.org#@#.advert_area
 ||troopbatta.com^
 ||troopsassistedstupidity.com^
 ||troozimpi.click^
+||tropatestyrol.shop^
 ||tropicsunopted.top^
 ||trotdruids.digital^
 ||trotscheme.com^
@@ -45427,6 +45445,7 @@ browsershots.org#@#.advert_area
 ||udkmbcotblcqhf.xyz^
 ||udmserve.net^
 ||udosncvxlmmyk.online^
+||udrojtqjdhvcxv.com^
 ||udtphtxcmoyol.com^
 ||uduxztwig.com^
 ||udvlz.org^
@@ -45845,6 +45864,7 @@ browsershots.org#@#.advert_area
 ||updaight.com^
 ||updateadvancedgreatlytheproduct.vip^
 ||updatecompletelyfreetheproduct.vip^
+||updeckquaying.world^
 ||updivetronage.com^
 ||updryinfaust.com^
 ||updservice.site^
@@ -46019,6 +46039,7 @@ browsershots.org#@#.advert_area
 ||utzhqiolsbonf.store^
 ||uuhnjutdqxnac.space^
 ||uuidksinc.net^
+||uupzixjvcwuda.website^
 ||uuqidkmyyyuqi.website^
 ||uuqjqgcjvmjmoif.com^
 ||uurhhtymipx.com^
@@ -46241,6 +46262,7 @@ browsershots.org#@#.advert_area
 ||vccskdlrblqqn.store^
 ||vcdc.com^
 ||vcemwybikjggs.com^
+||vchqolja.xyz^
 ||vcjfxnwmzpdgu.store^
 ||vcjufkeueygl.com^
 ||vckeyscqjreer.icu^
@@ -46729,6 +46751,7 @@ browsershots.org#@#.advert_area
 ||voopaibauth.net^
 ||voovoacivoa.net^
 ||voredi.com^
+||vortexabsey.rest^
 ||vossulekuk.com^
 ||votesropish.help^
 ||votnwwhqtuohp.store^
@@ -46880,6 +46903,7 @@ browsershots.org#@#.advert_area
 ||vv8h9vyjgnst.com^
 ||vvabjoqrbmavl.top^
 ||vvabjoqrbmazj.top^
+||vvabjoqrbmzvy.top^
 ||vvajkvnynnbmz.top^
 ||vvajkvnynnyav.top^
 ||vvbawlolmlnqj.top^

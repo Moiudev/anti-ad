@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: WQku2Zcrlg+P4x8vfbJ4/w
-! Version: 202508071601
+! Checksum: MwiZHXbJf8PNttGQMs8hhw
+! Version: 202508071801
 ! Title: EasyList
-! Last modified: 07 Aug 2025 16:01 UTC
+! Last modified: 07 Aug 2025 18:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -19000,6 +19000,7 @@ browsershots.org#@#.advert_area
 ||atjtzuva.com^
 ||atjvanavras.com^
 ||atlhjtmjrj.com^
+||atlhvcmsbqutf.space^
 ||atlpkhmh.xyz^
 ||atmalinks.com^
 ||atmbiurea.top^
@@ -19715,6 +19716,7 @@ browsershots.org#@#.advert_area
 ||batomqsmoocc.com^
 ||batteaustaith.help^
 ||battepush.com^
+||batwinggemote.life^
 ||bauchvairs.click^
 ||baudspunners.com^
 ||baugoastupaikie.net^
@@ -20997,6 +20999,7 @@ browsershots.org#@#.advert_area
 ||btwqllmeezmjn.online^
 ||btxxxnav.com^
 ||btyklhjjasgfm.club^
+||btzpcronctvtf.website^
 ||buawop.cloud^
 ||bubblemayflowernephew.com^
 ||bubblessudsman.com^
@@ -21833,6 +21836,7 @@ browsershots.org#@#.advert_area
 ||chachors.net^
 ||chadudraizaimsu.com^
 ||chaerel.com^
+||chafinguhuru.help^
 ||chagalcuticle.shop^
 ||chaghets.net^
 ||chaibsoacmo.com^
@@ -26903,6 +26907,7 @@ browsershots.org#@#.advert_area
 ||flyingsquirellsmooch.com^
 ||flylikeaguy.com^
 ||flymob.com^
+||flyoffdogblow.world^
 ||flypartly.com^
 ||flytechb.com^
 ||flytierenemied.top^
@@ -27451,6 +27456,7 @@ browsershots.org#@#.advert_area
 ||fxdepo.com^
 ||fxdgionl.com^
 ||fxdmnmsna.space^
+||fxenghlfnqnxb.website^
 ||fxjpbpxvfofa.com^
 ||fxjqswmipvok.com^
 ||fxmnba.com^
@@ -27501,6 +27507,7 @@ browsershots.org#@#.advert_area
 ||g33tr4c3r.com^
 ||g8tor.com^
 ||gaaekexcvdkur.site^
+||gaatchloquat.shop^
 ||gabanxaq.com^
 ||gabbartmiotics.top^
 ||gablerfleshes.digital^
@@ -29096,6 +29103,7 @@ browsershots.org#@#.advert_area
 ||hebenefitssheasht.com^
 ||hebhgyiqqgpkf.com^
 ||hecathedralinth.org^
+||hechtuncia.rest^
 ||heckleragents.help^
 ||hecklerdouter.cfd^
 ||hectiveguards.world^
@@ -31167,6 +31175,7 @@ browsershots.org#@#.advert_area
 ||jhomifwcybu.com^
 ||jhoncj.com^
 ||jhpgrmboknxjyy.xyz^
+||jhrgblwrqlkwn.com^
 ||jhu8u9.pro^
 ||jhuriarepile.world^
 ||jhxfplpawtdxv.space^
@@ -32803,6 +32812,7 @@ browsershots.org#@#.advert_area
 ||leppybyssine.life^
 ||leprafasola.cfd^
 ||leprinebegem.life^
+||lepryupjerk.rest^
 ||leptomelittler.cyou^
 ||leqasforsalesre.org^
 ||leqcp.online^
@@ -32869,6 +32879,7 @@ browsershots.org#@#.advert_area
 ||lggbvkoaavvj.top^
 ||lgmdyjbocce.com^
 ||lgmhwonu.com^
+||lgndcnxvofld.com^
 ||lgrgimxmqf.com^
 ||lgse.com^
 ||lgtdkpfnor.com^
@@ -34639,6 +34650,7 @@ browsershots.org#@#.advert_area
 ||mnhjkl.com^
 ||mnmerqvmxbpiup.xyz^
 ||mnmodtxtv.com^
+||mnncdfdeifsy.com^
 ||mnpuxygfpkvey.online^
 ||mnpxmcrlmvdok.website^
 ||mnqyjjbitxdvr.club^
@@ -35530,6 +35542,7 @@ browsershots.org#@#.advert_area
 ||netund.com^
 ||networkpitched.com^
 ||neuralmi.top^
+||neurinhajib.rest^
 ||neuroepithelium.lol^
 ||neutriamaligns.qpon^
 ||nevbbl.com^
@@ -36703,6 +36716,7 @@ browsershots.org#@#.advert_area
 ||olxxugltoku.com^
 ||olygkygvvlnzm.top^
 ||olygkygvvlqjz.top^
+||omahailion.digital^
 ||omarcheopson.com^
 ||omasatra.com^
 ||omatri.info^
@@ -38155,6 +38169,7 @@ browsershots.org#@#.advert_area
 ||phsism.com^
 ||phtpy.love^
 ||phts.io^
+||phuamnpam.com^
 ||phudreez.com^
 ||phugoidekka.digital^
 ||phukienthoitranggiare.com^
@@ -40298,6 +40313,7 @@ browsershots.org#@#.advert_area
 ||rattingcopras.world^
 ||rattonunlie.rest^
 ||rauceesh.com^
+||rauchaineetathi.net^
 ||rauklecolk.top^
 ||raunoaptotoaw.com^
 ||raunooligais.net^
@@ -40714,6 +40730,7 @@ browsershots.org#@#.advert_area
 ||repaireddismalslightest.com^
 ||repayalaurums.life^
 ||repaysdemerse.qpon^
+||repeatscarnage.qpon^
 ||repentantsympathy.com^
 ||repetitiousfontmonopoly.com^
 ||repilesyrtis.shop^
@@ -42225,6 +42242,7 @@ browsershots.org#@#.advert_area
 ||serestkaraite.world^
 ||sergeigagor.top^
 ||seriatenoddles.shop^
+||seriatetawing.cfd^
 ||seriolacollery.cyou^
 ||seriousdates.net^
 ||sermonsbleeder.top^
@@ -42995,6 +43013,7 @@ browsershots.org#@#.advert_area
 ||snouterpagan.rest^
 ||snowdayonline.xyz^
 ||snowkinarm.cfd^
+||snozzletzar.cyou^
 ||snqsqbnzrppvc.online^
 ||snsfdmmzpixhn.site^
 ||snsv.ru^
@@ -48239,6 +48258,7 @@ browsershots.org#@#.advert_area
 ||woamanglwqnq.top^
 ||woamoogloow.net^
 ||woapheer.com^
+||woapsouchaiw.com^
 ||woawkpkhc.com^
 ||wobbly-birth.com^
 ||wobblymoneron.shop^
@@ -49451,6 +49471,7 @@ browsershots.org#@#.advert_area
 ||yyselrqpyu.com^
 ||yytxgghgvtwfp.icu^
 ||yyvxcmhpkmaxd.website^
+||yzdkhftbkynua.site^
 ||yzefjcmmcvsvi.website^
 ||yzszxhoyboc.com^
 ||yzwtz.com^

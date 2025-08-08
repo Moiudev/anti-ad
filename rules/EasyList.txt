@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: R7Y9xCXJJ8oFea2BI4Y9Ug
-! Version: 202508080601
+! Checksum: lbAuQzkD5L/0CUZgWsuaBQ
+! Version: 202508080801
 ! Title: EasyList
-! Last modified: 08 Aug 2025 06:01 UTC
+! Last modified: 08 Aug 2025 08:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -810,13 +810,13 @@ _reklama_$domain=~youtube.com
 /ad-shield/e/*$script,third-party
 /anymanagerrecover.js
 ://loader.*.com/loader.min.js|$script,~third-party
-://www.*.com/article/*/-1/$script,subdocument,third-party,xmlhttprequest
-://www.*.com/article/*/a/$subdocument,third-party,domain=~edu|~gov
+://www.*.com/players/*/-1/$script,subdocument,third-party,xmlhttprequest
+://www.*.com/players/*/a/$subdocument,third-party,domain=~edu|~gov
 ://www.*.com/script/*.com.js|$script,third-party
 ://www.*.com/script/*.org.js|$script,third-party
-://www.*.xyz/article/*/-1/$script,subdocument,third-party,xmlhttprequest
-://www.*.xyz/article/*/a/$subdocument,third-party
-://www.*.xyz/article/*?h=$script,third-party
+://www.*.xyz/players/*/-1/$script,subdocument,third-party,xmlhttprequest
+://www.*.xyz/players/*/a/$subdocument,third-party
+://www.*.xyz/players/*?h=$script,third-party
 ://www.*.xyz/script/*.com.js|$script,third-party
 wss://www.*.xyz/ws^$third-party
 ! https://github.com/easylist/easylist/issues/11123
@@ -17850,6 +17850,7 @@ browsershots.org#@#.advert_area
 ||aj2550.bid^
 ||aj2555.bid^
 ||aj2635.bid^
+||ajcafpjuhur.xyz^
 ||ajdshedhgnvapg.com^
 ||ajetzqkqdvfgd.website^
 ||ajewzcsnmnjex.site^
@@ -19094,6 +19095,7 @@ browsershots.org#@#.advert_area
 ||augmentdolmas.shop^
 ||augneeckoado.net^
 ||augreeshampa.net^
+||auguredcall.qpon^
 ||augurrolley.top^
 ||august15download.com^
 ||augustboyby.com^
@@ -19352,6 +19354,7 @@ browsershots.org#@#.advert_area
 ||axisdoctrine.com^
 ||axjndvucr.com^
 ||axkadjqiqtik.com^
+||axkqulgipvjt.com^
 ||axmabdamdpka.com^
 ||axmmilepqvdyj.world^
 ||axmocklwa.com^
@@ -19419,6 +19422,7 @@ browsershots.org#@#.advert_area
 ||azimechgirosol.top^
 ||azjmp.com^
 ||azjuilzwebhss.com^
+||azjwnwbblnnqv.top^
 ||azjwnwbblnzjy.top^
 ||azjwnwbblnzqq.top^
 ||azkwwrejomwjb.top^
@@ -19859,6 +19863,7 @@ browsershots.org#@#.advert_area
 ||beenoper.com^
 ||beepoowotheloda.net^
 ||beerageartize.click^
+||beeryfolding.qpon^
 ||beeshooloap.net^
 ||beestark.com^
 ||beetledriest.cyou^
@@ -20723,6 +20728,7 @@ browsershots.org#@#.advert_area
 ||boudja.com^
 ||bougeepreyed.qpon^
 ||bouhoagy.net^
+||boukeewhocoa.net^
 ||boukitmugging.click^
 ||bounceads.net^
 ||bouncebidder.com^
@@ -21370,6 +21376,7 @@ browsershots.org#@#.advert_area
 ||cakikigoultaiga.net^
 ||cakvwonirrw.com^
 ||calaiseyewink.help^
+||calalutarrily.cyou^
 ||calamityfortuneaudio.com^
 ||calamitymyselfprong.com^
 ||calamusyid.qpon^
@@ -28114,6 +28121,7 @@ browsershots.org#@#.advert_area
 ||glersakr.com^
 ||glersooy.net^
 ||glerteeb.com^
+||glewltdaeda.com^
 ||glickwaygate.shop^
 ||glideimpulseregulate.com^
 ||gligoubsed.com^
@@ -28500,6 +28508,7 @@ browsershots.org#@#.advert_area
 ||greedyfire.com^
 ||greeghupoalrie.net^
 ||greeglitsong.net^
+||greeksastart.digital^
 ||green-mark.pro^
 ||green-red.com^
 ||green4762.com^
@@ -30476,6 +30485,7 @@ browsershots.org#@#.advert_area
 ||inestimablereddencloset.com^
 ||inexpedientcunning.com^
 ||inexperienced-end.pro^
+||infacejimjam.help^
 ||infairchumpy.cyou^
 ||infamedlustred.qpon^
 ||infantilecombination.com^
@@ -31015,6 +31025,7 @@ browsershots.org#@#.advert_area
 ||jalapincervix.shop^
 ||jaletemetia.com^
 ||jaloparcual.digital^
+||jalopycarrel.cfd^
 ||jaltvejugmjjq.online^
 ||jambartbkpr.help^
 ||jambosmodesty.com^
@@ -31403,6 +31414,7 @@ browsershots.org#@#.advert_area
 ||joglomsexurgod.net^
 ||johannatailor.com^
 ||joinedvalerin.shop^
+||joinhitched.cyou^
 ||joiningalhagi.click^
 ||joinpropeller.com^
 ||jokeydazy.shop^
@@ -32293,6 +32305,7 @@ browsershots.org#@#.advert_area
 ||kotzzdwl.com^
 ||koubeepsoubavo.net^
 ||koujvrvehbyqedi.com^
+||kouphoudoagraup.com^
 ||kouroiredskin.cyou^
 ||koushauwhie.xyz^
 ||koutaufebo.net^
@@ -32426,6 +32439,7 @@ browsershots.org#@#.advert_area
 ||kuqpdxek.today^
 ||kuqrfnli.com^
 ||kurdepilobe.qpon^
+||kureedsnbcuuj.space^
 ||kurkanasbo.com^
 ||kurrhlwywpswg.site^
 ||kursatarak.com^
@@ -33160,6 +33174,7 @@ browsershots.org#@#.advert_area
 ||liveonce.online^
 ||liverstopped.com^
 ||livesexbar.com^
+||livesmisdid.cyou^
 ||livetwo.space^
 ||livetwo.store^
 ||livezombymil.com^
@@ -35164,6 +35179,7 @@ browsershots.org#@#.advert_area
 ||muffingcappie.life^
 ||muffledpitch.pro^
 ||mufflessettlor.shop^
+||mufpamrilrdfr.site^
 ||mufrjyufslkcp.space^
 ||muggilyenties.rest^
 ||mugpothop.com^
@@ -35775,6 +35791,7 @@ browsershots.org#@#.advert_area
 ||nickdeliverfugitive.com^
 ||nicknameuntie.com^
 ||nicksstevmark.com^
+||nicolborning.click^
 ||nicolmesityl.top^
 ||nicolsphonol.rest^
 ||nidmcptni.com^
@@ -35783,6 +35800,7 @@ browsershots.org#@#.advert_area
 ||niersfohiplaceof.info^
 ||nieveni.com^
 ||nifty-pie.com^
+||niggerkasa.shop^
 ||nigglymezzo.top^
 ||nighhioqr.com^
 ||nightbesties.com^
@@ -40222,6 +40240,7 @@ browsershots.org#@#.advert_area
 ||qwyvmjvkmrvzj.top^
 ||qwzbcukveymrc.online^
 ||qwzly.com^
+||qxadedhoewqwc.store^
 ||qxanfanfhkpxp.space^
 ||qxdownload.com^
 ||qxhspimg.com^
@@ -40726,6 +40745,7 @@ browsershots.org#@#.advert_area
 ||regardsendangered.com^
 ||regardtaennin.cyou^
 ||regddays.top^
+||regentsuproots.life^
 ||regimepavage.shop^
 ||regionads.ru^
 ||registration423.fun^
@@ -41302,6 +41322,7 @@ browsershots.org#@#.advert_area
 ||rmygfurfa.com^
 ||rmzkqkvvrqmww.top^
 ||rmzkqkvvrqmza.top^
+||rmzkqkvvrqqwy.top^
 ||rmzsglng.com^
 ||rndchandelureon.com^
 ||rndhaunteran.com^
@@ -41855,6 +41876,7 @@ browsershots.org#@#.advert_area
 ||sagcoreedge.com^
 ||sagoscomte.digital^
 ||sagrahagweed.rest^
+||saguaroscouses.digital^
 ||sahofqal.com^
 ||sahotchilape.net^
 ||saicepeage.com^
@@ -44455,6 +44477,7 @@ browsershots.org#@#.advert_area
 ||tastedflower.com^
 ||tasty-letter.pro^
 ||tatersbilobed.com^
+||tatersthiefly.qpon^
 ||tationalhedgelnha.com^
 ||tationseleauks.com^
 ||tattepush.com^
@@ -44665,6 +44688,7 @@ browsershots.org#@#.advert_area
 ||termcolonialhedwig.com^
 ||terminatefaltergrunt.com^
 ||termswilgers.top^
+||ternarygroomed.click^
 ||ternermislest.world^
 ||ternletspurns.top^
 ||ternpodia.shop^
@@ -45994,6 +46018,7 @@ browsershots.org#@#.advert_area
 ||uelrcpkdbkpgd.store^
 ||uemrtknwjbgzp.one^
 ||ueobtcrdeefau.space^
+||ueomdedzyvpdn.online^
 ||uesidxhdcf.com^
 ||uetehrdffi.com^
 ||ueuodgnrhb.com^
@@ -46300,6 +46325,7 @@ browsershots.org#@#.advert_area
 ||unreshiramor.com^
 ||unresolveddrama.com^
 ||unripewar.com^
+||unriskychettik.life^
 ||unrlkrgiftrzw.site^
 ||unrotomon.com^
 ||unrulymedia.com^
@@ -62944,6 +62970,7 @@ wbur.org##.bp--responsive
 wbur.org##.bp-label
 slickdeals.net##.bp-p-adBlock
 businessplus.ie##.bp_billboard_single
+windowscentral.com##.brdx-unit
 eightieskids.com,inherentlyfunny.com##.break
 breakingbelizenews.com##.break-target
 breakingbelizenews.com##.break-widget
@@ -63571,6 +63598,7 @@ bestlifeonline.com,zeenews.india.com##.first-ad
 content.techgig.com##.first-arti-banner
 proprofs.com##.firstadd
 thestranger.com##.fish-butter
+earth.com##.fit-picture
 khaleejtimes.com##.fix-billboard-nf
 khaleejtimes.com##.fix-mpu-nf
 vice.com##.fixed-slot

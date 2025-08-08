@@ -153,6 +153,7 @@
 ||startup.mobile.webvisor.com^
 ||startup-mobile.ap.yandex-net.ru^
 !
+||beijingzhongnanhai.com^
 ||jybsb9oyss.com^
 ||vniddlg.xyz^
 ||tiu6ij9yqn.com^
@@ -2694,6 +2695,7 @@ sp.manga.nicovideo.jp##div[style^="--ads-width:"]
 !
 ! SECTION: Regular rules
 !
+tarnkappe.info##section[class="mobile-only"] > div[style^="height:"]
 borsaningundemi.com##.akAds
 beauty.oricon.co.jp##.ttl-kjbox + section:has(> ul.kjbox)
 sci.rambler.ru##div[id^="rambler-info-banner"]

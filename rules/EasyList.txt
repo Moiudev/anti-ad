@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: KcJTpLPqHu7imVic4el+4g
-! Version: 202508091602
+! Checksum: UtUfo//8VI+YsjtDr4SWmQ
+! Version: 202508091801
 ! Title: EasyList
-! Last modified: 09 Aug 2025 16:02 UTC
+! Last modified: 09 Aug 2025 18:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -20771,6 +20771,7 @@ browsershots.org#@#.advert_area
 ||bottleselement.com^
 ||bottlestrivingtarget.com^
 ||bottomthoughtvow.com^
+||botvwyytbwpdb.site^
 ||boubauzoupha.com^
 ||bouchaloffal.top^
 ||boudechoey.top^
@@ -21005,6 +21006,7 @@ browsershots.org#@#.advert_area
 ||bronzesdioecia.shop^
 ||bronzesong.pro^
 ||broomstempt.shop^
+||broonleetmen.help^
 ||broredir1s.site^
 ||brosdefender.com^
 ||brotherhoodonionbuttons.com^
@@ -21420,6 +21422,7 @@ browsershots.org#@#.advert_area
 ||caimanagama.life^
 ||caimancoolie.top^
 ||caipeesteeglo.net^
+||cairnsvoteen.life^
 ||caitoasece.com^
 ||caizaipt.net^
 ||caizuvuptobane.net^
@@ -21853,6 +21856,7 @@ browsershots.org#@#.advert_area
 ||cemeteryloinrespirator.com^
 ||cemiocw.com^
 ||cenaclesuccoth.com^
+||cenedirgie.rest^
 ||cennter.com^
 ||cenparfey.shop^
 ||censusmarrydespair.com^
@@ -23431,6 +23435,7 @@ browsershots.org#@#.advert_area
 ||cubiclerunner.com^
 ||cubicsreincur.click^
 ||cubismsopener.qpon^
+||cubitalsidler.qpon^
 ||cublaconf.qpon^
 ||cuboidsmeerkat.shop^
 ||cubsuloutchath.com^
@@ -23681,6 +23686,7 @@ browsershots.org#@#.advert_area
 ||dadsimz.com^
 ||dadsoks.com^
 ||dadvxlxmizmbq.website^
+||daehpynjxpeset.com^
 ||daejyre.com^
 ||daffaite.com^
 ||daffodilnotifyquarterback.com^
@@ -28422,6 +28428,7 @@ browsershots.org#@#.advert_area
 ||goatsearlapflock.com^
 ||gobacktothefuture.biz^
 ||gobangshowking.help^
+||gobbledunmolds.rest^
 ||gobetstomata.rest^
 ||gobitta.info^
 ||gobletauxiliary.com^
@@ -32224,6 +32231,7 @@ browsershots.org#@#.advert_area
 ||kibyglsp.top^
 ||kickupmetrize.rest^
 ||kidcotehumific.rest^
+||kidderszebec.click^
 ||kidhoodpacinko.rest^
 ||kidimportant.com^
 ||kidnapdilemma.com^
@@ -36107,6 +36115,7 @@ browsershots.org#@#.advert_area
 ||nizarstream.xyz^
 ||nizationservanta.com^
 ||nizkwvaqczcxj.space^
+||njaptubzljxqz.com^
 ||njicuiabvwawm.one^
 ||njmhnurksjktt.buzz^
 ||njtbmyyhwjaxo.online^
@@ -36686,6 +36695,7 @@ browsershots.org#@#.advert_area
 ||obeygrush.cyou^
 ||obeyroman.com^
 ||obeysatman.com^
+||obeyscenters.shop^
 ||obfhfbeqcthlv.store^
 ||obfkfdxpymlxr.website^
 ||obgqkiilwzy.com^
@@ -37435,6 +37445,7 @@ browsershots.org#@#.advert_area
 ||orbengine.com^
 ||orbicalrykes.com^
 ||orbicalwingcut.com^
+||orbicunposed.cfd^
 ||orbitcarrot.com^
 ||orbmatchingenough.com^
 ||orbsdiacle.com^
@@ -37840,6 +37851,7 @@ browsershots.org#@#.advert_area
 ||owtanza.xyz^
 ||owtmetulglrezr.com^
 ||owvhheaq.com^
+||owvjiwgundc.com^
 ||owvobdogd.com^
 ||owwmbcdlguyke.store^
 ||owxxcdgbhhcb.com^
@@ -39044,6 +39056,7 @@ browsershots.org#@#.advert_area
 ||ponsraspy.life^
 ||pontalbatts.shop^
 ||pontxukybocim.icu^
+||pooaivin.qpon^
 ||poodledopas.cam^
 ||pooksys.site^
 ||poolgmsd.com^
@@ -39999,6 +40012,7 @@ browsershots.org#@#.advert_area
 ||pyriticpremie.com^
 ||pyroidscarphs.top^
 ||pyrrhaouterly.top^
+||pyrrhusfellani.world^
 ||pyrroylceriums.com^
 ||pyswtbuakzcnm.website^
 ||pyvenjyewteku.website^
@@ -40693,6 +40707,7 @@ browsershots.org#@#.advert_area
 ||ramnesganof.cyou^
 ||ramousturco.qpon^
 ||rampcreeper.com^
+||ramplorboardly.click^
 ||ramtilsginning.shop^
 ||ranchsatin.com^
 ||rancidmorsel.com^
@@ -41478,6 +41493,7 @@ browsershots.org#@#.advert_area
 ||riddancepants.com^
 ||riddedgarle.top^
 ||riddengratis.help^
+||ridgetoust.click^
 ||ridiestreallot.top^
 ||ridmilestone.com^
 ||ridxvydxlhiej.online^
@@ -41538,6 +41554,7 @@ browsershots.org#@#.advert_area
 ||riphairgeno.com^
 ||ripplebuiltinpinching.com^
 ||rippledtubae.digital^
+||riprapsskittle.help^
 ||ripupbidpai.com^
 ||riqghucismf.com^
 ||riqhisfus.com^
@@ -46701,6 +46718,7 @@ browsershots.org#@#.advert_area
 ||unmectappic.com^
 ||unmeedylown.cfd^
 ||unmeetbookies.com^
+||unmefwsycamtq.space^
 ||unmiterxray.help^
 ||unmobledrumly.rest^
 ||unnatural-shot.pro^
@@ -47256,6 +47274,7 @@ browsershots.org#@#.advert_area
 ||vcoducobp.com^
 ||vcommission.com^
 ||vcqdsnjbtxclz.space^
+||vcrefgytlcafrqi.com^
 ||vcsjbnzmgjs.com^
 ||vcsxfynmtgwwj.global^
 ||vctcajeme.tech^
@@ -48251,6 +48270,7 @@ browsershots.org#@#.advert_area
 ||wdbrdvynuov.xyz^
 ||wdcwmeklhgnfc.xyz^
 ||wddkbyoq.com^
+||wddukosajusij.com^
 ||wdfnddxstfxpq.website^
 ||wdibwgllvzies.love^
 ||wdlltvftsokwy.space^
@@ -48305,6 +48325,7 @@ browsershots.org#@#.advert_area
 ||webteaser.ru^
 ||webtradehub.com^
 ||wecontemptceasless.com^
+||wecxkuxiuluuk.space^
 ||wecyjtnykvebc.online^
 ||wedauspicy.com^
 ||wedeffront.top^
@@ -48862,6 +48883,7 @@ browsershots.org#@#.advert_area
 ||wmyenypqxnplf.website^
 ||wmzlbovlwrrok.top^
 ||wmzlbovlwrvoz.top^
+||wnehzjjvjdhaz.online^
 ||wngegvxrgpsvm.site^
 ||wnhrcmzdh.com^
 ||wnikausoyyyai.store^
